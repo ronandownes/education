@@ -29,6 +29,7 @@ content:
     label: Schools
     type: group
     items:
+      - { name: environments, label: School Environments, type: file, path: content/schools/school-environments.md, format: yaml-frontmatter, fields: *docfields }
       - { name: stpatricks, label: St Patrick's Comprehensive, type: file, path: content/schools/st-patricks.md, format: yaml-frontmatter, fields: *docfields }
   - name: subjects
     label: Subjects
