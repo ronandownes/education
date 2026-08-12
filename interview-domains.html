@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Interview Domains Recall | Ronan Downes Education</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <style>
+    *{box-sizing:border-box}
+    :root{
+      --ink:#202124;
+      --muted:#5f6368;
+      --line:#dadce0;
+      --page:#f1f3f4;
+      --paper:#fff;
+      --blue:#1a73e8;
+      --soft:#f8f9fa;
+      --shadow:0 1px 3px rgba(60,64,67,.18);
+    }
+    html,body{margin:0;min-height:100%;background:var(--page);color:var(--ink);font-family:Arial,Helvetica,sans-serif}
+    body{min-height:100dvh;overflow-x:hidden}
+    button,a{font:inherit}
+
+    .app{
+      min-height:100dvh;
+      display:grid;
+      grid-template-rows:auto 1fr auto;
+      gap:clamp(12px,1.7vw,22px);
+      padding:clamp(12px,2vw,28px);
+    }
+
+    .topbar{
+      display:flex;
+      align-items:center;
+      gap:12px;
+      width:min(1500px,100%);
+      margin:0 auto;
+    }
+    .title-wrap{min-width:0;flex:1}
+    .eyebrow{
+      margin:0 0 6px;
+      color:var(--muted);
+      font-size:clamp(11px,1vw,14px);
+      font-weight:700;
+      letter-spacing:.12em;
+      text-transform:uppercase;
+    }
+    h1{
+      margin:0;
+      font-size:clamp(30px,4.3vw,64px);
+      line-height:1;
+      font-weight:650;
+      letter-spacing:-.035em;
+    }
+    .subtitle{
+      margin-top:8px;
+      color:var(--muted);
+      font-size:clamp(15px,1.5vw,21px);
+    }
+    .icon-btn{
+      border:1px solid #9aa0a6;
+      background:#fff;
+      color:#3c4043;
+      border-radius:10px;
+      min-width:50px;
+      min-height:50px;
+      padding:10px 14px;
+      cursor:pointer;
+      box-shadow:var(--shadow);
+    }
+    .icon-btn:hover{background:var(--soft)}
+
+    .domain-grid{
+      display:grid;
+      grid-template-columns:repeat(2,minmax(0,1fr));
+      grid-template-rows:repeat(2,minmax(0,1fr));
+      gap:clamp(12px,1.6vw,22px);
+      width:min(1500px,100%);
+      margin:0 auto;
+      min-height:0;
+    }
+    .group{
+      background:var(--paper);
+      border:1px solid var(--line);
+      border-radius:16px;
+      box-shadow:var(--shadow);
+      padding:clamp(15px,1.5vw,22px);
+      display:grid;
+      grid-template-rows:auto 1fr;
+      gap:12px;
+      min-height:0;
+    }
+    .group h2{
+      margin:0;
+      font-size:clamp(23px,2.4vw,36px);
+      line-height:1.05;
+      letter-spacing:-.02em;
+      font-weight:650;
+    }
+    .cards{
+      display:grid;
+      grid-template-columns:repeat(2,minmax(0,1fr));
+      gap:12px;
+      min-height:0;
+    }
+    .recall-card{
+      width:100%;
+      min-height:145px;
+      border:2px solid var(--line);
+      border-radius:14px;
+      background:var(--soft);
+      color:var(--ink);
+      padding:14px 16px;
+      text-align:left;
+      cursor:pointer;
+      transition:background .15s ease,border-color .15s ease,transform .05s ease;
+      overflow:auto;
+    }
+    .recall-card:hover{background:#f3f6fb;border-color:#b9c7dd}
+    .recall-card:active{transform:translateY(1px)}
+    .recall-card.revealed{background:#fff;border-color:#9bbcf3}
+
+    .hidden-state{
+      min-height:100%;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content:center;
+      gap:8px;
+      text-align:center;
+    }
+    .card-number{
+      display:block;
+      font-size:clamp(34px,4.3vw,62px);
+      line-height:1;
+      font-weight:700;
+      color:#3c4043;
+    }
+    .card-hint{
+      display:block;
+      color:var(--muted);
+      font-size:clamp(12px,1.1vw,15px);
+      font-weight:600;
+    }
+    .answer-state{display:none}
+    .recall-card.revealed .hidden-state{display:none}
+    .recall-card.revealed .answer-state{display:block}
+    .answer-number{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      width:28px;
+      height:28px;
+      border-radius:50%;
+      background:#e8f0fe;
+      color:#174ea6;
+      font-weight:700;
+      font-size:14px;
+      margin-bottom:8px;
+    }
+    .domain-name{
+      display:block;
+      font-size:clamp(19px,1.8vw,27px);
+      line-height:1.08;
+      font-weight:700;
+      letter-spacing:-.015em;
+      margin-bottom:8px;
+    }
+    .memory-line{
+      display:block;
+      font-size:clamp(14px,1.15vw,17px);
+      line-height:1.35;
+      font-weight:650;
+      margin-bottom:8px;
+    }
+    .cues{
+      display:block;
+      color:var(--muted);
+      font-size:clamp(12px,1vw,15px);
+      line-height:1.38;
+    }
+
+    .footer{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+      width:min(1500px,100%);
+      margin:0 auto;
+    }
+    .footer-left,.footer-right{display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+    .btn{
+      border:1px solid #9aa0a6;
+      background:#fff;
+      color:#3c4043;
+      border-radius:9px;
+      padding:10px 15px;
+      min-height:44px;
+      cursor:pointer;
+      font-weight:650;
+      text-decoration:none;
+    }
+    .btn:hover{background:var(--soft)}
+    .btn.primary{background:var(--blue);border-color:var(--blue);color:#fff}
+    .btn.primary:hover{background:#1765cc}
+    .progress{color:var(--muted);font-size:14px;font-weight:650}
+
+    .presentation-mode{
+      position:fixed!important;
+      inset:0!important;
+      z-index:999999!important;
+      width:100vw!important;
+      height:100dvh!important;
+      overflow:auto!important;
+      background:var(--page)!important;
+    }
+
+    @media(max-width:980px){
+      .domain-grid{grid-template-columns:1fr;grid-template-rows:none}
+      .group{min-height:265px}
+      h1{font-size:clamp(30px,7vw,52px)}
+      .group h2{font-size:clamp(24px,5vw,32px)}
+    }
+    @media(max-width:620px){
+      .app{padding:12px}
+      .topbar{align-items:flex-start;flex-wrap:wrap}
+      .title-wrap{width:calc(100% - 64px)}
+      .subtitle{font-size:15px}
+      .cards{grid-template-columns:1fr}
+      .group{min-height:0}
+      .recall-card{min-height:116px}
+      .footer{align-items:flex-start;flex-direction:column-reverse}
+      .footer-left,.footer-right{width:100%}
+      .footer-right{justify-content:space-between}
+      .btn{flex:1;text-align:center}
+      .progress{width:100%;text-align:center}
+    }
+  </style>
+</head>
+<body>
+<main id="app" class="app">
+  <header class="topbar">
+    <div class="title-wrap">
+      <p class="eyebrow">Interview recall</p>
+      <h1>Eight key areas</h1>
+      <div class="subtitle">Recall the two domains in each area. Click only when you are ready to check.</div>
+    </div>
+    <button id="fullscreenBtn" class="icon-btn" type="button" title="Full screen" aria-label="Full screen">⛶</button>
+  </header>
+
+  <section class="domain-grid" aria-label="Interview domain recall cards">
+    <section class="group" aria-labelledby="group-teaching">
+      <h2 id="group-teaching">Teaching</h2>
+      <div class="cards">
+        <button class="recall-card" type="button" aria-expanded="false">
+          <span class="hidden-state"><span class="card-number">1</span><span class="card-hint">Click to reveal</span></span>
+          <span class="answer-state">
+            <span class="answer-number">1</span>
+            <span class="domain-name">Teaching &amp; Learning</span>
+            <span class="memory-line">How I teach.</span>
+            <span class="cues">Clear explanation · questioning · worked examples · active learning · technology · student success</span>
+          </span>
+        </button>
+        <button class="recall-card" type="button" aria-expanded="false">
+          <span class="hidden-state"><span class="card-number">2</span><span class="card-hint">Click to reveal</span></span>
+          <span class="answer-state">
+            <span class="answer-number">2</span>
+            <span class="domain-name">Differentiation &amp; Accessibility</span>
+            <span class="memory-line">How I make the learning work for the full range.</span>
+            <span class="cues">Scaffolding · extension · high achievers · additional needs · multiple entry points</span>
+          </span>
+        </button>
+      </div>
+    </section>
+
+    <section class="group" aria-labelledby="group-classroom">
+      <h2 id="group-classroom">Classroom</h2>
+      <div class="cards">
+        <button class="recall-card" type="button" aria-expanded="false">
+          <span class="hidden-state"><span class="card-number">1</span><span class="card-hint">Click to reveal</span></span>
+          <span class="answer-state">
+            <span class="answer-number">1</span>
+            <span class="domain-name">Classroom Management</span>
+            <span class="memory-line">How I create the conditions for learning.</span>
+            <span class="cues">Routines · expectations · low-level disruption · challenging behaviour · code of behaviour</span>
+          </span>
+        </button>
+        <button class="recall-card" type="button" aria-expanded="false">
+          <span class="hidden-state"><span class="card-number">2</span><span class="card-hint">Click to reveal</span></span>
+          <span class="answer-state">
+            <span class="answer-number">2</span>
+            <span class="domain-name">SEN / AEN &amp; Inclusion</span>
+            <span class="memory-line">How I ensure every student belongs and participates.</span>
+            <span class="cues">SEN · autism · ADHD · dyslexia · EAL · SNA / team teaching · inclusive practice</span>
+          </span>
+        </button>
+      </div>
+    </section>
+
+    <section class="group" aria-labelledby="group-evidence">
+      <h2 id="group-evidence">Evidence &amp; Planning</h2>
+      <div class="cards">
+        <button class="recall-card" type="button" aria-expanded="false">
+          <span class="hidden-state"><span class="card-number">1</span><span class="card-hint">Click to reveal</span></span>
+          <span class="answer-state">
+            <span class="answer-number">1</span>
+            <span class="domain-name">Assessment, Feedback &amp; Reporting</span>
+            <span class="memory-line">How I know whether learning happened.</span>
+            <span class="cues">AfL · questioning · mini-whiteboards · feedback · tests · CBAs · reporting</span>
+          </span>
+        </button>
+        <button class="recall-card" type="button" aria-expanded="false">
+          <span class="hidden-state"><span class="card-number">2</span><span class="card-hint">Click to reveal</span></span>
+          <span class="answer-state">
+            <span class="answer-number">2</span>
+            <span class="domain-name">Planning &amp; Curriculum</span>
+            <span class="memory-line">How I know what comes next.</span>
+            <span class="cues">Curriculum · learning intentions · sequencing · schemes of work · planned differentiation</span>
+          </span>
+        </button>
+      </div>
+    </section>
+
+    <section class="group" aria-labelledby="group-people">
+      <h2 id="group-people">People &amp; Profession</h2>
+      <div class="cards">
+        <button class="recall-card" type="button" aria-expanded="false">
+          <span class="hidden-state"><span class="card-number">1</span><span class="card-hint">Click to reveal</span></span>
+          <span class="answer-state">
+            <span class="answer-number">1</span>
+            <span class="domain-name">Relationships &amp; Wellbeing</span>
+            <span class="memory-line">How I know and support the student.</span>
+            <span class="cues">Relationships · motivation · reluctant learners · pastoral care · restorative approaches · wellbeing</span>
+          </span>
+        </button>
+        <button class="recall-card" type="button" aria-expanded="false">
+          <span class="hidden-state"><span class="card-number">2</span><span class="card-hint">Click to reveal</span></span>
+          <span class="answer-state">
+            <span class="answer-number">2</span>
+            <span class="domain-name">Professional Responsibility &amp; School Community</span>
+            <span class="memory-line">How I operate beyond my own classroom.</span>
+            <span class="cues">Safeguarding · collaboration · CPD · parents · colleagues · extracurricular · school ethos and contribution</span>
+          </span>
+        </button>
+      </div>
+    </section>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-left">
+      <a class="btn" href="./">← Education home</a>
+      <button id="resetBtn" class="btn" type="button">Reset</button>
+    </div>
+    <div class="footer-right">
+      <span id="progress" class="progress">0 of 8 revealed</span>
+      <button id="showAllBtn" class="btn primary" type="button">Show all</button>
+    </div>
+  </footer>
+</main>
+
+<script>
+  const app = document.getElementById('app');
+  const cards = [...document.querySelectorAll('.recall-card')];
+  const progress = document.getElementById('progress');
+  const resetBtn = document.getElementById('resetBtn');
+  const showAllBtn = document.getElementById('showAllBtn');
+  const fullscreenBtn = document.getElementById('fullscreenBtn');
+
+  function updateProgress(){
+    const shown = cards.filter(card => card.classList.contains('revealed')).length;
+    progress.textContent = `${shown} of ${cards.length} revealed`;
+    showAllBtn.textContent = shown === cards.length ? 'Hide all' : 'Show all';
+  }
+
+  function setCard(card, reveal){
+    card.classList.toggle('revealed', reveal);
+    card.setAttribute('aria-expanded', String(reveal));
+  }
+
+  cards.forEach(card => {
+    card.addEventListener('click', () => {
+      setCard(card, !card.classList.contains('revealed'));
+      updateProgress();
+    });
+  });
+
+  resetBtn.addEventListener('click', () => {
+    cards.forEach(card => setCard(card, false));
+    updateProgress();
+    window.scrollTo({top:0, behavior:'smooth'});
+  });
+
+  showAllBtn.addEventListener('click', () => {
+    const allShown = cards.every(card => card.classList.contains('revealed'));
+    cards.forEach(card => setCard(card, !allShown));
+    updateProgress();
+  });
+
+  function isNativeFullscreen(){
+    return Boolean(document.fullscreenElement || document.webkitFullscreenElement);
+  }
+
+  function updateFullscreenButton(){
+    const active = isNativeFullscreen() || app.classList.contains('presentation-mode');
+    fullscreenBtn.textContent = active ? '✕' : '⛶';
+    fullscreenBtn.title = active ? 'Exit full screen' : 'Full screen';
+    fullscreenBtn.setAttribute('aria-label', active ? 'Exit full screen' : 'Full screen');
+  }
+
+  async function toggleFullscreen(){
+    try{
+      if(isNativeFullscreen()){
+        if(document.exitFullscreen) await document.exitFullscreen();
+        else if(document.webkitExitFullscreen) document.webkitExitFullscreen();
+        return;
+      }
+      if(app.classList.contains('presentation-mode')){
+        app.classList.remove('presentation-mode');
+        document.body.style.overflow = '';
+        updateFullscreenButton();
+        return;
+      }
+      if(app.requestFullscreen){
+        await app.requestFullscreen();
+      }else if(app.webkitRequestFullscreen){
+        app.webkitRequestFullscreen();
+      }else{
+        app.classList.add('presentation-mode');
+        document.body.style.overflow = 'hidden';
+        updateFullscreenButton();
+      }
+    }catch(error){
+      app.classList.toggle('presentation-mode');
+      document.body.style.overflow = app.classList.contains('presentation-mode') ? 'hidden' : '';
+      updateFullscreenButton();
+    }
+  }
+
+  fullscreenBtn.addEventListener('click', toggleFullscreen);
+  document.addEventListener('fullscreenchange', updateFullscreenButton);
+  document.addEventListener('webkitfullscreenchange', updateFullscreenButton);
+  document.addEventListener('keydown', event => {
+    if(event.key === 'Escape' && app.classList.contains('presentation-mode')){
+      app.classList.remove('presentation-mode');
+      document.body.style.overflow = '';
+      updateFullscreenButton();
+    }
+  });
+
+  updateProgress();
+  updateFullscreenButton();
+</script>
+</body>
+</html>
