@@ -12,6 +12,15 @@ I start with the learner rather than the label. I use available student-support 
 
 Support should increase participation and independence rather than create unnecessary dependence.
 
+## Why does patience matter in AEN?
+**Key line: What I can see on the surface may not tell me the full learning, processing or regulation load a student is carrying.**
+
+Patience is not lowering expectations. It is giving a student enough safety, processing time and appropriate support to re-enter the learning successfully.
+
+Some students may **mask or camouflage** distress, confusion or autistic traits very effectively. A student can therefore appear to be coping while using a very high level of effort to manage the classroom environment. I should not assume that outward composure means that no support is needed.
+
+That means using predictable routines, clear instructions, time to process, appropriate regulation or quiet-space supports, calm communication and good collaboration with the AEN team, SNAs, year heads, parents and other relevant staff.
+
 ## How do you differentiate in a mixed-needs class?
 **Key line: Same core learning; different routes, supports and levels of challenge.**
 
