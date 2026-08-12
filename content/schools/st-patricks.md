@@ -54,6 +54,48 @@ The school gives AEN a visible place and refers to **Inbhear**, **L2LP** provisi
 
 For a Maths & SEN interview this is central. My examples should show that I can teach the class while also reading support information, collaborating with colleagues, adapting access and maintaining high expectations.
 
+## What does “Inbhear” mean to me?
+**Key line: Inbhear means estuary — a useful metaphor for an educational journey that is individual, changing and not always linear.**
+
+**Inbhear** is the Irish word for **estuary**. The school's own explanation links Shannon's location on the estuary with the educational journey of its students.
+
+For interview preparation, the metaphor is useful in the broadest sense. A river does not move through identical conditions all the way to the sea. An estuary is a place of transition, changing currents and different routes. In the same way, a student's educational journey may involve periods of rapid progress, difficulty, regulation, redirection and renewed progress.
+
+The practical lesson for me is **patience**. What is visible at one moment does not necessarily tell me the full story of a student's learning, processing or regulation. My job is to understand the individual, provide a safe route back into learning and keep expectations high without demanding that every student travel at the same pace or in the same way.
+
+**Interview cue:** *Inbhear → estuary → journey → different currents → patience → individual support → progress.*
+
+## What did the 2025 AEN inspection say about Inbhear?
+**Key line: Strong provision is visible in Inbhear, while the report also pushes the school toward broader access, stronger regulation supports and tighter alignment of support with identified need.**
+
+The Department of Education's 2025 evaluation recorded **three special classes in Inbhear**. It described the suite as including two large classrooms, a modular classroom, sensory and quiet spaces, office spaces, a common area, and life-skills and cookery spaces. Parents in the inspection focus groups were very positive about the quality of supports and outcomes being achieved.
+
+The report also identified an important next step. Some mainstream students told inspectors that they needed a **quiet and safe place when overwhelmed**, and some parents wanted greater understanding of their children's social, emotional and regulation needs. Inspectors recommended an inclusive teaching, learning and self-regulation space in the main school and greater use of Inbhear, where appropriate, for mainstream students with the greatest level of need.
+
+For interview purposes, this is highly relevant: **inclusion is not only curriculum access; it also includes regulation, environment, relationships, continuity and matching support to the student's actual identified need.**
+
+## Home-Based Summer Programme 2026
+**Key line: The school is actively supporting access to the 2026 Home-Based Summer Programme for students with complex educational or care needs.**
+
+The school has a dedicated **Home-Based Summer Programme 2026** page. The current notice states that the application deadline is **15 May** and that applications must be returned to the school in advance of that date.
+
+[Open the official St Patrick's Home-Based Summer Programme 2026 page →](https://stpatrickscomprehensive.ie/home-based-summer-programme-2026.html)
+
+<details>
+<summary><strong>Quick summary</strong></summary>
+<p>The programme is a summer support scheme for eligible students with complex educational or care needs. St Patrick's is providing the application material and programme overview through its AEN area. A fuller summary will be added here from the complete 2026 document.</p>
+</details>
+
+<details>
+<summary><strong>Medium summary</strong></summary>
+<p>Pending the complete 2026 overview document. This section will condense the practical information a parent, teacher or SNA needs: eligibility, programme purpose, application route, hours or tuition arrangements, roles and responsibilities, and the main conditions attached to participation.</p>
+</details>
+
+<details>
+<summary><strong>Detailed summary</strong></summary>
+<p>Pending the complete 2026 overview document. This section will provide a structured summary of the full guidance without requiring the reader to work through the entire document, while retaining the official document as the source of truth.</p>
+</details>
+
 ## What do I know about LCA and pathways?
 **Key line: The school offers more than one route to success and treats pathway choice as part of inclusion.**
 
@@ -93,7 +135,7 @@ For each item extract four things:
 
 ## Sources to keep beside this note
 - St Patrick's Comprehensive official **About Us**, **Welcome**, **Curriculum**, **AEN**, policy and publications pages.
-- Department of Education school and inspection-report pages.
+- Department of Education **Evaluation of Inclusive Practices and Provision for Children with Special and Additional Educational Needs**, Shannon Comprehensive School, published September 2025.
 - Current school news and social-media posts for recent activity.
 
 <p class="source-note">This is an unofficial personal preparation document. It summarises public school information and my own interview preparation; it is not a school publication.</p>
