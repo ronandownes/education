@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="{{ page.intro | escape }}">
+  <title>{{ page.title }} | Ronan Downes Education</title>
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="{{ '/' | relative_url }}"><img src="{{ '/assets/education-logo.svg' | relative_url }}" alt="Ronan Downes Education"></a>
+    <nav class="topnav" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <details class="navdrop"><summary>Practice</summary><div class="dropmenu">
+        <a href="{{ '/teaching-learning.html' | relative_url }}">Teaching &amp; Learning</a>
+        <a href="{{ '/classroom-management.html' | relative_url }}">Classroom Management</a>
+        <a href="{{ '/sen-inclusion.html' | relative_url }}">SEN / AEN &amp; Inclusion</a>
+        <a href="{{ '/differentiation-accessibility.html' | relative_url }}">Differentiation &amp; Accessibility</a>
+        <a href="{{ '/assessment-reporting.html' | relative_url }}">Assessment, Feedback &amp; Reporting</a>
+        <a href="{{ '/planning-curriculum.html' | relative_url }}">Planning &amp; Curriculum</a>
+        <a href="{{ '/relationships-wellbeing.html' | relative_url }}">Relationships &amp; Wellbeing</a>
+        <a href="{{ '/professional-practice.html' | relative_url }}">Professional Responsibility</a>
+      </div></details>
+      <details class="navdrop"><summary>Subjects</summary><div class="dropmenu">
+        <a href="{{ '/subjects/mathematics.html' | relative_url }}">Mathematics</a>
+        <a href="{{ '/subjects/physics.html' | relative_url }}">Physics</a>
+        <a href="{{ '/subjects/science.html' | relative_url }}">Science</a>
+        <a href="{{ '/subjects/computer-science.html' | relative_url }}">Computer Science</a>
+        <a href="{{ '/subjects/applied-mathematics.html' | relative_url }}">Applied Mathematics</a>
+      </div></details>
+      <details class="navdrop nav-right"><summary>Schools</summary><div class="dropmenu">
+        <a href="{{ '/school-research.html' | relative_url }}">St Patrick's Comprehensive</a>
+      </div></details>
+      <details class="navdrop nav-right"><summary>Interview</summary><div class="dropmenu">
+        <a href="{{ '/interview-note.html' | relative_url }}">St Patrick's Interview Note</a>
+        <a href="{{ '/classroom-management.html' | relative_url }}">Classroom Management Answers</a>
+        <a href="{{ '/sen-inclusion.html' | relative_url }}">SEN / AEN Answers</a>
+      </div></details>
+    </nav>
+  </header>
+
+  <main class="page-stage">
+    <article class="doc-paper">
+      <p class="doc-kicker">{{ page.eyebrow }}</p>
+      <h1>{{ page.title }}</h1>
+      {% if page.intro %}<p class="doc-intro">{{ page.intro }}</p>{% endif %}
+      <div class="doc-toolbar" aria-label="Document controls">
+        <button type="button" data-action="show-all">Show all</button>
+        <button type="button" data-action="hide-all">Hide all</button>
+        <button type="button" data-action="starred">★ Starred only</button>
+        <button type="button" data-action="print">Print</button>
+        <a class="edit-link" href="https://app.pagescms.org" target="_blank" rel="noopener">Edit content</a>
+      </div>
+      <div class="doc-body" id="docBody">{{ content }}</div>
+    </article>
+  </main>
+  <script src="{{ '/assets/doc-page.js' | relative_url }}"></script>
+</body>
+</html>
