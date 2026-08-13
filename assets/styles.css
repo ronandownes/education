@@ -54,6 +54,13 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .answer-section.star-filter-hidden{display:none}
 .source-note{font-size:.85rem;color:var(--muted);border-left:3px solid var(--line);padding-left:12px}
 .subject-link{display:inline-block;margin-top:6px;color:var(--blue)}
+.digital-document{margin:24px 0;padding:18px 20px;border:1px solid var(--line);border-radius:8px;background:#fff}
+.digital-document h3{margin-top:0;font-size:1.12rem}
+.study-level,.pdf-source{margin:10px 0;border:1px solid #e3e6ea;border-radius:6px;background:var(--soft)}
+.study-level summary,.pdf-source summary{padding:10px 12px;font-weight:700;cursor:pointer;color:#3c4043}
+.study-level[open] summary,.pdf-source[open] summary{border-bottom:1px solid #e3e6ea}
+.study-level>*:not(summary),.pdf-source>*:not(summary){margin-left:14px;margin-right:14px}
+.pdf-embed{display:block;width:100%;height:620px;margin:14px 0;border:1px solid var(--line);background:#fff}
 
 @media(max-width:1280px){
   .topbar{min-height:64px;height:auto;align-items:center;flex-direction:row;flex-wrap:wrap;gap:0;padding:8px 12px}
@@ -89,6 +96,8 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   .doc-paper h1{font-size:1.65rem}
   .answer-heading-row{display:block}
   .section-controls{margin-top:10px}
+  .digital-document{padding:14px 12px;margin:18px 0}
+  .pdf-embed{height:480px}
 }
 
 @media print{
@@ -98,4 +107,5 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   .doc-paper{width:100%;border:0;box-shadow:none;padding:0;min-height:0}
   .answer-section{break-inside:avoid}
   .answer-section.star-filter-hidden{display:none}
+  .pdf-source{display:none}
 }
