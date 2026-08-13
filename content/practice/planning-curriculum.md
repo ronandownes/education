@@ -29,3 +29,85 @@ I start with curriculum outcomes and the class's current position, then identify
 
 ## How do you plan for different programmes and pathways?
 The programme changes the route and context, not the expectation that learning should be purposeful. I adapt planning for Junior Cycle, Senior Cycle, LCA and learning-support contexts, including pacing, practical application and assessment requirements.
+
+<script>
+window.addEventListener('load', () => {
+  document.querySelectorAll('.answer-section').forEach(section => {
+    const controls = section.querySelector('.section-controls');
+    const content = section.querySelector('.section-content');
+    if (!controls || !content || controls.querySelector('.reveal-next')) return;
+
+    const steps = Array.from(content.children).filter(el => el.tagName !== 'SCRIPT');
+    if (!steps.length) return;
+
+    section.dataset.revealIndex = String(steps.length - 1);
+
+    const showThrough = index => {
+      if (index < 0) {
+        content.hidden = true;
+        steps.forEach(step => step.hidden = false);
+        section.dataset.revealIndex = '-1';
+        return;
+      }
+
+      content.hidden = false;
+      steps.forEach((step, i) => step.hidden = i > index);
+      section.dataset.revealIndex = String(index);
+    };
+
+    const previous = document.createElement('button');
+    previous.type = 'button';
+    previous.className = 'reveal-prev';
+    previous.textContent = '←';
+    previous.title = 'Hide the last revealed line';
+    previous.setAttribute('aria-label', 'Hide the last revealed line');
+
+    const next = document.createElement('button');
+    next.type = 'button';
+    next.className = 'reveal-next';
+    next.textContent = '→';
+    next.title = 'Reveal the next line';
+    next.setAttribute('aria-label', 'Reveal the next line');
+
+    const toggle = controls.querySelector('button:last-child');
+    controls.insertBefore(previous, toggle);
+    controls.insertBefore(next, toggle);
+
+    next.addEventListener('click', () => {
+      let index = content.hidden ? -1 : Number(section.dataset.revealIndex || -1);
+      index = Math.min(index + 1, steps.length - 1);
+      showThrough(index);
+    });
+
+    previous.addEventListener('click', () => {
+      if (content.hidden) return;
+      const index = Number(section.dataset.revealIndex || 0) - 1;
+      showThrough(index);
+    });
+
+    toggle?.addEventListener('click', () => {
+      if (!content.hidden) {
+        steps.forEach(step => step.hidden = false);
+        section.dataset.revealIndex = String(steps.length - 1);
+      } else {
+        section.dataset.revealIndex = '-1';
+      }
+    });
+  });
+
+  document.querySelector('[data-action="show-all"]')?.addEventListener('click', () => {
+    document.querySelectorAll('.answer-section').forEach(section => {
+      const content = section.querySelector('.section-content');
+      const steps = content ? Array.from(content.children).filter(el => el.tagName !== 'SCRIPT') : [];
+      steps.forEach(step => step.hidden = false);
+      section.dataset.revealIndex = String(steps.length - 1);
+    });
+  });
+
+  document.querySelector('[data-action="hide-all"]')?.addEventListener('click', () => {
+    document.querySelectorAll('.answer-section').forEach(section => {
+      section.dataset.revealIndex = '-1';
+    });
+  });
+});
+</script>
