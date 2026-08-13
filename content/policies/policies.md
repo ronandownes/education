@@ -1,26 +1,138 @@
 ---
 layout: doc
 permalink: /policies.html
-title: Policies & Key Documents
-eyebrow: REFERENCE
-intro: A working index for the national, school and subject documents I want close at hand for teaching and interview preparation.
+title: Policies & Documentation
+eyebrow: REFERENCE SHELF
+intro: A visual shelf of the documents I want close at hand. Click a cover to read it. New additions sit at the top of their category.
 ---
-## Whole-School and Professional
-Use this section for the main documents that cut across all subjects and roles: child protection, code of behaviour, attendance, wellbeing, assessment and reporting, data protection, professional standards and other whole-school guidance.
 
-## Mathematics
-Keep the key Mathematics curriculum, specification, assessment and reform documents here, together with any documents I want available for interview preparation.
+<div class="policy-library">
+<style>
+.policy-library{--shelf-gap:18px}.policy-library .library-note{margin:0 0 20px;color:#5f6368;font-size:.92rem}.policy-library .library-note strong{color:#202124}.policy-library .library-section{margin:30px 0 42px;scroll-margin-top:110px}.policy-library .library-section:first-of-type{margin-top:6px}.policy-library .library-section h2{margin:0 0 14px;font-size:1.18rem;line-height:1.25}.policy-library .library-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(122px,1fr));gap:var(--shelf-gap);align-items:start}.policy-library .shelf-item{display:block;min-width:0;color:#202124;text-decoration:none}.policy-library .shelf-cover{position:relative;aspect-ratio:210/297;border:1px solid #d7dbe0;border-radius:7px;overflow:hidden;background:#f7f8f9;box-shadow:0 2px 7px rgba(60,64,67,.13);transition:transform .12s ease,box-shadow .12s ease}.policy-library .shelf-item:hover .shelf-cover{transform:translateY(-2px);box-shadow:0 5px 12px rgba(60,64,67,.2)}.policy-library .shelf-cover img{width:100%;height:100%;display:block;object-fit:cover;object-position:top center;background:#fff}.policy-library .shelf-placeholder{height:100%;display:flex;align-items:center;justify-content:center;text-align:center;padding:14px;background:linear-gradient(145deg,#f1f3f4,#fff);color:#5f6368;font-weight:700;font-size:.72rem;line-height:1.3;letter-spacing:.025em}.policy-library .shelf-placeholder.doc{background:linear-gradient(145deg,#eaf2ff,#fff);color:#315b91}.policy-library .shelf-badge{position:absolute;top:7px;right:7px;padding:3px 6px;border-radius:999px;background:rgba(255,255,255,.92);border:1px solid rgba(60,64,67,.16);font-size:.56rem;font-weight:700;color:#5f6368;text-transform:uppercase}.policy-library .shelf-title{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;margin:7px 2px 0;font-size:.76rem;line-height:1.28;font-weight:600}.policy-library .shelf-sub{margin:3px 2px 0;color:#80868b;font-size:.64rem;line-height:1.2}.policy-library .policy-viewer{width:min(1050px,96vw);height:min(88vh,900px);padding:0;border:0;border-radius:12px;box-shadow:0 20px 60px rgba(0,0,0,.28);overflow:hidden}.policy-library .policy-viewer::backdrop{background:rgba(32,33,36,.62)}.policy-library .viewer-bar{height:52px;display:flex;align-items:center;gap:8px;padding:0 12px;border-bottom:1px solid #dadce0;background:#fff}.policy-library .viewer-title{min-width:0;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.9rem;font-weight:700}.policy-library .viewer-bar button,.policy-library .viewer-bar a{border:1px solid #dadce0;background:#fff;border-radius:6px;padding:7px 10px;color:#3c4043;text-decoration:none;font:inherit;font-size:.78rem;cursor:pointer}.policy-library .viewer-frame{width:100%;height:calc(100% - 52px);border:0;background:#f1f3f4}.policy-library .old-anchor{position:relative;top:-110px;visibility:hidden}.policy-library .library-grid[data-sort="newest"] .shelf-item{order:0}@media(max-width:600px){.policy-library{--shelf-gap:13px}.policy-library .library-section{margin:24px 0 34px}.policy-library .library-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.policy-library .shelf-title{font-size:.71rem;margin-top:6px}.policy-library .shelf-sub{display:none}.policy-library .shelf-badge{font-size:.52rem;padding:2px 5px}.policy-library .policy-viewer{width:100vw;height:100vh;max-width:none;max-height:none;border-radius:0;margin:0}.policy-library .viewer-bar{height:48px}.policy-library .viewer-frame{height:calc(100% - 48px)}}
+</style>
 
-## Science and Physics
-Keep Junior Cycle Science, Leaving Certificate Physics, laboratory safety, practical-work and assessment documents here.
+<p class="library-note"><strong>Start with the first two.</strong> After that, use the category headings like shelves. The covers are the navigation.</p>
 
-## Computer Science
-Keep curriculum specifications, assessment guidance, programming/project requirements and other Computer Science reference documents here.
+<section class="library-section" id="start-here">
+<h2>Start Here</h2>
+<div class="library-grid">
+  <a class="shelf-item" href="https://drive.google.com/file/d/1CtB6FvlIVGD7lbet0YZDTEtabWqEkCQs/view" data-preview="https://drive.google.com/file/d/1CtB6FvlIVGD7lbet0YZDTEtabWqEkCQs/preview" data-title="Looking at Our School 2022"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1CtB6FvlIVGD7lbet0YZDTEtabWqEkCQs&sz=w600" alt="Looking at Our School 2022 cover" loading="eager"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Looking at Our School 2022</div><div class="shelf-sub">Inspection / quality framework</div></a>
+  <a class="shelf-item" href="https://docs.google.com/document/d/1Oyx4eD_lMV00HMuMUbo3M3CZamRMNiPo0O8doN7fW08/edit" data-preview="https://docs.google.com/document/d/1Oyx4eD_lMV00HMuMUbo3M3CZamRMNiPo0O8doN7fW08/preview" data-title="Senior Cycle / Maths Tranche Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">SENIOR CYCLE<br>REDEVELOPMENT<br><br>MATHS TRANCHE</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Senior Cycle / Maths Tranche Notes</div><div class="shelf-sub">Reform timeline</div></a>
+</div>
+</section>
 
-## Applied Mathematics
-Keep the Applied Mathematics specification, assessment material and related curriculum documents here.
+<span class="old-anchor" id="whole-school-and-professional"></span>
+<section class="library-section" id="inspection-sse">
+<h2>Inspection, SSE & Whole-School</h2>
+<div class="library-grid" data-sort="newest">
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1LRfenyPAllJl5jWZgBYSy-urJm20WIag/view" data-preview="https://drive.google.com/file/d/1LRfenyPAllJl5jWZgBYSy-urJm20WIag/preview" data-title="SEN Inspection / Evaluation Reports"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1LRfenyPAllJl5jWZgBYSy-urJm20WIag&sz=w600" alt="SEN inspection reports cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">SEN Inspection / Evaluation Reports</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1zy3e26TEvjdCaHHbS1ir1rYl32n7KJVh/view" data-preview="https://drive.google.com/file/d/1zy3e26TEvjdCaHHbS1ir1rYl32n7KJVh/preview" data-title="Mathematics Inspection Reports"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1zy3e26TEvjdCaHHbS1ir1rYl32n7KJVh&sz=w600" alt="Mathematics inspection reports cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Mathematics Inspection Reports</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1wchiFvOWMDdcxc_qdzMe8wDaXJtkSFMS/view" data-preview="https://drive.google.com/file/d/1wchiFvOWMDdcxc_qdzMe8wDaXJtkSFMS/preview" data-title="Computer Science Inspection Reports"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1wchiFvOWMDdcxc_qdzMe8wDaXJtkSFMS&sz=w600" alt="Computer Science inspection reports cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Computer Science Inspection Reports</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1Ww7YHIkB2-FBpXIvR7FdxHoqHs-NfFuP/view" data-preview="https://drive.google.com/file/d/1Ww7YHIkB2-FBpXIvR7FdxHoqHs-NfFuP/preview" data-title="WSE / Management, Leadership & Learning"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1Ww7YHIkB2-FBpXIvR7FdxHoqHs-NfFuP&sz=w600" alt="WSE MLL cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">WSE — Management, Leadership & Learning</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1Y3Mu44e-n9TWKp_c-hjYw4djqLO64af0/view" data-preview="https://drive.google.com/file/d/1Y3Mu44e-n9TWKp_c-hjYw4djqLO64af0/preview" data-title="WSE / School Self-Evaluation"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1Y3Mu44e-n9TWKp_c-hjYw4djqLO64af0&sz=w600" alt="WSE SSE cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">WSE — School Self-Evaluation</div></a>
+</div>
+</section>
 
-## SEN / AEN and Inclusion
-Keep the main inclusion, special-education, reasonable-accommodation, student-support and behaviour-support documents here.
+<section class="library-section" id="curriculum-reform">
+<h2>Curriculum & Reform</h2>
+<div class="library-grid" data-sort="newest">
+  <a class="shelf-item" data-added="2026-06-07" href="https://docs.google.com/document/d/1CfiIckxT9afvEDRYdlL3nHDCDGOsyFbCCDwuPktq-aA/edit" data-preview="https://docs.google.com/document/d/1CfiIckxT9afvEDRYdlL3nHDCDGOsyFbCCDwuPktq-aA/preview" data-title="Curricula Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">CURRICULA<br><br>OVERVIEW & NOTES</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Curricula Notes</div></a>
+  <a class="shelf-item" data-added="2026-05-17" href="https://docs.google.com/document/d/1TQ4hE1G818Qh1zn2dTJtdEDTOE0j9lStJR2x9pdMyII/edit" data-preview="https://docs.google.com/document/d/1TQ4hE1G818Qh1zn2dTJtdEDTOE0j9lStJR2x9pdMyII/preview" data-title="Senior Cycle Guiding Principles"><div class="shelf-cover"><div class="shelf-placeholder doc">SENIOR CYCLE<br><br>GUIDING PRINCIPLES</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Senior Cycle Guiding Principles</div></a>
+  <a class="shelf-item" data-added="2026-05-16" href="https://docs.google.com/document/d/1vgifoJ5nGl12LBd4dUdAftkx5-SaMnVYHEUDJ0y0B9A/edit" data-preview="https://docs.google.com/document/d/1vgifoJ5nGl12LBd4dUdAftkx5-SaMnVYHEUDJ0y0B9A/preview" data-title="Transition Year Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">TRANSITION<br>YEAR<br><br>PROGRAMME NOTES</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Transition Year Notes</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1d_bAEFxEgp6fHD76SFz0-hsRgNuWM-kX/view" data-preview="https://drive.google.com/file/d/1d_bAEFxEgp6fHD76SFz0-hsRgNuWM-kX/preview" data-title="Framework for Junior Cycle 2015"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1d_bAEFxEgp6fHD76SFz0-hsRgNuWM-kX&sz=w600" alt="Framework for Junior Cycle 2015 cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Framework for Junior Cycle 2015</div></a>
+</div>
+</section>
 
-This page is intended to become a curated link library rather than a dumping ground: add the documents that are genuinely useful and group them under the most natural heading.
+<section class="library-section" id="assessment-feedback">
+<h2>Assessment & Feedback</h2>
+<div class="library-grid" data-sort="newest">
+  <a class="shelf-item" data-added="2026-06-07" href="https://drive.google.com/file/d/1dDa90dfUPF4DwSo5_CJO1zVVR95TxiOk/view" data-preview="https://drive.google.com/file/d/1dDa90dfUPF4DwSo5_CJO1zVVR95TxiOk/preview" data-title="Assessment Guidelines"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1dDa90dfUPF4DwSo5_CJO1zVVR95TxiOk&sz=w600" alt="Assessment guidelines cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Assessment Guidelines</div></a>
+  <a class="shelf-item" data-added="2026-06-07" href="https://docs.google.com/document/d/1-_Fo5uztB1Hh3oaWv3XQA4Re_Non1bi8UDJ2p8qkZro/edit" data-preview="https://docs.google.com/document/d/1-_Fo5uztB1Hh3oaWv3XQA4Re_Non1bi8UDJ2p8qkZro/preview" data-title="Assessment & Reporting"><div class="shelf-cover"><div class="shelf-placeholder doc">ASSESSMENT<br>& REPORTING</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Assessment & Reporting</div></a>
+  <a class="shelf-item" data-added="2026-06-07" href="https://docs.google.com/document/d/1AgW64tnkdJ0C2VYwrc6gKHxmOYScQnQYKu-XPDthKSk/edit" data-preview="https://docs.google.com/document/d/1AgW64tnkdJ0C2VYwrc6gKHxmOYScQnQYKu-XPDthKSk/preview" data-title="Assessment for Learning"><div class="shelf-cover"><div class="shelf-placeholder doc">ASSESSMENT<br>FOR LEARNING<br><br>AFL</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Assessment for Learning</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://docs.google.com/document/d/1cQlwB3wN_ehxYZu0A3axG8Rv3snI5DU8GivRbzbKi_A/edit" data-preview="https://docs.google.com/document/d/1cQlwB3wN_ehxYZu0A3axG8Rv3snI5DU8GivRbzbKi_A/preview" data-title="Formative Feedback"><div class="shelf-cover"><div class="shelf-placeholder doc">FORMATIVE<br>FEEDBACK</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Formative Feedback</div></a>
+  <a class="shelf-item" data-added="2022-05-24" href="https://drive.google.com/file/d/1rS8eGvSKmuOprFlkwAv8kvsz_6wHaxLY/view" data-preview="https://drive.google.com/file/d/1rS8eGvSKmuOprFlkwAv8kvsz_6wHaxLY/preview" data-title="How Assessment Supports Learning"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1rS8eGvSKmuOprFlkwAv8kvsz_6wHaxLY&sz=w600" alt="How Assessment Supports Learning cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">How Assessment Supports Learning</div></a>
+</div>
+</section>
+
+<span class="old-anchor" id="sen--aen-and-inclusion"></span>
+<section class="library-section" id="sen-aen-inclusion">
+<h2>SEN / AEN & Inclusion</h2>
+<div class="library-grid" data-sort="newest">
+  <a class="shelf-item" data-added="2026-06-21" href="https://docs.google.com/document/d/1Mn8jr-cr4UE8WLw1EuWnj3VqpEUqZlaS9RxW7UHM_ls/edit" data-preview="https://docs.google.com/document/d/1Mn8jr-cr4UE8WLw1EuWnj3VqpEUqZlaS9RxW7UHM_ls/preview" data-title="Support Continuum Guidelines"><div class="shelf-cover"><div class="shelf-placeholder doc">SUPPORT<br>CONTINUUM<br><br>GUIDELINES</div><span class="shelf-badge">Guide</span></div><div class="shelf-title">Support Continuum Guidelines</div></a>
+  <a class="shelf-item" data-added="2026-06-12" href="https://docs.google.com/document/d/1eVKaORgOGmhizeEZBmObCtoq5XYRNZAbBlRYul4gxcU/edit" data-preview="https://docs.google.com/document/d/1eVKaORgOGmhizeEZBmObCtoq5XYRNZAbBlRYul4gxcU/preview" data-title="AEN Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">AEN<br><br>CORE NOTES</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">AEN Notes</div></a>
+  <a class="shelf-item" data-added="2025-06-10" href="https://docs.google.com/document/d/1bwWlPnlTJRCiz1cI7OvGQUYFlQ3tWtlC7Yy8uNXO95k/edit" data-preview="https://docs.google.com/document/d/1bwWlPnlTJRCiz1cI7OvGQUYFlQ3tWtlC7Yy8uNXO95k/preview" data-title="AEN Assessment"><div class="shelf-cover"><div class="shelf-placeholder doc">AEN<br><br>ASSESSMENT</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">AEN Assessment</div></a>
+  <a class="shelf-item" data-added="2025-06-10" href="https://docs.google.com/document/d/1OtM5lRo5-3kncxDiqZLKa3G7B3C9FqdTd85vtKTIkow/edit" data-preview="https://docs.google.com/document/d/1OtM5lRo5-3kncxDiqZLKa3G7B3C9FqdTd85vtKTIkow/preview" data-title="Assessing a Small First-Year AEN Maths Group"><div class="shelf-cover"><div class="shelf-placeholder doc">FIRST YEAR<br>MATHS<br><br>AEN ASSESSMENT</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Assessing a Small First-Year AEN Maths Group</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1css-NpFQYKa3i5DJnRKhzNUUgk7gYJXt/view" data-preview="https://drive.google.com/file/d/1css-NpFQYKa3i5DJnRKhzNUUgk7gYJXt/preview" data-title="DEIS Strategy"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1css-NpFQYKa3i5DJnRKhzNUUgk7gYJXt&sz=w600" alt="DEIS Strategy cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">DEIS Strategy</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1vzv0_zZiNG_t6PF9aSBOuKcdUVt6tExq/view" data-preview="https://drive.google.com/file/d/1vzv0_zZiNG_t6PF9aSBOuKcdUVt6tExq/preview" data-title="DEIS Strategy Implementation Plan"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1vzv0_zZiNG_t6PF9aSBOuKcdUVt6tExq&sz=w600" alt="DEIS strategy implementation plan cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">DEIS Strategy — Implementation Plan</div></a>
+</div>
+</section>
+
+<section class="library-section" id="behaviour-wellbeing-safeguarding">
+<h2>Behaviour, Wellbeing & Safeguarding</h2>
+<div class="library-grid" data-sort="newest">
+  <a class="shelf-item" data-added="2026-08-12" href="https://docs.google.com/document/d/1KF8Az5PKm2d_hs8MGSpw1atqzUIaQs3f-gt38mpv96A/edit" data-preview="https://docs.google.com/document/d/1KF8Az5PKm2d_hs8MGSpw1atqzUIaQs3f-gt38mpv96A/preview" data-title="Behaviours of Concern"><div class="shelf-cover"><div class="shelf-placeholder doc">BEHAVIOURS<br>OF CONCERN</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Behaviours of Concern</div></a>
+  <a class="shelf-item" data-added="2026-08-12" href="https://docs.google.com/document/d/1XmawGI9m12K9UsH7eUTaWkzdLo_FbQgW0JDRRoRTR3Q/edit" data-preview="https://docs.google.com/document/d/1XmawGI9m12K9UsH7eUTaWkzdLo_FbQgW0JDRRoRTR3Q/preview" data-title="Code of Conduct / Interview Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">CODE OF<br>BEHAVIOUR<br><br>INTERVIEW NOTES</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Code of Behaviour — Interview Notes</div></a>
+  <a class="shelf-item" data-added="2026-06-29" href="https://docs.google.com/document/d/1-7uxglL2sr_6kZ1ww8H4gUXagMQTVQZUrY3-S9oQf9w/edit" data-preview="https://docs.google.com/document/d/1-7uxglL2sr_6kZ1ww8H4gUXagMQTVQZUrY3-S9oQf9w/preview" data-title="Safeguarding Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">SAFEGUARDING<br><br>CHILD PROTECTION</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Safeguarding Notes</div></a>
+  <a class="shelf-item" data-added="2026-06-07" href="https://docs.google.com/document/d/1Yp9swCtF0A8uXTdsbds4AaMueIa561aXt2BQAhdFg8c/edit" data-preview="https://docs.google.com/document/d/1Yp9swCtF0A8uXTdsbds4AaMueIa561aXt2BQAhdFg8c/preview" data-title="Code of Behaviour Guidelines / Full Text Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">CODE OF<br>BEHAVIOUR<br><br>GUIDELINES</div><span class="shelf-badge">Guide</span></div><div class="shelf-title">Code of Behaviour Guidelines</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1mt7-vx4hhROJHtqHYRJASRJJxgY5X2NS/view" data-preview="https://drive.google.com/file/d/1mt7-vx4hhROJHtqHYRJASRJJxgY5X2NS/preview" data-title="Bí Cineálta"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1mt7-vx4hhROJHtqHYRJASRJJxgY5X2NS&sz=w600" alt="Bi Cinealta cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Bí Cineálta</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1tk8N7tP1d73mPCZSqAVSD_vw7jENb00c/view" data-preview="https://drive.google.com/file/d/1tk8N7tP1d73mPCZSqAVSD_vw7jENb00c/preview" data-title="Wellbeing Policy Statement"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1tk8N7tP1d73mPCZSqAVSD_vw7jENb00c&sz=w600" alt="Wellbeing policy cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Wellbeing Policy Statement</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1zjC5rfKdRLCR14oqhF04wDqSBEzNXmHW/view" data-preview="https://drive.google.com/file/d/1zjC5rfKdRLCR14oqhF04wDqSBEzNXmHW/preview" data-title="Child Protection Procedures / Revised 2023"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1zjC5rfKdRLCR14oqhF04wDqSBEzNXmHW&sz=w600" alt="Child protection procedures 2023 cover" loading="lazy"><span class="shelf-badge">Archive</span></div><div class="shelf-title">Child Protection Procedures — Revised 2023</div></a>
+</div>
+</section>
+
+<section class="library-section" id="digital-professional">
+<h2>Digital & Professional Practice</h2>
+<div class="library-grid" data-sort="newest">
+  <a class="shelf-item" data-added="2026-06-24" href="https://docs.google.com/document/d/1u8Gx8APr6w2HYYjDmVGeOZesvQYpdGDm3m19CQU0ZEc/edit" data-preview="https://docs.google.com/document/d/1u8Gx8APr6w2HYYjDmVGeOZesvQYpdGDm3m19CQU0ZEc/preview" data-title="Digital Learning / ICT"><div class="shelf-cover"><div class="shelf-placeholder doc">DIGITAL LEARNING<br><br>ICT / FRAMEWORKS</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Digital Learning / ICT</div></a>
+  <a class="shelf-item" data-added="2026-06-23" href="https://docs.google.com/document/d/1AzEP09Xt3elgk2rSDsXcVQP3nakfpfzK-VBpkvtccYU/edit" data-preview="https://docs.google.com/document/d/1AzEP09Xt3elgk2rSDsXcVQP3nakfpfzK-VBpkvtccYU/preview" data-title="AI in Education Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">AI<br>IN EDUCATION</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">AI in Education Notes</div></a>
+  <a class="shelf-item" data-added="2026-06-09" href="https://docs.google.com/document/d/145GzugM7v96i89xOKfsJDLoTXCvo2VImzbntNm1eTxM/edit" data-preview="https://docs.google.com/document/d/145GzugM7v96i89xOKfsJDLoTXCvo2VImzbntNm1eTxM/preview" data-title="GDPR"><div class="shelf-cover"><div class="shelf-placeholder doc">GDPR<br><br>DATA PROTECTION</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">GDPR / Data Protection</div></a>
+  <a class="shelf-item" data-added="2026-06-06" href="https://docs.google.com/document/d/1NzpSdeHlOKAfjJQBpKYvAXzUFhYPgj06Zg_hCHMWn8E/edit" data-preview="https://docs.google.com/document/d/1NzpSdeHlOKAfjJQBpKYvAXzUFhYPgj06Zg_hCHMWn8E/preview" data-title="Professional Conduct"><div class="shelf-cover"><div class="shelf-placeholder doc">PROFESSIONAL<br>CONDUCT</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Professional Conduct</div></a>
+</div>
+</section>
+
+<span class="old-anchor" id="mathematics"></span><span class="old-anchor" id="science-and-physics"></span><span class="old-anchor" id="computer-science"></span><span class="old-anchor" id="applied-mathematics"></span>
+<section class="library-section" id="subjects-specifications">
+<h2>Subjects & Specifications</h2>
+<div class="library-grid" data-sort="newest">
+  <a class="shelf-item" data-added="2026-06-24" href="https://docs.google.com/document/d/1YqcpQzG9hF2z57HF8Kp73q87XQnQGUZtBGjwNYJnxbk/edit" data-preview="https://docs.google.com/document/d/1YqcpQzG9hF2z57HF8Kp73q87XQnQGUZtBGjwNYJnxbk/preview" data-title="New Applied Mathematics Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">APPLIED<br>MATHEMATICS<br><br>NEW COURSE NOTES</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">New Applied Mathematics Notes</div></a>
+  <a class="shelf-item" data-added="2026-06-19" href="https://docs.google.com/document/d/1AtI5oovfcY-FANgf30uhz91pTvbzMniFLebJDgenUG8/edit" data-preview="https://docs.google.com/document/d/1AtI5oovfcY-FANgf30uhz91pTvbzMniFLebJDgenUG8/preview" data-title="Physics / High-Level Notes"><div class="shelf-cover"><div class="shelf-placeholder doc">PHYSICS<br><br>HIGH-LEVEL NOTES</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Physics — High-Level Notes</div></a>
+  <a class="shelf-item" data-added="2026-06-09" href="https://docs.google.com/document/d/1mpkK4Wog7qNRth0MgK09rJHQt1ApiBp58f8VyA0WDKY/edit" data-preview="https://docs.google.com/document/d/1mpkK4Wog7qNRth0MgK09rJHQt1ApiBp58f8VyA0WDKY/preview" data-title="Physics CPD"><div class="shelf-cover"><div class="shelf-placeholder doc">PHYSICS<br><br>CPD</div><span class="shelf-badge">Notes</span></div><div class="shelf-title">Physics CPD</div></a>
+  <a class="shelf-item" data-added="2026-05-14" href="https://drive.google.com/file/d/1--53TupkTmGCWqbwSDOlsKuhvvSuYjGT/view" data-preview="https://drive.google.com/file/d/1--53TupkTmGCWqbwSDOlsKuhvvSuYjGT/preview" data-title="LCA Mathematics Inspection Reports"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1--53TupkTmGCWqbwSDOlsKuhvvSuYjGT&sz=w600" alt="LCA Maths inspection reports cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">LCA Mathematics Inspection Reports</div></a>
+  <a class="shelf-item" data-added="2023-10-04" href="https://drive.google.com/file/d/1b6_SPtH6vrLTZPp9ZROQgwvV-aaf1JFN/view" data-preview="https://drive.google.com/file/d/1b6_SPtH6vrLTZPp9ZROQgwvV-aaf1JFN/preview" data-title="Applied Mathematics"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1b6_SPtH6vrLTZPp9ZROQgwvV-aaf1JFN&sz=w600" alt="Applied Mathematics document cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Applied Mathematics</div></a>
+  <a class="shelf-item" data-added="2022-06-10" href="https://drive.google.com/file/d/1EcM37czoCv_DIeYexC1nnYOIYA-qZDu6/view" data-preview="https://drive.google.com/file/d/1EcM37czoCv_DIeYexC1nnYOIYA-qZDu6/preview" data-title="Junior Cycle Science Specification"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1EcM37czoCv_DIeYexC1nnYOIYA-qZDu6&sz=w600" alt="Junior Cycle Science specification cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Junior Cycle Science Specification</div></a>
+  <a class="shelf-item" data-added="2022-03-29" href="https://drive.google.com/file/d/1-dFaqxhAlkLqJBo3aOL0DbqwvlfNNij5/view" data-preview="https://drive.google.com/file/d/1-dFaqxhAlkLqJBo3aOL0DbqwvlfNNij5/preview" data-title="Junior Cycle Mathematics Specification"><div class="shelf-cover"><img src="https://drive.google.com/thumbnail?id=1-dFaqxhAlkLqJBo3aOL0DbqwvlfNNij5&sz=w600" alt="Junior Cycle Mathematics specification cover" loading="lazy"><span class="shelf-badge">PDF</span></div><div class="shelf-title">Junior Cycle Mathematics Specification</div></a>
+</div>
+</section>
+
+<dialog class="policy-viewer" id="policyViewer">
+  <div class="viewer-bar"><div class="viewer-title" id="viewerTitle">Document</div><a id="viewerOriginal" href="#" target="_blank" rel="noopener">Open original</a><button type="button" id="viewerClose">Close</button></div>
+  <iframe class="viewer-frame" id="viewerFrame" title="Document preview" allow="fullscreen"></iframe>
+</dialog>
+
+<script>
+(() => {
+  document.querySelectorAll('.doc-toolbar [data-action="show-all"],.doc-toolbar [data-action="hide-all"],.doc-toolbar [data-action="starred"]').forEach(el => el.style.display='none');
+  document.querySelectorAll('.library-grid[data-sort="newest"]').forEach(grid => {
+    [...grid.querySelectorAll('.shelf-item')].sort((a,b)=>(b.dataset.added||'').localeCompare(a.dataset.added||'')).forEach(item=>grid.appendChild(item));
+  });
+  document.querySelectorAll('.shelf-cover img').forEach(img => img.addEventListener('error', () => {
+    img.style.display='none';
+    const cover=img.closest('.shelf-cover');
+    if(!cover.querySelector('.shelf-placeholder')){
+      const p=document.createElement('div'); p.className='shelf-placeholder'; p.textContent='PDF'; cover.prepend(p);
+    }
+  }));
+  const dialog=document.getElementById('policyViewer');
+  const frame=document.getElementById('viewerFrame');
+  const title=document.getElementById('viewerTitle');
+  const original=document.getElementById('viewerOriginal');
+  document.querySelectorAll('.shelf-item[data-preview]').forEach(item => item.addEventListener('click', e => {
+    if(!dialog?.showModal) return;
+    e.preventDefault(); title.textContent=item.dataset.title||item.textContent.trim(); original.href=item.href; frame.src=item.dataset.preview; dialog.showModal();
+  }));
+  const close=()=>{ if(dialog?.open) dialog.close(); frame.src='about:blank'; };
+  document.getElementById('viewerClose')?.addEventListener('click', close);
+  dialog?.addEventListener('click', e => { if(e.target===dialog) close(); });
+})();
+</script>
+</div>
