@@ -6,7 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: General approach, low-level disruption, challenging behaviour,
   safeguarding and teamwork.
 ---
-## What is your general approach to classroom management?
+## What is your general approach to classroom management? q
 
 **Key line: Hope. Expectation. Trust.**
 
