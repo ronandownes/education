@@ -5,7 +5,7 @@ eyebrow: WORKING PROFESSIONAL NOTEBOOK
 intro: A calm, editable answer bank for teaching, subjects, school research and
   interview preparation.
 ---
-## Hope · Expectation · Trust ?hi
+## Hope · Expectation · Trust 
 
 This is the organising idea behind the site. **Hope** that progress is possible; **expectation** that students engage, behave and move forward; **trust** that the classroom is fair, safe and purposeful.
 
