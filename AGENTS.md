@@ -6,7 +6,7 @@ This repository is Ronan Downes's working education and interview-preparation si
 
 ## Information Architecture
 
-The main navigation is built around **eight interview areas**, with **Subjects** as the ninth top-level item:
+The main navigation is built around **eight interview areas**, followed by **Subjects** and **Policies**:
 
 1. Teaching & Learning
 2. Classroom Management
@@ -17,15 +17,17 @@ The main navigation is built around **eight interview areas**, with **Subjects**
 7. Relationships & Wellbeing
 8. Professional Responsibility & School Community
 9. Subjects
+10. Policies
 
 Do not add separate top-level **Home**, **Practice**, **Schools**, or **Interview** tabs unless Ronan explicitly asks for them. The Ronan Downes Education logo is the Home link.
 
 ## Navigation Rules
 
-- Each of the eight interview areas should be visible directly in the desktop navigation.
-- Each interview area should open a dropdown containing its most typical interview questions or subtopics.
-- The first dropdown item should open the full page for that area.
-- Subjects remains a dropdown after the eight interview areas.
+- Each of the eight interview-area titles is a direct link to the full notes page for that area.
+- The small dropdown control beside each title opens its typical interview questions or subtopics. Do not make users click an extra "All Notes" item.
+- Keep the desktop headings compact and deliberately wrapped where appropriate rather than stretching them across the full width.
+- Subjects remains a subject dropdown.
+- Policies is a top-level reference area for curated key documents, grouped by whole-school/professional and subject area.
 - On smaller screens, horizontal navigation is acceptable; do not hide the eight-area structure behind a generic Practice menu.
 
 ## Where Content Belongs
@@ -43,9 +45,11 @@ Use the eight areas as the default filing system.
 - questions to ask the school
 - links to school-specific research
 
-Keep **school sector/governance** separate from **ethos/patronage**. For example, voluntary secondary and denominational are related concepts but are not synonyms.
+Keep **school sector/governance** separate from **ethos/patronage**. Voluntary secondary and denominational are related concepts but are not synonyms.
 
 School-specific research can remain in separate files, but it should be reached from the relevant professional-responsibility context rather than needing its own permanent top-level navigation tab.
+
+**Policies** is for authoritative or frequently used documents and links. Keep it curated and organised under natural headings such as whole-school/professional, Mathematics, Science & Physics, Computer Science, Applied Mathematics, and SEN/AEN & Inclusion.
 
 ## Content Style
 
@@ -62,7 +66,7 @@ School-specific research can remain in separate files, but it should be reached 
 - Core content lives in Markdown under `content/`.
 - `_layouts/doc.html` controls the main site navigation and document shell.
 - `assets/styles.css` controls the desktop/mobile navigation and document appearance.
-- `.pages.yml` supports browser-based editing through Pages CMS.
+- `.pages.yml` supports browser-based editing through Pages CMS and should mirror the current content architecture.
 - GitHub Pages publishes from `main` at the repository root.
 - Preserve the `noindex,nofollow` setting while this remains a working preparation site.
 - Do not add student names, confidential student information, or sensitive school records to the public repository.
