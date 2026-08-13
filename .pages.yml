@@ -14,10 +14,10 @@ content:
       - { name: intro, type: text, label: Introduction }
       - { name: body, type: rich-text, label: Page content }
 
-  - name: teaching
-    label: Teaching & Learning
+  - name: timeline
+    label: Teaching & Experience Timeline
     type: file
-    path: content/practice/teaching-learning.md
+    path: content/timeline/teaching-experience.md
     format: yaml-frontmatter
     fields: &docfields
       - { name: layout, type: string, hidden: true }
@@ -26,6 +26,13 @@ content:
       - { name: eyebrow, type: string, label: Eyebrow }
       - { name: intro, type: text, label: Introduction }
       - { name: body, type: rich-text, label: Answers }
+
+  - name: teaching
+    label: Teaching & Learning
+    type: file
+    path: content/practice/teaching-learning.md
+    format: yaml-frontmatter
+    fields: *docfields
 
   - name: classroom
     label: Classroom Management
