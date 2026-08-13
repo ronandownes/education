@@ -5,7 +5,7 @@ title: Timeline
 eyebrow: TIMELINE
 intro: A reverse-chronological working record of schools, roles, subjects, SEN/AEN experience and the interview evidence each setting gives me.
 ---
-## Coláiste Dún Iascaigh, Cahir — Current Interview Focus (2026)
+## Coláiste Dún Iascaigh, Cahir — Current Interview Focus (2026) {:#current-interview-focus}
 **Key line: This is a prospective Science & SEN role, so use it as a comparison point with my actual experience rather than as employment history.**
 
 ### Why this role overlaps strongly with my experience
@@ -26,7 +26,7 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 ### Interview areas this can connect to
 **Teaching & Learning · Classroom Management · SEN / AEN & Inclusion · Differentiation & Accessibility · Assessment · Planning & Curriculum · Relationships & Wellbeing · Professional Responsibility**
 
-## Presentation Secondary School, Thurles — 2025–26
+## Presentation Secondary School, Thurles — 2025–26 {:#presentation-2025-26}
 **Key line: Recent experience across Junior Cycle, TY, Leaving Certificate and LCA gives me current evidence of planning, differentiation, assessment and classroom practice.**
 
 ### Teaching
@@ -48,7 +48,7 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 ### Interview areas
 **Teaching & Learning · Classroom Management · Differentiation · Assessment · Planning · Relationships**
 
-## Nenagh College — 2024–25
+## Nenagh College — 2024–25 {:#nenagh-2024-25}
 **Key line: Use this entry to capture experience in an ETB setting and compare it directly with Cahir.**
 
 ### Evidence to build out
@@ -62,7 +62,7 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 ### Cahir overlap
 This is one of the most useful comparison points for the current Cahir interview because both sit within an ETB context. Keep notes here on what was similar in structure, expectations, student support and professional responsibility, while avoiding assumptions that the two schools operate identically.
 
-## Thomond Community College — 2022–24
+## Thomond Community College — 2022–24 {:#thomond-2022-24}
 **Key line: This is a major evidence bank because it combines Mathematics, Science, Coding/Digital Media, varied programmes and significant mixed-needs experience.**
 
 ### Teaching and programmes
