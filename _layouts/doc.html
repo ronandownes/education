@@ -17,10 +17,6 @@
     </button>
     <nav class="topnav" id="mainNav" aria-label="Main navigation">
 
-      <div class="navitem nav-timeline nav-menu-only">
-        <a class="navlabel" href="{{ '/timeline.html' | relative_url }}"><span>Timeline</span></a>
-      </div>
-
       <div class="navitem nav-teaching">
         <a class="navlabel" href="{{ '/teaching-learning.html' | relative_url }}"><span>Teaching &amp;<br>Learning</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Teaching and Learning menu">▾</button>
@@ -109,6 +105,9 @@
         <button class="navlabel" type="button" data-nav-toggle aria-expanded="false"><span>Subjects</span><span class="inline-caret">▾</span></button>
         <div class="dropmenu">
           <a href="{{ '/subjects/mathematics.html' | relative_url }}">Mathematics</a>
+          <a class="drop-subitem" href="{{ '/subjects/mathematics.html#junior-cycle-mathematics' | relative_url }}">Junior Cycle Mathematics</a>
+          <a class="drop-subitem" href="{{ '/subjects/mathematics.html#leaving-certificate-mathematics' | relative_url }}">Leaving Certificate Mathematics</a>
+          <a class="drop-subitem" href="{{ '/subjects/mathematics.html#lca-mathematical-applications' | relative_url }}">LCA Mathematical Applications</a>
           <a href="{{ '/subjects/physics.html' | relative_url }}">Physics</a>
           <a href="{{ '/subjects/science.html' | relative_url }}">Science</a>
           <a href="{{ '/subjects/computer-science.html' | relative_url }}">Computer Science</a>
@@ -126,6 +125,17 @@
           <a href="{{ '/policies.html#computer-science' | relative_url }}">Computer Science</a>
           <a href="{{ '/policies.html#applied-mathematics' | relative_url }}">Applied Mathematics</a>
           <a href="{{ '/policies.html#sen--aen-and-inclusion' | relative_url }}">SEN / AEN &amp; Inclusion</a>
+        </div>
+      </div>
+
+      <div class="navitem nav-timeline nav-right nav-menu-only">
+        <button class="navlabel" type="button" data-nav-toggle aria-expanded="false"><span>Timeline</span><span class="inline-caret">▾</span></button>
+        <div class="dropmenu">
+          <a href="{{ '/timeline.html' | relative_url }}">Full teaching timeline</a>
+          <a href="{{ '/timeline.html#current-interview-focus' | relative_url }}">Current interview focus — Cahir</a>
+          <a href="{{ '/timeline.html#presentation-2025-26' | relative_url }}">Presentation — 2025–26</a>
+          <a href="{{ '/timeline.html#nenagh-2024-25' | relative_url }}">Nenagh College — 2024–25</a>
+          <a href="{{ '/timeline.html#thomond-2022-24' | relative_url }}">Thomond CC — 2022–24</a>
         </div>
       </div>
 
