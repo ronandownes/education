@@ -133,6 +133,28 @@
     </nav>
   </header>
 
+  {% assign cms_base = 'https://app.pagescms.org/ronandownes/education/main' %}
+  {% assign cms_url = cms_base %}
+  {% case page.path %}
+    {% when 'index.md' %}{% assign cms_url = cms_base | append: '/file/home' %}
+    {% when 'content/timeline/teaching-experience.md' %}{% assign cms_url = cms_base | append: '/file/timeline' %}
+    {% when 'content/practice/teaching-learning.md' %}{% assign cms_url = cms_base | append: '/file/teaching' %}
+    {% when 'content/practice/classroom-management.md' %}{% assign cms_url = cms_base | append: '/file/classroom' %}
+    {% when 'content/practice/sen-inclusion.md' %}{% assign cms_url = cms_base | append: '/file/sen' %}
+    {% when 'content/practice/differentiation-accessibility.md' %}{% assign cms_url = cms_base | append: '/file/differentiation' %}
+    {% when 'content/practice/assessment-reporting.md' %}{% assign cms_url = cms_base | append: '/file/assessment' %}
+    {% when 'content/practice/planning-curriculum.md' %}{% assign cms_url = cms_base | append: '/file/planning' %}
+    {% when 'content/practice/relationships-wellbeing.md' %}{% assign cms_url = cms_base | append: '/file/relationships' %}
+    {% when 'content/practice/professional-practice.md' %}{% assign cms_url = cms_base | append: '/file/professional_main' %}
+    {% when 'content/schools/st-patricks.md' %}{% assign cms_url = cms_base | append: '/file/stpatricks' %}
+    {% when 'content/interview/st-patricks.md' %}{% assign cms_url = cms_base | append: '/file/stpatricksnote' %}
+    {% when 'content/policies/policies.md' %}{% assign cms_url = cms_base | append: '/file/policies' %}
+  {% endcase %}
+  {% if page.path contains 'content/subjects/' %}
+    {% assign subject_file = page.path | remove: 'content/subjects/' %}
+    {% assign cms_url = cms_base | append: '/collection/subjects/edit/' | append: subject_file %}
+  {% endif %}
+
   <main class="page-stage">
     <article class="doc-paper">
       <p class="doc-kicker">{{ page.eyebrow }}</p>
@@ -143,7 +165,7 @@
         <button type="button" data-action="hide-all">Hide all</button>
         <button type="button" data-action="starred">★ Starred only</button>
         <button type="button" data-action="print">Print</button>
-        <a class="edit-link" href="https://app.pagescms.org" target="_blank" rel="noopener">Edit content</a>
+        <a class="edit-link" href="{{ cms_url }}" target="_blank" rel="noopener">Edit this page</a>
       </div>
       <div class="doc-body" id="docBody">{{ content }}</div>
     </article>
