@@ -84,3 +84,10 @@ content:
     format: yaml-frontmatter
     operations: { create: false, delete: false }
     fields: *docfields
+
+  - name: policies
+    label: Policies
+    type: file
+    path: content/policies/policies.md
+    format: yaml-frontmatter
+    fields: *docfields
