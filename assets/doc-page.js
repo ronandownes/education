@@ -1,10 +1,39 @@
 (() => {
+  const closeNavMenus = (except = null) => {
+    document.querySelectorAll('.navitem.is-open').forEach(item => {
+      if (item === except) return;
+      item.classList.remove('is-open');
+      item.querySelectorAll('[data-nav-toggle]').forEach(button => button.setAttribute('aria-expanded', 'false'));
+    });
+  };
+
+  document.querySelectorAll('[data-nav-toggle]').forEach(button => {
+    button.addEventListener('click', event => {
+      event.preventDefault();
+      event.stopPropagation();
+      const item = button.closest('.navitem');
+      if (!item) return;
+      const willOpen = !item.classList.contains('is-open');
+      closeNavMenus(item);
+      item.classList.toggle('is-open', willOpen);
+      item.querySelectorAll('[data-nav-toggle]').forEach(toggle => toggle.setAttribute('aria-expanded', String(willOpen)));
+    });
+  });
+
+  document.addEventListener('click', event => {
+    if (!event.target.closest('.navitem')) closeNavMenus();
+  });
+
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape') closeNavMenus();
+  });
+
   const body = document.getElementById('docBody');
   if (!body) return;
 
   const all = Array.from(body.children);
   const starts = all.filter(el => el.tagName === 'H2');
-  starts.forEach((heading, index) => {
+  starts.forEach(heading => {
     const section = document.createElement('section');
     section.className = 'answer-section';
     const key = location.pathname + '::' + heading.textContent.trim();
@@ -58,7 +87,7 @@
     document.querySelectorAll('.section-controls button:last-child').forEach(x => x.textContent = 'Show');
   });
   let starredOnly = false;
-  document.querySelector('[data-action="starred"]')?.addEventListener('click', (e) => {
+  document.querySelector('[data-action="starred"]')?.addEventListener('click', e => {
     starredOnly = !starredOnly;
     e.currentTarget.textContent = starredOnly ? 'Show all answers' : '★ Starred only';
     document.querySelectorAll('.answer-section').forEach(section => {
@@ -66,11 +95,4 @@
     });
   });
   document.querySelector('[data-action="print"]')?.addEventListener('click', () => window.print());
-
-  document.querySelectorAll('.navdrop').forEach(d => d.addEventListener('toggle', () => {
-    if (d.open) document.querySelectorAll('.navdrop').forEach(other => { if (other !== d) other.open = false; });
-  }));
-  document.addEventListener('click', e => {
-    if (!e.target.closest('.navdrop')) document.querySelectorAll('.navdrop').forEach(d => d.open = false);
-  });
 })();
