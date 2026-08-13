@@ -15,7 +15,7 @@ content:
       - { name: body, type: rich-text, label: Page content }
 
   - name: timeline
-    label: Teaching & Experience Timeline
+    label: Timeline
     type: file
     path: content/timeline/teaching-experience.md
     format: yaml-frontmatter
