@@ -5,6 +5,13 @@ title: Professional Responsibility & School Community
 eyebrow: PROFESSIONAL PRACTICE
 intro: Ethos, school context, collaboration, contribution, extracurricular involvement and interview fit.
 ---
+## Teaching & Experience Timeline
+**Key line: Use the timeline to turn my employment history into interview evidence.**
+
+[Open the Teaching & Experience Timeline]({{ '/timeline.html' | relative_url }})
+
+The timeline is reverse chronological and records schools, subjects, programmes, SEN/AEN experience, useful interview stories and where one school overlaps with another. The current focus is Coláiste Dún Iascaigh, Cahir, with explicit links back to relevant experience in other settings.
+
 ## School Ethos and Mission
 **Key line: I want to understand what the school says it values and how those values are lived in practice.**
 
