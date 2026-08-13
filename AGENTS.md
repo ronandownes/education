@@ -28,7 +28,7 @@ Do not add separate top-level **Home**, **Practice**, **Schools**, or **Intervie
 - Keep the desktop headings compact and deliberately wrapped where appropriate rather than stretching them across the full width.
 - Subjects remains a subject dropdown.
 - Policies is a top-level reference area for curated key documents, grouped by whole-school/professional and subject area.
-- On smaller screens, horizontal navigation is acceptable; do not hide the eight-area structure behind a generic Practice menu.
+- On smaller screens, collapse the full navigation behind a standard hamburger button. Keep the complete eight-area structure visible inside that mobile menu; do not replace it with a generic Practice menu or horizontal scrolling navigation.
 
 ## Where Content Belongs
 
