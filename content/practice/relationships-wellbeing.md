@@ -13,6 +13,6 @@ Students are more willing to take intellectual risks, ask for help and recover f
 
 ## What is the subject teacher's pastoral role?
 
-**Key line: The subject teacher often sees the first small signs that something has changed.**
+**The subject teacher often sees the first small signs that something has changed.**
 
 I notice attendance, engagement, peer dynamics, sudden changes in work or behaviour and pass concerns through the school's tutor, year-head, pastoral, AEN or safeguarding structures as appropriate. I do not try to act as counsellor; I contribute observations and use the support system.
