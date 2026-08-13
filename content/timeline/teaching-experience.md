@@ -1,8 +1,8 @@
 ---
 layout: doc
 permalink: /timeline.html
-title: Teaching & Experience Timeline
-eyebrow: EXPERIENCE TIMELINE
+title: Timeline
+eyebrow: TIMELINE
 intro: A reverse-chronological working record of schools, roles, subjects, SEN/AEN experience and the interview evidence each setting gives me.
 ---
 ## Coláiste Dún Iascaigh, Cahir — Current Interview Focus (2026)
