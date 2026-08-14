@@ -46,7 +46,7 @@ Throughout the year, I use **formative assessment evidence** to monitor progress
 
 **profile → assess → establish → align → sequence → adapt**
 
-## Specification and LO influence on my planning?
+## Specification and LO influence on my planning?hi
 
 ### I plan from what the learning outcomes require students to know, understand and do — not just from a list of topics.
 
