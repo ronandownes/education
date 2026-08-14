@@ -24,8 +24,8 @@ Three things:
 1. Review handover notes
 2. confirm finishing point
 3. analyse  students needing additional support or challenge
-4. review prior assessment 
-5. 
+4. review prior assessment
+
 
 ### Learner Profile
 
