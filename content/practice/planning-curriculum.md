@@ -12,7 +12,7 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 &nbsp;
 
-**I establish 📍 where the class is, choose an achievable learning goal ⚽, use retrieval 🔄 to activate prior learning, and build 🧱 the teaching and learning around what ongoing formative assessment and effective questioning 👀 tell me about students’ skills and understanding, finishing with a quick assessment 📊 to decide what should happen next.**
+**I establish  where the class is, choose an achievable learning goal , use retrieval  to activate prior learning, and build  the teaching and learning around what ongoing formative assessment and effective questioning  tell me about students’ skills and understanding, finishing with a quick assessment to decide what should happen next and to report back to their regular teacher.**
 
 **establish → goal → retrieve → build → check → assess**
 
