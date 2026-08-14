@@ -7,13 +7,22 @@ intro: Learning intentions, sequencing, curriculum outcomes and appropriate path
 ---
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
-Three things: the student profiles,  curriculum, and  assessment and diagnostic evidence.
+
+
+Three things: 
+
+1. the student profiles
+2. curriculum
+3. evidence.
 
 ### Handover
 
-Review handover notes  and or check with the previous teacher where the class finished in the scheme of work, go through the class list to identify students who may need additional support or challenge, and review prior assessment evidence. I’d also refer to any written handover notes or relevant department minutes available.
 
-Review handover notes, check finishing point, analyse  for additional support or challenge needs, review prior assessment 
+
+1. Review handover notes
+2. check finishing point
+3. analyse  for additional support or challenge
+4. review prior assessment 
 
 ### Learner Profile
 
