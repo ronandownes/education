@@ -11,13 +11,13 @@ intro: >-
   Differentiate · Adapt · Scaffold · Integrate · Assess · Monitor · Track ·
   Evaluate · Revisit · Collaborate
 ---
-# You are asked to take a second-year Maths class at short notice and no lesson has been left. How would you plan the lesson?
+## You are asked to take a second-year Maths class at short notice and no lesson has been left. How would you plan the lesson?
 
 ### Retrieval Chain
 
 **check → focus → activate → teach → practise → assess**
 
-## Key Line
+### Key Line
 
 I establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.
 
