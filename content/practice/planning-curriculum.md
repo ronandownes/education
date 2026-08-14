@@ -41,6 +41,12 @@ I move from **guided to independent practice**, circulating, questioning and adj
 
 I finish with a **quick check or exit task** to see what students understood and what should happen next.
 
+
+
+&nbsp;
+
+&nbsp;
+
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
 **The three pillars of planning are:**
