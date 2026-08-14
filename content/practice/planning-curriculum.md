@@ -25,13 +25,11 @@ intro: >-
 - 🔄 = **retrieval**
 - 📊 = **assessment evidence**
 
-**I establish 📍 where the class is, choose one achievable learning goal ⚽, and build 🧱 the lesson around retrieval 🔄 and assessment evidence 📊.**
+**I establish 📍 where the class is, choose an achievable learning goal ⚽, and build 🧱 the lesson around retrieval 🔄 and assessment evidence 📊.**
 
-### Check
+
 
 I quickly check the **scheme, recent work, assessment evidence and learner needs**.
-
-### Focus
 
 I choose **one small, achievable learning objective**.
 
