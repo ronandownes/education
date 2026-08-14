@@ -7,7 +7,7 @@ intro: Planning and curriculum language for rapid interview recall.
 ---
 ## Planning Word Wall
 
-
+## Word Wall
 
 | Keyword | Visual |
 
