@@ -18,7 +18,7 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 | Check | 👀 |
 | Collaborate | 🧑‍🤝‍🧑 |
 | Consolidate | 🔒 |
-| Differentiate | 🔀 |
+| Differentiate | 📶 |
 | Establish | 📍 |
 | Evaluate | ⚖️ |
 | Feedback | 💬 |
@@ -28,7 +28,7 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 | Monitor | 👁️ |
 | Practise | ✏️ |
 | Prioritise | ⭐ |
-| Profile | 🪪 |
+| Profile | 👤 |
 | Question | ❓ |
 | Retrieve | 🔄 |
 | Review | 🔎 |
