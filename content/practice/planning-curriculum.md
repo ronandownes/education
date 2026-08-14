@@ -25,7 +25,7 @@ intro: I Start with the learner, align with the curriculum, and adapt to the evi
 
 I prioritise key foundational learning **and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**  
 
-Yearly plan second-year Maths?
+## Yearly plan second-year Maths?
 
 👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
 
