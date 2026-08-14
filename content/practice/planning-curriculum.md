@@ -5,7 +5,7 @@ title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
 intro: I Start with the learner, align with the curriculum, and adapt to the evidence.
 ---
-## How would you plan a lesson on  **short notice**?
+## Plan a lesson on  **short notice**?
 
 **I establish  where the class is, determine or note an achievable learning goal depending on instructions , use retrieval  to activate prior learning, and let formative assessment  and effective questioning guide the teaching and learning   and  tell me about students’ skills and understanding . I finishing with a quick assessment  to report back to my subject department colleague and suggest a natural progression point and activity.**
 
@@ -13,7 +13,7 @@ intro: I Start with the learner, align with the curriculum, and adapt to the evi
 
 📍 → ⚽ → 🔄 → 🧭 → 📊 → 🗣️ → ➡️
 
-## Yearly plan first-year Maths?
+## Yearly plan first Maths?
 
 👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
 
@@ -25,7 +25,7 @@ intro: I Start with the learner, align with the curriculum, and adapt to the evi
 
 I prioritise key foundational learning **and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**  
 
-## Yearly plan second-year Maths?
+## Yearly plan second Maths?
 
 👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
 
@@ -41,7 +41,7 @@ I sequence the remaining learning coherently, prioritising important foundationa
 
 Throughout the year, I use **formative assessment evidence** to monitor progress, adjust pacing and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.
 
-## Curriculum specification and learning outcomes influence your planning?
+## Specification and LO influence on my planning?
 
 ### I plan from what the learning outcomes require students to know, understand and do — not just from a list of topics.
 
