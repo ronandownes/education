@@ -3,7 +3,10 @@ layout: doc
 permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
-intro: I Start with the learner, align with the curriculum, and adapt to the evidence.
+intro: |-
+  Start with the learner
+  Align with the curriculum
+  Adapt to the evidence.
 ---
 ## Plan a lesson on  **short notice**?
 
