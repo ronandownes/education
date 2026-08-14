@@ -38,7 +38,7 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 | Support | 🤲 |
 
 
-## How would you plan a lesson on short notice?
+## How would you plan a lesson on ++short notice++?
 
 📍 → ⚽ → 🔄 → 🧱 → 👀 → 📊
 
@@ -54,23 +54,25 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 &nbsp;
 
-## How would you plan the year for a second-year Maths class?
+## How would you plan the ++year++ for a second-year Maths class?
 
 ### Visual Chain
 
-🪪 → ∥ → 📊 → 📍 → 🧭 → 🔧
+👤 → ∥ → 📊 → 📍 → 🧭 → 🔧
 
 ### Retrieval Chain
 
-**profile → align → assess → diagnose → sequence → adapt**
+**profile → align → assess → establish → sequence → adapt**
 
 ### Combined Chain
 
-**🪪 profile → ∥ align → 📊 assess → 📍 diagnose → 🧭 sequence → 🔧 adapt**
+**👤 profile → ∥ align → 📊 assess → 📍 establish → 🧭 sequence → 🔧 adapt**
 
 ### Answer
 
-**I start by reviewing 🔎 the learner profile 🪪, handover information and prior assessment evidence, then align ∥ my planning with the Junior Cycle Mathematics learning outcomes. I use early assessment 📊 and diagnostic retrieval 📍 to identify strengths, gaps and misconceptions, then map 🧭 and sequence ①②③ the learning across the year, prioritising ⭐ key content and building in retrieval, consolidation 🔒 and revision. I differentiate 🔀 and scaffold 🏗️ where needed, and continuously monitor 👁️, assess 📊 and adapt 🔧 the plan in response to evidence, revisiting ↩️ learning and providing additional support 🤲 or challenge 🧗 as required.**
+**I start by reviewing 🔎 the learner profile 👤, handover information and prior assessment evidence, then align ∥ my planning with the Junior Cycle Mathematics learning outcomes. I use early assessment 📊 and retrieval 🔄 to establish 📍 students’ actual starting points, strengths, gaps and misconceptions. I then map 🧭 and sequence 1, 2, 3… the learning across the year, prioritising ⭐ key content and building in retrieval 🔄, consolidation 🔒 and revision. I differentiate 📶 and scaffold 🏗️ where needed, and continuously monitor 👁️, assess 📊 and adapt 🔧 the plan in response to evidence, revisiting ↩️ learning and providing additional support 🤲 or challenge 🧗 as required.**
+
+
 
 ## What informs your planning in Mathematics?
 
