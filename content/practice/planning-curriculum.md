@@ -11,7 +11,44 @@ intro: >-
   Scaffold · Integrate · Assess · Monitor · Track · Evaluate · Revisit ·
   Collaborate
 ---
-# Planning & Curriculum
+# Planning & Curriculum Questions  
+  
+You are asked to take a second-year Maths class at short notice and no lesson has been left. How would you plan the lesson?
+
+## Key Line
+
+**I would establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.**
+
+## Check
+
+I would quickly check:
+
+- the class scheme of work or recent topic
+- the textbook or online platform they are using
+- any available notes, homework or assessment evidence
+- whether there are students with AEN or particular support needs
+
+## Focus
+
+I would choose a **small, realistic objective** rather than trying to cover too much.
+
+For example, if they are working on algebra, I might focus on one clear skill such as simplifying expressions or solving a simple equation.
+
+## Activate
+
+I would begin with a short retrieval or diagnostic task to establish what they already know and identify any immediate gaps.
+
+## Teach
+
+I would model the concept clearly, use a small number of carefully chosen examples, then move to guided and independent practice.
+
+I would circulate, question students, use mini-whiteboards or quick checks, and adjust the level as I go.
+
+## Close
+
+I would finish with a short exit task or review so I know what they understood and what should happen next.
+
+**Memory words: Check – Focus – Activate – Teach – Close**
 
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
@@ -95,7 +132,7 @@ intro: >-
 
 ## How do you ensure your planning reflects both the curriculum and the actual students sitting in front of you?
 
-## **“How would you plan the year for a second-year Maths class?”** 
+## **“How would you plan the year for a second-year Maths class?”**
 
 This is a long range  or macro planning routine. It is about handover, learner profile, diagnosis, curriculum coverage, sequencing across terms, pacing, assessment evidence, and adapting the scheme over time.
 
