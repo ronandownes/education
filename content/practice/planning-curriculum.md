@@ -21,7 +21,6 @@ intro: >-
 
 I establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.
 
-
 ### Check
 
 I quickly check the **scheme, recent work, assessment evidence and learner needs**.
