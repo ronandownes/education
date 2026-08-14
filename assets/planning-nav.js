@@ -13,7 +13,7 @@
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
 
-  const headings = Array.from(body.querySelectorAll(':scope > h2'));
+  const headings = Array.from(body.querySelectorAll('h2'));
   if (!headings.length) return;
 
   menu.replaceChildren();
