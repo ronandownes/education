@@ -3,11 +3,15 @@ layout: doc
 permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
-intro: Learning intentions, sequencing, curriculum outcomes and appropriate pathways.
+intro: >-
+  Learning intentions, sequencing, curriculum outcomes and appropriate pathways.
+
+
+  Review · Map · Sequence · Align · Prioritise · Differentiate · Adapt ·
+  Scaffold · Integrate · Assess · Monitor · Track · Evaluate · Revisit ·
+  Collaborate
 ---
 ## If you were given a second-year Maths class in September, how would you plan the year?
-
-
 
 Three things: 
 
@@ -17,12 +21,11 @@ Three things:
 
 ### Handover
 
-
-
 1. Review handover notes
 2. confirm finishing point
-3. analyse  for additional support or challenge
+3. analyse  students needing additional support or challenge
 4. review prior assessment 
+5. 
 
 ### Learner Profile
 
