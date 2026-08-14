@@ -50,7 +50,121 @@ The scheme would be structured but flexible. I would use ongoing formative asses
 
 
 
+## Planning & Curriculum
+
+## Word Wall
+
+**Review · Profile · Diagnose · Map · Sequence · Align · Prioritise · Differentiate · Adapt · Scaffold · Integrate · Assess · Monitor · Track · Evaluate · Revisit · Collaborate**
+
+###### If you were given a second-year Maths class in September, how would you plan the year?
+
+**The three pillars of planning are:**
+
+1. Students
+2. Curriculum
+3. Evidence
+
+### Review — Handover
+
+1. Review handover notes.
+2. Confirm the finishing point.
+3. Identify students needing additional support or challenge.
+4. Review prior assessment evidence.
+
+### Profile — Learner
+
+I review the learner profile, including AEN, literacy and numeracy needs, and any L2LP requirements.
+
+This enables me to build the necessary supports and differentiation into my planning from the outset.
+
+### Diagnose — Starting Point
+
+Early in September, I use a short, low-stakes diagnostic retrieval task to identify gaps, misconceptions and areas of strength.
+
+**That gives me the class's real starting point.**
+
+### Map — Curriculum
+
+I map the Junior Cycle Mathematics learning outcomes across the year.
+
+### Sequence — Learning
+
+I sequence topics logically and allow realistic time for:
+
+- retrieval
+- assessment
+- consolidation
+- revision
+
+### Adapt — Evidence
+
+The scheme is structured but flexible.
+
+I use ongoing formative assessment to:
+
+- adjust the pace
+- revisit misconceptions
+- provide additional support
+- provide additional challenge
+
+**Closing line:** The scheme provides the direction, but the students and the evidence determine the pace and the route.
+
+**Memory words:** Review – Profile – Diagnose – Map – Sequence – Adapt
+
+## How do you plan?
+
+**Key line: Every lesson belongs to a bigger journey.**
+
+### Align
+
+I start with the curriculum outcomes and the class's current position.
+
+### Anticipate
+
+I identify:
+
+- the learning intention
+- prior knowledge
+- likely misconceptions
+
+### Represent
+
+I select the examples, representations and resources that will make the mathematics accessible.
+
+### Question
+
+I plan the key questions that will expose student thinking and move learning forward.
+
+### Assess
+
+I decide what evidence will show me whether students have understood and what should happen next.
+
 ## How do you plan for different programmes and pathways?
 
-The programme changes the route and context, not the expectation that learning should be purposeful. I adapt planning for Junior Cycle, Senior Cycle, LCA and learning-support contexts, including pacing, practical application and assessment requirements.
+**Key line: The programme changes the route and context, not the expectation that learning should be purposeful.**
+
+### Tailor
+
+I adapt planning for:
+
+- Junior Cycle
+- Senior Cycle
+- LCA
+- learning-support contexts
+
+### Pace
+
+I adjust the sequencing and rate of new material to suit the programme and learners.
+
+### Contextualise
+
+I connect mathematics to meaningful and practical applications where appropriate.
+
+### Scaffold
+
+I build the necessary support, accessibility and differentiation into the plan.
+
+### Integrate
+
+I incorporate the relevant assessment requirements into the learning sequence.
 
