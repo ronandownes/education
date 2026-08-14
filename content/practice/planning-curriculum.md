@@ -20,7 +20,7 @@ Three things:
 
 
 1. Review handover notes
-2. check finishing point
+2. confirm finishing point
 3. analyse  for additional support or challenge
 4. review prior assessment 
 
