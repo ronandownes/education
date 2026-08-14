@@ -7,7 +7,7 @@ intro: Learning intentions, sequencing, curriculum outcomes and appropriate path
 ---
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
-**Key line: I would begin by establishing three things: what was taught, where the students are now, and what they need next.**
+I would start with three things: the student profiles, the curriculum, and evidence from previous assessments and a short start-of-year diagnostic retrieval task.
 
 ### Handover
 
