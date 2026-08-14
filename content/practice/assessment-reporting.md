@@ -5,21 +5,13 @@ title: Assessment, Feedback & Reporting
 eyebrow: PROFESSIONAL PRACTICE
 intro: Assessment → interpret evidence → feedback → respond → report.
 ---
-## How do you assess learning?
+## What types of assessment do you use as a teacher, and how do you use that information to help your teaching? {#how-do-you-assess-learning}
 
 **Key line: Assessment is evidence that changes what happens next.**
 
 I use a range of formative and summative assessment: questioning, observation, mini-whiteboards, discussion, written work, retrieval quizzes, topic tests and formal assessments.
 
 I look beyond whether an answer is simply right or wrong. I look at how students represent, explain and justify their thinking, and I use that evidence to decide what happens next: extend, practise, reteach, change representation, regroup or provide targeted support.
-
-## What types of assessment do you use as a teacher, and how do you use that information to help your teaching?
-
-**Key line: I gather evidence, interpret it, and change the teaching where necessary.**
-
-I use assessment during learning as well as at the end of learning. Questioning, observation, mini-whiteboards, classwork and short retrieval checks give me immediate evidence; quizzes, topic tests and formal assessments give me a broader picture over time.
-
-The important part is the response. I use the evidence to adjust pace, revisit misconceptions, change the representation or explanation, provide additional support, or increase the level of challenge.
 
 ## What is your understanding of Assessment for Learning (AfL)?
 
