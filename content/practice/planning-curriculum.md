@@ -44,37 +44,21 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 I prioritise key foundational learning **and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**
 
-# What informs your planning in Mathematics?
+# How do the curriculum specification and learning outcomes influence your planning?
 
 ## Key Line
 
-**My planning is informed by the students, the curriculum, and the evidence I gather about learning.**
+**I plan from the learning outcomes, not just from a list of topics.**
 
-## Students
+I go directly to the **Junior Cycle Mathematics specification** and unpack the relevant learning outcomes in detail. I identify the knowledge, skills and understanding they require, connect related outcomes, and use that to build a coherent sequence of learning across the year.
 
-I start with the **learner profile**: prior attainment, AEN, literacy and numeracy needs, confidence, pace of learning, and any relevant handover information.
+The learning outcomes also inform what I assess and what success should look like. From there, I use professional judgement and evidence from the class to adjust the pace, sequencing, support and level of challenge.
 
-## Curriculum
-
-I work directly from the **Mathematics specification and learning outcomes**, unpacking what knowledge and skills students need to develop and connecting related outcomes into a coherent sequence.
-
-## Evidence
-
-I use **assessment evidence, retrieval, questioning, classwork and observation** to establish students’ actual starting points and identify strengths, gaps and misconceptions.
-
-## Department Planning
-
-I also take account of the **subject plan, departmental scheme of work, common assessments and agreed approaches**, while retaining flexibility to respond to the class in front of me.
-
-## Adapt
-
-Planning is not fixed. I continually **monitor, assess and adapt** the pace, sequence, support and level of challenge in response to evidence.
+**Retrieval:** specification → unpack → connect → sequence → assess → adapt
 
 ### Retrieval Chain
 
-**students → curriculum → evidence → department → adapt**
-
-# How do the curriculum specification and learning outcomes influence your planning?
+**unpack → connect → sequence → assess → adapt**ecification and learning outcomes influence your planning?
 
 ## Key Line
 
