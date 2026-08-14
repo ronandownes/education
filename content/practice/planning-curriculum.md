@@ -13,6 +13,10 @@ intro: >-
 ---
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
+
+
+**“How would you plan the year for a second-year Maths class?”** is long-range or macro planning. It is about handover, learner profile, diagnosis, curriculum coverage, sequencing across terms, pacing, assessment evidence, and adapting the scheme over time.
+
 Three things: 
 
 1. the student profiles
