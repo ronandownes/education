@@ -4,13 +4,39 @@ permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
 intro: >-
-  Learning intentions, sequencing, curriculum outcomes and appropriate pathways.
-
-
-  Review · Profile · Diagnose · Map · Sequence · Align · Prioritise ·
-  Differentiate · Adapt · Scaffold · Integrate · Assess · Monitor · Track ·
-  Evaluate · Revisit · Collaborate
+  Planning starts with the learner, aligns with the curriculum, and adapts to evidence.
 ---
+
+### Word Wall
+
+| Keyword | Visual |
+|---|:---:|
+| Review | 🔎 |
+| Profile | 🪪 |
+| Establish | 📍 |
+| Goal | ⚽ |
+| Align | ∥ |
+| Prioritise | ⭐ |
+| Map | 🧭 |
+| Sequence | ①②③ |
+| Retrieve | 🔄 |
+| Model | 👁️➡️✏️ |
+| Practise | ✏️ |
+| Question | ❓ |
+| Check | 👀 |
+| Assess | 📊 |
+| Feedback | 💬 |
+| Scaffold | 🏗️ |
+| Differentiate | 🔀 |
+| Support | 🤲 |
+| Challenge | 🧗 |
+| Monitor | 👁️ |
+| Consolidate | 🔒 |
+| Revisit | ↩️ |
+| Adapt | 🔧 |
+| Evaluate | ⚖️ |
+| Collaborate | 🧑‍🤝‍🧑 |
+
 ## How would you plan a lesson on short notice?
 
 ### Visual Chain
@@ -33,7 +59,7 @@ intro: >-
 
 ### Visual Chain
 
-👥 → 📘 → 📊 → 📍 → 🗺️ → 🔄
+🪪 → ∥ → 📊 → 📍 → 🧭 → 🔧
 
 ### Retrieval Chain
 
@@ -41,11 +67,11 @@ intro: >-
 
 ### Combined Chain
 
-**👥 profile → 📘 align → 📊 assess → 📍 diagnose → 🗺️ sequence → 🔄 adapt**
+**🪪 profile → ∥ align → 📊 assess → 📍 diagnose → 🧭 sequence → 🔧 adapt**
 
 ### Answer
 
-**I start by reviewing 👥 the learner profile, handover information and prior assessment evidence, then align 📘 my planning with the Junior Cycle Mathematics learning outcomes. I use early assessment 📊 and diagnostic retrieval 📍 to identify strengths, gaps and misconceptions, then map and sequence 🗺️ the learning across the year, prioritising key content and building in retrieval, consolidation and revision. I differentiate and scaffold where needed, and continuously monitor, assess and adapt 🔄 the plan in response to evidence, revisiting learning and providing additional support or challenge as required.**
+**I start by reviewing 🔎 the learner profile 🪪, handover information and prior assessment evidence, then align ∥ my planning with the Junior Cycle Mathematics learning outcomes. I use early assessment 📊 and diagnostic retrieval 📍 to identify strengths, gaps and misconceptions, then map 🧭 and sequence ①②③ the learning across the year, prioritising ⭐ key content and building in retrieval, consolidation 🔒 and revision. I differentiate 🔀 and scaffold 🏗️ where needed, and continuously monitor 👁️, assess 📊 and adapt 🔧 the plan in response to evidence, revisiting ↩️ learning and providing additional support 🤲 or challenge 🧗 as required.**
 
 ## What informs your planning in Mathematics?
 
@@ -152,3 +178,4 @@ I incorporate the relevant assessment requirements into the learning sequence.
 
 ## How do you ensure your planning reflects both the curriculum and the actual students sitting in front of you?
 
+<script src="{{ '/assets/planning-nav.js' | relative_url }}"></script>
