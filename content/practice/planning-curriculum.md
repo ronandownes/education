@@ -6,7 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Planning starts with the learner, aligns with the curriculum, and adapts
   to evidence.
 ---
-## Word Wall
+## Word Wall 
 
 
 | Keyword | Visual |
@@ -24,7 +24,7 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 | Feedback | 💬 |
 | Goal | ⚽ |
 | Map | 🧭 |
-| Model | 👁️➡️✏️ |
+| Model | 👨‍🏫 |
 | Monitor | 👁️ |
 | Practise | ✏️ |
 | Prioritise | ⭐ |
@@ -34,7 +34,7 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 | Review | 🔎 |
 | Revisit | ↩️ |
 | Scaffold | 🏗️ |
-| Sequence | ①②③ |
+| Sequence | 1, 2, 3… |
 | Support | 🤲 |
 
 
