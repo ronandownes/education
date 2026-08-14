@@ -41,11 +41,9 @@ I sequence the remaining learning coherently, prioritising important foundationa
 
 Throughout the year, I use **formative assessment evidence** to monitor progress, adjust pacing and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.
 
-# How do the curriculum specification and learning outcomes influence your planning?
+# Curriculum specification and learning outcomes influence your planning?
 
-## Key Line
-
-**I plan from what the learning outcomes require students to know, understand and do — not just from a list of topics.**
+### I plan from what the learning outcomes require students to know, understand and do — not just from a list of topics.
 
 I go directly to the **Junior Cycle Mathematics specification** and unpack the relevant learning outcomes in detail. I look at both the mathematical content and the **action verbs** — for example *investigate, represent, explore, apply, generalise, interpret and solve* — because these tell me the depth and type of learning students are expected to demonstrate.
 
