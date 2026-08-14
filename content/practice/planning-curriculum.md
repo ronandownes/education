@@ -13,30 +13,25 @@ intro: >-
 ---
 ## You are asked to take a second-year Maths class at short notice and no lesson has been left. How would you plan the lesson?
 
-### Key Line  
+### Key Line
 
-establish → check → focus → model → practise → assess → adapt
+**establish → check → focus → model → practise → assess → adapt**
 
-I establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.
+### Establish
+
+I establish **where the class is and what they need next**.
 
 ### Check
 
-I would quickly check:
-
-- the class scheme of work or recent topic
-- the textbook or online platform they are using
-- any available notes, homework or assessment evidence
-- whether there are students with AEN or other support or challenge needs
+I quickly check the **scheme, recent work, assessment evidence and learner needs**.
 
 ### Focus
 
-I would choose a **small, realistic objective** rather than trying to cover too much.
-
-For example, if they are working on algebra, I might focus on one clear skill such as simplifying expressions or solving a simple equation.
+I choose **one small, achievable learning objective** appropriate to where the class is.
 
 ### Activate
 
-I would begin with a short retrieval or diagnostic task to establish what they already know and identify any immediate gaps.
+I use a **short retrieval task** to check prior knowledge and identify gaps.
 
 ### Teach
 
