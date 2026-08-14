@@ -20,8 +20,6 @@ If I am told, for example, **“do page 42 on linear equations,”** I still unp
 
 ## Yearly plan first Maths?
 
-
-
 **I start by reviewing the learner profile, transition and handover information, including primary-school reports and any available assessment evidence. Because students are coming from different primary schools, I use early assessment and retrieval to establish their actual starting points, strengths, gaps and misconceptions rather than making assumptions about prior learning.**
 
 **I then work directly from the Junior Cycle Mathematics specification, unpacking the individual learning outcomes in detail, identifying the knowledge and skills they require, and linking related outcomes into a coherent sequence of learning across the year.**
@@ -33,8 +31,6 @@ I prioritise key foundational learning **and build in regular retrieval, consoli
 **profile → assess → establish → align → sequence → adapt**
 
 ## Yearly plan second Maths?
-
-
 
 I start by reviewing the learner profile and first-year handover information, including the point reached in the course, previous assessment evidence, strengths, gaps and any areas requiring additional support or challenge. I also consider **AEN, literacy and numeracy needs**, Student Support Files and any **L2LP requirements** relevant to the students in the class.
 
