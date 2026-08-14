@@ -3,14 +3,14 @@ layout: doc
 permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
-intro: >-
-  Planning starts with the learner, aligns with the curriculum, and adapts to evidence.
+intro: Planning starts with the learner, aligns with the curriculum, and adapts
+  to evidence.
 ---
+## Word Wall
 
-### Word Wall
 
 | Keyword | Visual |
-|---|:---:|
+| ------------- | -------- |
 | Review | 🔎 |
 | Profile | 🪪 |
 | Establish | 📍 |
@@ -36,6 +36,7 @@ intro: >-
 | Adapt | 🔧 |
 | Evaluate | ⚖️ |
 | Collaborate | 🧑‍🤝‍🧑 |
+
 
 ## How would you plan a lesson on short notice?
 
@@ -178,4 +179,3 @@ I incorporate the relevant assessment requirements into the learning sequence.
 
 ## How do you ensure your planning reflects both the curriculum and the actual students sitting in front of you?
 
-<script src="{{ '/assets/planning-nav.js' | relative_url }}"></script>
