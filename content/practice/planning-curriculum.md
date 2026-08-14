@@ -19,7 +19,7 @@ intro: >-
 
 ### Key Line
 
-I establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.
+I establish where the class is, choose one achievable learning goal, and build the lesson around retrieval and other evidence
 
 ### Check
 
