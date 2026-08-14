@@ -3,8 +3,7 @@ layout: doc
 permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
-intro: Planning starts with the learner, aligns with the curriculum, and adapts
-  to evidence.
+intro: I Start with the learner, align with the curriculum, and adapt to the evidence.
 ---
 ## How would you plan a lesson on  **short notice**?
 
@@ -25,7 +24,7 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 **I then work directly from the Junior Cycle Mathematics specification, unpacking the individual learning outcomes in detail, identifying the knowledge and skills they require, and linking related outcomes into a coherent sequence of learning across the year.**
 
 I prioritise key foundational learning **and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**  
-  
+
 Yearly plan second-year Maths?
 
 👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
