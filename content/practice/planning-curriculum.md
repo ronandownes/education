@@ -6,9 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Planning starts with the learner, aligns with the curriculum, and adapts
   to evidence.
 ---
-
-
-## How would you plan a lesson on ++short notice++?
+## How would you plan a lesson on  short notice?
 
 📍 → ⚽ → 🔄 → 🧱 → 👀 → 📊
 
