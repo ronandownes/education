@@ -200,45 +200,99 @@
   }
 
   let utterance = null;
+  let activeReadButton = null;
 
   const resetControls = () => {
     readButton.textContent = '🔊 Read aloud';
     stopButton.hidden = true;
+    if (activeReadButton) activeReadButton.textContent = '🔊 Read';
+    activeReadButton = null;
     utterance = null;
   };
 
-  const getVisibleText = () => {
-    const clone = body.cloneNode(true);
+  const cleanVisibleText = root => {
+    const clone = root.cloneNode(true);
     clone.querySelectorAll('button, script, style, .section-controls, [hidden], .star-filter-hidden, .is-reveal-hidden').forEach(el => el.remove());
     return clone.innerText.replace(/\s+/g, ' ').trim();
   };
 
-  readButton.addEventListener('click', () => {
-    if (synth.speaking && !synth.paused) {
-      synth.pause();
-      readButton.textContent = '▶ Resume';
-      return;
-    }
-
-    if (synth.paused) {
-      synth.resume();
-      readButton.textContent = '⏸ Pause';
-      return;
-    }
-
-    const text = getVisibleText();
+  const speakText = (text, sourceButton = null) => {
     if (!text) return;
-
     synth.cancel();
+    resetControls();
     utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'en-IE';
     utterance.rate = 0.95;
     utterance.onend = resetControls;
     utterance.onerror = resetControls;
     stopButton.hidden = false;
-    readButton.textContent = '⏸ Pause';
+    activeReadButton = sourceButton;
+    if (sourceButton) sourceButton.textContent = '⏸ Pause';
+    else readButton.textContent = '⏸ Pause';
     synth.speak(utterance);
+  };
+
+  const getVisibleText = () => cleanVisibleText(body);
+
+  readButton.addEventListener('click', () => {
+    if (synth.speaking && !synth.paused) {
+      synth.pause();
+      if (activeReadButton) activeReadButton.textContent = '▶ Resume';
+      else readButton.textContent = '▶ Resume';
+      return;
+    }
+
+    if (synth.paused) {
+      synth.resume();
+      if (activeReadButton) activeReadButton.textContent = '⏸ Pause';
+      else readButton.textContent = '⏸ Pause';
+      return;
+    }
+
+    speakText(getVisibleText());
   });
+
+  const prepareSectionReaders = () => {
+    document.querySelectorAll('.answer-section').forEach(section => {
+      if (section.dataset.readAloudPrepared === 'true') return;
+      const controls = section.querySelector('.section-controls');
+      if (!controls) return;
+
+      const sectionRead = document.createElement('button');
+      sectionRead.type = 'button';
+      sectionRead.className = 'section-read-aloud';
+      sectionRead.textContent = '🔊 Read';
+      sectionRead.title = 'Read only this answer aloud';
+      controls.insertBefore(sectionRead, controls.lastElementChild);
+
+      sectionRead.addEventListener('click', event => {
+        event.preventDefault();
+        event.stopPropagation();
+
+        if (activeReadButton === sectionRead && synth.speaking && !synth.paused) {
+          synth.pause();
+          sectionRead.textContent = '▶ Resume';
+          return;
+        }
+        if (activeReadButton === sectionRead && synth.paused) {
+          synth.resume();
+          sectionRead.textContent = '⏸ Pause';
+          return;
+        }
+
+        const heading = section.querySelector('.answer-heading-row h2');
+        const content = section.querySelector('.section-content');
+        const text = [heading?.innerText.trim(), content ? cleanVisibleText(content) : ''].filter(Boolean).join('. ');
+        speakText(text, sectionRead);
+      });
+
+      section.dataset.readAloudPrepared = 'true';
+    });
+  };
+
+  const sectionReaderObserver = new MutationObserver(prepareSectionReaders);
+  sectionReaderObserver.observe(body, { childList: true, subtree: true });
+  prepareSectionReaders();
 
   stopButton.addEventListener('click', () => {
     synth.cancel();
