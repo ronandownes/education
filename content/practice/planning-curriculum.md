@@ -24,7 +24,23 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 **I then work directly from the Junior Cycle Mathematics specification, unpacking the individual learning outcomes in detail, identifying the knowledge and skills they require, and linking related outcomes into a coherent sequence of learning across the year.**
 
-I prioritise key foundational learning **and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**
+I prioritise key foundational learning **and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**  
+  
+Yearly plan second-year Maths?
+
+👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
+
+**profile → assess → establish → align → sequence → adapt**
+
+I start by reviewing the learner profile and first-year handover information, including the point reached in the course, previous assessment evidence, strengths, gaps and any areas requiring additional support or challenge. I also consider **AEN, literacy and numeracy needs**, Student Support Files and any **L2LP requirements** relevant to the students in the class.
+
+Early retrieval and low-stakes diagnostic assessment allow me to establish what students actually retained from first year and identify misconceptions or gaps before moving forward.
+
+I then work directly from the **Junior Cycle Mathematics specification**, unpacking the learning outcomes, identifying the knowledge and skills required, and aligning these with the department plan and the learning already completed in first year.
+
+I sequence the remaining learning coherently, prioritising important foundational knowledge and building in regular retrieval, consolidation and revision. I differentiate and scaffold where required, while providing appropriate challenge.
+
+Throughout the year, I use **formative assessment evidence** to monitor progress, adjust pacing and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.
 
 # How do the curriculum specification and learning outcomes influence your planning?
 
