@@ -17,10 +17,6 @@
     </button>
     <nav class="topnav" id="mainNav" aria-label="Main navigation">
 
-      <div class="navitem nav-timeline nav-menu-only">
-        <a class="navlabel" href="{{ '/timeline.html' | relative_url }}"><span>Timeline</span></a>
-      </div>
-
       <div class="navitem nav-teaching">
         <a class="navlabel" href="{{ '/teaching-learning.html' | relative_url }}"><span>Teaching &amp;<br>Learning</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Teaching and Learning menu">▾</button>
@@ -77,7 +73,8 @@
         <a class="navlabel" href="{{ '/planning-curriculum.html' | relative_url }}"><span>Planning &amp;<br>Curriculum</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Planning and Curriculum menu">▾</button>
         <div class="dropmenu">
-          <a href="{{ '/planning-curriculum.html#how-do-you-plan' | relative_url }}">How do you plan?</a>
+          <a href="{{ '/planning-curriculum.html#if-you-were-given-a-second-year-maths-class-in-september-how-would-you-plan-the-year' | relative_url }}">Plan a second-year class</a>
+          <a href="{{ '/planning-curriculum.html#how-do-you-plan-a-lesson' | relative_url }}">Plan a lesson</a>
           <a href="{{ '/planning-curriculum.html#how-do-you-plan-for-different-programmes-and-pathways' | relative_url }}">Programmes and pathways</a>
         </div>
       </div>
@@ -130,6 +127,40 @@
         </div>
       </div>
 
+      <div class="navitem nav-specification nav-right">
+        <a class="navlabel" href="{{ '/specification/jc-mathematics.html' | relative_url }}"><span>Specification</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Specification menu">▾</button>
+        <div class="dropmenu">
+          <a href="{{ '/specification/jc-mathematics.html#overview' | relative_url }}">Overview</a>
+          <a href="{{ '/specification/jc-mathematics.html#unifying-strand' | relative_url }}">Unifying Strand</a>
+          <a href="{{ '/specification/jc-mathematics.html#number' | relative_url }}">Number</a>
+          <a href="{{ '/specification/jc-mathematics.html#geometry--trigonometry' | relative_url }}">Geometry &amp; Trigonometry</a>
+          <a href="{{ '/specification/jc-mathematics.html#algebra--functions' | relative_url }}">Algebra &amp; Functions</a>
+          <a href="{{ '/specification/jc-mathematics.html#statistics--probability' | relative_url }}">Statistics &amp; Probability</a>
+          <a href="{{ '/specification/jc-mathematics.html#assessment--reporting' | relative_url }}">Assessment &amp; Reporting</a>
+          <a href="{{ '/specification/jc-mathematics.html#appendix-a--action-verbs' | relative_url }}">Appendix A — Action Verbs</a>
+          <a href="{{ '/specification/jc-mathematics.html#appendix-b--geometry-for-post-primary-school-mathematics' | relative_url }}">Appendix B — Geometry</a>
+        </div>
+      </div>
+
+      <div class="navitem nav-wordwall nav-right nav-menu-only">
+        <a class="navlabel" href="{{ '/word-wall.html' | relative_url }}"><span>Word Wall</span></a>
+      </div>
+
+      <div class="navitem nav-timeline nav-right">
+        <a class="navlabel" href="{{ '/timeline.html' | relative_url }}"><span>Timeline</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Timeline menu">▾</button>
+        <div class="dropmenu">
+          <a href="{{ '/timeline.html#timeline-st-patricks' | relative_url }}">St Patrick's Comprehensive, Shannon</a>
+          <a href="{{ '/timeline.html#timeline-presentation' | relative_url }}">Presentation Secondary, Thurles</a>
+          <a href="{{ '/timeline.html#timeline-nenagh' | relative_url }}">Nenagh College</a>
+          <a href="{{ '/timeline.html#timeline-thomond' | relative_url }}">Thomond Community College</a>
+          <a href="{{ '/timeline.html#timeline-scoil-mhuire' | relative_url }}">Scoil Mhuire agus Íde</a>
+          <a href="{{ '/timeline.html#timeline-john-baptist' | relative_url }}">John the Baptist Community School</a>
+          <a href="{{ '/timeline.html#timeline-earlier' | relative_url }}">Earlier Teaching Experience</a>
+        </div>
+      </div>
+
     </nav>
   </header>
 
@@ -149,6 +180,8 @@
     {% when 'content/schools/st-patricks.md' %}{% assign cms_url = cms_base | append: '/file/stpatricks' %}
     {% when 'content/interview/st-patricks.md' %}{% assign cms_url = cms_base | append: '/file/stpatricksnote' %}
     {% when 'content/policies/policies.md' %}{% assign cms_url = cms_base | append: '/file/policies' %}
+    {% when 'content/specification/jc-mathematics.md' %}{% assign cms_url = cms_base | append: '/file/specification' %}
+    {% when 'content/reference/word-wall.md' %}{% assign cms_url = cms_base | append: '/file/wordwall' %}
   {% endcase %}
   {% if page.path contains 'content/subjects/' %}
     {% assign subject_file = page.path | remove: 'content/subjects/' %}
