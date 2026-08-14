@@ -44,7 +44,35 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 **I prioritise key foundational learning and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**
 
-## What informs your planning in Mathematics?
+# What informs your planning in Mathematics?
+
+## Key Line
+
+**My planning is informed by the students, the curriculum, and the evidence I gather about learning.**
+
+## Students
+
+I start with the **learner profile**: prior attainment, AEN, literacy and numeracy needs, confidence, pace of learning, and any relevant handover information.
+
+## Curriculum
+
+I work directly from the **Mathematics specification and learning outcomes**, unpacking what knowledge and skills students need to develop and connecting related outcomes into a coherent sequence.
+
+## Evidence
+
+I use **assessment evidence, retrieval, questioning, classwork and observation** to establish students’ actual starting points and identify strengths, gaps and misconceptions.
+
+## Department Planning
+
+I also take account of the **subject plan, departmental scheme of work, common assessments and agreed approaches**, while retaining flexibility to respond to the class in front of me.
+
+## Adapt
+
+Planning is not fixed. I continually **monitor, assess and adapt** the pace, sequence, support and level of challenge in response to evidence.
+
+### Retrieval Chain
+
+**students → curriculum → evidence → department → adapt**
 
 ## How do the curriculum specification and learning outcomes influence your planning?
 
