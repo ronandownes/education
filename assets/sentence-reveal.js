@@ -7,7 +7,9 @@
     .reveal-step.is-reveal-hidden{display:none!important}
     .answer-section.is-reveal-active{box-shadow:inset 3px 0 0 var(--blue);padding-left:14px}
     .section-controls .reveal-button.is-active{background:#e8f0fe;border-color:#aecbfa;color:#174ea6;font-weight:700}
-    @media print{.reveal-step.is-reveal-hidden{display:revert!important}.answer-section.is-reveal-active{box-shadow:none;padding-left:0}}
+    .section-controls .section-edit-link{font:inherit;font-size:.82rem;border:1px solid var(--line);background:#fff;color:#3c4043;border-radius:4px;padding:6px 9px;text-decoration:none;cursor:pointer}
+    .section-controls .section-edit-link:hover{background:#f8f9fa}
+    @media print{.reveal-step.is-reveal-hidden{display:revert!important}.answer-section.is-reveal-active{box-shadow:none;padding-left:0}.section-edit-link{display:none!important}}
   `;
   document.head.appendChild(style);
 
@@ -201,12 +203,15 @@
 
   let utterance = null;
   let activeReadButton = null;
+  let activeSectionStop = null;
 
   const resetControls = () => {
     readButton.textContent = '🔊 Read aloud';
     stopButton.hidden = true;
     if (activeReadButton) activeReadButton.textContent = '🔊 Read';
+    if (activeSectionStop) activeSectionStop.hidden = true;
     activeReadButton = null;
+    activeSectionStop = null;
     utterance = null;
   };
 
@@ -216,7 +221,7 @@
     return clone.innerText.replace(/\s+/g, ' ').trim();
   };
 
-  const speakText = (text, sourceButton = null) => {
+  const speakText = (text, sourceButton = null, sourceStop = null) => {
     if (!text) return;
     synth.cancel();
     resetControls();
@@ -227,6 +232,8 @@
     utterance.onerror = resetControls;
     stopButton.hidden = false;
     activeReadButton = sourceButton;
+    activeSectionStop = sourceStop;
+    if (sourceStop) sourceStop.hidden = false;
     if (sourceButton) sourceButton.textContent = '⏸ Pause';
     else readButton.textContent = '⏸ Pause';
     synth.speak(utterance);
@@ -263,7 +270,16 @@
       sectionRead.className = 'section-read-aloud';
       sectionRead.textContent = '🔊 Read';
       sectionRead.title = 'Read only this answer aloud';
+
+      const sectionStop = document.createElement('button');
+      sectionStop.type = 'button';
+      sectionStop.className = 'section-read-stop';
+      sectionStop.textContent = '■ Stop';
+      sectionStop.title = 'Stop reading this answer';
+      sectionStop.hidden = true;
+
       controls.insertBefore(sectionRead, controls.lastElementChild);
+      controls.insertBefore(sectionStop, controls.lastElementChild);
 
       sectionRead.addEventListener('click', event => {
         event.preventDefault();
@@ -283,8 +299,26 @@
         const heading = section.querySelector('.answer-heading-row h2');
         const content = section.querySelector('.section-content');
         const text = [heading?.innerText.trim(), content ? cleanVisibleText(content) : ''].filter(Boolean).join('. ');
-        speakText(text, sectionRead);
+        speakText(text, sectionRead, sectionStop);
       });
+
+      sectionStop.addEventListener('click', event => {
+        event.preventDefault();
+        event.stopPropagation();
+        synth.cancel();
+        resetControls();
+      });
+
+      if (editLink?.href) {
+        const sectionEdit = document.createElement('a');
+        sectionEdit.className = 'section-edit-link';
+        sectionEdit.href = editLink.href;
+        sectionEdit.target = '_blank';
+        sectionEdit.rel = 'noopener';
+        sectionEdit.textContent = 'Edit page';
+        sectionEdit.title = 'Edit this page in Pages CMS';
+        controls.appendChild(sectionEdit);
+      }
 
       section.dataset.readAloudPrepared = 'true';
     });
