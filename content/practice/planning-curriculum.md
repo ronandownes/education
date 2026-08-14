@@ -13,7 +13,7 @@ Three things: the student profiles,  curriculum, and  assessment and diagnostic 
 
 Review handover notes  and or check with the previous teacher where the class finished in the scheme of work, go through the class list to identify students who may need additional support or challenge, and review prior assessment evidence. I’d also refer to any written handover notes or relevant department minutes available.
 
-Review handover notescheck finishing point- analyse class list for additional support or challenge needs
+Review handover notes, check finishing point, analyse  for additional support or challenge needs, review prior assessment 
 
 ### Learner Profile
 
