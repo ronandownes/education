@@ -11,39 +11,35 @@ intro: >-
   Differentiate · Adapt · Scaffold · Integrate · Assess · Monitor · Track ·
   Evaluate · Revisit · Collaborate
 ---
-## You are asked to take a second-year Maths class at short notice and no lesson has been left. How would you plan the lesson?
+# You are asked to take a second-year Maths class at short notice and no lesson has been left. How would you plan the lesson?
 
-### Key Line
+## Key Line
 
-**establish → check → focus → model → practise → assess → adapt**
+**check → focus → activate → model → practise → assess**
 
-### Establish
-
-I establish **where the class is and what they need next**.
-
-### Check
+## Check
 
 I quickly check the **scheme, recent work, assessment evidence and learner needs**.
 
-### Focus
+## Focus
 
-I choose **one small, achievable learning objective** appropriate to where the class is.
+I choose **one small, achievable learning objective**.
 
-### Activate
+## Activate
 
 I use a **short retrieval task** to check prior knowledge and identify gaps.
 
-### Teach
+## Model
 
-I would model the concept clearly, use a small number of carefully chosen examples, then move to guided and independent practice.
+I **model the concept clearly** using a small number of carefully chosen examples.
 
-I would circulate, question students, use mini-whiteboards or quick checks, and adjust the level as I go.
+## Practise
 
-### Close
+I move from **guided to independent practice**, circulating, questioning and adjusting support as needed.
 
-I would finish with a short exit task or review so I know what they understood and what should happen next.
+## Assess
 
-**Memory words: Check – Focus – Activate – Teach – Close**
+I finish with a **quick check or exit task** to see what students understood and what should happen next.
 
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
