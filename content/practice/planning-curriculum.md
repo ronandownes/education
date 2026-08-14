@@ -48,17 +48,19 @@ I prioritise key foundational learning **and build in regular retrieval, consoli
 
 ## Key Line
 
-**I plan from the learning outcomes, not just from a list of topics.**
+**I plan from what the learning outcomes require students to know, understand and do — not just from a list of topics.**
 
-I go directly to the **Junior Cycle Mathematics specification** and unpack the relevant learning outcomes in detail. I identify the knowledge, skills and understanding they require, connect related outcomes, and use that to build a coherent sequence of learning across the year.
+I go directly to the **Junior Cycle Mathematics specification** and unpack the relevant learning outcomes in detail. I look at both the mathematical content and the **action verbs** — for example *investigate, represent, explore, apply, generalise, interpret and solve* — because these tell me the depth and type of learning students are expected to demonstrate.
 
-The learning outcomes also inform what I assess and what success should look like. From there, I use professional judgement and evidence from the class to adjust the pace, sequencing, support and level of challenge.
+I then connect related outcomes and use them to build a coherent sequence of learning across the year. The outcomes also shape the learning activities, success criteria and assessment, because I need evidence that students can actually do what the outcome requires.
+
+From there, I use professional judgement and evidence from the class to adjust the pace, sequencing, support and level of challenge.
 
 ### Retrieval Chain
 
-**🔎 specification → 🧩 unpack → 🔗 connect → 1, 2, 3… sequence → 📊 assess → 🔧 adapt**
+**🔎 specification → 🧩 unpack → 🎯 action verbs → 🔗 connect → 1, 2, 3… sequence → 📊 assess → 🔧 adapt**
 
-Yes — **this is where I would put the logos**. Keep the actual answer clean, and make the retrieval chain the highly visual piece you bring into the interview. The chain is doing the memory work; the prose is there to reconstruct the answer from it.
+I think this is stronger than the previous version because it explains **why a learning outcome is more than a topic heading** rather than merely asserting that it is.the interview. The chain is doing the memory work; the prose is there to reconstruct the answer from it.
 
 ## How would you develop a scheme of work for a class?
 
