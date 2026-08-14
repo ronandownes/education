@@ -12,6 +12,8 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 &nbsp;
 
+&nbsp;
+
 **I establish  where the class is, choose an achievable learning goal , use retrieval  to activate prior learning, and build  the teaching and learning around what ongoing formative assessment and effective questioning  tell me about students’ skills and understanding, finishing with a quick assessment to decide what should happen next and to report back to their regular teacher.**
 
 **establish → goal → retrieve → build → check → assess**
@@ -20,21 +22,19 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 ## How would you plan the year for a first-year Maths class?
 
-### Visual Chain
-
 👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
-
-### Retrieval Chain
 
 **profile → assess → establish → align → sequence → adapt**
 
-### Combined Chain
 
-**👤 profile → 📊 assess → 📍 establish → ∥ align → 🧭 sequence → 🔧 adapt**
-
-### Answer
 
 **I start by reviewing the learner profile, transition and handover information, including primary-school reports and any available assessment evidence. Because students are coming from different primary schools, I use early assessment and retrieval to establish their actual starting points, strengths, gaps and misconceptions rather than making assumptions about prior learning.**
+
+
+
+&nbsp;
+
+&nbsp;
 
 **I then work directly from the Junior Cycle Mathematics specification, unpacking the individual learning outcomes in detail, identifying the knowledge and skills they require, and linking related outcomes into a coherent sequence of learning across the year.**
 
