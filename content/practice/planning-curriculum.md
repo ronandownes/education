@@ -32,7 +32,7 @@ I prioritise key foundational learning **and build in regular retrieval, consoli
 
 ## Yearly plan second Maths?
 
-I start by reviewing the learner profile and first-year handover information, including the point reached in the course, previous assessment evidence, strengths, gaps and any areas requiring additional support or challenge. I also consider **AEN, literacy and numeracy needs**, Student Support Files and any **L2LP requirements** relevant to the students in the class.
+I start by reviewing the learner profile and first-year handover information, including the point reached in the course, previous assessment evidence, strengths, gaps and any areas requiring additional support or challenge. I also consider AEN, literacy and numeracy needs, Student Support Files and any**** L2LP requirements relevant to the students in the class.
 
 Early retrieval and low-stakes diagnostic assessment allow me to establish what students actually retained from first year and identify misconceptions or gaps before moving forward.
 
