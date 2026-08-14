@@ -15,37 +15,21 @@ intro: >-
 
 ### Retrieval Chain
 
-**check → focus → activate → teach → practise → assess**
+**📍 establish → ⚽ goal → 🔄 retrieve → 🧱 build → 📊 assess**
 
-### Key Line 📍 → ⚽ → 🧱 → 🔄 → 📊
+### Key Line
 
-**I establish 📍 where the class is, choose an achievable learning goal ⚽, and build 🧱 the lesson plan around retrieval 🔄 and assessment evidence 📊.**
+**I establish 📍 where the class is, choose an achievable learning goal ⚽, use retrieval 🔄 to activate prior knowledge, build 🧱 the teaching and practice around what I find, and assess 📊 what students have understood.**
 
+I **establish 📍** where the class is by checking the **scheme, recent work, assessment evidence and learner needs**.
 
+I choose **one achievable learning goal ⚽**.
 
-I quickly check the **scheme, recent work, assessment evidence and learner needs**.
+I use a **short retrieval task 🔄** to check prior knowledge and identify gaps.
 
-I choose **one small, achievable learning objective**.
+I **build 🧱** the lesson from there: **model clearly, then move from guided to independent practice**, adjusting support as needed.
 
-### Activate
-
-I use a **short retrieval task** to check prior knowledge and identify gaps.
-
-### Teach
-
-I **model the concept clearly** using carefully chosen examples.
-
-### Practise
-
-I move from **guided to independent practice**, questioning and adjusting support as needed.
-
-### Assess
-
-I finish with a **quick check or exit task** to see what students understood and what should happen next.
-
-That is a much cleaner hierarchy.
-
-
+I **assess 📊** with a quick check or exit task to decide what should happen next.
 
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
