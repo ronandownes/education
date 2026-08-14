@@ -7,20 +7,16 @@ intro: >-
   Learning intentions, sequencing, curriculum outcomes and appropriate pathways.
 
 
-  Review · Map · Sequence · Align · Prioritise · Differentiate · Adapt ·
-  Scaffold · Integrate · Assess · Monitor · Track · Evaluate · Revisit ·
-  Collaborate
+  Review · Profile · Diagnose · Map · Sequence · Align · Prioritise · Differentiate · Adapt ·
+  Scaffold · Integrate · Assess · Monitor · Track · Evaluate · Revisit · Collaborate
 ---
-# Planning & Curriculum Questions
+## You are asked to take a second-year Maths class at short notice and no lesson has been left. How would you plan the lesson?
 
-You are asked to take a second-year Maths class at short notice and no lesson has been left. How would you plan the lesson?
+### Key Line
 
-## Key Line
+**I establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.**
 
-**I establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.**  
-**Reference point**
-
-## Check
+### Check
 
 I would quickly check:
 
@@ -29,23 +25,23 @@ I would quickly check:
 - any available notes, homework or assessment evidence
 - whether there are students with AEN or other support or challenge needs
 
-## Focus
+### Focus
 
 I would choose a **small, realistic objective** rather than trying to cover too much.
 
 For example, if they are working on algebra, I might focus on one clear skill such as simplifying expressions or solving a simple equation.
 
-## Activate
+### Activate
 
 I would begin with a short retrieval or diagnostic task to establish what they already know and identify any immediate gaps.
 
-## Teach
+### Teach
 
 I would model the concept clearly, use a small number of carefully chosen examples, then move to guided and independent practice.
 
 I would circulate, question students, use mini-whiteboards or quick checks, and adjust the level as I go.
 
-## Close
+### Close
 
 I would finish with a short exit task or review so I know what they understood and what should happen next.
 
@@ -53,102 +49,18 @@ I would finish with a short exit task or review so I know what they understood a
 
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
-## How do you plan a lesson?
+**The three pillars of planning are:**
 
-## What informs your planning in Mathematics?
-
-## How do the curriculum specification and learning outcomes influence your planning?
-
-## How would you develop a scheme of work for a class?
-
-## What should be included in a good scheme of work?
-
-## How would you develop or review a subject plan?
-
-## What is the difference between a subject plan and a scheme of work?
-
-## How do you contribute to collaborative planning within the Maths department?
-
-## How do you ensure consistency across different teachers teaching the same year group?
-
-## How do you ensure continuity and progression from one year to the next?
-
-## How do you use handover information when taking over a new class?
-
-## How do you establish the actual starting point of a class at the beginning of the year?
-
-## How do you use assessment evidence to inform future planning?
-
-## How do you adapt your plan when assessment shows that students have not understood a topic?
-
-## How do you balance curriculum coverage with depth of understanding?
-
-## How do you build retrieval, consolidation and revision into long-term planning?
-
-## How do you plan for mixed-ability classes?
-
-## How do you build AEN, literacy and numeracy needs into your planning from the outset?
-
-## How do you provide both support and appropriate challenge through your planning?
-
-## How do you plan for different programmes and pathways?
-
-## How would your planning differ between Junior Cycle and Senior Cycle Mathematics?
-
-## How would your planning differ for an LCA class?
-
-## How do you plan for students following Level 1 or Level 2 Learning Programmes?
-
-## How do you ensure that individual lessons form part of a coherent sequence of learning?
-
-## How do prior knowledge and likely misconceptions influence your planning?
-
-## How do you decide which representations, examples and resources to use when planning a topic?
-
-## How do you incorporate formative assessment into your planning?
-
-## How flexible should a scheme of work be?
-
-## What would cause you to change the pace or sequence of a scheme of work?
-
-## How do common assessments or departmental assessment arrangements influence planning?
-
-## How do you use student data without allowing the data to limit your expectations?
-
-## How do you plan when taking over a class part-way through the year?
-
-## How do you plan collaboratively while still retaining professional autonomy in your own classroom?
-
-## How do you evaluate a scheme of work at the end of a term or year?
-
-## How do you use reflection on previous teaching to improve future planning?
-
-## How do you keep your curriculum and subject knowledge up to date and incorporate changes into your planning?
-
-## What role should the Maths department plan play in an individual teacher's planning?
-
-## How would you respond if the departmental scheme says a topic has been completed but your evidence suggests significant gaps remain?
-
-## How do you prioritise learning when there is insufficient time to cover everything exactly as originally planned?
-
-## How do you ensure your planning reflects both the curriculum and the actual students sitting in front of you?
-
-## **“How would you plan the year for a second-year Maths class?”**
-
-This is a long range  or macro planning routine. It is about handover, learner profile, diagnosis, curriculum coverage, sequencing across terms, pacing, assessment evidence, and adapting the scheme over time.
-
-Three things: 
-
-1. the student profiles
-2. curriculum
-3. evidence.
+1. Students
+2. Curriculum
+3. Evidence
 
 ### Handover
 
-1. Review handover notes
-2. confirm finishing point
-3. analyse  students needing additional support or challenge
-4. review prior assessment
+1. Review handover notes.
+2. Confirm the finishing point.
+3. Identify students needing additional support or challenge.
+4. Review prior assessment evidence.
 
 ### Learner Profile
 
@@ -158,11 +70,15 @@ I review the learner profile, including AEN, literacy and numeracy needs, and an
 
 Early in September, I would use a short, low-stakes diagnostic retrieval task to identify gaps, misconceptions and areas of strength.
 
-That gives me the class's real starting point.
+**That gives me the class's real starting point.**
 
-### Map and Sequence
+### Map
 
-I would then map the Junior Cycle Mathematics learning outcomes across the year, sequence topics logically, and allow realistic time for retrieval, assessment, consolidation and revision.
+I would map the Junior Cycle Mathematics learning outcomes across the year.
+
+### Sequence
+
+I would sequence topics logically and allow realistic time for retrieval, assessment, consolidation and revision.
 
 ### Adapt
 
@@ -170,70 +86,81 @@ The scheme would be structured but flexible. I would use ongoing formative asses
 
 **Closing line: The scheme provides the direction, but the students and the evidence determine the pace and the route.**
 
-**Memory words: Handover – Profile – Diagnose – Map – Adapt**
+**Memory words: Handover – Profile – Diagnose – Map – Sequence – Adapt**
+
+## How do you plan a lesson?
 
 
 
-## Planning & Curriculum
+## What informs your planning in Mathematics?
 
-## Word Wall
 
-**Review · Profile · Diagnose · Map · Sequence · Align · Prioritise · Differentiate · Adapt · Scaffold · Integrate · Assess · Monitor · Track · Evaluate · Revisit · Collaborate**
 
-###### If you were given a second-year Maths class in September, how would you plan the year?
+## How do the curriculum specification and learning outcomes influence your planning?
 
-**The three pillars of planning are:**
 
-1. Students
-2. Curriculum
-3. Evidence
 
-### Review — Handover
+## How would you develop a scheme of work for a class?
 
-1. Review handover notes.
-2. Confirm the finishing point.
-3. Identify students needing additional support or challenge.
-4. Review prior assessment evidence.
 
-### Profile — Learner
 
-I review the learner profile, including AEN, literacy and numeracy needs, and any L2LP requirements.
+## What should be included in a good scheme of work?
 
-This enables me to build the necessary supports and differentiation into my planning from the outset.
 
-### Diagnose — Starting Point
 
-Early in September, I use a short, low-stakes diagnostic retrieval task to identify gaps, misconceptions and areas of strength.
+## How would you develop or review a subject plan?
 
-**That gives me the class's real starting point.**
 
-### Map — Curriculum
 
-I map the Junior Cycle Mathematics learning outcomes across the year.
+## What is the difference between a subject plan and a scheme of work?
 
-### Sequence — Learning
 
-I sequence topics logically and allow realistic time for:
 
-- retrieval
-- assessment
-- consolidation
-- revision
+## How do you contribute to collaborative planning within the Maths department?
 
-### Adapt — Evidence
 
-The scheme is structured but flexible.
 
-I use ongoing formative assessment to:
+## How do you ensure consistency across different teachers teaching the same year group?
 
-- adjust the pace
-- revisit misconceptions
-- provide additional support
-- provide additional challenge
 
-**Closing line:** The scheme provides the direction, but the students and the evidence determine the pace and the route.
 
-**Memory words:** Review – Profile – Diagnose – Map – Sequence – Adapt
+## How do you ensure continuity and progression from one year to the next?
+
+
+
+## How do you use handover information when taking over a new class?
+
+
+
+## How do you establish the actual starting point of a class at the beginning of the year?
+
+
+
+## How do you use assessment evidence to inform future planning?
+
+
+
+## How do you adapt your plan when assessment shows that students have not understood a topic?
+
+
+
+## How do you balance curriculum coverage with depth of understanding?
+
+
+
+## How do you build retrieval, consolidation and revision into long-term planning?
+
+
+
+## How do you plan for mixed-ability classes?
+
+
+
+## How do you build AEN, literacy and numeracy needs into your planning from the outset?
+
+
+
+## How do you provide both support and appropriate challenge through your planning?
 
 
 
@@ -264,108 +191,82 @@ I build the necessary support, accessibility and differentiation into the plan.
 
 ### Integrate
 
-I incorporate the relevant assessment requirements into the learning sequence.  
-  
-  
-Word Bank
+I incorporate the relevant assessment requirements into the learning sequence.
 
-
-| **Planning** | **Curriculum** | **Learners** | **Evidence** |
-| ------------ | ----------------------- | --------------- | -------------- |
-| Review | Specification | Profile | Assessment |
-| Map | Learning outcomes | AEN | Attainment |
-| Sequence | Strands | Prior knowledge | Baseline |
-| Prioritise | Elements | Misconceptions | Diagnostic |
-| Align | Progression | Readiness | Formative |
-| Adapt | Continuity | Literacy | Summative |
-| Pace | Coverage | Numeracy | Feedback |
-| Revisit | Depth | L2LP | Observation |
-| Consolidate | Breadth | Challenge | Retrieval |
-| Integrate | Programme | Support | Exit ticket |
-| Evaluate | Pathway | Differentiation | Hinge question |
-| Reflect | Scheme of work | Accessibility | Student work |
-| Monitor | Subject plan | Inclusion | Data |
-| Track | Department plan | Engagement | Progress |
-| Adjust | Curriculum reform | Independence | Evidence |
-| Collaborate | Assessment requirements | Confidence | Trends |
+## How would your planning differ between Junior Cycle and Senior Cycle Mathematics?
 
 
 
-| **Lesson Design** | **Pedagogy** | **Differentiation** | **Departmental Planning** |
-| ------------------ | ---------------------- | ------------------------ | ------------------------- |
-| Learning intention | Modelling | Scaffold | Collaboration |
-| Success criteria | Explanation | Extension | Consistency |
-| Objective | Questioning | Support | Common assessment |
-| Starter | Guided practice | Challenge | Shared resources |
-| Retrieval | Independent practice | Access | Moderation |
-| Representation | Explicit instruction | Choice | Standardisation |
-| Worked example | Guided discovery | Stretch | Coordination |
-| Example | Inquiry | Adaptation | Handover |
-| Non-example | Discussion | Chunking | Continuity |
-| Task | Problem-solving | Prompt | Progression |
-| Practice | Mathematical reasoning | Visual support | Department meeting |
-| Plenary | Student voice | Concrete materials | Review |
-| Exit task | Active learning | Multiple representations | Evaluation |
-| Consolidation | AfL | Flexible grouping | Professional dialogue |
-| Revision | Metacognition | UDL | Professional autonomy |
+## How would your planning differ for an LCA class?
 
 
 
-| **Assessment Language** | **Progress & Response** | **Professional Language** | **Planning Documents** |
-| ----------------------- | ----------------------- | ------------------------- | ---------------------- |
-| Diagnose | Identify | Evidence-informed | Specification |
-| Elicit | Respond | Learner-centred | Subject plan |
-| Check | Intervene | Outcome-focused | Scheme of work |
-| Probe | Support | Purposeful | Year plan |
-| Question | Challenge | Coherent | Term plan |
-| Observe | Reteach | Structured | Unit plan |
-| Assess | Re-sequence | Flexible | Lesson plan |
-| Record | Accelerate | Responsive | Department plan |
-| Analyse | Consolidate | Inclusive | Student Support File |
-| Interpret | Extend | Reflective | Learning outcomes |
-| Compare | Monitor | Collaborative | Assessment plan |
-| Moderate | Track | Progressive | Common assessment |
-| Feedback | Review | Explicit | Curriculum map |
-| Self-assessment | Adjust | Systematic | Handover notes |
-| Peer assessment | Evaluate | Adaptive | Assessment records |
+## How do you plan for students following Level 1 or Level 2 Learning Programmes?
 
 
-## Strong Nouns
+
+## How do you ensure that individual lessons form part of a coherent sequence of learning?
 
 
-| **Curriculum Nouns** | **Planning Nouns** | **Learner Nouns** | **Evidence Nouns** |
-| -------------------- | ------------------ | ----------------- | ------------------ |
-| Specification | Sequence | Profile | Evidence |
-| Outcome | Progression | Readiness | Data |
-| Strand | Continuity | Need | Attainment |
-| Element | Pacing | Strength | Progress |
-| Programme | Coverage | Misconception | Feedback |
-| Pathway | Depth | Barrier | Response |
-| Requirement | Priority | Support | Pattern |
-| Assessment | Alignment | Challenge | Trend |
-| Progression | Adaptation | Engagement | Baseline |
-| Curriculum | Review | Independence | Outcome |
-| Framework | Reflection | Confidence | Indicator |
-| Scheme | Evaluation | Access | Record |
+
+## How do prior knowledge and likely misconceptions influence your planning?
 
 
-## High-Value Verbs
+
+## How do you decide which representations, examples and resources to use when planning a topic?
 
 
-| **Plan** | **Teach** | **Assess** | **Respond** |
-| ----------- | ----------- | ---------- | ------------- |
-| Review | Model | Diagnose | Adapt |
-| Map | Explain | Assess | Adjust |
-| Sequence | Demonstrate | Elicit | Revisit |
-| Align | Scaffold | Probe | Reteach |
-| Prioritise | Question | Monitor | Differentiate |
-| Structure | Guide | Track | Support |
-| Pace | Facilitate | Analyse | Challenge |
-| Anticipate | Represent | Evaluate | Extend |
-| Integrate | Activate | Record | Consolidate |
-| Collaborate | Engage | Compare | Re-sequence |
-| Reflect | Clarify | Interpret | Intervene |
+
+## How do you incorporate formative assessment into your planning?
 
 
-For the website, I would make **“Word Bank” a Header 2** and then use tables like these underneath. I would **not** make every word a heading; centred table cells will give you a much cleaner visual vocabulary wall.
 
+## How flexible should a scheme of work be?
+
+
+
+## What would cause you to change the pace or sequence of a scheme of work?
+
+
+
+## How do common assessments or departmental assessment arrangements influence planning?
+
+
+
+## How do you use student data without allowing the data to limit your expectations?
+
+
+
+## How do you plan when taking over a class part-way through the year?
+
+
+
+## How do you plan collaboratively while still retaining professional autonomy in your own classroom?
+
+
+
+## How do you evaluate a scheme of work at the end of a term or year?
+
+
+
+## How do you use reflection on previous teaching to improve future planning?
+
+
+
+## How do you keep your curriculum and subject knowledge up to date and incorporate changes into your planning?
+
+
+
+## What role should the Maths department plan play in an individual teacher's planning?
+
+
+
+## How would you respond if the departmental scheme says a topic has been completed but your evidence suggests significant gaps remain?
+
+
+
+## How do you prioritise learning when there is insufficient time to cover everything exactly as originally planned?
+
+
+
+## How do you ensure your planning reflects both the curriculum and the actual students sitting in front of you?
