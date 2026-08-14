@@ -14,7 +14,7 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 📍 → ⚽ → 🔄 → 🧱 → 👀 → 📊
 
-## How would you plan the year for a first-year Maths class?
+## Yearly plan first-year Maths?
 
 👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
 
