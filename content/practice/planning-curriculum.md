@@ -11,31 +11,31 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 | Keyword | Visual |
 | ------------- | -------- |
-| Review | 🔎 |
-| Profile | 🪪 |
-| Establish | 📍 |
-| Goal | ⚽ |
-| Align | ∥ |
-| Prioritise | ⭐ |
-| Map | 🧭 |
-| Sequence | ①②③ |
-| Retrieve | 🔄 |
-| Model | 👁️➡️✏️ |
-| Practise | ✏️ |
-| Question | ❓ |
-| Check | 👀 |
-| Assess | 📊 |
-| Feedback | 💬 |
-| Scaffold | 🏗️ |
-| Differentiate | 🔀 |
-| Support | 🤲 |
-| Challenge | 🧗 |
-| Monitor | 👁️ |
-| Consolidate | 🔒 |
-| Revisit | ↩️ |
 | Adapt | 🔧 |
-| Evaluate | ⚖️ |
+| Align | ∥ |
+| Assess | 📊 |
+| Challenge | 🧗 |
+| Check | 👀 |
 | Collaborate | 🧑‍🤝‍🧑 |
+| Consolidate | 🔒 |
+| Differentiate | 🔀 |
+| Establish | 📍 |
+| Evaluate | ⚖️ |
+| Feedback | 💬 |
+| Goal | ⚽ |
+| Map | 🧭 |
+| Model | 👁️➡️✏️ |
+| Monitor | 👁️ |
+| Practise | ✏️ |
+| Prioritise | ⭐ |
+| Profile | 🪪 |
+| Question | ❓ |
+| Retrieve | 🔄 |
+| Review | 🔎 |
+| Revisit | ↩️ |
+| Scaffold | 🏗️ |
+| Sequence | ①②③ |
+| Support | 🤲 |
 
 
 ## How would you plan a lesson on short notice?
