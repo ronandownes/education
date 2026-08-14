@@ -4,8 +4,8 @@ permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
 intro: |-
-  Start with the learner
-  Align with the curriculum
+  Start with the learner,
+  Align with the curriculum and
   Adapt to the evidence.
 ---
 ## My H2 test
