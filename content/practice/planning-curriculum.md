@@ -74,7 +74,35 @@ Planning is not fixed. I continually **monitor, assess and adapt** the pace, seq
 
 **students → curriculum → evidence → department → adapt**
 
-## How do the curriculum specification and learning outcomes influence your planning?
+# How do the curriculum specification and learning outcomes influence your planning?
+
+## Key Line
+
+**I plan from the learning outcomes, not just from a list of topics.**
+
+## Unpack
+
+I go directly to the **Junior Cycle Mathematics specification** and unpack the relevant learning outcomes to identify the knowledge, skills and mathematical understanding students are expected to develop.
+
+## Connect
+
+I look for relationships between outcomes so that learning is **connected rather than fragmented**, and I build these links into the sequence of teaching.
+
+## Sequence
+
+I decide what students need to know first, what can be developed together, and how the learning should progress across the term or year.
+
+## Assess
+
+The learning outcomes also shape **success criteria and assessment**, because they define what students should ultimately be able to understand and do.
+
+## Adapt
+
+I still use professional judgement. The specification sets the destination, but **assessment evidence and the needs of the class determine the pace, support and route I take to get there.**
+
+### Retrieval Chain
+
+**unpack → connect → sequence → assess → adapt**
 
 ## How would you develop a scheme of work for a class?
 
