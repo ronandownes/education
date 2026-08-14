@@ -7,7 +7,7 @@ intro: I Start with the learner, align with the curriculum, and adapt to the evi
 ---
 ## How would you plan a lesson on  **short notice**?
 
-**I establish  where the class is, choose an achievable learning goal , use retrieval  to activate prior learning, and let formative assessment  and effective questioning guide the teaching and learning   and  tell me about students’ skills and understanding . I finishing with a quick assessment  to report back to my subject department colleague and suggest a natural progression point and activity.**
+**I establish  where the class is, determine or note an achievable learning goal depending on instructions , use retrieval  to activate prior learning, and let formative assessment  and effective questioning guide the teaching and learning   and  tell me about students’ skills and understanding . I finishing with a quick assessment  to report back to my subject department colleague and suggest a natural progression point and activity.**
 
 **establish → goal → retrieve → guide → assess → report → progress**
 
@@ -157,3 +157,4 @@ I incorporate the relevant assessment requirements into the learning sequence.
 ## How do you prioritise learning when there is insufficient time to cover everything exactly as originally planned?
 
 ## How do you ensure your planning reflects both the curriculum and the actual students sitting in front of you?
+
