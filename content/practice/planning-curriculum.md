@@ -20,9 +20,7 @@ If I am told, for example, **“do page 42 on linear equations,”** I still unp
 
 ## Yearly plan first Maths?
 
-👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
 
-**profile → assess → establish → align → sequence → adapt**
 
 **I start by reviewing the learner profile, transition and handover information, including primary-school reports and any available assessment evidence. Because students are coming from different primary schools, I use early assessment and retrieval to establish their actual starting points, strengths, gaps and misconceptions rather than making assumptions about prior learning.**
 
@@ -30,11 +28,13 @@ If I am told, for example, **“do page 42 on linear equations,”** I still unp
 
 I prioritise key foundational learning **and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**  
 
-## Yearly plan second Maths?
-
 👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
 
 **profile → assess → establish → align → sequence → adapt**
+
+## Yearly plan second Maths?
+
+
 
 I start by reviewing the learner profile and first-year handover information, including the point reached in the course, previous assessment evidence, strengths, gaps and any areas requiring additional support or challenge. I also consider **AEN, literacy and numeracy needs**, Student Support Files and any **L2LP requirements** relevant to the students in the class.
 
@@ -45,6 +45,10 @@ I then work directly from the **Junior Cycle Mathematics specification**, unpack
 I sequence the remaining learning coherently, prioritising important foundational knowledge and building in regular retrieval, consolidation and revision. I differentiate and scaffold where required, while providing appropriate challenge.
 
 Throughout the year, I use **formative assessment evidence** to monitor progress, adjust pacing and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.
+
+👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
+
+**profile → assess → establish → align → sequence → adapt**
 
 ## Specification and LO influence on my planning?
 
@@ -60,7 +64,7 @@ From there, I use professional judgement and evidence from the class to adjust t
 
 **🔎 specification → 🧩 unpack → 🎯 action verbs → 🔗 connect → 1, 2, 3… sequence → 📊 assess → 🔧 adapt**
 
-I think this is stronger than the previous version because it explains **why a learning outcome is more than a topic heading** rather than merely asserting that it is.the interview. The chain is doing the memory work; the prose is there to reconstruct the answer from it.
+
 
 ## How would you develop a scheme of work for a class?
 
