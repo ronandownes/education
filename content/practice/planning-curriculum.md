@@ -17,19 +17,9 @@ intro: >-
 
 **📍 establish → ⚽ goal → 🔄 retrieve → 🧱 build → 📊 assess**
 
-### Key Line
+### Answer
 
-**I establish 📍 where the class is, choose an achievable learning goal ⚽, use retrieval 🔄 to activate prior knowledge, build 🧱 the teaching and practice around what I find, and assess 📊 what students have understood.**
-
-I **establish 📍** where the class is by checking the **scheme, recent work, assessment evidence and learner needs**.
-
-I choose **one achievable learning goal ⚽**.
-
-I use a **short retrieval task 🔄** to check prior knowledge and identify gaps.
-
-I **build 🧱** the lesson from there: **model clearly, then move from guided to independent practice**, adjusting support as needed.
-
-I **assess 📊** with a quick check or exit task to decide what should happen next.
+**I establish 📍 where the class is, choose an achievable learning goal ⚽, use retrieval 🔄 to activate prior learning, and build 🧱 the teaching and learning around what formative assessment and effective questioning tell me about students’ skills and understanding 📊, moving from clear modelling to guided and independent practice and finishing with a quick check or exit task to decide what should happen next.**
 
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
