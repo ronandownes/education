@@ -26,7 +26,6 @@ Three things:
 3. analyse  students needing additional support or challenge
 4. review prior assessment
 
-
 ### Learner Profile
 
 I review the learner profile, including AEN, literacy and numeracy needs, and any L2LP requirements. This enables me to build the necessary supports and differentiation into my planning from the outset.
@@ -49,11 +48,7 @@ The scheme would be structured but flexible. I would use ongoing formative asses
 
 **Memory words: Handover – Profile – Diagnose – Map – Adapt**
 
-## How do you plan?
 
-**Key line: Every lesson belongs to a bigger journey.**
-
-I start with curriculum outcomes and the class's current position, then identify the learning intention, prior knowledge, likely misconceptions, representations, questions and assessment evidence. I want individual lessons to connect into a coherent sequence rather than feel like isolated activities.
 
 ## How do you plan for different programmes and pathways?
 
