@@ -22,25 +22,27 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 &nbsp;
 
-## How would you plan the ++year++ for a second-year Maths class?
+## How would you plan the year for a first-year Maths class?
 
 ### Visual Chain
 
-👤 → ∥ → 📊 → 📍 → 🧭 → 🔧
+👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
 
 ### Retrieval Chain
 
-**profile → align → assess → establish → sequence → adapt**
+**profile → assess → establish → align → sequence → adapt**
 
 ### Combined Chain
 
-**👤 profile → ∥ align → 📊 assess → 📍 establish → 🧭 sequence → 🔧 adapt**
+**👤 profile → 📊 assess → 📍 establish → ∥ align → 🧭 sequence → 🔧 adapt**
 
 ### Answer
 
-**I start by reviewing 🔎 the learner profile 👤, handover information and prior assessment evidence, then align ∥ my planning with the Junior Cycle Mathematics learning outcomes. I use early assessment 📊 and retrieval 🔄 to establish 📍 students’ actual starting points, strengths, gaps and misconceptions. I then map 🧭 and sequence 1, 2, 3… the learning across the year, prioritising ⭐ key content and building in retrieval 🔄, consolidation 🔒 and revision. I differentiate 📶 and scaffold 🏗️ where needed, and continuously monitor 👁️, assess 📊 and adapt 🔧 the plan in response to evidence, revisiting ↩️ learning and providing additional support 🤲 or challenge 🧗 as required.**
+**I start by reviewing the learner profile, transition and handover information, including primary-school reports and any available assessment evidence. Because students are coming from different primary schools, I use early assessment and retrieval to establish their actual starting points, strengths, gaps and misconceptions rather than making assumptions about prior learning.**
 
+**I then work directly from the Junior Cycle Mathematics specification, unpacking the individual learning outcomes in detail, identifying the knowledge and skills they require, and linking related outcomes into a coherent sequence of learning across the year.**
 
+**I prioritise key foundational learning and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**
 
 ## What informs your planning in Mathematics?
 
