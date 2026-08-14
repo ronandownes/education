@@ -41,7 +41,7 @@ I sequence the remaining learning coherently, prioritising important foundationa
 
 Throughout the year, I use **formative assessment evidence** to monitor progress, adjust pacing and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.
 
-# Curriculum specification and learning outcomes influence your planning?
+## Curriculum specification and learning outcomes influence your planning?
 
 ### I plan from what the learning outcomes require students to know, understand and do — not just from a list of topics.
 
