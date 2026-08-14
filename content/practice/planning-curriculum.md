@@ -13,7 +13,9 @@ intro: >-
 ---
 ## You are asked to take a second-year Maths class at short notice and no lesson has been left. How would you plan the lesson?
 
-### Key Line
+### Key Line  
+
+establish → check → focus → model → practise → assess → adapt
 
 I establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.
 
