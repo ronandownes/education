@@ -20,15 +20,7 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 
 **profile → assess → establish → align → sequence → adapt**
 
-
-
 **I start by reviewing the learner profile, transition and handover information, including primary-school reports and any available assessment evidence. Because students are coming from different primary schools, I use early assessment and retrieval to establish their actual starting points, strengths, gaps and misconceptions rather than making assumptions about prior learning.**
-
-
-
-&nbsp;
-
-&nbsp;
 
 **I then work directly from the Junior Cycle Mathematics specification, unpacking the individual learning outcomes in detail, identifying the knowledge and skills they require, and linking related outcomes into a coherent sequence of learning across the year.**
 
