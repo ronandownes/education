@@ -9,11 +9,9 @@ intro: Learning intentions, sequencing, curriculum outcomes and appropriate path
 
 I start with three things: the student profiles, the curriculum, and  assessment and diagnostic evidence.
 
-### Handover
+### Handover — What happens at handover?
 
-I would review the existing scheme of work and speak with the previous teacher to establish what was actually covered in first year.
-
-I would also examine prior assessment evidence rather than assuming that the written scheme was completed exactly as planned.
+“At handover, I’d check with the previous teacher where the class finished in the scheme of work, go through the class list to identify students who may need additional support, and review prior assessment evidence. I’d also refer to any written handover notes or relevant department minutes available.”
 
 ### Learner Profile
 
