@@ -19,7 +19,13 @@ intro: >-
 
 ### Key Line
 
- **I establish where the class is, choose one achievable learning goal** ⚽**, and build  🧱  the lesson around  🔄 retrieval and assessment evidence 📊.**
+- 📍 = **where the class is**
+- ⚽ = **learning goal**
+- 🧱 = **build the lesson**
+- 🔄 = **retrieval**
+- 📊 = **assessment evidence**
+
+**I establish 📍 where the class is, choose one achievable learning goal ⚽, and build 🧱 the lesson around retrieval 🔄 and assessment evidence 📊.**
 
 ### Check
 
