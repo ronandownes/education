@@ -17,13 +17,7 @@ intro: >-
 
 **check → focus → activate → teach → practise → assess**
 
-### Key Line
-
-- 📍 = **where the class is**
-- ⚽ = **learning goal**
-- 🧱 = **build the lesson**
-- 🔄 = **retrieval**
-- 📊 = **assessment evidence**
+### Key Line 📍 → ⚽ → 🧱 → 🔄 → 📊
 
 **I establish 📍 where the class is, choose an achievable learning goal ⚽, and build 🧱 the lesson around retrieval 🔄 and assessment evidence 📊.**
 
