@@ -15,37 +15,39 @@ intro: >-
 
 ## Key Line
 
-**check → focus → activate → model → practise → assess**
+I establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.
 
-## Check
+### Retrieval Chain
+
+**check → focus → activate → teach → practise → assess**
+
+### Check
 
 I quickly check the **scheme, recent work, assessment evidence and learner needs**.
 
-## Focus
+### Focus
 
 I choose **one small, achievable learning objective**.
 
-## Activate
+### Activate
 
 I use a **short retrieval task** to check prior knowledge and identify gaps.
 
-## Model
+### Teach
 
-I **model the concept clearly** using a small number of carefully chosen examples.
+I **model the concept clearly** using carefully chosen examples.
 
-## Practise
+### Practise
 
-I move from **guided to independent practice**, circulating, questioning and adjusting support as needed.
+I move from **guided to independent practice**, questioning and adjusting support as needed.
 
-## Assess
+### Assess
 
 I finish with a **quick check or exit task** to see what students understood and what should happen next.
 
+That is a much cleaner hierarchy.
 
 
-&nbsp;
-
-&nbsp;
 
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
