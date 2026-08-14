@@ -5,10 +5,71 @@ title: Word Wall
 eyebrow: PROFESSIONAL LANGUAGE
 intro: Planning and curriculum language for rapid interview recall.
 ---
-## Planning & Curriculum
+## Planning Word Wall
+
+
+
+| Keyword | Visual |
+
+| ------------- | -------- |
+
+| Adapt | 🔧 |
+
+| Align | ∥ |
+
+| Assess | 📊 |
+
+| Challenge | 🧗 |
+
+| Check | 👀 |
+
+| Collaborate | 🧑‍🤝‍🧑 |
+
+| Consolidate | 🔒 |
+
+| Differentiate | 📶 |
+
+| Establish | 📍 |
+
+| Evaluate | ⚖️ |
+
+| Feedback | 💬 |
+
+| Goal | ⚽ |
+
+| Map | 🧭 |
+
+| Model | 👨‍🏫 |
+
+| Monitor | 👁️ |
+
+| Practise | ✏️ |
+
+| Prioritise | ⭐ |
+
+| Profile | 👤 |
+
+| Question | ❓ |
+
+| Retrieve | 🔄 |
+
+| Review | 🔎 |
+
+| Revisit | ↩️ |
+
+| Scaffold | 🏗️ |
+
+| Sequence | 1, 2, 3… |
+
+| Support | 🤲 |
+
+
+
+&nbsp;
+
 
 | **Planning** | **Curriculum** | **Learners** | **Evidence** |
-|:--:|:--:|:--:|:--:|
+| ------------ | ----------------------- | --------------- | -------------- |
 | Adapt | Assessment requirements | Accessibility | Assessment |
 | Adjust | Breadth | AEN | Attainment |
 | Align | Continuity | Challenge | Baseline |
@@ -26,10 +87,12 @@ intro: Planning and curriculum language for rapid interview recall.
 | Sequence | Strands | Readiness | Summative |
 | Track | Subject plan | Support | Trends |
 
+
 ## Lesson Design & Department Planning
 
+
 | **Lesson Design** | **Pedagogy** | **Differentiation** | **Departmental Planning** |
-|:--:|:--:|:--:|:--:|
+| ------------------ | ---------------------- | ------------------------ | ------------------------- |
 | Consolidation | Active learning | Access | Collaboration |
 | Example | AfL | Adaptation | Common assessment |
 | Exit task | Discussion | Challenge | Consistency |
@@ -46,10 +109,12 @@ intro: Planning and curriculum language for rapid interview recall.
 | Task | Questioning | Visual support | Shared resources |
 | Worked example | Student voice |  | Standardisation |
 
+
 ## Assessment & Response
 
+
 | **Assessment Language** | **Progress & Response** | **Professional Language** | **Planning Documents** |
-|:--:|:--:|:--:|:--:|
+| ----------------------- | ----------------------- | ------------------------- | ---------------------- |
 | Analyse | Accelerate | Adaptive | Assessment plan |
 | Assess | Adjust | Coherent | Assessment records |
 | Check | Challenge | Collaborative | Common assessment |
@@ -66,10 +131,12 @@ intro: Planning and curriculum language for rapid interview recall.
 | Record | Support | Structured | Unit plan |
 | Self-assessment | Track | Systematic | Year plan |
 
+
 ## Strong Nouns
 
+
 | **Curriculum** | **Planning** | **Learners** | **Evidence** |
-|:--:|:--:|:--:|:--:|
+| -------------- | ------------ | ------------- | ------------ |
 | Assessment | Adaptation | Access | Attainment |
 | Curriculum | Alignment | Barrier | Baseline |
 | Element | Continuity | Challenge | Data |
@@ -83,10 +150,12 @@ intro: Planning and curriculum language for rapid interview recall.
 | Specification | Review | Strength | Response |
 | Strand | Sequence | Support | Trend |
 
+
 ## High-Value Verbs
 
+
 | **Plan** | **Teach** | **Assess** | **Respond** |
-|:--:|:--:|:--:|:--:|
+| ----------- | ----------- | ---------- | ------------- |
 | Align | Activate | Analyse | Adapt |
 | Anticipate | Clarify | Assess | Adjust |
 | Collaborate | Demonstrate | Compare | Challenge |
@@ -98,3 +167,5 @@ intro: Planning and curriculum language for rapid interview recall.
 | Review | Question | Probe | Reteach |
 | Sequence | Represent | Record | Revisit |
 | Structure | Scaffold | Track | Support |
+
+
