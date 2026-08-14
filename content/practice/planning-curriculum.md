@@ -115,33 +115,7 @@ I use ongoing formative assessment to:
 
 **Memory words:** Review – Profile – Diagnose – Map – Sequence – Adapt
 
-## How do you plan?
 
-**Key line: Every lesson belongs to a bigger journey.**
-
-### Align
-
-I start with the curriculum outcomes and the class's current position.
-
-### Anticipate
-
-I identify:
-
-- the learning intention
-- prior knowledge
-- likely misconceptions
-
-### Represent
-
-I select the examples, representations and resources that will make the mathematics accessible.
-
-### Question
-
-I plan the key questions that will expose student thinking and move learning forward.
-
-### Assess
-
-I decide what evidence will show me whether students have understood and what should happen next.
 
 ## How do you plan for different programmes and pathways?
 
