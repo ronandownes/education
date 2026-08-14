@@ -1,24 +1,22 @@
 media:
   input: assets/uploads
   output: /assets/uploads
-content:
-  - name: home
-    label: Home
-    type: file
-    path: index.md
-    format: yaml-frontmatter
-    fields:
+
+# Shared field definitions live here so sidebar items below can be moved freely.
+components:
+  home_fields:
+    type: object
+    label: Home fields
+    fields: &homefields
       - { name: layout, type: string, hidden: true }
       - { name: title, type: string, label: Title }
       - { name: eyebrow, type: string, label: Eyebrow }
       - { name: intro, type: text, label: Introduction }
       - { name: body, type: rich-text, label: Page content }
 
-  - name: timeline
-    label: Timeline
-    type: file
-    path: content/timeline/teaching-experience.md
-    format: yaml-frontmatter
+  document_fields:
+    type: object
+    label: Document fields
     fields: &docfields
       - { name: layout, type: string, hidden: true }
       - { name: permalink, type: string, hidden: true }
@@ -27,74 +25,21 @@ content:
       - { name: intro, type: text, label: Introduction }
       - { name: body, type: rich-text, label: Answers }
 
-  - name: teaching
-    label: Teaching & Learning
-    type: file
-    path: content/practice/teaching-learning.md
-    format: yaml-frontmatter
-    fields: *docfields
-
-  - name: classroom
-    label: Classroom Management
-    type: file
-    path: content/practice/classroom-management.md
-    format: yaml-frontmatter
-    fields: *docfields
-
-  - name: sen
-    label: SEN / AEN & Inclusion
-    type: file
-    path: content/practice/sen-inclusion.md
-    format: yaml-frontmatter
-    fields: *docfields
-
-  - name: differentiation
-    label: Differentiation & Accessibility
-    type: file
-    path: content/practice/differentiation-accessibility.md
-    format: yaml-frontmatter
-    fields: *docfields
-
-  - name: assessment
-    label: Assessment, Feedback & Reporting
-    type: file
-    path: content/practice/assessment-reporting.md
-    format: yaml-frontmatter
-    fields: *docfields
-
-  - name: planning
-    label: Planning & Curriculum
-    type: file
-    path: content/practice/planning-curriculum.md
-    format: yaml-frontmatter
-    fields: *docfields
-
-  - name: relationships
-    label: Relationships & Wellbeing
-    type: file
-    path: content/practice/relationships-wellbeing.md
-    format: yaml-frontmatter
-    fields: *docfields
-
-  - name: professional
-    label: Professional Responsibility & School Community
-    type: group
-    items:
-      - { name: professional_main, label: Professional Responsibility — Main Notes, type: file, path: content/practice/professional-practice.md, format: yaml-frontmatter, fields: *docfields }
-      - { name: stpatricks, label: School Research — St Patrick's Comprehensive, type: file, path: content/schools/st-patricks.md, format: yaml-frontmatter, fields: *docfields }
-      - { name: stpatricksnote, label: Interview Note — St Patrick's, type: file, path: content/interview/st-patricks.md, format: yaml-frontmatter, fields: *docfields }
-
-  - name: subjects
-    label: Subjects
-    type: collection
-    path: content/subjects
-    format: yaml-frontmatter
-    operations: { create: false, delete: false }
-    fields: *docfields
-
-  - name: policies
-    label: Policies
-    type: file
-    path: content/policies/policies.md
-    format: yaml-frontmatter
-    fields: *docfields
+# ==============================================================
+# SIDEBAR ORDER
+# Move a WHOLE line up or down to rearrange the Pages CMS sidebar.
+# The shared field definitions above do not need to move.
+# ==============================================================
+content:
+  - { name: home, label: "Home", type: file, path: index.md, format: yaml-frontmatter, fields: *homefields }
+  - { name: planning, label: "Planning & Curriculum", type: file, path: content/practice/planning-curriculum.md, format: yaml-frontmatter, fields: *docfields }
+  - { name: teaching, label: "Teaching & Learning", type: file, path: content/practice/teaching-learning.md, format: yaml-frontmatter, fields: *docfields }
+  - { name: classroom, label: "Classroom Management", type: file, path: content/practice/classroom-management.md, format: yaml-frontmatter, fields: *docfields }
+  - { name: sen, label: "SEN / AEN & Inclusion", type: file, path: content/practice/sen-inclusion.md, format: yaml-frontmatter, fields: *docfields }
+  - { name: differentiation, label: "Differentiation & Accessibility", type: file, path: content/practice/differentiation-accessibility.md, format: yaml-frontmatter, fields: *docfields }
+  - { name: assessment, label: "Assessment, Feedback & Reporting", type: file, path: content/practice/assessment-reporting.md, format: yaml-frontmatter, fields: *docfields }
+  - { name: relationships, label: "Relationships & Wellbeing", type: file, path: content/practice/relationships-wellbeing.md, format: yaml-frontmatter, fields: *docfields }
+  - { name: professional, label: "Professional Responsibility & School Community", type: group, items: [ { name: professional_main, label: "Professional Responsibility — Main Notes", type: file, path: content/practice/professional-practice.md, format: yaml-frontmatter, fields: *docfields }, { name: stpatricks, label: "School Research — St Patrick's Comprehensive", type: file, path: content/schools/st-patricks.md, format: yaml-frontmatter, fields: *docfields }, { name: stpatricksnote, label: "Interview Note — St Patrick's", type: file, path: content/interview/st-patricks.md, format: yaml-frontmatter, fields: *docfields } ] }
+  - { name: subjects, label: "Subjects", type: collection, path: content/subjects, format: yaml-frontmatter, operations: { create: false, delete: false }, fields: *docfields }
+  - { name: policies, label: "Policies", type: file, path: content/policies/policies.md, format: yaml-frontmatter, fields: *docfields }
+  - { name: timeline, label: "Timeline", type: file, path: content/timeline/teaching-experience.md, format: yaml-frontmatter, fields: *docfields }
