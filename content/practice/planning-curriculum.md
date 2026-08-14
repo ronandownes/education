@@ -8,9 +8,11 @@ intro: |-
   Align with the curriculum
   Adapt to the evidence.
 ---
-## Plan a lesson on  **short notice**?
+## Plan a lesson on **short notice**?
 
-**I establish  where the class is, determine or note an achievable learning goal depending on instructions , use retrieval  to activate prior learning, and let formative assessment  and effective questioning guide the teaching and learning   and  tell me about students’ skills and understanding . I finishing with a quick assessment  to report back to my subject department colleague and suggest a natural progression point and activity.**
+**I establish where the class is, clarify an achievable learning goal from the instructions or scheme, use retrieval to activate prior learning, and let formative assessment and effective questioning guide the lesson. I finish with a quick assessment, report back to the regular teacher, and identify the natural next step.**
+
+If I am told, for example, **“do page 42 on linear equations,”** I still unpack that into what students should actually **know, understand or be able to do** by the end of the lesson.
 
 **establish → goal → retrieve → guide → assess → report → progress**
 
