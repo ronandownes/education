@@ -6,36 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Planning starts with the learner, aligns with the curriculum, and adapts
   to evidence.
 ---
-## Word Wall
 
-
-| Keyword | Visual |
-| ------------- | -------- |
-| Adapt | 🔧 |
-| Align | ∥ |
-| Assess | 📊 |
-| Challenge | 🧗 |
-| Check | 👀 |
-| Collaborate | 🧑‍🤝‍🧑 |
-| Consolidate | 🔒 |
-| Differentiate | 📶 |
-| Establish | 📍 |
-| Evaluate | ⚖️ |
-| Feedback | 💬 |
-| Goal | ⚽ |
-| Map | 🧭 |
-| Model | 👨‍🏫 |
-| Monitor | 👁️ |
-| Practise | ✏️ |
-| Prioritise | ⭐ |
-| Profile | 👤 |
-| Question | ❓ |
-| Retrieve | 🔄 |
-| Review | 🔎 |
-| Revisit | ↩️ |
-| Scaffold | 🏗️ |
-| Sequence | 1, 2, 3… |
-| Support | 🤲 |
 
 
 ## How would you plan a lesson on ++short notice++?
