@@ -11,13 +11,11 @@ Three things happen every time: the student profiles, the curriculum, and  asses
 
 ### Handover 
 
-“At handover, I’d check with the previous teacher where the class finished in the scheme of work, go through the class list to identify students who may need additional support or challenge, and review prior assessment evidence. I’d also refer to any written handover notes or relevant department minutes available.”
+At handover, I’d check with the previous teacher where the class finished in the scheme of work, go through the class list to identify students who may need additional support or challenge, and review prior assessment evidence. I’d also refer to any written handover notes or relevant department minutes available.
 
 ### Learner Profile
 
-I would review the learner profile of the class, including AEN, literacy and numeracy needs, and any Level 2 Learning Programme requirements where relevant.
-
-That would allow me to build appropriate supports, differentiation and access arrangements into the year from the beginning.
+I review the learner profile, including AEN, literacy and numeracy needs, and any L2LP requirements. This enables me to build the necessary supports and differentiation into my planning from the outset.
 
 ### Diagnose
 
