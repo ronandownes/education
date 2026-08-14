@@ -9,9 +9,11 @@ intro: Learning intentions, sequencing, curriculum outcomes and appropriate path
 
 Three things: the student profiles,  curriculum, and  assessment and diagnostic evidence.
 
-### Handover 
+### Handover
 
 Review handover notes  and or check with the previous teacher where the class finished in the scheme of work, go through the class list to identify students who may need additional support or challenge, and review prior assessment evidence. I’d also refer to any written handover notes or relevant department minutes available.
+
+Review handover notescheck finishing point- analyse class list for additional support or challenge needs
 
 ### Learner Profile
 
