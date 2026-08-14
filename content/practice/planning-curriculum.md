@@ -54,39 +54,11 @@ I go directly to the **Junior Cycle Mathematics specification** and unpack the r
 
 The learning outcomes also inform what I assess and what success should look like. From there, I use professional judgement and evidence from the class to adjust the pace, sequencing, support and level of challenge.
 
-**Retrieval:** specification → unpack → connect → sequence → assess → adapt
-
 ### Retrieval Chain
 
-**unpack → connect → sequence → assess → adapt**ecification and learning outcomes influence your planning?
+**🔎 specification → 🧩 unpack → 🔗 connect → 1, 2, 3… sequence → 📊 assess → 🔧 adapt**
 
-## Key Line
-
-**I plan from the learning outcomes, not just from a list of topics.**
-
-## Unpack
-
-I go directly to the **Junior Cycle Mathematics specification** and unpack the relevant learning outcomes to identify the knowledge, skills and mathematical understanding students are expected to develop.
-
-## Connect
-
-I look for relationships between outcomes so that learning is **connected rather than fragmented**, and I build these links into the sequence of teaching.
-
-## Sequence
-
-I decide what students need to know first, what can be developed together, and how the learning should progress across the term or year.
-
-## Assess
-
-The learning outcomes also shape **success criteria and assessment**, because they define what students should ultimately be able to understand and do.
-
-## Adapt
-
-I still use professional judgement. The specification sets the destination, but **assessment evidence and the needs of the class determine the pace, support and route I take to get there.**
-
-### Retrieval Chain
-
-**unpack → connect → sequence → assess → adapt**
+Yes — **this is where I would put the logos**. Keep the actual answer clean, and make the retrieval chain the highly visual piece you bring into the interview. The chain is doing the memory work; the prose is there to reconstruct the answer from it.
 
 ## How would you develop a scheme of work for a class?
 
