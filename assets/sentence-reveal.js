@@ -169,3 +169,81 @@
     if (activeSection) exitReveal(activeSection);
   });
 })();
+
+(() => {
+  const toolbar = document.querySelector('.doc-toolbar');
+  const body = document.getElementById('docBody');
+  if (!toolbar || !body) return;
+
+  const synth = window.speechSynthesis;
+  if (!synth || typeof SpeechSynthesisUtterance === 'undefined') return;
+
+  const readButton = document.createElement('button');
+  readButton.type = 'button';
+  readButton.className = 'read-aloud-button';
+  readButton.textContent = '🔊 Read aloud';
+  readButton.title = 'Read the visible document aloud';
+
+  const stopButton = document.createElement('button');
+  stopButton.type = 'button';
+  stopButton.className = 'read-aloud-stop';
+  stopButton.textContent = '■ Stop';
+  stopButton.title = 'Stop reading aloud';
+  stopButton.hidden = true;
+
+  const editLink = toolbar.querySelector('.edit-link');
+  if (editLink) {
+    toolbar.insertBefore(readButton, editLink);
+    toolbar.insertBefore(stopButton, editLink);
+  } else {
+    toolbar.append(readButton, stopButton);
+  }
+
+  let utterance = null;
+
+  const resetControls = () => {
+    readButton.textContent = '🔊 Read aloud';
+    stopButton.hidden = true;
+    utterance = null;
+  };
+
+  const getVisibleText = () => {
+    const clone = body.cloneNode(true);
+    clone.querySelectorAll('button, script, style, .section-controls, [hidden], .star-filter-hidden, .is-reveal-hidden').forEach(el => el.remove());
+    return clone.innerText.replace(/\s+/g, ' ').trim();
+  };
+
+  readButton.addEventListener('click', () => {
+    if (synth.speaking && !synth.paused) {
+      synth.pause();
+      readButton.textContent = '▶ Resume';
+      return;
+    }
+
+    if (synth.paused) {
+      synth.resume();
+      readButton.textContent = '⏸ Pause';
+      return;
+    }
+
+    const text = getVisibleText();
+    if (!text) return;
+
+    synth.cancel();
+    utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'en-IE';
+    utterance.rate = 0.95;
+    utterance.onend = resetControls;
+    utterance.onerror = resetControls;
+    stopButton.hidden = false;
+    readButton.textContent = '⏸ Pause';
+    synth.speak(utterance);
+  });
+
+  stopButton.addEventListener('click', () => {
+    synth.cancel();
+    resetControls();
+  });
+
+  window.addEventListener('beforeunload', () => synth.cancel());
+})();
