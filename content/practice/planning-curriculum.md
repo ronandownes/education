@@ -7,7 +7,7 @@ intro: I Start with the learner, align with the curriculum, and adapt to the evi
 ---
 ## How would you plan a lesson on  **short notice**?
 
-**I establish  where the class is, choose an achievable learning goal , use retrieval  to activate prior learning, and build  the teaching and learning around what ongoing formative assessment and effective questioning  tell me about students’ skills and understanding, finishing with a quick assessment to decide what should happen next and to report back to their regular teacher.**
+**I establish  where the class is, choose an achievable learning goal , use retrieval  to activate prior learning, and let formative assessment  and effective questioning guide the teaching and learning   and  tell me about students’ skills and understanding . I finishing with a quick assessment  to report back to my subject department colleague and suggest a natural progression point and activity.**
 
 **establish → goal → retrieve → build → check → assess**
 
