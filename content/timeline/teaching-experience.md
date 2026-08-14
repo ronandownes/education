@@ -5,6 +5,7 @@ title: Timeline
 eyebrow: TIMELINE
 intro: A reverse-chronological working record of schools, roles, subjects, SEN/AEN experience and the interview evidence each setting gives me.
 ---
+<a id="timeline-st-patricks"></a>
 ## St Patrick's Comprehensive School, Shannon — Current Interview Focus (2026)
 **Key line: This is the current interview focus, so use it as a comparison point with my actual experience rather than as employment history.**
 
@@ -19,6 +20,7 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 ### Interview areas this can connect to
 **Teaching & Learning · Classroom Management · SEN / AEN & Inclusion · Differentiation & Accessibility · Assessment · Planning & Curriculum · Relationships & Wellbeing · Professional Responsibility**
 
+<a id="timeline-presentation"></a>
 ## Presentation Secondary School, Thurles — 2025–26
 **Key line: Recent experience across Junior Cycle, TY, Leaving Certificate and LCA gives me current evidence of planning, differentiation, assessment and classroom practice.**
 
@@ -41,6 +43,7 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 ### Interview areas
 **Teaching & Learning · Classroom Management · Differentiation · Assessment · Planning · Relationships**
 
+<a id="timeline-nenagh"></a>
 ## Nenagh College
 **Key line: Use this entry to capture experience in an ETB setting.**
 
@@ -52,6 +55,7 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 - collaboration with colleagues and management
 - examples that transfer to later roles
 
+<a id="timeline-thomond"></a>
 ## Thomond Community College — 2022–25
 **Key line: This is a major evidence bank because it combines Mathematics, Science, Coding/Digital Media, varied programmes and significant mixed-needs experience.**
 
@@ -74,6 +78,7 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 - assessment and reporting
 - contribution to whole-school initiatives
 
+<a id="timeline-scoil-mhuire"></a>
 ## Scoil Mhuire agus Íde, Newcastle West — 2021–22
 **Key line: Strong evidence for Mathematics across year groups together with learning-support experience.**
 
@@ -86,11 +91,13 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 ### Interview evidence
 Capture examples of withdrawal/support work, differentiation, concrete or visual approaches, rebuilding confidence and collaboration with support structures.
 
+<a id="timeline-john-baptist"></a>
 ## John the Baptist Community School, Hospital — 2021
 **Key line: Add the specific classes, responsibilities and strongest examples from this period as the timeline is completed.**
 
 Use this entry for evidence that is distinct from the later ETB and voluntary-secondary settings.
 
+<a id="timeline-earlier"></a>
 ## Earlier Teaching Experience
 Build backwards from here through the remaining schools on the CV. For each school keep the same compact structure:
 
