@@ -8,7 +8,6 @@ intro: Planning starts with the learner, aligns with the curriculum, and adapts
 ---
 
 
-
 ## How would you plan a lesson on ++short notice++?
 
 📍 → ⚽ → 🔄 → 🧱 → 👀 → 📊
