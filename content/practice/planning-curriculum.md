@@ -7,7 +7,7 @@ intro: Learning intentions, sequencing, curriculum outcomes and appropriate path
 ---
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
-I start with three things: the student profiles, the curriculum, and  assessment and diagnostic evidence.
+Three things happen every time: the student profiles, the curriculum, and  assessment and diagnostic evidence.
 
 ### Handover 
 
