@@ -204,6 +204,38 @@
     </article>
   </main>
   <script src="{{ '/assets/doc-page.js' | relative_url }}"></script>
+  <script>
+    (() => {
+      const body = document.getElementById('docBody');
+      if (!body) return;
+
+      const currentPath = location.pathname.replace(/\/+$/, '');
+      const currentItem = Array.from(document.querySelectorAll('.topnav .navitem')).find(item => {
+        const label = item.querySelector(':scope > .navlabel[href]');
+        if (!label) return false;
+        return new URL(label.href, location.href).pathname.replace(/\/+$/, '') === currentPath;
+      });
+      const menu = currentItem?.querySelector(':scope > .dropmenu');
+      if (!menu) return;
+
+      const headings = Array.from(body.querySelectorAll('.answer-heading-row > h2'));
+      if (!headings.length) return;
+
+      menu.replaceChildren();
+      headings.forEach((heading, index) => {
+        if (!heading.id) heading.id = `section-${index + 1}`;
+        const link = document.createElement('a');
+        link.href = `#${heading.id}`;
+        link.textContent = heading.textContent.trim();
+        link.addEventListener('click', () => currentItem.classList.remove('is-open'));
+        menu.appendChild(link);
+      });
+
+      menu.style.maxHeight = 'min(70vh, 620px)';
+      menu.style.overflowY = 'auto';
+      menu.style.width = 'min(560px, calc(100vw - 24px))';
+    })();
+  </script>
   <script src="{{ '/assets/sentence-reveal.js' | relative_url }}"></script>
 </body>
 </html>
