@@ -29,48 +29,23 @@ intro: >-
 
 **I establish 📍 where the class is, choose an achievable learning goal ⚽, use retrieval 🔄 to activate prior learning, and build 🧱 the teaching and learning around what ongoing formative assessment and effective questioning 👀 tell me about students’ skills and understanding, finishing with a quick assessment 📊 to decide what should happen next.**
 
-## If you were given a second-year Maths class in September, how would you plan the year?
+## How would you plan the year for a second-year Maths class?
 
-**The three pillars of planning are:**
+### Visual Chain
 
-1. Students
-2. Curriculum
-3. Evidence
+👥 → 📘 → 📊 → 📍 → 🗺️ → 🔄
 
-### Handover
+### Retrieval Chain
 
-1. Review handover notes.
-2. Confirm the finishing point.
-3. Identify students needing additional support or challenge.
-4. Review prior assessment evidence.
+**profile → align → assess → diagnose → sequence → adapt**
 
-### Learner Profile
+### Combined Chain
 
-I review the learner profile, including AEN, literacy and numeracy needs, and any L2LP requirements. This enables me to build the necessary supports and differentiation into my planning from the outset.
+**👥 profile → 📘 align → 📊 assess → 📍 diagnose → 🗺️ sequence → 🔄 adapt**
 
-### Diagnose
+### Answer
 
-Early in September, I would use a short, low-stakes diagnostic retrieval task to identify gaps, misconceptions and areas of strength.
-
-**That gives me the class's real starting point.**
-
-### Map
-
-I would map the Junior Cycle Mathematics learning outcomes across the year.
-
-### Sequence
-
-I would sequence topics logically and allow realistic time for retrieval, assessment, consolidation and revision.
-
-### Adapt
-
-The scheme would be structured but flexible. I would use ongoing formative assessment to adjust the pace, revisit misconceptions, and provide additional support or challenge.
-
-**Closing line: The scheme provides the direction, but the students and the evidence determine the pace and the route.**
-
-**Memory words: Handover – Profile – Diagnose – Map – Sequence – Adapt**
-
-## How do you plan a lesson?
+**I start by reviewing 👥 the learner profile, handover information and prior assessment evidence, then align 📘 my planning with the Junior Cycle Mathematics learning outcomes. I use early assessment 📊 and diagnostic retrieval 📍 to identify strengths, gaps and misconceptions, then map and sequence 🗺️ the learning across the year, prioritising key content and building in retrieval, consolidation and revision. I differentiate and scaffold where needed, and continuously monitor, assess and adapt 🔄 the plan in response to evidence, revisiting learning and providing additional support or challenge as required.**
 
 ## What informs your planning in Mathematics?
 
