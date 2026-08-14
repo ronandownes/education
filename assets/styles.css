@@ -109,3 +109,26 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   .answer-section.star-filter-hidden{display:none}
   .pdf-source{display:none}
 }
+
+/* Whole heading is the dropdown trigger; tiny caret controls are visually removed. */
+.navitem{grid-template-columns:1fr}
+.navitem>.navtoggle{
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:5;
+  width:100%;
+  height:80px;
+  min-height:0;
+  padding:0;
+  border:0;
+  opacity:0;
+  cursor:pointer;
+}
+.navitem:hover>.navlabel,.navitem.is-open>.navlabel{background:#f8f9fa;color:#174ea6}
+.inline-caret{display:none}
+
+@media(max-width:1280px){
+  .navitem,.nav-teaching,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{grid-template-columns:1fr}
+  .navitem>.navtoggle{height:48px}
+}
