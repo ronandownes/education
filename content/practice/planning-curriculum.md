@@ -17,7 +17,8 @@ You are asked to take a second-year Maths class at short notice and no lesson ha
 
 ## Key Line
 
-**I would establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.**
+**I establish where the class is, choose one achievable learning goal, and build the lesson around evidence of understanding.**  
+**Reference point**
 
 ## Check
 
@@ -26,7 +27,7 @@ I would quickly check:
 - the class scheme of work or recent topic
 - the textbook or online platform they are using
 - any available notes, homework or assessment evidence
-- whether there are students with AEN or particular support needs
+- whether there are students with AEN or other support or challenge needs
 
 ## Focus
 
