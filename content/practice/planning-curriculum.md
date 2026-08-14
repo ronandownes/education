@@ -13,13 +13,21 @@ intro: >-
 ---
 ## How would you plan a lesson on short notice?
 
+### Visual Chain
+
+📍 → ⚽ → 🔄 → 🧱 → 👀 → 📊
+
 ### Retrieval Chain
 
-**📍 establish → ⚽ goal → 🔄 retrieve → 🧱 build → 📊 assess**
+**establish → goal → retrieve → build → check → assess**
+
+### Combined Chain
+
+**📍 establish → ⚽ goal → 🔄 retrieve → 🧱 build → 👀 check → 📊 assess**
 
 ### Answer
 
-**I establish 📍 where the class is, choose an achievable learning goal ⚽, use retrieval 🔄 to activate prior learning, and build 🧱 the teaching and learning around what formative assessment and effective questioning tell me about students’ skills and understanding 📊, moving from clear modelling to guided and independent practice and finishing with a quick check or exit task to decide what should happen next.**
+**I establish 📍 where the class is, choose an achievable learning goal ⚽, use retrieval 🔄 to activate prior learning, and build 🧱 the teaching and learning around what ongoing formative assessment and effective questioning 👀 tell me about students’ skills and understanding, finishing with a quick assessment 📊 to decide what should happen next.**
 
 ## If you were given a second-year Maths class in September, how would you plan the year?
 
