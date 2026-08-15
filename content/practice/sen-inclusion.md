@@ -61,11 +61,11 @@ I collaborate with the AEN team and other staff,
 
 then  adapt access 
 
+support increases meaningful participation and independence
 
+ rather than create unnecessary dependence. 
 
-&nbsp;
-
-Support should increase meaningful participation and independence rather than create unnecessary dependence. I maintain appropriate challenge because an additional need does not define a student's potential.
+I maintain appropriate challenge because an additional need does not define a student's potential.
 
 ### Vocabulary Retrieval Chain
 
