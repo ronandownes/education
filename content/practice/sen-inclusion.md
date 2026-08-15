@@ -47,7 +47,7 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | Belonging | 🫶 |
 
 
-## What is your approach to SEN / AEN?
+## Approach to SEN / AEN?
 
 ### Support participation. Build independence. Keep ambition high.
 
