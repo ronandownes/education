@@ -36,6 +36,14 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 | 🔄 | Review | 🫶 | Belonging |  |  |
 
+## Access
+
+
+| 🧱 Structure | 🧩 Chunking | 👨‍🏫 Modelling | 👁️ visual materials |
+| ------------- | ------------------------- | ----------------- | --------------------- |
+| 💻 Technology | 🧠 Reduced cognitive load | ⏳ Processing time | 🧮 Concrete materials |
+
+
 
 
 &nbsp;
@@ -56,23 +64,9 @@ I use student-support information,
 
 I collaborate with the AEN team and other staff, 
 
-then  adapt access through 
+then  adapt access 
 
 
-| 🧱 Structure | 🧩 Chunking | 👨‍🏫 Modelling | 👁️ visual materials |
-| ------------- | ------------------------- | ----------------- | --------------------- |
-| 💻 Technology | 🧠 Reduced cognitive load | ⏳ Processing time | 🧮 Concrete materials |
-
-
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
