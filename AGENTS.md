@@ -59,6 +59,7 @@ School-specific research can remain in separate files, but it should be reached 
 ## Content Style
 
 - Write for oral recall, not essay reading.
+- Write key notes as complete, speakable sentences so sentence-by-sentence reveal supports genuine retrieval practice rather than exposing fragments.
 - Prefer a strong interview question as an H2 heading.
 - Put a concise H3 key line immediately below important question headings where useful.
 - Keep answers concise, concrete and reconstructable from headings.
