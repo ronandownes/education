@@ -100,7 +100,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   text-align:center;
 }
 
-@media(max-width:1280px){
+@media(max-width:1400px){
   .topbar{min-height:64px;height:auto;align-items:center;flex-direction:row;flex-wrap:wrap;gap:0;padding:8px 12px}
   .brand img{width:158px}
   .mobile-nav-toggle{margin-left:auto;width:44px;height:44px;display:inline-flex;align-items:center;justify-content:center;border:0;border-radius:6px;background:transparent;color:#3c4043;cursor:pointer}
@@ -175,7 +175,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .navitem:hover>.navlabel,.navitem.is-open>.navlabel{background:#f8f9fa;color:#174ea6}
 .inline-caret{display:none}
 
-@media(max-width:1280px){
+@media(max-width:1400px){
   .navitem,.nav-teaching,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{grid-template-columns:1fr}
   .navitem>.navtoggle{height:48px}
 }
