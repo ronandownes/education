@@ -8,56 +8,19 @@ intro: |-
   Align with the curriculum and
   Adapt to the evidence.
 ---
-<style>
-.planning-word-wall{
-  display:grid;
-  grid-template-columns:repeat(4,minmax(0,1fr));
-  gap:10px 12px;
-  margin:10px 0 28px;
-}
-.planning-word-wall span{
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  min-height:42px;
-  padding:8px 10px;
-  border:1px solid #d7e3f4;
-  border-radius:9px;
-  background:#f7faff;
-  color:#24364b;
-  font-size:.96rem;
-  font-weight:600;
-  text-align:center;
-}
-@media(max-width:600px){
-  .planning-word-wall{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-bottom:22px}
-  .planning-word-wall span{min-height:40px;padding:7px 8px;font-size:.93rem}
-}
-@media(max-width:340px){
-  .planning-word-wall{grid-template-columns:1fr}
-}
-</style>
 
-### Planning Word Wall
 
-<div class="planning-word-wall" aria-label="Planning word wall">
-  <span>Adapt</span>
-  <span>Adjust</span>
-  <span>Align</span>
-  <span>Collaborate</span>
-  <span>Consolidate</span>
-  <span>Evaluate</span>
-  <span>Integrate</span>
-  <span>Map</span>
-  <span>Monitor</span>
-  <span>Pace</span>
-  <span>Prioritise</span>
-  <span>Reflect</span>
-  <span>Revisit</span>
-  <span>Review</span>
-  <span>Sequence</span>
-  <span>Track</span>
-</div>
+## Planning Word Wall
+
+
+| Adapt | Adjust | Align | Collaborate | Consolidate |
+| ---------- | --------- | -------- | ----------- | ----------- |
+| Evaluate | Integrate | Map | Monitor | Pace |
+| Prioritise | Reflect | Revisit | Review | Sequence |
+| Track | Scaffold | Retrieve |  |  |
+
+
+
 
 ## Plan a lesson on **short notice**?
 
@@ -213,3 +176,4 @@ I incorporate the relevant assessment requirements into the learning sequence.
 ## How do you prioritise learning when there is insufficient time to cover everything exactly as originally planned?
 
 ## How do you ensure your planning reflects both the curriculum and the actual students sitting in front of you?
+
