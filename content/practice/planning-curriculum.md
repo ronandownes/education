@@ -8,6 +8,36 @@ intro: |-
   Align with the curriculum and
   Adapt to the evidence.
 ---
+<style>
+.planning-word-wall{
+  display:grid;
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:10px 12px;
+  margin:10px 0 28px;
+}
+.planning-word-wall span{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:42px;
+  padding:8px 10px;
+  border:1px solid #d7e3f4;
+  border-radius:9px;
+  background:#f7faff;
+  color:#24364b;
+  font-size:.96rem;
+  font-weight:600;
+  text-align:center;
+}
+@media(max-width:600px){
+  .planning-word-wall{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-bottom:22px}
+  .planning-word-wall span{min-height:40px;padding:7px 8px;font-size:.93rem}
+}
+@media(max-width:340px){
+  .planning-word-wall{grid-template-columns:1fr}
+}
+</style>
+
 ### Planning Word Wall
 
 <div class="planning-word-wall" aria-label="Planning word wall">
