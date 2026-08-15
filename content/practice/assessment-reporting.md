@@ -15,7 +15,7 @@ intro: Assessment → interpret evidence → feedback → respond → report.
 | Formative | Summative | Feedback | Criteria | Next step |
 
 
-## What types of assessment do you use as a teacher, and how do you use that information to help with your teaching?
+## Types of assessment and use of that information?
 
 I use a range of formative and summative assessment: **questioning ❓, observation 👁️, mini-whiteboards 🧾, discussion 🗣️, written work ✍️, retrieval quizzes 🔄, topic tests 📝 and formal assessments 📊**.
 
