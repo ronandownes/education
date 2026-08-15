@@ -20,6 +20,7 @@ components:
     fields: &docfields
       - { name: layout, type: string, hidden: true }
       - { name: permalink, type: string, hidden: true }
+      - { name: cms_key, type: string, hidden: true }
       - { name: title, type: string, label: Title }
       - { name: eyebrow, type: string, label: Eyebrow }
       - { name: intro, type: text, label: Introduction }
@@ -45,6 +46,46 @@ content:
   - { name: specification, label: "Specification", type: file, path: content/specification/jc-mathematics.md, format: yaml-frontmatter, fields: *docfields }
   - { name: wordwall, label: "Word Wall", type: file, path: content/reference/word-wall.md, format: yaml-frontmatter, fields: *docfields }
   - { name: timeline, label: "Timeline", type: file, path: content/timeline/teaching-experience.md, format: yaml-frontmatter, fields: *docfields }
+
+  - name: schemes
+    label: "Schemes of Work"
+    type: group
+    items:
+      - { name: schemes_hub, label: "Schemes of Work — Overview", type: file, path: content/planning/schemes-of-work.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: scheme_first_year, label: "First Year Mathematics", type: file, path: content/planning/schemes/first-year-maths.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: scheme_second_year, label: "Second Year Mathematics — OL / HL", type: file, path: content/planning/schemes/second-year-maths.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: scheme_third_year, label: "Third Year Mathematics — OL / HL", type: file, path: content/planning/schemes/third-year-maths.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: scheme_ty, label: "Transition Year Mathematics", type: file, path: content/planning/schemes/transition-year-maths.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: scheme_lc_ordinary, label: "Leaving Certificate — Ordinary Level", type: file, path: content/planning/schemes/leaving-cert-ordinary.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: scheme_lc_higher, label: "Leaving Certificate — Higher Level", type: file, path: content/planning/schemes/leaving-cert-higher.md, format: yaml-frontmatter, fields: *docfields }
+
+  - name: class_profiles
+    label: "Synthetic Class Profiles"
+    type: group
+    items:
+      - { name: profiles_hub, label: "Class Profiles — Overview", type: file, path: content/teaching/class-profiles.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_first_mixed, label: "First Year — Mixed Attainment", type: file, path: content/teaching/class-profiles/first-year-mixed.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_first_support, label: "First Year — Learning Support", type: file, path: content/teaching/class-profiles/first-year-support.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_second_ordinary, label: "Second Year — Ordinary Level", type: file, path: content/teaching/class-profiles/second-year-ordinary.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_second_higher, label: "Second Year — Higher Level", type: file, path: content/teaching/class-profiles/second-year-higher.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_third_ordinary, label: "Third Year — Ordinary Level", type: file, path: content/teaching/class-profiles/third-year-ordinary.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_third_higher, label: "Third Year — Higher Level", type: file, path: content/teaching/class-profiles/third-year-higher.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_ty_mixed, label: "TY — Mixed Attainment", type: file, path: content/teaching/class-profiles/ty-mixed.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_ty_streamed, label: "TY — Streamed Group", type: file, path: content/teaching/class-profiles/ty-streamed.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_lit_num_support, label: "Literacy & Numeracy Support", type: file, path: content/teaching/class-profiles/literacy-numeracy-support.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_emotional_reg, label: "Emotional Regulation & Engagement", type: file, path: content/teaching/class-profiles/emotional-regulation.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_digital, label: "Digital & Computer Studies", type: file, path: content/teaching/class-profiles/digital-computing.md, format: yaml-frontmatter, fields: *docfields }
+
+  - name: expanded_domains
+    label: "Expanded Professional Pages"
+    type: group
+    items:
+      - { name: sen_detail, label: "SEN", type: file, path: content/practice/sen.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: aen_detail, label: "AEN", type: file, path: content/practice/aen.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: inclusion_detail, label: "Inclusion", type: file, path: content/practice/inclusion.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: assessment_detail, label: "Assessment", type: file, path: content/practice/assessment.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: feedback_detail, label: "Feedback", type: file, path: content/practice/feedback.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: reporting_detail, label: "Reporting", type: file, path: content/practice/reporting.md, format: yaml-frontmatter, fields: *docfields }
 
   - name: notebooks
     label: "Notebooks"

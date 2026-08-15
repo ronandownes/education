@@ -21,6 +21,8 @@
         <a class="navlabel" href="{{ '/teaching-learning.html' | relative_url }}"><span>Teaching &amp;<br>Learning</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Teaching and Learning menu">▾</button>
         <div class="dropmenu">
+          <a data-menu-page href="{{ '/teaching/class-profiles.html' | relative_url }}">Synthetic class profiles</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/first-year-support.html' | relative_url }}">Learning-support class profile</a>
           <a href="{{ '/teaching-learning.html#what-is-your-general-approach-to-teaching-and-learning' | relative_url }}">What is your general approach?</a>
           <a href="{{ '/teaching-learning.html#how-do-you-make-learning-active-without-losing-structure' | relative_url }}">How do you make learning active?</a>
           <a href="{{ '/teaching-learning.html#how-do-you-know-whether-students-have-understood' | relative_url }}">How do you know they understood?</a>
@@ -43,6 +45,9 @@
         <a class="navlabel" href="{{ '/sen-inclusion.html' | relative_url }}"><span>SEN / AEN &amp;<br>Inclusion</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open SEN AEN and Inclusion menu">▾</button>
         <div class="dropmenu">
+          <a data-menu-page href="{{ '/practice/sen.html' | relative_url }}">SEN — identified special educational needs</a>
+          <a data-menu-page href="{{ '/practice/aen.html' | relative_url }}">AEN — additional and contextual needs</a>
+          <a data-menu-page href="{{ '/practice/inclusion.html' | relative_url }}">Inclusion — participation and belonging</a>
           <a href="{{ '/sen-inclusion.html#what-is-your-approach-to-sen--aen' | relative_url }}">Approach to SEN / AEN</a>
           <a href="{{ '/sen-inclusion.html#why-does-patience-matter-in-aen' | relative_url }}">Patience, processing and regulation</a>
           <a href="{{ '/sen-inclusion.html#how-do-you-differentiate-in-a-mixed-needs-class' | relative_url }}">Mixed-needs classroom</a>
@@ -63,6 +68,9 @@
         <a class="navlabel" href="{{ '/assessment-reporting.html' | relative_url }}"><span>Assessment, Feedback<br>&amp; Reporting</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Assessment Feedback and Reporting menu">▾</button>
         <div class="dropmenu">
+          <a data-menu-page href="{{ '/practice/assessment.html' | relative_url }}">Assessment — evidence of learning</a>
+          <a data-menu-page href="{{ '/practice/feedback.html' | relative_url }}">Feedback — moving learning forward</a>
+          <a data-menu-page href="{{ '/practice/reporting.html' | relative_url }}">Reporting — clear, fair communication</a>
           <a href="{{ '/assessment-reporting.html#how-do-you-assess-learning' | relative_url }}">How do you assess learning?</a>
           <a href="{{ '/assessment-reporting.html#what-makes-feedback-useful' | relative_url }}">What makes feedback useful?</a>
           <a href="{{ '/assessment-reporting.html#how-do-you-report-progress' | relative_url }}">How do you report progress?</a>
@@ -73,6 +81,14 @@
         <a class="navlabel" href="{{ '/planning-curriculum.html' | relative_url }}"><span>Planning &amp;<br>Curriculum</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Planning and Curriculum menu">▾</button>
         <div class="dropmenu">
+          <a data-menu-page href="{{ '/planning/schemes-of-work.html' | relative_url }}">Schemes of Work — overview</a>
+          <a data-menu-page href="{{ '/planning/schemes/first-year-maths.html' | relative_url }}">First Year Mathematics</a>
+          <a data-menu-page href="{{ '/planning/schemes/second-year-maths.html' | relative_url }}">Second Year Mathematics — OL / HL</a>
+          <a data-menu-page href="{{ '/planning/schemes/third-year-maths.html' | relative_url }}">Third Year Mathematics — OL / HL</a>
+          <a data-menu-page href="{{ '/planning/schemes/transition-year-maths.html' | relative_url }}">Transition Year Mathematics</a>
+          <a data-menu-page href="{{ '/planning/schemes/leaving-cert-ordinary.html' | relative_url }}">Leaving Certificate Mathematics — Ordinary</a>
+          <a data-menu-page href="{{ '/planning/schemes/leaving-cert-higher.html' | relative_url }}">Leaving Certificate Mathematics — Higher</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles.html' | relative_url }}">Synthetic class profiles</a>
           <a href="{{ '/planning-curriculum.html#if-you-were-given-a-second-year-maths-class-in-september-how-would-you-plan-the-year' | relative_url }}">Plan a second-year class</a>
           <a href="{{ '/planning-curriculum.html#how-do-you-plan-a-lesson' | relative_url }}">Plan a lesson</a>
           <a href="{{ '/planning-curriculum.html#how-do-you-plan-for-different-programmes-and-pathways' | relative_url }}">Programmes and pathways</a>
@@ -151,6 +167,9 @@
     {% when 'content/reference/glossary.md' %}{% assign cms_url = cms_base | append: '/file/glossary' %}
     {% when 'content/reference/word-wall.md' %}{% assign cms_url = cms_base | append: '/file/wordwall' %}
   {% endcase %}
+  {% if page.cms_key %}
+    {% assign cms_url = cms_base | append: '/file/' | append: page.cms_key %}
+  {% endif %}
   {% if page.path contains 'content/notebooks/notebook-' %}
     {% assign notebook_number = page.path | remove: 'content/notebooks/notebook-' | remove: '.md' %}
     {% assign cms_url = cms_base | append: '/file/notebook' | append: notebook_number %}
@@ -184,10 +203,32 @@
       const normalisePath = value => new URL(value, location.href).pathname.replace(/\/+$/, '') || '/';
       const currentPath = location.pathname.replace(/\/+$/, '') || '/';
 
-      const populateMenu = (item, headings, pageUrl) => {
+      const addMenuHeading = (menu, text) => {
+        const heading = document.createElement('span');
+        heading.className = 'dropmenu-heading';
+        heading.textContent = text;
+        menu.appendChild(heading);
+      };
+
+      const addPageLinks = (item, menu, pageLinks) => {
+        if (!pageLinks.length) return;
+        addMenuHeading(menu, 'Pages');
+        pageLinks.forEach(page => {
+          const link = document.createElement('a');
+          link.href = page.href;
+          link.textContent = page.text;
+          link.dataset.menuPage = '';
+          link.addEventListener('click', () => item.classList.remove('is-open'));
+          menu.appendChild(link);
+        });
+      };
+
+      const populateMenu = (item, headings, pageUrl, pageLinks) => {
         const menu = item.querySelector(':scope > .dropmenu');
-        if (!menu || !headings.length) return false;
+        if (!menu || (!headings.length && !pageLinks.length)) return false;
         menu.replaceChildren();
+        addPageLinks(item, menu, pageLinks);
+        if (headings.length) addMenuHeading(menu, pageLinks.length ? 'Interview questions' : 'On this page');
         headings.forEach((heading, index) => {
           const id = heading.id || `section-${index + 1}`;
           const link = document.createElement('a');
@@ -198,7 +239,7 @@
         });
         menu.style.maxHeight = 'min(70vh, 620px)';
         menu.style.overflowY = 'auto';
-        menu.style.width = 'min(560px, calc(100vw - 24px))';
+        menu.style.width = 'min(600px, calc(100vw - 24px))';
         return true;
       };
 
@@ -207,10 +248,15 @@
         const menu = item.querySelector(':scope > .dropmenu');
         if (!label || !menu) return;
 
+        const pageLinks = Array.from(menu.querySelectorAll('a[data-menu-page]')).map(link => ({
+          href: link.href,
+          text: link.textContent.trim()
+        }));
         const pageUrl = new URL(label.href, location.href);
         const targetPath = normalisePath(pageUrl.href);
 
         menu.replaceChildren();
+        addPageLinks(item, menu, pageLinks);
         const loading = document.createElement('a');
         loading.href = pageUrl.href;
         loading.textContent = 'Loading questions…';
@@ -219,7 +265,7 @@
         try {
           if (targetPath === currentPath) {
             const headings = Array.from(body.querySelectorAll('.answer-heading-row > h2'));
-            if (populateMenu(item, headings, pageUrl.pathname)) return;
+            if (populateMenu(item, headings, pageUrl.pathname, pageLinks)) return;
           }
 
           const response = await fetch(pageUrl.href, { cache: 'no-store' });
@@ -227,9 +273,11 @@
           const html = await response.text();
           const parsed = new DOMParser().parseFromString(html, 'text/html');
           const headings = Array.from(parsed.querySelectorAll('#docBody > h2'));
-          if (!populateMenu(item, headings, pageUrl.pathname)) throw new Error('No headings found');
+          if (!populateMenu(item, headings, pageUrl.pathname, pageLinks)) throw new Error('No headings found');
         } catch (error) {
           menu.replaceChildren();
+          addPageLinks(item, menu, pageLinks);
+          if (pageLinks.length) addMenuHeading(menu, 'Interview notes');
           const fallback = document.createElement('a');
           fallback.href = pageUrl.href;
           fallback.textContent = 'Open this section';
