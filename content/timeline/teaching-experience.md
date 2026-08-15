@@ -8,6 +8,27 @@ intro: A reverse-chronological working record of schools, roles, subjects,
 ---
 ## St Patrick's Comprehensive
 
+## Interview Time and Travel Plan
+
+### The interview is at 3:00 pm on Monday 17 August; leave home at 2:00 pm so that I arrive calm, settled and ready.
+
+- **Destination:** St Patrick’s Comprehensive School, Shannon, Co. Clare, V14 Y434
+- **Estimated driving time:** approximately **25–30 minutes**
+- **Planned departure:** **2:00 pm**
+- **Target arrival:** approximately **2:30 pm**
+- **Interview:** **3:00 pm**
+
+| Time | Plan |
+| --- | --- |
+| **1:30 pm** | Be dressed and fully ready. Check directions, phone, water, pen, notes and interview documents. |
+| **1:45 pm** | Stop revising. Use the final fifteen minutes to breathe, settle and mentally rehearse the opening answer. |
+| **2:00 pm** | Leave home. The hour is for travel and calm arrival, not last-minute preparation. |
+| **2:30 pm** | Aim to be parked and at the school. Take a few quiet minutes before going in. |
+| **2:40–2:45 pm** | Report to reception, use the bathroom if needed, silence the phone and organise the prompt sheet. |
+| **3:00 pm** | Interview. Listen to the full question, take a moment, give the key line first and then one concrete example. |
+
+**prepared → early → settled → listen → key line → example**
+
 ### Why this role overlaps strongly with my experience
 
 - **Mathematics:** extensive Junior Cycle and Senior Cycle Mathematics experience across different levels and programmes.
@@ -21,81 +42,53 @@ intro: A reverse-chronological working record of schools, roles, subjects,
 
 **Teaching & Learning · Classroom Management · SEN / AEN & Inclusion · Differentiation & Accessibility · Assessment · Planning & Curriculum · Relationships & Wellbeing · Professional Responsibility**
 
-# Timeline Recommendation
+## What do you know about the Comp?
 
-### Keep each school as a separate personal entry, but connect important schools to a short “wider educational story”.
+### The Comp was founded to widen opportunity, and that purpose is still visible in its breadth, inclusion and connection with the community.
 
-You should not have to scour everything yourself. I can establish the historical facts; you supply the experiences that no website can reveal—particularly how Crescent made you feel.
+St Patrick’s opened in Shannon in **September 1966** as one of Ireland’s first three comprehensive schools and the first purpose-built, or **greenfield**, comprehensive school. It began with **94 students from six nationalities**, admitted without academic selection. It brought academic, practical and technical subjects together in one co-educational school so that students with different interests and abilities could learn together.
 
-## St Patrick’s Comprehensive: why it matters
+That was significant because post-primary education had previously been divided largely between academically oriented secondary schools and vocational schools. The Comp opened immediately before free post-primary education was introduced nationally in 1967. It was therefore not simply a new school in Shannon; it was a practical demonstration of a broader and more equal model of education.
 
-Before the 1960s, Irish post-primary education was divided broadly between:
+That founding purpose remains visible today. The school’s mission combines **excellence, equality of opportunity, a disciplined and caring environment, individual potential and positive relationships with the community**. I can also see it in the school’s broad curriculum, its non-uniform tradition, restorative practice, LCA and Level 1 and Level 2 provision, and the work of **Inbhear** in supporting students with additional needs.
 
-- voluntary secondary schools, usually academically oriented and often fee-paying;
-- vocational schools, which concentrated more heavily on practical preparation for employment.
+What attracts me is that the school does not present inclusion as lowering expectations. It brings **care and ambition** together: knowing the learner, removing barriers, providing the right support and still helping every student make progress. That connects strongly with my own experience in Mathematics, mixed-ability teaching and AEN.
 
-St Patrick’s opened in September 1966 as one of Ireland’s first three comprehensive schools and the first purpose-built—or “greenfield”—comprehensive school. It admitted students without academic selection and brought academic and technical subjects together in one co-educational school.
+The school motto captures that very well: **Beart de réir ár mbriathar — deeds to match our words.** For me, that means an ethos must be visible in classroom practice, relationships and the opportunities actually available to students.
 
-Its opening group consisted of only 94 students but included six nationalities—remarkable in 1966. Founding principal Diarmuid Ó Donnabháin regarded the early post-primary years as a period in which students should explore and discover their abilities. [ACCS anniversary account](https://static1.squarespace.com/static/5de4ebae5719bc363911df16/t/5e4bdd9db6e8306d01296456/1582030242046/preidential-address-antoinette-nicgearailt.pdf)
+**comprehensive → equality → breadth → inclusion → potential → community**
 
-This happened immediately before Donogh O’Malley’s free post-primary education scheme took effect in 1967. St Patrick’s therefore stood at the beginning of a fundamental change:
+## Comp Vocabulary
+
+| Comprehensive | Equality | Breadth |
+| --- | --- | --- |
+| Inclusion | Potential | Community |
+
+## Ethos and Motto
+
+### Excellence and equality of opportunity within a disciplined, caring and inclusive community.
+
+The school is a Catholic co-educational comprehensive under the joint trusteeship of the **Bishop of Killaloe** and **Limerick and Clare Education and Training Board**. Its published ethos also emphasises openness, service to the wider community and respect for students in a changing and pluralist society.
+
+**Mission:** excellence · equality of opportunity · care · individual potential · positive relationships · community
+
+**Motto:** *Beart de réir ár mbriathar* — **deeds to match our words**
+
+## Why does “comprehensive” matter?
+
+### It brought students, subjects and pathways that had previously been separated into one common school.
+
+Before the 1960s, voluntary secondary schools were generally academically oriented, while vocational schools concentrated more heavily on practical preparation for employment. The comprehensive model deliberately combined both traditions and admitted students without academic selection.
+
+The first three comprehensive schools—Shannon, Cootehill and Carraroe—were intended to “signpost” a more integrated post-primary system. Community schools followed from 1972 and carried much of the same philosophy into new communities and school amalgamations. That is why the legacy of the comprehensive idea is much larger than the **14 schools** that currently carry the formal comprehensive designation.
 
 **selection and separation → access, breadth and equality of opportunity**
 
-## How community schools followed
+[ACCS anniversary account](https://static1.squarespace.com/static/5de4ebae5719bc363911df16/t/5e4bdd9db6e8306d01296456/1582030242046/preidential-address-antoinette-nicgearailt.pdf) · [History of community and comprehensive schools](https://www.accs.ie/history-of-accs) · [Current comprehensive schools](https://www.accs.ie/comprehensive-schools)
 
-Community schools did not replace or transform St Patrick’s. They developed alongside the small comprehensive sector and carried much of the same philosophy into a more scalable structure.
+## Crescent College: a useful contrast
 
-
-| Comprehensive idea | Community-school development |
-| ---------------------------------------- | ----------------------------------------------------- |
-| Academic and practical subjects together | The same broad curriculum |
-| Open to students of different abilities | Non-selective local provision |
-| State-funded facilities | Jointly governed community institutions |
-| School serving its locality | Greater emphasis on adult education and community use |
-| Early experimental model | Used for new areas and school amalgamations |
-
-
-The community-school policy was announced by Pádraig Faulkner in 1970, and the first community schools opened in 1972. They were particularly useful where secondary and vocational schools needed to amalgamate or where rapidly growing communities required completely new provision. [ACCS history](https://www.accs.ie/history-of-accs)
-
-## Why there are so few comprehensive schools
-
-There are currently **14—not eight—comprehensive schools** in Ireland. [Current ACCS directory](https://www.accs.ie/comprehensive-schools)
-
-The small number was deliberate. In 1966, Minister George Colley said that the new schools in Shannon, Cootehill and Carraroe would “signpost” the way towards an integrated system, but that he did not expect many public comprehensive schools to be built. The State hoped existing secondary and vocational schools would collaborate and pool facilities. From 1970 onward, community schools became the preferred vehicle for new provision and amalgamation. [Áine Hyland’s history of the second-level system](https://cora.ucc.ie/bitstreams/7747afe1-92e4-4861-a6e1-d55f9b11bf8b/download)
-
-So St Patrick’s legacy is larger than the number of schools bearing the word *comprehensive*. Its principles—broad curriculum, non-selection, co-education, inclusion and community connection—spread well beyond the original comprehensive sector.
-
-## Crescent College: the revealing contrast
-
-Crescent tells a different but connected story.
-
-It began as a Jesuit-managed diocesan school in 1859, moved to Crescent House in 1862 and developed as an academically prestigious, fee-paying boys’ school associated mainly with Limerick’s professional, business and middle classes.
-
-During the 1960s it entered the free-education scheme. Donogh O’Malley proposed that the new Dooradoyle school become comprehensive, allowing Jesuit education to become available to students from a much wider range of backgrounds. It became Crescent College Comprehensive in 1971. [Crescent’s official history](https://www.crescentsj.com/history-of-crescent-college-comprehensivesj/)
-
-That gives you an excellent historical contrast:
-
-- **St Patrick’s:** a completely new school created around the comprehensive ideal.
-- **Crescent:** an established, selective and fee-paying tradition attempting to reinvent itself as comprehensive.
-
-## Your personal Crescent entry
-
-The historical account should not smooth out your mixed experience. I suggest two distinct parts:
-
-### The institution
-
-A short account of its Jesuit history, transition from fee-paying education and adoption of the comprehensive model.
-
-### My experience
-
-Something honest and balanced in this form:
-
-> I attended Crescent College Comprehensive during an important period in my own development. The school offered me __________ and helped develop __________. At the same time, I experienced __________ and did not always feel __________. Looking back as a teacher, I can recognise both what the school gave me and the ways in which my experience might have been different with the understanding of inclusion and learner wellbeing that exists today.
-
-That personal account will be far more interesting than another polished school history. You tell me the good, the uncomfortable and what has stayed with you; I can shape it without sanitising it.
-
-One accuracy point: St Patrick’s should be labelled as a school you **interviewed at and researched**, not as somewhere you taught. If the timeline includes more than employment, rename it something like **“Schools and experiences that shaped me.”**
+Crescent College followed a different route. It developed from an established Jesuit, fee-paying boys’ school and entered the free-education system during the 1960s before becoming Crescent College Comprehensive in **1971**. St Patrick’s was created around the comprehensive ideal from the beginning; Crescent attempted to open an older educational tradition to a wider range of students. [Crescent’s official history](https://www.crescentsj.com/history-of-crescent-college-comprehensivesj/)
 
 ## Presentation Secondary School, Thurles — 2025–26
 
