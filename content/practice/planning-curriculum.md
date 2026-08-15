@@ -8,6 +8,27 @@ intro: |-
   Align with the curriculum and
   Adapt to the evidence.
 ---
+### Planning Word Wall
+
+<div class="planning-word-wall" aria-label="Planning word wall">
+  <span>Adapt</span>
+  <span>Adjust</span>
+  <span>Align</span>
+  <span>Collaborate</span>
+  <span>Consolidate</span>
+  <span>Evaluate</span>
+  <span>Integrate</span>
+  <span>Map</span>
+  <span>Monitor</span>
+  <span>Pace</span>
+  <span>Prioritise</span>
+  <span>Reflect</span>
+  <span>Revisit</span>
+  <span>Review</span>
+  <span>Sequence</span>
+  <span>Track</span>
+</div>
+
 ## Plan a lesson on **short notice**?
 
 **I establish where the class is, clarify an achievable learning goal from the instructions or scheme, use retrieval to activate prior learning, and let formative assessment and effective questioning guide the lesson. I finish with a quick assessment, report back to the regular teacher, and identify the natural next step.**
@@ -162,4 +183,3 @@ I incorporate the relevant assessment requirements into the learning sequence.
 ## How do you prioritise learning when there is insufficient time to cover everything exactly as originally planned?
 
 ## How do you ensure your planning reflects both the curriculum and the actual students sitting in front of you?
-
