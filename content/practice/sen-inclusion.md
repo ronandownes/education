@@ -20,8 +20,6 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | Communicate | Challenge | Evidence | Dignity | Belonging |
 
 
-
-
 ## Icons
 
 | 👤 | Learner | 📋 | Profile | 🚧 | Barrier |
@@ -75,9 +73,43 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 ### Keep ambition high.
 
-👤 → 📋 → 🚧 → 🔓 → 🤲 → 🙋 → 🌱 → 🧗
+👤 → 📋 →🤲→ 🚧 → 🔓 → 🤲 → 🙋 → 🌱 → 🧗
 
-I start with the learner rather than the label. I use available student-support information, collaborate with the AEN team and other staff, and adapt access through structure, chunking, modelling, concrete and visual materials, technology, reduced cognitive load and additional processing time where needed.
+I start with the learner not the label. 
+
+I use student-support information, 
+
+I collaborate with the AEN team and other staff, 
+
+and adapt access through structure, chunking, modelling, concrete and visual materials, technology, reduced cognitive load and additional processing time where needed.
+
+
+| 🧱 Structure | 🧩 Chunking | 👨‍🏫 Modelling | 👁️ visual materials |
+| ------------- | ------------------------- | ----------------- | --------------------- |
+| 💻 Technology | 🧠 Reduced cognitive load | ⏳ Processing time | 🧮 Concrete materials |
+
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 Support should increase meaningful participation and independence rather than create unnecessary dependence. I maintain appropriate challenge because an additional need does not define a student's potential.
 
