@@ -56,7 +56,7 @@ I use student-support information,
 
 I collaborate with the AEN team and other staff, 
 
-and adapt access through structure, chunking, modelling, concrete and visual materials, technology, reduced cognitive load and additional processing time where needed.
+then  adapt access through 
 
 
 | 🧱 Structure | 🧩 Chunking | 👨‍🏫 Modelling | 👁️ visual materials |
@@ -65,8 +65,6 @@ and adapt access through structure, chunking, modelling, concrete and visual mat
 
 
 
-
-&nbsp;
 
 &nbsp;
 
