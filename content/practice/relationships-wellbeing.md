@@ -11,26 +11,32 @@ intro: Trust, belonging, student voice, attendance and psychological safety.
 
 Learn these six first. They cover the centre of the page.
 
+
 | Relationships | Pastoral role | Wellbeing | Concern | Disclosure | Bullying |
-| --- | --- | --- | --- | --- | --- |
+| ------------- | ------------- | ------------ | ---------- | ------------- | -------------- |
 | 🤝 Trust | 👀 Notice | ❤️ Belonging | 🚩 Respond | 🛡️ Safeguard | 🫶 Bí Cineálta |
+
 
 ## Vocabulary
 
+
 | Relationships | Pastoral Awareness | Classroom Wellbeing | Student Voice | Professional Response |
-| --- | --- | --- | --- | --- |
+| ------------- | ------------------ | ------------------- | ------------- | --------------------- |
 | Trust | Attendance | Belonging | Listen | Notice |
 | Respect | Engagement | Safety | Choice | Record |
 | Consistency | Change | Inclusion | Agency | Communicate |
 | Connection | Anxiety | Participation | Leadership | Refer |
 | Repair | Peer dynamics | Resilience | Feedback | Safeguard |
 
+
 ## Icons
 
+
 | 🤝 Trust | 👀 Notice | ❤️ Belonging | 🗣️ Voice | 🛡️ Safeguard |
-| --- | --- | --- | --- | --- |
+| -------------- | ------------- | ------------- | ---------------- | ------------- |
 | 🔄 Consistency | 🚩 Concern | 🌱 Resilience | 🙋 Participation | 📝 Record |
 | 🔧 Repair | 📅 Attendance | 🫶 Inclusion | 🎧 Listen | ➡️ Refer |
+
 
 ## What role do relationships play in learning?
 
