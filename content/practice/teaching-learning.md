@@ -18,11 +18,9 @@ intro: My answers on explanation, modelling, questioning, active learning,
 | 🧱 Chunk | 🎨 Represent | 🤝 Collaborate | 🔁 Revisit | 🔒 Consolidate |
 
 
-I particularly want **Model, Retrieve, Question, Scaffold, Check, Practise, Challenge, Chunk, Represent, Revisit, Consolidate** in there because those are words you can actually reach for naturally in an interview answer.
+I particularly want **Model, Retrieve, Question, Scaffold, Check, Practise, Challenge, Chunk, Represent, Revisit, Consolidate** in there 
 
-And yes: **same visual structure as your Assessment Vocabulary** — compact desktop grid, wrapping/reflowing cleanly on a phone rather than becoming a wide table.What is your general approach to teaching and learning?
-
-**Key line: Clear explanation matters, but students must do the thinking.**
+### Clear explanation matters, but students must do the thinking.
 
 I plan from the learning intention and the students in front of me. I explain and model clearly, then move students into prediction, discussion, practice, justification and application. I check understanding continuously and change pace, representation or support when the evidence tells me to.
 
