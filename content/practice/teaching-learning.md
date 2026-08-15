@@ -8,8 +8,6 @@ intro: My answers on explanation, modelling, questioning, active learning,
 ---
 # Teaching & Learning
 
-
-
 ## Vocabulary
 
 
@@ -18,8 +16,6 @@ intro: My answers on explanation, modelling, questioning, active learning,
 | Clarify | Check | Explain | Discuss | Practise |
 | Connect | Guide | Explore | Apply | Challenge |
 | Chunk | Represent | Collaborate | Revisit | Consolidate |
-
-
 
 
 ## Vocabulary
@@ -39,6 +35,38 @@ I particularly want **Model, Retrieve, Question, Scaffold, Check, Practise, Chal
 I plan from the learning intention and the students in front of me. I explain and model clearly, then move students into prediction, discussion, practice, justification and application. I check understanding continuously and change pace, representation or support when the evidence tells me to.
 
 Across Mathematics, Science, Physics, Computer Science and Applied Mathematics, I want students to understand what they are doing rather than merely imitate a procedure.
+
+
+
+## Cognitive Load
+
+
+| 🔄 Activate prior knowledge | 🔢 Limit new information | 🧩 Chunk and sequence | 👨‍🏫 Model the steps |
+| --------------------------- | ------------------------------ | ------------------------------------ | --------------------------- |
+| 📝 Use worked examples | 🔗 Integrate words and visuals | 🧹 Remove redundancy and distraction | 📉 Guide, then fade support |
+
+
+## How do you reduce cognitive load?
+
+### Keep the thinking that matters and remove avoidable load around it.
+
+Working memory is limited, particularly when students are dealing with unfamiliar material.
+
+I **activate prior knowledge, limit the amount of new information, chunk and sequence the learning, model the steps, use worked examples, integrate words and visuals, remove redundant information and gradually fade guidance**.
+
+Reducing cognitive load does not mean reducing intellectual demand. It means removing avoidable demands so that students can concentrate on the learning itself.
+
+### Verbal Retrieval
+
+**prior knowledge → limit → chunk → model → worked example → integrate → remove → fade**
+
+### Visual Retrieval
+
+🔄 → 🔢 → 🧩 → 👨‍🏫 → 📝 → 🔗 → 🧹 → 📉
+
+### Mixed Retrieval
+
+retrieve 🔄 → limit 🔢 → chunk 🧩 → model 👨‍🏫 → example 📝 → integrate 🔗 → remove 🧹 → fade 📉
 
 ## How do you make learning active without losing structure?
 
