@@ -8,7 +8,7 @@ intro: |-
   Align with the curriculum and
   Adapt to the evidence.
 ---
-## Planning Word Wall
+## Vocabulary
 
 
 | Adapt | Adjust | Align | Collaborate | Consolidate |
