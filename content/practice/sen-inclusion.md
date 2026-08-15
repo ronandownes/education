@@ -8,7 +8,7 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 ---
 # SEN / AEN & Inclusion
 
-## Vocabulary 
+## Vocabulary
 
 ↔️Best  in landscape
 
@@ -61,9 +61,47 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 **Support should increase meaningful participation and independence rather than create unnecessary dependence.**
 
+# Learner Profiles
+
+### A learner profile is a combination of strengths, needs, context and supports—not a single diagnosis or label.
+
+Add this link to **Snips**:
+
+**🧩 Learner Profiles**
 
 
-&nbsp;
+|  |  |  |  |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 📖 **Literacy**Dyslexia · decoding · comprehension · spelling | 🔢 **Numeracy**Number sense · fluency · mathematical language | 🧠 **Cognition**Working memory · processing speed · general learning needs | 🧱 **Prior Learning**Gaps · misconceptions · fragile foundations · rote learning |
+| 🗂️ **Executive Function**Attention · organisation · task initiation · self-monitoring | 🌍 **Language Access**EAL · vocabulary · receptive language · expressive language | 💛 **Emotional Wellbeing**Anxiety · emotional regulation · resilience · self-esteem | 🧭 **Behaviour and Regulation**Triggers · routines · co-regulation · restorative support |
+| 🌱 **Confidence**Self-belief · risk-taking · learner identity · fear of failure | 🎯 **Engagement**Motivation · participation · persistence · task avoidance | 🏫 **Attendance**Absence · interrupted learning · school connection · re-engagement | 🤝 **Relationships**Peers · belonging · trust · communication |
+| 🔊 **Sensory and Communication**Sensory needs · social communication · clarity · predictability | 💻 **Access and Technology**Laptop · text-to-speech · translation · visual supports | 🚀 **Challenge**High attainment · high potential · depth · extension | 🧑‍🤝‍🧑 **Support Network**SNA · AEN team · home · liaison · learner independence |
+
+
+## Language I Have Not Heard Enough
+
+The biggest missing areas have been:
+
+- **Emotional regulation and wellbeing**
+- **Executive functioning**
+- **Attendance and interrupted learning**
+- **Confidence and learner identity**
+- **Social communication and belonging**
+- **Sensory needs**
+- **Student strengths and interests**
+- **Independence from adult support**
+
+Instead of saying only **“discipline”**, say:
+
+**“The student needed support with behaviour, emotional regulation, engagement and maintaining positive peer relationships.”**
+
+Instead of remembering only a diagnosis, scan:
+
+**strengths → learning → language → regulation → wellbeing → access → challenge → support**
+
+And keep **dyslexia** highly visible inside the Literacy block so it does not disappear during interviews.
+
+
 
 ## What is your approach to SEN / AEN and inclusion?
 
