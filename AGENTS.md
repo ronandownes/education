@@ -6,7 +6,7 @@ This repository is Ronan Downes's working education and interview-preparation si
 
 ## Information Architecture
 
-The main navigation is built around **eight interview areas**, followed by **Subjects** and **Policies**:
+The main navigation is built around **eight interview areas**, followed by **Snips**, **Policies** and **Timeline**:
 
 1. Teaching & Learning
 2. Classroom Management
@@ -16,8 +16,11 @@ The main navigation is built around **eight interview areas**, followed by **Sub
 6. Planning & Curriculum
 7. Relationships & Wellbeing
 8. Professional Responsibility & School Community
-9. Subjects
+9. Snips
 10. Policies
+11. Timeline
+
+Do not restore **Subjects** as permanent top-level navigation unless Ronan explicitly asks for it. Subject pages can remain in the repository and may be reached from homepage launchpads or contextual links.
 
 Do not add separate top-level **Home**, **Practice**, **Schools**, or **Interview** tabs unless Ronan explicitly asks for them. The Ronan Downes Education logo is the Home link.
 
@@ -26,9 +29,10 @@ Do not add separate top-level **Home**, **Practice**, **Schools**, or **Intervie
 - Each of the eight interview-area titles is a direct link to the full notes page for that area.
 - The small dropdown control beside each title opens its typical interview questions or subtopics. Do not make users click an extra "All Notes" item.
 - Keep the desktop headings compact and deliberately wrapped where appropriate rather than stretching them across the full width.
-- Subjects remains a subject dropdown.
-- Policies is a top-level reference area for curated key documents, grouped by whole-school/professional and subject area.
-- On smaller screens, collapse the full navigation behind a standard hamburger button. Keep the complete eight-area structure visible inside that mobile menu; do not replace it with a generic Practice menu or horizontal scrolling navigation.
+- Snips is a direct top-level link for short follow-up answers, phrases and recall fragments.
+- Policies is a top-level reference area for curated key documents and should use its actual shelf structure rather than an obsolete subject-based menu.
+- Timeline remains top-level for teaching experience and school context.
+- On smaller screens, collapse the full navigation behind a standard hamburger button.
 
 ## Where Content Belongs
 
@@ -49,13 +53,15 @@ Keep **school sector/governance** separate from **ethos/patronage**. Voluntary s
 
 School-specific research can remain in separate files, but it should be reached from the relevant professional-responsibility context rather than needing its own permanent top-level navigation tab.
 
-**Policies** is for authoritative or frequently used documents and links. Keep it curated and organised under natural headings such as whole-school/professional, Mathematics, Science & Physics, Computer Science, Applied Mathematics, and SEN/AEN & Inclusion.
+**Snips** is for compact material that is useful under interview pressure but does not justify a full answer page: follow-up lines, distinctions, definitions, challenge questions and short retrieval chains.
+
+**Policies** is for authoritative or frequently used documents and links. Keep it curated around practical shelves such as school-specific reports, inspection/SSE, curriculum/reform, assessment/feedback and AEN/inclusion.
 
 ## Content Style
 
 - Write for oral recall, not essay reading.
 - Prefer a strong interview question as an H2 heading.
-- Put a **Key line** immediately below important question headings where useful.
+- Put a concise H3 key line immediately below important question headings where useful.
 - Keep answers concise, concrete and reconstructable from headings.
 - Preserve Ronan's own teaching language and examples where possible.
 - Avoid generic educational jargon unless it adds precision.
@@ -65,6 +71,7 @@ School-specific research can remain in separate files, but it should be reached 
 
 - Core content lives in Markdown under `content/`.
 - `_layouts/doc.html` controls the main site navigation and document shell.
+- `assets/doc-page.js` may apply small live navigation corrections and page-specific enhancements.
 - `assets/styles.css` controls the desktop/mobile navigation and document appearance.
 - `.pages.yml` supports browser-based editing through Pages CMS and should mirror the current content architecture.
 - GitHub Pages publishes from `main` at the repository root.
@@ -73,4 +80,4 @@ School-specific research can remain in separate files, but it should be reached 
 
 ## Change Discipline
 
-When reorganising navigation, do not delete useful content merely because a top-level tab disappears. Re-link it from the appropriate interview area. Prefer a small number of durable categories over creating new categories for individual interview questions or schools.
+When reorganising navigation, do not delete useful content merely because a top-level tab disappears. Re-link it from the appropriate interview area or homepage launchpad. Prefer a small number of durable categories over creating new categories for individual interview questions or schools.
