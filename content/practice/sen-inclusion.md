@@ -6,8 +6,6 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Mainstream inclusion, learning support, withdrawal, team teaching and
   targeted support.
 ---
-
-
 # SEN / AEN & Inclusion
 
 ## Vocabulary
@@ -49,7 +47,7 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | Belonging | 🫶 |
 
 
-## 1 What is your approach to SEN / AEN?
+## What is your approach to SEN / AEN?
 
 ### Support participation. Build independence. Keep ambition high.
 
@@ -69,7 +67,7 @@ learner → profile → barrier → access → support → participation → ind
 
 learner 👤 → barrier 🚧 → improve access 🔓 → support 🤲 → participate 🙋 → independence 🌱 → challenge 🧗
 
-## 2 Identify the educational needs of your students?
+## Identify the educational needs of your students?
 
 ### Gather information, observe carefully, assess learning and collaborate.
 
@@ -91,7 +89,7 @@ handover → profile → observe → assess → identify → collaborate → res
 
 information 📋 → observe 👀 → gather evidence 🔎 → identify need 🧠 → collaborate 🤝 → respond 🔧
 
-## 3 Why does patience matter in AEN?
+## Why does patience matter in AEN?
 
 ### What I see on the surface may not reveal the learning, processing or regulation load a student is carrying.
 
