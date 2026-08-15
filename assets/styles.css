@@ -190,3 +190,13 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .notebook-action{margin-top:auto;padding-top:12px;color:#315b91;font-size:.76rem;font-weight:700}
 @media(max-width:720px){.notebook-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:360px){.notebook-grid{grid-template-columns:1fr}}
+
+
+/* Dropdowns can mix linked pages with dynamically generated on-page questions. */
+.dropmenu-heading{display:block;padding:10px 16px 6px;color:#6b7280;font-size:.68rem;font-weight:800;letter-spacing:.11em;text-transform:uppercase;border-top:1px solid #edf0f3}
+.dropmenu-heading:first-child{border-top:0}
+.dropmenu a[data-menu-page]{color:#174ea6;font-weight:700;background:#f8fbff}
+.dropmenu a[data-menu-page]:hover{background:#edf4ff}
+
+/* Synthetic profiles must remain unmistakably fictional if copied or printed. */
+.doc-body blockquote{margin:18px 0;padding:12px 16px;border-left:4px solid #e0a100;background:#fff9e8;color:#4d3b05}
