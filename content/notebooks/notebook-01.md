@@ -2,7 +2,7 @@
 layout: doc
 permalink: /notebooks/notebook-01.html
 title: Elicit
-eyebrow: WORKING NOTEBOOK
+eyebrow: WORKING NOTEBOOK 1
 intro: A flexible space for material that does not yet have a permanent home.
 ---
 # Elicit — four interview uses
