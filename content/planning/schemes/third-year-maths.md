@@ -9,14 +9,15 @@ intro: A final-year plan that completes and connects learning while protecting
 ---
 ## Principles for third year
 
-Third year is not a race to finish chapters. 
+### Third year is not a race to finish chapters.
 
-New learning, cumulative retrieval and exam preparation run in parallel. 
+New learning, cumulative retrieval and exam preparation run in parallel.
 
 The Ordinary and Higher routes share important mathematical connections but differ in pace, expected independence and depth.
 
 ## Indicative sequence
 
+### Diagnosis, new learning, cumulative retrieval and examination preparation remain connected throughout the year.
 
 | Period | Core work | Ordinary Level pathway | Higher Level pathway |
 | -------- | -------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------ |
@@ -29,11 +30,11 @@ The Ordinary and Higher routes share important mathematical connections but diff
 
 ## Assessment rhythm
 
-- weekly low-stakes cumulative retrieval
-- one substantial mixed assessment per half-term
-- error coding by concept, representation and strategy rather than mark alone
-- short reteaching cycles followed by a fresh check
-- explicit reflection on calculator use, written communication and checking
+- I use weekly low-stakes cumulative retrieval.
+- I set one substantial mixed assessment in each half-term.
+- I code errors by concept, representation and strategy rather than recording the mark alone.
+- I follow short reteaching cycles with a fresh check.
+- I explicitly teach students to reflect on calculator use, written communication and checking.
 
 ## Connected class profiles
 
