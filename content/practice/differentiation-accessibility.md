@@ -6,6 +6,52 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Common learning, different routes: access, scaffolding, representation, pace, challenge and response.
 ---
 
+<style>
+.answer-section:has(#differentiation-word-wall) .section-content table,
+.answer-section:has(#differentiation-icon-wall) .section-content table {
+  display:grid;
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:10px 12px;
+  width:100%;
+  margin:10px 0 28px;
+  border:0;
+  border-collapse:separate;
+  table-layout:auto;
+  background:transparent;
+}
+.answer-section:has(#differentiation-word-wall) .section-content table thead,
+.answer-section:has(#differentiation-word-wall) .section-content table tbody,
+.answer-section:has(#differentiation-word-wall) .section-content table tr,
+.answer-section:has(#differentiation-icon-wall) .section-content table thead,
+.answer-section:has(#differentiation-icon-wall) .section-content table tbody,
+.answer-section:has(#differentiation-icon-wall) .section-content table tr {display:contents;}
+.answer-section:has(#differentiation-word-wall) .section-content table th,
+.answer-section:has(#differentiation-word-wall) .section-content table td,
+.answer-section:has(#differentiation-icon-wall) .section-content table th,
+.answer-section:has(#differentiation-icon-wall) .section-content table td {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:44px;
+  padding:8px 10px;
+  border:1px solid #d7e3f4;
+  border-radius:9px;
+  background:#f7faff!important;
+  color:#24364b;
+  font-size:.96rem;
+  font-weight:600;
+  text-align:center;
+}
+@media(max-width:600px){
+  .answer-section:has(#differentiation-word-wall) .section-content table,
+  .answer-section:has(#differentiation-icon-wall) .section-content table {grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;}
+}
+@media(max-width:340px){
+  .answer-section:has(#differentiation-word-wall) .section-content table,
+  .answer-section:has(#differentiation-icon-wall) .section-content table {grid-template-columns:1fr;}
+}
+</style>
+
 ## Differentiation Thesis
 
 ### I vary the route, not the learning.
