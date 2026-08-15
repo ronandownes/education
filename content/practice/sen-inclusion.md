@@ -78,8 +78,6 @@ and adapt access through structure, chunking, modelling, concrete and visual mat
 
 &nbsp;
 
-&nbsp;
-
 Support should increase meaningful participation and independence rather than create unnecessary dependence. I maintain appropriate challenge because an additional need does not define a student's potential.
 
 ### Vocabulary Retrieval Chain
