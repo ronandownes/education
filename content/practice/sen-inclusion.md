@@ -49,7 +49,11 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 ## Approach to SEN / AEN?
 
-### Support participation. Build independence. Keep ambition high.
+### Support participation. 
+
+### Build independence. 
+
+### Keep ambition high.
 
 I start with the learner rather than the label. I use available student-support information, collaborate with the AEN team and other staff, and adapt access through structure, chunking, modelling, concrete and visual materials, technology, reduced cognitive load and additional processing time where needed.
 
