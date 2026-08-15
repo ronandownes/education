@@ -29,7 +29,17 @@ I also use digital tools 💻 where they add value. Immediate feedback ⚡ can s
 
 
 
-&nbsp;
+## What is your understanding of Assessment as Learning?
+
+### Assessment as Learning develops students’ ability to recognise, monitor and regulate their own learning.
+
+Students use **success criteria, self-assessment, peer assessment, exemplars, retrieval and immediate feedback** to judge the quality of their own work, identify errors and decide what to do next.
+
+Digital tools can be particularly useful because students receive **immediate feedback**, adjust their response and try again independently. The aim is to develop **metacognition, ownership and self-regulation**, rather than making students dependent on teacher correction.
+
+**criteria → recognise → reflect → adjust → regulate**
+
+📋 → 👀 → 🪞 → 🔧 → 🧠
 
 ## What is your understanding of Assessment for Learning (AfL)?
 
