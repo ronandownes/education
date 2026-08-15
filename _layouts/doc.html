@@ -209,31 +209,65 @@
       const body = document.getElementById('docBody');
       if (!body) return;
 
-      const currentPath = location.pathname.replace(/\/+$/, '');
-      const currentItem = Array.from(document.querySelectorAll('.topnav .navitem')).find(item => {
-        const label = item.querySelector(':scope > .navlabel[href]');
-        if (!label) return false;
-        return new URL(label.href, location.href).pathname.replace(/\/+$/, '') === currentPath;
+      const normalisePath = value => new URL(value, location.href).pathname.replace(/\/+$/, '') || '/';
+      const currentPath = location.pathname.replace(/\/+$/, '') || '/';
+
+      const populateMenu = (item, headings, pageUrl) => {
+        const menu = item.querySelector(':scope > .dropmenu');
+        if (!menu || !headings.length) return false;
+        menu.replaceChildren();
+        headings.forEach((heading, index) => {
+          const id = heading.id || `section-${index + 1}`;
+          const link = document.createElement('a');
+          link.href = `${pageUrl}#${id}`;
+          link.textContent = heading.textContent.trim();
+          link.addEventListener('click', () => item.classList.remove('is-open'));
+          menu.appendChild(link);
+        });
+        menu.style.maxHeight = 'min(70vh, 620px)';
+        menu.style.overflowY = 'auto';
+        menu.style.width = 'min(560px, calc(100vw - 24px))';
+        return true;
+      };
+
+      const syncItem = async item => {
+        const label = item.querySelector(':scope > a.navlabel[href]');
+        const menu = item.querySelector(':scope > .dropmenu');
+        if (!label || !menu) return;
+
+        const pageUrl = new URL(label.href, location.href);
+        const targetPath = normalisePath(pageUrl.href);
+
+        menu.replaceChildren();
+        const loading = document.createElement('a');
+        loading.href = pageUrl.href;
+        loading.textContent = 'Loading questions…';
+        menu.appendChild(loading);
+
+        try {
+          if (targetPath === currentPath) {
+            const headings = Array.from(body.querySelectorAll('.answer-heading-row > h2'));
+            if (populateMenu(item, headings, pageUrl.pathname)) return;
+          }
+
+          const response = await fetch(pageUrl.href, { cache: 'no-store' });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const html = await response.text();
+          const parsed = new DOMParser().parseFromString(html, 'text/html');
+          const headings = Array.from(parsed.querySelectorAll('#docBody > h2'));
+          if (!populateMenu(item, headings, pageUrl.pathname)) throw new Error('No headings found');
+        } catch (error) {
+          menu.replaceChildren();
+          const fallback = document.createElement('a');
+          fallback.href = pageUrl.href;
+          fallback.textContent = 'Open this section';
+          menu.appendChild(fallback);
+        }
+      };
+
+      document.querySelectorAll('.topnav .navitem').forEach(item => {
+        if (item.querySelector(':scope > a.navlabel[href]') && item.querySelector(':scope > .dropmenu')) syncItem(item);
       });
-      const menu = currentItem?.querySelector(':scope > .dropmenu');
-      if (!menu) return;
-
-      const headings = Array.from(body.querySelectorAll('.answer-heading-row > h2'));
-      if (!headings.length) return;
-
-      menu.replaceChildren();
-      headings.forEach((heading, index) => {
-        if (!heading.id) heading.id = `section-${index + 1}`;
-        const link = document.createElement('a');
-        link.href = `#${heading.id}`;
-        link.textContent = heading.textContent.trim();
-        link.addEventListener('click', () => currentItem.classList.remove('is-open'));
-        menu.appendChild(link);
-      });
-
-      menu.style.maxHeight = 'min(70vh, 620px)';
-      menu.style.overflowY = 'auto';
-      menu.style.width = 'min(560px, calc(100vw - 24px))';
     })();
   </script>
   <script src="{{ '/assets/sentence-reveal.js' | relative_url }}"></script>
