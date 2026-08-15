@@ -3,13 +3,15 @@ layout: doc
 permalink: /timeline.html
 title: Timeline
 eyebrow: TIMELINE
-intro: A reverse-chronological working record of schools, roles, subjects, SEN/AEN experience and the interview evidence each setting gives me.
+intro: A reverse-chronological working record of schools, roles, subjects,
+  SEN/AEN experience and the interview evidence each setting gives me.
 ---
-<a id="timeline-st-patricks"></a>
 ## St Patrick's Comprehensive School, Shannon — Current Interview Focus (2026)
+
 **Key line: This is the current interview focus, so use it as a comparison point with my actual experience rather than as employment history.**
 
 ### Why this role overlaps strongly with my experience
+
 - **Mathematics:** extensive Junior Cycle and Senior Cycle Mathematics experience across different levels and programmes.
 - **SEN / AEN:** experience in learning support, withdrawal, mixed-needs mainstream classes and differentiated access.
 - **Comprehensive-school context:** useful comparison with experience across community, comprehensive, ETB and voluntary-secondary settings.
@@ -18,13 +20,17 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 - **Inclusion and relationships:** strong links to accessibility, student support, regulation, relationships and wider pastoral structures.
 
 ### Interview areas this can connect to
+
 **Teaching & Learning · Classroom Management · SEN / AEN & Inclusion · Differentiation & Accessibility · Assessment · Planning & Curriculum · Relationships & Wellbeing · Professional Responsibility**
 
-<a id="timeline-presentation"></a>
+
+
 ## Presentation Secondary School, Thurles — 2025–26
+
 **Key line: Recent experience across Junior Cycle, TY, Leaving Certificate and LCA gives me current evidence of planning, differentiation, assessment and classroom practice.**
 
 ### Teaching
+
 - Junior Cycle Mathematics
 - Transition Year Mathematics
 - Leaving Certificate Ordinary Level Mathematics
@@ -32,6 +38,7 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 - Pastoral / tutor-type responsibility during the week
 
 ### Evidence to capture here
+
 - strongest lesson or sequence
 - mixed-ability differentiation
 - reluctant learner / confidence-building example
@@ -41,13 +48,17 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 - contribution beyond the timetable
 
 ### Interview areas
+
 **Teaching & Learning · Classroom Management · Differentiation · Assessment · Planning · Relationships**
 
-<a id="timeline-nenagh"></a>
+
+
 ## Nenagh College
+
 **Key line: Use this entry to capture experience in an ETB setting.**
 
 ### Evidence to build out
+
 - subjects and classes taught
 - levels and programmes
 - SEN / learning-support involvement
@@ -55,11 +66,14 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 - collaboration with colleagues and management
 - examples that transfer to later roles
 
-<a id="timeline-thomond"></a>
+
+
 ## Thomond Community College — 2022–25
+
 **Key line: This is a major evidence bank because it combines Mathematics, Science, Coding/Digital Media, varied programmes and significant mixed-needs experience.**
 
 ### Teaching and programmes
+
 - Junior Cycle Mathematics
 - Leaving Certificate Mathematics
 - Junior Cycle Science
@@ -69,6 +83,7 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 - learning-support and mixed-needs work
 
 ### Strong evidence areas
+
 - teaching across a wide range of attainment
 - Science and practical/STEM teaching
 - technology-rich teaching
@@ -78,27 +93,35 @@ intro: A reverse-chronological working record of schools, roles, subjects, SEN/A
 - assessment and reporting
 - contribution to whole-school initiatives
 
-<a id="timeline-scoil-mhuire"></a>
+
+
 ## Scoil Mhuire agus Íde, Newcastle West — 2021–22
+
 **Key line: Strong evidence for Mathematics across year groups together with learning-support experience.**
 
 ### Teaching
+
 - Junior Cycle Mathematics
 - Transition Year Mathematics
 - Leaving Certificate Ordinary Level Mathematics
 - learning support
 
 ### Interview evidence
+
 Capture examples of withdrawal/support work, differentiation, concrete or visual approaches, rebuilding confidence and collaboration with support structures.
 
-<a id="timeline-john-baptist"></a>
+
+
 ## John the Baptist Community School, Hospital — 2021
+
 **Key line: Add the specific classes, responsibilities and strongest examples from this period as the timeline is completed.**
 
 Use this entry for evidence that is distinct from the later ETB and voluntary-secondary settings.
 
-<a id="timeline-earlier"></a>
+
+
 ## Earlier Teaching Experience
+
 Build backwards from here through the remaining schools on the CV. For each school keep the same compact structure:
 
 - **Dates and school type / ethos**
