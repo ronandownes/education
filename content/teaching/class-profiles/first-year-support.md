@@ -1,13 +1,12 @@
 ---
 layout: doc
 permalink: /teaching/class-profiles/first-year-support.html
+cms_key: profile_first_support
 title: First Year Mathematics — Learning-Support Group
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
-intro: >-
-  An invented class profile used to connect planning, teaching, inclusion and assessment decisions.
-cms_key: profile_first_support
+intro: An invented class profile used to connect planning, teaching, inclusion
+  and assessment decisions.
 ---
-
 > **Synthetic-data notice:** This class is entirely imaginary. The numbers and needs below are invented for planning and interview practice and do not describe real pupils.
 
 ## Class context
