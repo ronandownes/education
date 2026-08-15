@@ -65,17 +65,17 @@ support increases meaningful participation and independence
 
 I maintain appropriate challenge because an additional need does not define a student's potential.
 
-### Vocabulary Retrieval Chain
+### Visual Retrieval
 
-learner → profile → barrier → access → support → participation → independence → ambition
+👤 → 📋 → 🚧 → 🔓 → 🤲 → 🙋 → 🌱 → 🧗
 
-### Iconic Retrieval Chain
+## Verbal Retrieval
 
-👤 → 📋 →🤲→ 🚧 → 🔓 → 🤲 → 🙋 → 🌱 → 🧗
+**learner → profile → barrier → access → support → participation → independence → ambition**
 
-### Mixed Retrieval Chain
+## Mixed Retrieval
 
-learner 👤 → barrier 🚧 → improve access 🔓 → support 🤲 → participate 🙋 → independence 🌱 → challenge 🧗
+👤 **Learner** → 📋 **Profile** → 🚧 **Barrier** → 🔓 **Access** → 🤲 **Support** → 🙋 **Participation** → 🌱 **Independence** → 🧗 **Ambition**
 
 ## Identify the educational needs of your students?
 
