@@ -8,7 +8,9 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 ---
 # SEN / AEN & Inclusion
 
-## Vocabulary
+## Vocabulary 📱 Best  in landscape
+
+
 
 
 | Purpose | Learner Information | Teaching Response | Classroom Conditions | Professional Cycle | Values and Impact |
@@ -42,8 +44,6 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 
 
-
-&nbsp;
 
 ## Approach to SEN / AEN?
 
