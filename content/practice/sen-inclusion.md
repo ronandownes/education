@@ -43,11 +43,11 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 ## Approach to SEN / AEN?
 
-### Support participation.
+|Participate|Indepentance|High Expectations
 
-### Build independence.
+Build independence.
 
-### Keep ambition high.
+Keep ambition high.
 
 
 
@@ -69,11 +69,11 @@ I maintain appropriate challenge because an additional need does not define a st
 
 👤 → 📋 → 🚧 → 🔓 → 🤲 → 🙋 → 🌱 → 🧗
 
-## Verbal Retrieval
+### Verbal Retrieval
 
 **learner → profile → barrier → access → support → participation → independence → ambition**
 
-## Mixed Retrieval
+### Mixed Retrieval
 
 👤 **Learner** → 📋 **Profile** → 🚧 **Barrier** → 🔓 **Access** → 🤲 **Support** → 🙋 **Participation** → 🌱 **Independence** → 🧗 **Ambition**
 
