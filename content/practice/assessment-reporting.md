@@ -5,13 +5,31 @@ title: Assessment, Feedback & Reporting
 eyebrow: PROFESSIONAL PRACTICE
 intro: Assessment → interpret evidence → feedback → respond → report.
 ---
-## What types of assessment do you use as a teacher, and how do you use that information to help your teaching? {#how-do-you-assess-learning}
 
-**Key line: Assessment is evidence that changes what happens next.**
+| Keyword | Cue | Keyword | Cue |
+| --- | --- | --- | --- |
+| **Diagnostic** | establish starting point | **Formative** | guide learning as it happens |
+| **Summative** | judge attainment | **Question** | probe understanding |
+| **Observe** | notice strategies and misconceptions | **Interpret** | make sense of evidence |
+| **Identify** | find strengths, gaps and misconceptions | **Adapt** | change teaching in response |
+| **Practise** | consolidate learning | **Reteach** | revisit when needed |
+| **Scaffold** | reduce barriers | **Extend** | deepen or challenge |
+| **Feedback** | give a usable next step | **Monitor** | look for progress over time |
+| **Report** | communicate progress accurately | **Evaluate** | judge what is working |
 
-I use a range of formative and summative assessment: questioning, observation, mini-whiteboards, discussion, written work, retrieval quizzes, topic tests and formal assessments.
+## What types of assessment do you use as a teacher, and how do you use that information to help with your teaching? {#how-do-you-assess-learning}
 
-I look beyond whether an answer is simply right or wrong. I look at how students represent, explain and justify their thinking, and I use that evidence to decide what happens next: extend, practise, reteach, change representation, regroup or provide targeted support.
+### Assessment is evidence that changes what I do next.
+
+I use **diagnostic, formative and summative assessment**. In day-to-day teaching that includes questioning, observation, mini-whiteboards, discussion, retrieval, classwork and homework, quizzes and topic tests, alongside formal assessments where appropriate.
+
+I use that evidence first to **establish where students are**, and then to check understanding, identify strengths, gaps and misconceptions, and decide what should happen next. Depending on what I find, I may **extend, practise, reteach, change the representation, adjust the pace, regroup students, scaffold more carefully or provide targeted support**.
+
+I also look beyond whether an answer is simply right or wrong. I want to see how students **represent, explain and justify their thinking**, because that gives me better evidence of understanding.
+
+Over time, I look for patterns across different sources of evidence rather than relying on one mark or one test. I use those patterns to adjust my planning, differentiation and next learning priorities.
+
+So assessment is not something separate that happens only at the end of learning; it is part of the teaching cycle and helps me decide **what to do next**.
 
 ## What is your understanding of Assessment for Learning (AfL)?
 
