@@ -15,10 +15,6 @@ intro: Assessment → interpret evidence → feedback → respond → report.
 | Formative | Summative | Feedback | Criteria | Next step |
 
 
-
-
-&nbsp;
-
 ## What types of assessment do you use as a teacher, and how do you use that information to help with your teaching? {#how-do-you-assess-learning}
 
 ### Assessment is evidence that changes what happens next.
