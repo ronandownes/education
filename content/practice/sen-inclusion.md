@@ -41,8 +41,6 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | 🧩 Chunking | 🧱 Structure | ⏳ Processing time | 🧠 Reduced cognitive load |
 
 
-
-
 ## Approach to SEN / AEN?
 
 ### Support participation.
@@ -51,7 +49,7 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 ### Keep ambition high.
 
-👤 → 📋 →🤲→ 🚧 → 🔓 → 🤲 → 🙋 → 🌱 → 🧗
+
 
 I start with the learner not the label. 
 
@@ -71,7 +69,9 @@ I maintain appropriate challenge because an additional need does not define a st
 
 learner → profile → barrier → access → support → participation → independence → ambition
 
+### Iconic Retrieval Chain
 
+👤 → 📋 →🤲→ 🚧 → 🔓 → 🤲 → 🙋 → 🌱 → 🧗
 
 ### Mixed Retrieval Chain
 
