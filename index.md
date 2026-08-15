@@ -2,12 +2,20 @@
 layout: doc
 title: Ronan Downes — Education
 eyebrow: WORKING PROFESSIONAL NOTEBOOK
-intro: A calm, editable answer bank for teaching, inclusion, assessment, planning, school research and interview preparation.
+intro: A calm, editable answer bank for teaching, inclusion, assessment,
+  planning, school research and interview preparation.
 ---
-
 ## Hope · Expectation · Trust
 
 This is the organising idea behind the site. **Hope** that progress is possible; **expectation** that students engage, behave and move forward; **trust** that the classroom is fair, safe and purposeful.
+
+
+
+## Notebooks
+
+A quiet holding shelf for useful material that does not yet have a permanent home. Open any notebook, use **Edit this page**, and change its **Title** when its purpose becomes clear.
+
+{% assign notebooks = site.pages | where: "notebook", true | sort: "notebook_order" %} {% for notebook in notebooks %} [NOTEBOOK {{ notebook.notebook_label }} {{ notebook.title }} Open notebook]({{ notebook.url | relative_url }}) {% endfor %}
 
 ## How this site is organised
 
@@ -33,17 +41,5 @@ Subject material is deliberately kept out of the permanent navigation for now so
 
 Use **Edit this page** on the site to open the browser-based editor. Changes are saved back to GitHub and become part of the working site.
 
-## Notebooks
 
-A quiet holding shelf for useful material that does not yet have a permanent home. Open any notebook, use **Edit this page**, and change its **Title** when its purpose becomes clear.
 
-<div class="notebook-grid">
-{% assign notebooks = site.pages | where: "notebook", true | sort: "notebook_order" %}
-{% for notebook in notebooks %}
-  <a class="notebook-card" href="{{ notebook.url | relative_url }}">
-    <span class="notebook-number">NOTEBOOK {{ notebook.notebook_label }}</span>
-    <span class="notebook-title">{{ notebook.title }}</span>
-    <span class="notebook-action">Open notebook</span>
-  </a>
-{% endfor %}
-</div>
