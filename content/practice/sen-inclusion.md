@@ -45,11 +45,9 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 |Participate|Indepentance|High Expectations
 
-Build independence.
-
-Keep ambition high.
 
 
+&nbsp;
 
 I start with the learner not the label. 
 
