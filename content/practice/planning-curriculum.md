@@ -76,6 +76,32 @@ From there, I use professional judgement and evidence from the class to adjust t
 
 ## What should be included in a good scheme of work?
 
+### A good scheme of work turns the curriculum into a clear, sequenced plan for learning — while leaving room to respond to the learners in front of me.
+
+I would expect a strong scheme of work to include:
+
+🎯 **Learning outcomes** — what students should know, understand or be able to do.
+
+🧭 **Sequence and progression** — topics arranged logically so that new learning builds on prior knowledge.
+
+🧠 **Prior knowledge** — what students need before beginning each section and where retrieval should be built in.
+
+🛠️ **Teaching and learning approaches** — explanations, modelling, questioning, discussion, practical work, problem solving, collaborative learning and independent practice.
+
+📶 **Differentiation and inclusion** — different entry points, scaffolds, supports, extension and reasonable ways for all learners to access the same core learning.
+
+📚 **Resources** — textbooks, worksheets, manipulatives, practical equipment, digital tools and other appropriate materials.
+
+📊 **Assessment** — planned opportunities for formative and summative assessment so I can check progress and adapt subsequent teaching.
+
+🔄 **Review and consolidation** — deliberate opportunities to retrieve, revisit and connect learning rather than simply moving from topic to topic.
+
+⏱️ **Timeframe** — an approximate allocation of lessons or weeks, but with enough flexibility to slow down, revisit or extend where assessment evidence indicates it is needed.
+
+🔗 **Curriculum links** — clear alignment with the relevant specification, learning outcomes and, where appropriate, literacy, numeracy, wellbeing, key skills and cross-curricular connections.
+
+**curriculum → sequence → teach → support → assess → adapt**
+
 ## How would you develop or review a subject plan?
 
 ## What is the difference between a subject plan and a scheme of work?
