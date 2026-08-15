@@ -37,6 +37,7 @@ Learn these six first. They cover the centre of the page.
 | 🔄 Consistency | 🚩 Concern | 🌱 Resilience | 🙋 Participation | 📝 Record |
 | 🔧 Repair | 📅 Attendance | 🫶 Inclusion | 🎧 Listen | ➡️ Refer |
 
+
 ## Emotional Wellbeing Language
 
 
@@ -58,6 +59,10 @@ Learn these six first. They cover the centre of the page.
 Students are more willing to take intellectual risks, ask for help and recover from mistakes when they know the teacher is consistent and respectful.
 
 I try to know students as learners, notice changes in engagement and use restorative conversations when relationships need repair.
+
+
+
+*"I expect excellence because I trust you can reach it, and I'll help you get there."*
 
 **trust → risk → participate → persist → learn**
 
