@@ -8,6 +8,20 @@ intro: My answers on explanation, modelling, questioning, active learning,
 ---
 # Teaching & Learning
 
+
+
+## Vocabulary
+
+
+| Learn | Model | Retrieve | Question | Scaffold |
+| ------- | --------- | ----------- | -------- | ----------- |
+| Clarify | Check | Explain | Discuss | Practise |
+| Connect | Guide | Explore | Apply | Challenge |
+| Chunk | Represent | Collaborate | Revisit | Consolidate |
+
+
+
+
 ## Vocabulary
 
 
