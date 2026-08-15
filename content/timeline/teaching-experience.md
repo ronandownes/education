@@ -12,7 +12,7 @@ intro: A reverse-chronological working record of schools, roles, subjects,
 
 ### The interview is at 3:00 pm on Monday 17 August; leave home at 2:00 pm so that I arrive calm, settled and ready.
 
-- **Destination:** St Patrick’s Comprehensive School, Shannon, Co. Clare, V14 Y434
+- **Destination[:](https://www.stpatrickscomprehensive.ie/)** [St Patrick’s Comprehensive School](https://www.stpatrickscomprehensive.ie/), Shannon, Co. Clare, V14 Y434
 - **Estimated driving time:** approximately **25–30 minutes**
 - **Planned departure:** **2:00 pm**
 - **Target arrival:** approximately **2:30 pm**
