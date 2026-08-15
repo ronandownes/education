@@ -41,7 +41,7 @@ Digital tools can be particularly useful because students receive **immediate fe
 
 📋 → 👀 → 🪞 → 🔧 → 🧠
 
-## What is your understanding of Assessment for Learning (AfL)?
+## Assessment for Learning (AfL)?
 
 ### Assessment for Learning makes the learner's current understanding visible while there is still time to improve it.
 
