@@ -15,6 +15,24 @@ intro: Assessment → interpret evidence → feedback → respond → report.
 | Formative | Summative | Feedback | Criteria | Next step |
 
 
+## What types of assessment do you use as a teacher, and how do you use that information to help with your teaching?
+
+### Assessment tells me where students are and what teaching needs to happen next.
+
+I use a range of formative and summative assessment: **questioning ❓, observation 👁️, mini-whiteboards 🧾, discussion 🗣️, written work ✍️, retrieval quizzes 🔄, topic tests 📝 and formal assessments 📊**.
+
+I look beyond whether an answer is simply right or wrong. I look at how students **represent 🔷, explain 💬 and justify 🧠** their thinking, and I use that evidence to decide what happens next: **extend 🧗, practise ✏️, reteach ↩️, change representation 🔁, adjust pace ⏱️, regroup 👥 or provide targeted support 🤲**.
+
+I also use digital tools 💻 where they add value. Immediate feedback ⚡ can support **assessment as learning**, because students can recognise errors 👀, adjust their thinking 🔧 and try again independently 🔄 rather than waiting for me to tell them whether they are right.
+
+**evidence 📊 → interpret 🔎 → diagnose 🩺 → respond 🔧 → monitor 👁️**
+
+📊 → 🔎 → 🩺 → 🔧 → 👁️
+
+
+
+&nbsp;
+
 ## What types of assessment do you use as a teacher, and how do you use that information to help with your teaching? {#how-do-you-assess-learning}
 
 ### Assessment tells me where students are and what teaching needs to happen next.
@@ -22,6 +40,8 @@ intro: Assessment → interpret evidence → feedback → respond → report.
 I use a range of formative and summative assessment: questioning, observation, mini-whiteboards, discussion, written work, retrieval quizzes, topic tests and formal assessments.
 
 I look beyond whether an answer is simply right or wrong. I look at how students represent, explain and justify their thinking, and I use that evidence to decide what happens next: extend, practise, reteach, change representation, adjust pace, regroup or provide targeted support.
+
+I also use digital tools where they add value. Immediate feedback can support **assessment as learning**, because students can recognise errors, adjust their thinking and try again independently rather than waiting for me to tell them whether they are right.
 
 **evidence → interpret → diagnose → respond → monitor**
 
