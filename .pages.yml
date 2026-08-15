@@ -40,7 +40,7 @@ content:
   - { name: assessment, label: "Assessment, Feedback & Reporting", type: file, path: content/practice/assessment-reporting.md, format: yaml-frontmatter, fields: *docfields }
   - { name: relationships, label: "Relationships & Wellbeing", type: file, path: content/practice/relationships-wellbeing.md, format: yaml-frontmatter, fields: *docfields }
   - { name: professional, label: "Professional Responsibility & School Community", type: group, items: [ { name: professional_main, label: "Professional Responsibility — Main Notes", type: file, path: content/practice/professional-practice.md, format: yaml-frontmatter, fields: *docfields }, { name: stpatricks, label: "School Research — St Patrick's Comprehensive", type: file, path: content/schools/st-patricks.md, format: yaml-frontmatter, fields: *docfields }, { name: stpatricksnote, label: "Interview Note — St Patrick's", type: file, path: content/interview/st-patricks.md, format: yaml-frontmatter, fields: *docfields } ] }
-  - { name: snips, label: "Snips", type: file, path: content/reference/snips.md, format: yaml-frontmatter, fields: *docfields }
+  - { name: glossary, label: "Glossary", type: file, path: content/reference/snips.md, format: yaml-frontmatter, fields: *docfields }
   - { name: policies, label: "Policies", type: file, path: content/policies/policies.md, format: yaml-frontmatter, fields: *docfields }
   - { name: specification, label: "Specification", type: file, path: content/specification/jc-mathematics.md, format: yaml-frontmatter, fields: *docfields }
   - { name: wordwall, label: "Word Wall", type: file, path: content/reference/word-wall.md, format: yaml-frontmatter, fields: *docfields }
