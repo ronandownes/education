@@ -24,8 +24,6 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 | 👤 | Learner | 📋 | Profile | 🚧 | Barrier |
 
-|---|---|---|---|---|---|
-
 | 🔓 | Access | 🤲 | Support | 🏗️ | Scaffold |
 
 | 🧠 | Processing | ⏳ | Processing time | ⚖️ | Regulation |
@@ -67,8 +65,6 @@ and adapt access through structure, chunking, modelling, concrete and visual mat
 
 
 
-
-&nbsp;
 
 &nbsp;
 
