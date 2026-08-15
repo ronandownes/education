@@ -5,9 +5,23 @@ title: Assessment, Feedback & Reporting
 eyebrow: PROFESSIONAL PRACTICE
 intro: Assessment → interpret evidence → feedback → respond → report.
 ---
+## Assessment Word Wall
+
+
+| Evidence | Attainment | Understanding | Misconception | Depth |
+| --------- | ---------- | ------------- | ------------- | --------- |
+| Progress | Retention | Retrieval | Fluency | Reasoning |
+| Diagnose | Interpret | Monitor | Adapt | Respond |
+| Formative | Summative | Feedback | Criteria | Next step |
+
+
+
+
+&nbsp;
+
 ## What types of assessment do you use as a teacher, and how do you use that information to help with your teaching? {#how-do-you-assess-learning}
 
-**Key line: Assessment is evidence that changes what happens next.**
+### Assessment is evidence that changes what happens next.
 
 I use a range of formative and summative assessment: questioning, observation, mini-whiteboards, discussion, written work, retrieval quizzes, topic tests and formal assessments.
 
