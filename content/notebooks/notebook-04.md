@@ -5,13 +5,9 @@ title: Notebook 04
 eyebrow: WORKING NOTEBOOK
 intro: A flexible space for material that does not yet have a permanent home.
 ---
-## Yes — **I think the student-level view is much better for what you are trying to do.** The paragraph version is useful as a summary, but it does not immediately make you *see the class*. A matrix does.
 
-And **26 fictional students, A–Z, is entirely plausible for a first-year Mathematics class**. I could not find a current Department rule imposing a general maximum of 25/26 on an ordinary non-practical post-primary class; the Department material is structured more around staffing allocation and programme requirements. ([Government of Ireland](https://www.gov.ie/en/department-of-education/services/allocation-of-teachers-to-schools/?utm_source=chatgpt.com "Allocation of teachers to schools")) So for an imaginary interview-practice class, **A–Z is perfectly reasonable**.
 
-I would actually put **both views on the page**:
-
-## At the top — Class at a Glance
+## Class at a Glance
 
 **1st Year Maths · Mixed Ability · 26 students · Synthetic Class**
 
