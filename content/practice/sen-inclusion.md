@@ -20,6 +20,26 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | Communicate | Challenge | Evidence | Dignity | Belonging |
 
 
+
+
+## Icons
+
+| 👤 | Learner | 📋 | Profile | 🚧 | Barrier |
+
+|---|---|---|---|---|---|
+
+| 🔓 | Access | 🤲 | Support | 🏗️ | Scaffold |
+
+| 🧠 | Processing | ⏳ | Processing time | ⚖️ | Regulation |
+
+| 👁️ | Visual support | 💬 | Communication | 🤝 | Collaboration |
+
+| 🙋 | Participation | 🌱 | Independence | 🧗 | Challenge |
+
+| 🔎 | Evidence | 💻 | Technology | 🛡️ | Safety |
+
+| 🔄 | Review | 🫶 | Belonging |  |  |
+
 ## Icons
 
 
@@ -49,11 +69,13 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 ## Approach to SEN / AEN?
 
-### Support participation. 
+### Support participation.
 
-### Build independence. 
+### Build independence.
 
 ### Keep ambition high.
+
+👤 → 📋 → 🚧 → 🔓 → 🤲 → 🙋 → 🌱 → 🧗
 
 I start with the learner rather than the label. I use available student-support information, collaborate with the AEN team and other staff, and adapt access through structure, chunking, modelling, concrete and visual materials, technology, reduced cognitive load and additional processing time where needed.
 
@@ -63,9 +85,7 @@ Support should increase meaningful participation and independence rather than cr
 
 learner → profile → barrier → access → support → participation → independence → ambition
 
-### Icon Retrieval Chain
 
-👤 → 📋 → 🚧 → 🔓 → 🤲 → 🙋 → 🌱 → 🧗
 
 ### Mixed Retrieval Chain
 
