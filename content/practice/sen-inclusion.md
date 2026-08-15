@@ -20,7 +20,7 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | Ambition | Support | Represent | Process | Differentiate | Accommodate |
 
 
-
+## Icons
 
 
 | Learner and Outcomes | Needs and Conditions | Teaching and Access | Professional Cycle |
@@ -33,7 +33,7 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 |  |  | 💻 Technology |  |
 
 
-## cess
+## Access
 
 
 | 🧮 Concrete materials | 👁️ Visual materials | 👨‍🏫 Modelling | 💻 Technology |
