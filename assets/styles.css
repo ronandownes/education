@@ -69,6 +69,37 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .doc-body tbody tr:nth-child(odd) td{background:var(--soft)}
 .doc-body tbody tr:nth-child(even) td{background:#fff}
 
+/* Assessment Word Wall uses the same card-grid language as Planning. */
+.answer-section:has(#assessment-word-wall) .section-content table{
+  display:grid;
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:10px 12px;
+  width:100%;
+  margin:10px 0 28px;
+  border:0;
+  border-collapse:separate;
+  table-layout:auto;
+  background:transparent;
+}
+.answer-section:has(#assessment-word-wall) .section-content table thead,
+.answer-section:has(#assessment-word-wall) .section-content table tbody,
+.answer-section:has(#assessment-word-wall) .section-content table tr{display:contents}
+.answer-section:has(#assessment-word-wall) .section-content table th,
+.answer-section:has(#assessment-word-wall) .section-content table td{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:42px;
+  padding:8px 10px;
+  border:1px solid #d7e3f4;
+  border-radius:9px;
+  background:#f7faff!important;
+  color:#24364b;
+  font-size:.96rem;
+  font-weight:600;
+  text-align:center;
+}
+
 @media(max-width:1280px){
   .topbar{min-height:64px;height:auto;align-items:center;flex-direction:row;flex-wrap:wrap;gap:0;padding:8px 12px}
   .brand img{width:158px}
@@ -107,6 +138,13 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   .pdf-embed{height:480px}
   .doc-body table{table-layout:auto;font-size:.86rem}
   .doc-body th,.doc-body td{padding:9px 6px}
+  .answer-section:has(#assessment-word-wall) .section-content table{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-bottom:22px}
+  .answer-section:has(#assessment-word-wall) .section-content table th,
+  .answer-section:has(#assessment-word-wall) .section-content table td{min-height:40px;padding:7px 8px;font-size:.93rem}
+}
+
+@media(max-width:340px){
+  .answer-section:has(#assessment-word-wall) .section-content table{grid-template-columns:1fr}
 }
 
 @media print{
