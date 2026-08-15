@@ -6,7 +6,7 @@ This repository is Ronan Downes's working education and interview-preparation si
 
 ## Information Architecture
 
-The main navigation is built around **eight interview areas**, followed by **Snips**, **Policies** and **Timeline**:
+The main navigation is built around **eight interview areas**, followed by **Glossary**, **Policies** and **Timeline**:
 
 1. Teaching & Learning
 2. Classroom Management
@@ -16,7 +16,7 @@ The main navigation is built around **eight interview areas**, followed by **Sni
 6. Planning & Curriculum
 7. Relationships & Wellbeing
 8. Professional Responsibility & School Community
-9. Snips
+9. Glossary
 10. Policies
 11. Timeline
 
@@ -29,7 +29,7 @@ Do not add separate top-level **Home**, **Practice**, **Schools**, or **Intervie
 - Each of the eight interview-area titles is a direct link to the full notes page for that area.
 - The small dropdown control beside each title opens its typical interview questions or subtopics. Do not make users click an extra "All Notes" item.
 - Keep the desktop headings compact and deliberately wrapped where appropriate rather than stretching them across the full width.
-- Snips is a direct top-level link for short follow-up answers, phrases and recall fragments.
+- Glossary is a direct top-level link for recurring professional language, concise definitions, distinctions and recall phrases.
 - Policies is a top-level reference area for curated key documents and should use its actual shelf structure rather than an obsolete subject-based menu.
 - Timeline remains top-level for teaching experience and school context.
 - On smaller screens, collapse the full navigation behind a standard hamburger button.
@@ -53,7 +53,7 @@ Keep **school sector/governance** separate from **ethos/patronage**. Voluntary s
 
 School-specific research can remain in separate files, but it should be reached from the relevant professional-responsibility context rather than needing its own permanent top-level navigation tab.
 
-**Snips** is for compact material that is useful under interview pressure but does not justify a full answer page: follow-up lines, distinctions, definitions, challenge questions and short retrieval chains.
+**Glossary** is for recurring professional language and compact material useful under interview pressure: definitions, distinctions, follow-up lines, challenge questions and short retrieval chains.
 
 **Policies** is for authoritative or frequently used documents and links. Keep it curated around practical shelves such as school-specific reports, inspection/SSE, curriculum/reform, assessment/feedback and AEN/inclusion.
 
