@@ -18,14 +18,16 @@ intro: A reverse-chronological working record of schools, roles, subjects,
 - **Target arrival:** approximately **2:30 pm**
 - **Interview:** **3:00 pm**
 
+
 | Time | Plan |
-| --- | --- |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **1:30 pm** | Be dressed and fully ready. Check directions, phone, water, pen, notes and interview documents. |
 | **1:45 pm** | Stop revising. Use the final fifteen minutes to breathe, settle and mentally rehearse the opening answer. |
 | **2:00 pm** | Leave home. The hour is for travel and calm arrival, not last-minute preparation. |
 | **2:30 pm** | Aim to be parked and at the school. Take a few quiet minutes before going in. |
 | **2:40–2:45 pm** | Report to reception, use the bathroom if needed, silence the phone and organise the prompt sheet. |
-| **3:00 pm** | Interview. Listen to the full question, take a moment, give the key line first and then one concrete example. |
+| **3:00 pm** | Interview. Listen to the full question, take a moment, give the key line first and then one concrete example. Remember 5 finger taps of silence. |
+
 
 **prepared → early → settled → listen → key line → example**
 
@@ -60,9 +62,11 @@ The school motto captures that very well: **Beart de réir ár mbriathar — dee
 
 ## Comp Vocabulary
 
+
 | Comprehensive | Equality | Breadth |
-| --- | --- | --- |
+| ------------- | --------- | --------- |
 | Inclusion | Potential | Community |
+
 
 ## Ethos and Motto
 
