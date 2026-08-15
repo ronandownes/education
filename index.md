@@ -11,7 +11,7 @@ This is the organising idea behind the site. **Hope** that progress is possible;
 
 ## How this site is organised
 
-The main navigation follows the core interview domains. **Snips** holds short follow-up lines and fragments for rapid recall. **Policies** is the reference shelf. **Timeline** holds teaching experience and school context.
+The main navigation follows the core interview domains. **Glossary** holds recurring professional language, short definitions and recall phrases. **Policies** is the reference shelf. **Timeline** holds teaching experience and school context.
 
 Subject material is deliberately kept out of the permanent navigation for now so the interview structure stays clean.
 
