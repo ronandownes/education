@@ -115,26 +115,13 @@
       </div>
 
       <div class="navitem nav-glossary nav-right">
-        <a class="navlabel" href="{{ '/snips.html' | relative_url }}"><span>Glossary</span></a>
+        <a class="navlabel" href="{{ '/glossary.html' | relative_url }}"><span>Glossary</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Glossary menu">▾</button>
         <div class="dropmenu">
-          <a href="{{ '/snips.html#emotional-wellbeing-and-relationships' | relative_url }}">Emotional wellbeing and relationships</a>
-          <a href="{{ '/snips.html#mathematical-expectations' | relative_url }}">Mathematical expectations</a>
-          <a href="{{ '/snips.html#prior-knowledge-as-a-barrier' | relative_url }}">Prior knowledge as a barrier</a>
-          <a href="{{ '/snips.html#barriers-to-learning' | relative_url }}">Barriers to learning</a>
-        </div>
-      </div>
-
-      <div class="navitem nav-policies nav-right">
-        <a class="navlabel" href="{{ '/policies.html' | relative_url }}"><span>Policies</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Policies menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/policies.html#whole-school-and-professional' | relative_url }}">Whole-school &amp; professional</a>
-          <a href="{{ '/policies.html#mathematics' | relative_url }}">Mathematics</a>
-          <a href="{{ '/policies.html#science-and-physics' | relative_url }}">Science &amp; Physics</a>
-          <a href="{{ '/policies.html#computer-science' | relative_url }}">Computer Science</a>
-          <a href="{{ '/policies.html#applied-mathematics' | relative_url }}">Applied Mathematics</a>
-          <a href="{{ '/policies.html#sen--aen-and-inclusion' | relative_url }}">SEN / AEN &amp; Inclusion</a>
+          <a href="{{ '/glossary.html#emotional-wellbeing-and-relationships' | relative_url }}">Emotional wellbeing and relationships</a>
+          <a href="{{ '/glossary.html#mathematical-expectations' | relative_url }}">Mathematical expectations</a>
+          <a href="{{ '/glossary.html#prior-knowledge-as-a-barrier' | relative_url }}">Prior knowledge as a barrier</a>
+          <a href="{{ '/glossary.html#barriers-to-learning' | relative_url }}">Barriers to learning</a>
         </div>
       </div>
 
@@ -172,7 +159,7 @@
     {% when 'content/interview/st-patricks.md' %}{% assign cms_url = cms_base | append: '/file/stpatricksnote' %}
     {% when 'content/policies/policies.md' %}{% assign cms_url = cms_base | append: '/file/policies' %}
     {% when 'content/specification/jc-mathematics.md' %}{% assign cms_url = cms_base | append: '/file/specification' %}
-    {% when 'content/reference/snips.md' %}{% assign cms_url = cms_base | append: '/file/glossary' %}
+    {% when 'content/reference/glossary.md' %}{% assign cms_url = cms_base | append: '/file/glossary' %}
     {% when 'content/reference/word-wall.md' %}{% assign cms_url = cms_base | append: '/file/wordwall' %}
   {% endcase %}
   {% if page.path contains 'content/subjects/' %}
