@@ -17,6 +17,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .nav-relationships{--nav-w:116px}
 .nav-professional{--nav-w:122px}
 .nav-subjects{--nav-w:76px}
+.nav-glossary{--nav-w:76px}
 .nav-policies{--nav-w:75px}
 .navlabel{min-width:0;min-height:80px;display:flex;align-items:center;justify-content:center;padding:0 2px 0 6px;border:0;background:transparent;color:#3c4043;text-decoration:none;font-size:.73rem;line-height:1.15;font-weight:700;cursor:pointer;text-align:center;white-space:normal}
 .navlabel span{display:inline-block}
@@ -100,7 +101,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   text-align:center;
 }
 
-@media(max-width:1400px){
+@media(max-width:1500px){
   .topbar{min-height:64px;height:auto;align-items:center;flex-direction:row;flex-wrap:wrap;gap:0;padding:8px 12px}
   .brand img{width:158px}
   .mobile-nav-toggle{margin-left:auto;width:44px;height:44px;display:inline-flex;align-items:center;justify-content:center;border:0;border-radius:6px;background:transparent;color:#3c4043;cursor:pointer}
@@ -175,7 +176,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .navitem:hover>.navlabel,.navitem.is-open>.navlabel{background:#f8f9fa;color:#174ea6}
 .inline-caret{display:none}
 
-@media(max-width:1400px){
+@media(max-width:1500px){
   .navitem,.nav-teaching,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{grid-template-columns:1fr}
   .navitem>.navtoggle{height:48px}
 }
