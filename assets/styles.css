@@ -180,3 +180,13 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   .navitem,.nav-teaching,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{grid-template-columns:1fr}
   .navitem>.navtoggle{height:48px}
 }
+
+/* Homepage notebook shelf: available without competing with the main interview navigation. */
+.notebook-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:16px 0 8px}
+.notebook-card{display:flex;flex-direction:column;min-height:118px;padding:14px;border:1px solid #dde3ea;border-radius:10px;background:#fbfcfe;color:var(--ink);text-decoration:none;transition:border-color .15s ease,box-shadow .15s ease,transform .15s ease}
+.notebook-card:hover{border-color:#9bbcf0;box-shadow:0 3px 10px rgba(60,64,67,.13);transform:translateY(-1px)}
+.notebook-number{color:#6b7280;font-size:.68rem;font-weight:700;letter-spacing:.1em}
+.notebook-title{margin-top:8px;font-size:.98rem;font-weight:700;line-height:1.25}
+.notebook-action{margin-top:auto;padding-top:12px;color:#315b91;font-size:.76rem;font-weight:700}
+@media(max-width:720px){.notebook-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:360px){.notebook-grid{grid-template-columns:1fr}}

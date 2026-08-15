@@ -3,13 +3,6 @@
   const mobileNavToggle = document.querySelector('.mobile-nav-toggle');
 
   // --- Navigation architecture ------------------------------------------------
-  // Subjects stays in the repository but no longer occupies permanent top-level
-  // navigation. Re-use that slot as a simple direct link to the Snips page.
-  const subjectItem = document.querySelector('.nav-subjects');
-  if (subjectItem) {
-    subjectItem.className = 'navitem nav-snips nav-right';
-    subjectItem.innerHTML = '<a class="navlabel" href="/education/snips.html"><span>Snips</span></a>';
-  }
 
   // Repair Differentiation links explicitly. These are deliberately tied to
   // headings that exist in the current Markdown page.

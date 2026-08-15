@@ -103,17 +103,6 @@
         </div>
       </div>
 
-      <div class="navitem nav-subjects nav-right nav-menu-only">
-        <button class="navlabel" type="button" data-nav-toggle aria-expanded="false"><span>Subjects</span><span class="inline-caret">▾</span></button>
-        <div class="dropmenu">
-          <a href="{{ '/subjects/mathematics.html' | relative_url }}">Mathematics</a>
-          <a href="{{ '/subjects/physics.html' | relative_url }}">Physics</a>
-          <a href="{{ '/subjects/science.html' | relative_url }}">Science</a>
-          <a href="{{ '/subjects/computer-science.html' | relative_url }}">Computer Science</a>
-          <a href="{{ '/subjects/applied-mathematics.html' | relative_url }}">Applied Mathematics</a>
-        </div>
-      </div>
-
       <div class="navitem nav-glossary nav-right">
         <a class="navlabel" href="{{ '/glossary.html' | relative_url }}"><span>Glossary</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Glossary menu">▾</button>
@@ -162,6 +151,10 @@
     {% when 'content/reference/glossary.md' %}{% assign cms_url = cms_base | append: '/file/glossary' %}
     {% when 'content/reference/word-wall.md' %}{% assign cms_url = cms_base | append: '/file/wordwall' %}
   {% endcase %}
+  {% if page.path contains 'content/notebooks/notebook-' %}
+    {% assign notebook_number = page.path | remove: 'content/notebooks/notebook-' | remove: '.md' %}
+    {% assign cms_url = cms_base | append: '/file/notebook' | append: notebook_number %}
+  {% endif %}
   {% if page.path contains 'content/subjects/' %}
     {% assign subject_file = page.path | remove: 'content/subjects/' %}
     {% assign cms_url = cms_base | append: '/collection/subjects/edit/' | append: subject_file %}

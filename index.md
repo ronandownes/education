@@ -32,3 +32,18 @@ Subject material is deliberately kept out of the permanent navigation for now so
 ## Editing
 
 Use **Edit this page** on the site to open the browser-based editor. Changes are saved back to GitHub and become part of the working site.
+
+## Notebooks
+
+A quiet holding shelf for useful material that does not yet have a permanent home. Open any notebook, use **Edit this page**, and change its **Title** when its purpose becomes clear.
+
+<div class="notebook-grid">
+{% assign notebooks = site.pages | where: "notebook", true | sort: "notebook_order" %}
+{% for notebook in notebooks %}
+  <a class="notebook-card" href="{{ notebook.url | relative_url }}">
+    <span class="notebook-number">NOTEBOOK {{ notebook.notebook_label }}</span>
+    <span class="notebook-title">{{ notebook.title }}</span>
+    <span class="notebook-action">Open notebook</span>
+  </a>
+{% endfor %}
+</div>

@@ -45,3 +45,24 @@ content:
   - { name: specification, label: "Specification", type: file, path: content/specification/jc-mathematics.md, format: yaml-frontmatter, fields: *docfields }
   - { name: wordwall, label: "Word Wall", type: file, path: content/reference/word-wall.md, format: yaml-frontmatter, fields: *docfields }
   - { name: timeline, label: "Timeline", type: file, path: content/timeline/teaching-experience.md, format: yaml-frontmatter, fields: *docfields }
+
+  - name: notebooks
+    label: "Notebooks"
+    type: group
+    items:
+      - { name: notebook01, label: "Notebook 01", type: file, path: content/notebooks/notebook-01.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook02, label: "Notebook 02", type: file, path: content/notebooks/notebook-02.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook03, label: "Notebook 03", type: file, path: content/notebooks/notebook-03.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook04, label: "Notebook 04", type: file, path: content/notebooks/notebook-04.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook05, label: "Notebook 05", type: file, path: content/notebooks/notebook-05.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook06, label: "Notebook 06", type: file, path: content/notebooks/notebook-06.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook07, label: "Notebook 07", type: file, path: content/notebooks/notebook-07.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook08, label: "Notebook 08", type: file, path: content/notebooks/notebook-08.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook09, label: "Notebook 09", type: file, path: content/notebooks/notebook-09.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook10, label: "Notebook 10", type: file, path: content/notebooks/notebook-10.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook11, label: "Notebook 11", type: file, path: content/notebooks/notebook-11.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook12, label: "Notebook 12", type: file, path: content/notebooks/notebook-12.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook13, label: "Notebook 13", type: file, path: content/notebooks/notebook-13.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook14, label: "Notebook 14", type: file, path: content/notebooks/notebook-14.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook15, label: "Notebook 15", type: file, path: content/notebooks/notebook-15.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: notebook16, label: "Notebook 16", type: file, path: content/notebooks/notebook-16.md, format: yaml-frontmatter, fields: *docfields }
