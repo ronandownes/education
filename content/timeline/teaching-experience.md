@@ -6,9 +6,9 @@ eyebrow: TIMELINE
 intro: A reverse-chronological working record of schools, roles, subjects,
   SEN/AEN experience and the interview evidence each setting gives me.
 ---
-## St Patrick's Comprehensive School, Shannon — Current Interview Focus (2026)
+## St Patrick's Comprehensive
 
-**Key line: This is the current interview focus, so use it as a comparison point with my actual experience rather than as employment history.**
+## This is the current interview focus, so use it as a comparison point with my actual experience rather than as employment history.
 
 ### Why this role overlaps strongly with my experience
 
