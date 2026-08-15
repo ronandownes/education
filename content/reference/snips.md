@@ -1,11 +1,11 @@
 ---
 layout: doc
 permalink: /snips.html
-title: Snips
+title: Glossary
 eyebrow: QUICK INTERVIEW RECALL
-intro: Short fragments, follow-up lines and compact explanations worth having immediately to hand.
+intro: Short fragments, follow-up lines and compact explanations worth having
+  immediately to hand.
 ---
-
 ## Mathematical Expectations
 
 ### Make the mathematical standard visible, not assumed.
@@ -47,3 +47,4 @@ A useful distinction is:
 - **incorrect prior knowledge** → misconception
 - **rote prior learning** → procedure without meaning
 - **secure prior knowledge** → resource, not barrier
+
