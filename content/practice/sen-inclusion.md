@@ -33,6 +33,16 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 |  |  | 💻 Technology |  |
 
 
+
+
+## Barriers
+
+
+| 📚 Prior learning | 🗣️ Language and literacy | 🧠 Processing and working memory | 🎯 Attention and organisation |
+| ----------------- | -------------------------- | -------------------------------- | ----------------------------- |
+| 💬 Communication | 👁️ Sensory and regulation | 😟 Confidence and anxiety | 🚪 Physical and environmental |
+
+
 ## Access
 
 
@@ -40,6 +50,20 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | --------------------- | -------------------- | ----------------- | ------------------------- |
 | 🧩 Chunking | 🧱 Structure | ⏳ Processing time | 🧠 Reduced cognitive load |
 
+
+## Support
+
+
+| 🏗️ Scaffold or prompt | ✏️ Guided practice | 🎯 Targeted teaching | 👀 Check-ins and feedback |
+| ----------------------- | ---------------------------- | ----------------------- | -------------------------- |
+| 🔧 Agreed accommodation | ↔️ Small-group or withdrawal | 🤲 Adult or SNA support | 📉 Review and fade support |
+
+
+**Support should increase meaningful participation and independence rather than create unnecessary dependence.**
+
+
+
+&nbsp;
 
 ## What is your approach to SEN / AEN and inclusion?
 
