@@ -38,6 +38,48 @@ Learn these six first. They cover the centre of the page.
 | 🔧 Repair | 📅 Attendance | 🫶 Inclusion | 🎧 Listen | ➡️ Refer |
 
 
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## Emotional Wellbeing Language
+
+
+| 💛 Emotional Wellbeing | 🧭 Regulation | 🤝 Connection | 🌱 Participation |
+| ------------------------- | ----------------------- | -------------------- | ------------------ |
+| Emotional literacy | Self-regulation | Relational safety | Readiness to learn |
+| Anxiety or distress | Co-regulation | Sense of belonging | Help-seeking |
+| Confidence and self-worth | Triggers and escalation | Trusted adult | Re-engagement |
+| Resilience and recovery | Calm and de-escalation | Peer relationships | Learner agency |
+| Change in presentation | Predictability | School connectedness | Participation |
+
+
+**emotion → regulation → connection → participation → learning**
+
+This fills the language gap without repeating the larger **Vocabulary** section.
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ## What role do relationships play in learning?
 
 ### Trust is not an alternative to expectations; it is what makes expectations workable.
