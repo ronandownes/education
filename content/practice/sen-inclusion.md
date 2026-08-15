@@ -38,32 +38,9 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 | 🔄 | Review | 🫶 | Belonging |  |  |
 
-## Icons
 
 
-| Idea | Icon |
-| --------------- | ---- |
-| Learner | 👤 |
-| Profile | 📋 |
-| Barrier | 🚧 |
-| Access | 🔓 |
-| Support | 🤲 |
-| Scaffold | 🏗️ |
-| Processing | 🧠 |
-| Processing time | ⏳ |
-| Regulation | ⚖️ |
-| Visual support | 👁️ |
-| Communication | 💬 |
-| Collaboration | 🤝 |
-| Participation | 🙋 |
-| Independence | 🌱 |
-| Challenge | 🧗 |
-| Evidence | 🔎 |
-| Technology | 💻 |
-| Safety | 🛡️ |
-| Review | 🔄 |
-| Belonging | 🫶 |
-
+&nbsp;
 
 ## Approach to SEN / AEN?
 
@@ -90,8 +67,6 @@ and adapt access through structure, chunking, modelling, concrete and visual mat
 
 
 
-
-&nbsp;
 
 &nbsp;
 
