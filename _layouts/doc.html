@@ -114,6 +114,17 @@
         </div>
       </div>
 
+      <div class="navitem nav-glossary nav-right">
+        <a class="navlabel" href="{{ '/snips.html' | relative_url }}"><span>Glossary</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Glossary menu">▾</button>
+        <div class="dropmenu">
+          <a href="{{ '/snips.html#emotional-wellbeing-and-relationships' | relative_url }}">Emotional wellbeing and relationships</a>
+          <a href="{{ '/snips.html#mathematical-expectations' | relative_url }}">Mathematical expectations</a>
+          <a href="{{ '/snips.html#prior-knowledge-as-a-barrier' | relative_url }}">Prior knowledge as a barrier</a>
+          <a href="{{ '/snips.html#barriers-to-learning' | relative_url }}">Barriers to learning</a>
+        </div>
+      </div>
+
       <div class="navitem nav-policies nav-right">
         <a class="navlabel" href="{{ '/policies.html' | relative_url }}"><span>Policies</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Policies menu">▾</button>
@@ -161,6 +172,7 @@
     {% when 'content/interview/st-patricks.md' %}{% assign cms_url = cms_base | append: '/file/stpatricksnote' %}
     {% when 'content/policies/policies.md' %}{% assign cms_url = cms_base | append: '/file/policies' %}
     {% when 'content/specification/jc-mathematics.md' %}{% assign cms_url = cms_base | append: '/file/specification' %}
+    {% when 'content/reference/snips.md' %}{% assign cms_url = cms_base | append: '/file/glossary' %}
     {% when 'content/reference/word-wall.md' %}{% assign cms_url = cms_base | append: '/file/wordwall' %}
   {% endcase %}
   {% if page.path contains 'content/subjects/' %}
