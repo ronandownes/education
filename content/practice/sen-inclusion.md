@@ -6,11 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Mainstream inclusion, learning support, withdrawal, team teaching and
   targeted support.
 ---
-Yes. I searched the Drive specifically for files whose **names contain “Question/Questions”**, rather than relying only on the few documents we had already opened. That surfaced the dedicated **SEN Question, Differentiation Question, Accessibility Question, Questions 100, ETB Questions, Questions Pres, Questions Competency, short questions, Questions AskTeacher** and duplicate PDF/Word versions.
 
-There are several AEN questions hidden inside the broader interview banks that we had not yet pulled onto this page—for example assessing students with AEN, inclusive assessment, communication, planning for SEN, supporting struggling students, collaboration with SEN teams and ensuring everybody is appropriately supported **and challenged**. The LCETB bank also adds identifying educational needs, adapting materials, responding when a student needs extra help, helping students reach their potential and engaging students who do not readily participate.
-
-I would therefore make the AEN page substantially broader. I have also added the interview questions I think are conspicuously missing.
 
 # SEN / AEN & Inclusion
 
@@ -73,7 +69,7 @@ learner → profile → barrier → access → support → participation → ind
 
 learner 👤 → barrier 🚧 → improve access 🔓 → support 🤲 → participate 🙋 → independence 🌱 → challenge 🧗
 
-## How do you identify the educational needs of your students?
+## Identify the educational needs of your students?
 
 ### Gather information, observe carefully, assess learning and collaborate.
 
