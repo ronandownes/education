@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/ty-mixed.html
 title: Transition Year Mathematics — Mixed-Attainment Class
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
@@ -37,3 +38,10 @@ Project checkpoints, reflection, short individual conferences and a senior-cycle
 ## Connected pages
 
 [TY scheme](/education/planning/schemes/transition-year-maths.html) · [Assessment](/education/practice/assessment.html) · [Feedback](/education/practice/feedback.html)
+
+
+## Students
+
+<p class="class-map-note"><strong>21 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+
+<div class="class-map" data-count="21" data-start="0"></div>

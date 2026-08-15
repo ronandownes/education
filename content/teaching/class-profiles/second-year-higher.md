@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/second-year-higher.html
 title: Second Year Mathematics — Higher Level
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
@@ -37,3 +38,10 @@ Rich tasks, hinge questions, cumulative mixed problems and occasional oral expla
 ## Connected pages
 
 [Second Year scheme](/education/planning/schemes/second-year-maths.html) · [Accessibility](/education/differentiation-accessibility.html) · [Assessment](/education/practice/assessment.html)
+
+
+## Students
+
+<p class="class-map-note"><strong>18 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+
+<div class="class-map" data-count="18" data-start="39"></div>

@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/first-year-mixed.html
 title: First Year Mathematics — Mixed-Attainment Class
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
@@ -37,3 +38,10 @@ Weekly retrieval; brief student explanations; misconception log; October and Chr
 ## Connected pages
 
 [First Year scheme](/education/planning/schemes/first-year-maths.html) · [SEN](/education/practice/sen.html) · [Differentiation](/education/differentiation-accessibility.html) · [Assessment](/education/practice/assessment.html)
+
+
+## Students
+
+<p class="class-map-note"><strong>21 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+
+<div class="class-map" data-count="21" data-start="0"></div>

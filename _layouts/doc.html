@@ -8,6 +8,7 @@
   <title>{{ page.title }} | Ronan Downes Education</title>
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}?v={{ site.github.build_revision }}">
+  {% if page.class_map %}<link rel="stylesheet" href="{{ '/assets/class-map.css' | relative_url }}?v={{ site.github.build_revision }}">{% endif %}
 </head>
 <body>
   <header class="topbar">
@@ -21,8 +22,22 @@
         <a class="navlabel" href="{{ '/teaching-learning.html' | relative_url }}"><span>Teaching &amp;<br>Learning</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Teaching and Learning menu">▾</button>
         <div class="dropmenu">
-          <a data-menu-page href="{{ '/teaching/class-profiles.html' | relative_url }}">Synthetic class profiles</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/first-year-support.html' | relative_url }}">Learning-support class profile</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/first-year-mixed.html' | relative_url }}">Maths — First Year Mixed</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/second-year-ordinary.html' | relative_url }}">Maths — Second Year Ordinary</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/second-year-higher.html' | relative_url }}">Maths — Second Year Higher</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/third-year-ordinary.html' | relative_url }}">Maths — Third Year Ordinary</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/third-year-higher.html' | relative_url }}">Maths — Third Year Higher</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/ty-mixed.html' | relative_url }}">Maths — TY Mixed Ability</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/fifth-year-maths.html' | relative_url }}">Maths — Fifth Year</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/sixth-year-maths.html' | relative_url }}">Maths — Sixth Year</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/fifth-year-lca.html' | relative_url }}">LCA Maths — Fifth Year</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/sixth-year-lca.html' | relative_url }}">LCA Maths — Sixth Year</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/first-year-support.html' | relative_url }}">Learning Support — First Year</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/second-year-support.html' | relative_url }}">Learning Support — Second Year</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/third-year-support.html' | relative_url }}">Learning Support — Third Year</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/ty-support.html' | relative_url }}">Learning Support — TY</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/fifth-year-support.html' | relative_url }}">Learning Support — Fifth Year</a>
+          <a data-menu-page href="{{ '/teaching/class-profiles/sixth-year-support.html' | relative_url }}">Learning Support — Sixth Year</a>
           <a href="{{ '/teaching-learning.html#what-is-your-general-approach-to-teaching-and-learning' | relative_url }}">What is your general approach?</a>
           <a href="{{ '/teaching-learning.html#how-do-you-make-learning-active-without-losing-structure' | relative_url }}">How do you make learning active?</a>
           <a href="{{ '/teaching-learning.html#how-do-you-know-whether-students-have-understood' | relative_url }}">How do you know they understood?</a>
@@ -291,5 +306,6 @@
     })();
   </script>
   <script src="{{ '/assets/sentence-reveal.js' | relative_url }}"></script>
+  {% if page.class_map %}<script src="{{ '/assets/class-map.js' | relative_url }}"></script>{% endif %}
 </body>
 </html>

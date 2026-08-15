@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/first-year-support.html
 cms_key: profile_first_support
 title: First Year Mathematics — Learning-Support Group
@@ -147,3 +148,10 @@ intro: See the class quickly, plan the response, then practise saying it aloud.
     <a href="/education/practice/feedback.html">Feedback</a>
   </nav>
 </div>
+
+
+## Students
+
+<p class="class-map-note"><strong>6 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+
+<div class="class-map" data-count="6" data-start="10"></div>

@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/ty-streamed.html
 title: Transition Year Mathematics — Streamed Group
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
@@ -37,3 +38,10 @@ Investigation journals, model critique, peer explanation and a final presentatio
 ## Connected pages
 
 [TY scheme](/education/planning/schemes/transition-year-maths.html) · [Inclusion](/education/practice/inclusion.html) · [Feedback](/education/practice/feedback.html)
+
+
+## Students
+
+<p class="class-map-note"><strong>14 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+
+<div class="class-map" data-count="14" data-start="21"></div>

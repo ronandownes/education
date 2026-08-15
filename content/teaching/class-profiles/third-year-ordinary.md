@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/third-year-ordinary.html
 title: Third Year Mathematics — Ordinary Level
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
@@ -37,3 +38,10 @@ Weekly mixed retrieval, half-term common assessments, error coding and reassessm
 ## Connected pages
 
 [Third Year scheme](/education/planning/schemes/third-year-maths.html) · [AEN](/education/practice/aen.html) · [Feedback](/education/practice/feedback.html)
+
+
+## Students
+
+<p class="class-map-note"><strong>16 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+
+<div class="class-map" data-count="16" data-start="57"></div>

@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/second-year-ordinary.html
 title: Second Year Mathematics — Ordinary Level
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
@@ -37,3 +38,10 @@ Short exit checks, cumulative quizzes every two weeks, one common task per half-
 ## Connected pages
 
 [Second Year scheme](/education/planning/schemes/second-year-maths.html) · [Differentiation](/education/differentiation-accessibility.html) · [Reporting](/education/practice/reporting.html)
+
+
+## Students
+
+<p class="class-map-note"><strong>18 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+
+<div class="class-map" data-count="18" data-start="21"></div>

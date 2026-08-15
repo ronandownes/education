@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/third-year-higher.html
 title: Third Year Mathematics — Higher Level
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
@@ -37,3 +38,10 @@ Untimed reasoning first, then timed transfer; cumulative papers; individual gap 
 ## Connected pages
 
 [Third Year scheme](/education/planning/schemes/third-year-maths.html) · [Inclusion](/education/practice/inclusion.html) · [Reporting](/education/practice/reporting.html)
+
+
+## Students
+
+<p class="class-map-note"><strong>16 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+
+<div class="class-map" data-count="16" data-start="73"></div>
