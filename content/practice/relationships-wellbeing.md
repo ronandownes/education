@@ -62,9 +62,6 @@ Learn these six first. They cover the centre of the page.
 
 **emotion → regulation → connection → participation → learning**
 
-This fills the language gap without repeating the larger **Vocabulary** section.
-
-
 
 &nbsp;
 
