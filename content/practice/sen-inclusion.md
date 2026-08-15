@@ -8,8 +8,6 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 ---
 # SEN / AEN & Inclusion
 
-
-
 ## Vocabulary
 
 
@@ -22,20 +20,20 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | Ambition | Support | Represent | Process | Differentiate | Accommodate |
 
 
-## Icons
 
 
-| 👤 Learner | 📋 Profile | 🚧 Barrier |
-| ------------------ | ----------------- | ---------------- |
-| 🔓 Access | 🤲 Support | 🏗️ Scaffold |
-| 🧠 Processing | ⏳ Processing time | ⚖️ Regulation |
-| 👁️ Visual support | 💬 Communication | 🤝 Collaboration |
-| 🙋 Participation | 🌱 Independence | 🧗 Challenge |
-| 🔎 Evidence | 💻 Technology | 🛡️ Safety |
-| 🔄 Review | ❤️ Belonging |  |
+
+| Learner and Outcomes | Needs and Conditions | Teaching and Access | Professional Cycle |
+| -------------------- | -------------------- | ------------------- | ------------------ |
+| 👤 Learner | 📋 Profile | 🔓 Access | 💬 Communication |
+| 🙋 Participation | 🚧 Barrier | 🤲 Support | 🤝 Collaboration |
+| 🌱 Independence | 🧠 Processing | 🏗️ Scaffold | 🔎 Evidence |
+| 🧗 Challenge | ⚖️ Regulation | 👁️ Visual support | 🔄 Review |
+| ❤️ Belonging | 🛡️ Safety | ⏳ Processing time |  |
+|  |  | 💻 Technology |  |
 
 
-## Access
+## cess
 
 
 | 🧮 Concrete materials | 👁️ Visual materials | 👨‍🏫 Modelling | 💻 Technology |
@@ -44,8 +42,6 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 
 
-
-&nbsp;
 
 &nbsp;
 
