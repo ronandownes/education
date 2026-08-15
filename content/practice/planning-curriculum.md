@@ -8,8 +8,6 @@ intro: |-
   Align with the curriculum and
   Adapt to the evidence.
 ---
-
-
 ## Planning Word Wall
 
 
@@ -18,8 +16,6 @@ intro: |-
 | Evaluate | Integrate | Map | Monitor | Pace |
 | Prioritise | Reflect | Revisit | Review | Sequence |
 | Track | Scaffold | Retrieve |  |  |
-
-
 
 
 ## Plan a lesson on **short notice**?
@@ -60,7 +56,7 @@ Throughout the year, I use **formative assessment evidence** to monitor progress
 
 **profile → assess → establish → align → sequence → adapt**
 
-## Specification and LO influence on my planning?hi
+## Specification and LO influence on my planning?
 
 ### I plan from what the learning outcomes require students to know, understand and do — not just from a list of topics.
 
