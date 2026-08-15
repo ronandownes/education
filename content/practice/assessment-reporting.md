@@ -5,7 +5,7 @@ title: Assessment, Feedback & Reporting
 eyebrow: PROFESSIONAL PRACTICE
 intro: Assessment → interpret evidence → feedback → respond → report.
 ---
-## What types of assessment do you use as a teacher, and how do you use that information to help your teaching? {#how-do-you-assess-learning}
+## What types of assessment do you use as a teacher, and how do you use that information to help with your teaching? {#how-do-you-assess-learning}
 
 **Key line: Assessment is evidence that changes what happens next.**
 
@@ -66,3 +66,4 @@ Reporting should communicate a broader picture than a mark alone. I combine atta
 ## How do you report relevant progress or concerns within the school?
 
 ## How do confidentiality and GDPR affect assessment records and reporting?
+
