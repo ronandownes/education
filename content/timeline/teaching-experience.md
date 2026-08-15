@@ -8,7 +8,7 @@ intro: A reverse-chronological working record of schools, roles, subjects,
 ---
 ## St Patrick's Comprehensive
 
-## This is the current interview focus, so use it as a comparison point with my actual experience rather than as employment history.
+
 
 ### Why this role overlaps strongly with my experience
 
