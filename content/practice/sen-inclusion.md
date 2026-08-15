@@ -11,8 +11,6 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 ## Vocabulary ↔️Best  in landscape
 
 
-
-
 | Purpose | Learner Information | Teaching Response | Classroom Conditions | Professional Cycle | Values and Impact |
 | ------------- | ------------------- | ----------------- | -------------------- | ------------------ | ----------------- |
 | Inclusion | Profile | Scaffold | Structure | Collaborate | Dignity |
@@ -43,14 +41,9 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | 🧩 Chunking | 🧱 Structure | ⏳ Processing time | 🧠 Reduced cognitive load |
 
 
+## What is your approach to SEN / AEN and inclusion?
 
-
-## Approach to SEN / AEN?
-
-
-| Participation | Independence | High Expectations |
-| ------------- | ------------ | ----------------- |
-
+### Support participation. Build independence. Maintain high expectations.
 
 I start with the **learner**, not the label.
 
