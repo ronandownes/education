@@ -37,17 +37,6 @@ Learn these six first. They cover the centre of the page.
 | 🔄 Consistency | 🚩 Concern | 🌱 Resilience | 🙋 Participation | 📝 Record |
 | 🔧 Repair | 📅 Attendance | 🫶 Inclusion | 🎧 Listen | ➡️ Refer |
 
-
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ## Emotional Wellbeing Language
 
 
@@ -61,21 +50,6 @@ Learn these six first. They cover the centre of the page.
 
 
 **emotion → regulation → connection → participation → learning**
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ## What role do relationships play in learning?
 
