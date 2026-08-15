@@ -29,7 +29,7 @@ I also use digital tools 💻 where they add value. Immediate feedback ⚡ can s
 
 
 
-## What is your understanding of Assessment as Learning?
+## Assessment as Learning?
 
 ### Assessment as Learning develops students’ ability to recognise, monitor and regulate their own learning.
 
