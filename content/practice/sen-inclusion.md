@@ -8,7 +8,7 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 ---
 # SEN / AEN & Inclusion
 
-## Vocabulary 📱 Best  in landscape
+## Vocabulary ↔️Best  in landscape
 
 
 
