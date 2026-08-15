@@ -7,15 +7,17 @@ intro: Assessment → interpret evidence → feedback → respond → report.
 ---
 ## Assessment Word Wall
 
+
 | Evidence | Attainment | Understanding | Misconception | Depth |
-| --------- | ---------- | ------------- | ------------- | ----- |
+| --------- | ---------- | ------------- | ------------- | --------- |
 | Progress | Retention | Retrieval | Fluency | Reasoning |
 | Diagnose | Interpret | Monitor | Adapt | Respond |
 | Formative | Summative | Feedback | Criteria | Next step |
 
+
 ## What types of assessment do you use as a teacher, and how do you use that information to help with your teaching? {#how-do-you-assess-learning}
 
-### Assessment reveals attainment, understanding, misconceptions and retention — then informs the next teaching move.
+### Assessment tells me where students are and what teaching needs to happen next.
 
 I use a range of formative and summative assessment: questioning, observation, mini-whiteboards, discussion, written work, retrieval quizzes, topic tests and formal assessments.
 
