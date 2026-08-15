@@ -22,31 +22,26 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 ## Icons
 
-| 👤 | Learner | 📋 | Profile | 🚧 | Barrier |
 
-| 🔓 | Access | 🤲 | Support | 🏗️ | Scaffold |
+| 👤 Learner | 📋 Profile | 🚧 Barrier |
+| ------------------ | ----------------- | ---------------- |
+| 🔓 Access | 🤲 Support | 🏗️ Scaffold |
+| 🧠 Processing | ⏳ Processing time | ⚖️ Regulation |
+| 👁️ Visual support | 💬 Communication | 🤝 Collaboration |
+| 🙋 Participation | 🌱 Independence | 🧗 Challenge |
+| 🔎 Evidence | 💻 Technology | 🛡️ Safety |
+| 🔄 Review | ❤️ Belonging |  |
 
-| 🧠 | Processing | ⏳ | Processing time | ⚖️ | Regulation |
-
-| 👁️ | Visual support | 💬 | Communication | 🤝 | Collaboration |
-
-| 🙋 | Participation | 🌱 | Independence | 🧗 | Challenge |
-
-| 🔎 | Evidence | 💻 | Technology | 🛡️ | Safety |
-
-| 🔄 | Review | 🫶 | Belonging |  |  |
 
 ## Access
 
 
-| 🧱 Structure | 🧩 Chunking | 👨‍🏫 Modelling | 👁️ visual materials |
-| ------------- | ------------------------- | ----------------- | --------------------- |
-| 💻 Technology | 🧠 Reduced cognitive load | ⏳ Processing time | 🧮 Concrete materials |
+| 🧮 Concrete materials | 👁️ Visual materials | 👨‍🏫 Modelling | 💻 Technology |
+| --------------------- | -------------------- | ----------------- | ------------------------- |
+| 🧩 Chunking | 🧱 Structure | ⏳ Processing time | 🧠 Reduced cognitive load |
 
 
 
-
-&nbsp;
 
 ## Approach to SEN / AEN?
 
