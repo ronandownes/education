@@ -41,27 +41,30 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 | 🧩 Chunking | 🧱 Structure | ⏳ Processing time | 🧠 Reduced cognitive load |
 
 
-## Approach to SEN / AEN?
-
-|Participate|Indepentance|High Expectations
-
 
 
 &nbsp;
 
-I start with the learner not the label. 
+&nbsp;
 
-I use student-support information, 
+&nbsp;
 
-I collaborate with the AEN team and other staff, 
+## Approach to SEN / AEN?
 
-then  adapt access 
 
-support increases meaningful participation and independence
+| Participation | Independence | High Expectations |
+| ------------- | ------------ | ----------------- |
 
- rather than create unnecessary dependence. 
 
-I maintain appropriate challenge because an additional need does not define a student's potential.
+I start with the **learner**, not the label.
+
+I use the student-support **profile** and collaborate with the AEN team and other staff.
+
+I identify the **barriers**, adapt **access** and provide appropriate **support**.
+
+That support should increase meaningful **participation** and **independence**, rather than create unnecessary dependence.
+
+I maintain appropriate challenge and **ambition** because an additional need does not define a student’s potential.
 
 ### Visual Retrieval
 
