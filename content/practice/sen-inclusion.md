@@ -8,16 +8,18 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 ---
 # SEN / AEN & Inclusion
 
+
+
 ## Vocabulary
 
 
-| Inclusion | Participation | Independence | Access | Ambition |
-| ------------- | ------------- | ------------ | --------- | --------- |
-| Profile | Strength | Need | Barrier | Support |
-| Scaffold | Adapt | Chunk | Model | Represent |
-| Process | Regulate | Predict | Structure | Routine |
-| Differentiate | Accommodate | Collaborate | Monitor | Review |
-| Communicate | Challenge | Evidence | Dignity | Belonging |
+| Purpose | Learner Information | Teaching Response | Classroom Conditions | Professional Cycle | Values and Impact |
+| ------------- | ------------------- | ----------------- | -------------------- | ------------------ | ----------------- |
+| Inclusion | Profile | Scaffold | Structure | Collaborate | Dignity |
+| Participation | Strength | Adapt | Routine | Communicate | Belonging |
+| Independence | Need | Chunk | Predict | Monitor | Challenge |
+| Access | Barrier | Model | Regulate | Review | Evidence |
+| Ambition | Support | Represent | Process | Differentiate | Accommodate |
 
 
 ## Icons
@@ -42,8 +44,6 @@ intro: Mainstream inclusion, learning support, withdrawal, team teaching and
 
 
 
-
-&nbsp;
 
 &nbsp;
 
