@@ -75,6 +75,15 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .doc-body tbody tr:nth-child(odd) td{background:var(--soft)}
 .doc-body tbody tr:nth-child(even) td{background:#fff}
 
+/* Retrieval chains are compact recall prompts: concept and question on the
+   left, with the speakable route through the answer across the page. */
+.retrieval-wall{width:100%;overflow-x:auto;margin:10px 0 28px}
+.retrieval-wall table{min-width:980px;margin:0;table-layout:fixed}
+.retrieval-wall th,.retrieval-wall td{padding:9px 10px;text-align:left;vertical-align:top;font-size:.9rem;line-height:1.28}
+.retrieval-wall th:nth-child(1),.retrieval-wall td:nth-child(1){width:15%}
+.retrieval-wall th:nth-child(2),.retrieval-wall td:nth-child(2){width:32%}
+.retrieval-wall th:nth-child(3),.retrieval-wall td:nth-child(3){width:53%}
+
 /* Assessment Word Wall uses the same card-grid language as Planning. */
 .answer-section:has(#assessment-word-wall) .section-content table{
   display:grid;
@@ -218,6 +227,37 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 
 @media print{
   @page{margin:6mm}
+  @page interview-landscape{size:A4 landscape;margin:6mm}
+
+  .doc-paper.print-landscape{page:interview-landscape}
+  .answer-section:has(#differentiation-accessibility-retrieval-chains){
+    break-inside:auto!important;
+    page-break-inside:auto!important;
+    break-after:page;
+    margin-bottom:0!important;
+  }
+  .answer-section:has(#differentiation-accessibility-retrieval-chains) .answer-heading-row h2{
+    margin:0 0 2mm!important;
+    font-size:12pt!important;
+    line-height:1.05!important;
+  }
+  .answer-section:has(#differentiation-accessibility-retrieval-chains) .section-content{padding-top:0!important}
+  .retrieval-wall{overflow:visible!important;margin:0!important}
+  .retrieval-wall table{
+    min-width:0!important;
+    width:100%!important;
+    table-layout:fixed!important;
+    margin:0!important;
+    font-size:6.6pt!important;
+  }
+  .retrieval-wall th,.retrieval-wall td{
+    padding:1mm 1.2mm!important;
+    font-size:6.6pt!important;
+    line-height:1.05!important;
+    text-align:left!important;
+    vertical-align:top!important;
+  }
+  .retrieval-wall tr{break-inside:avoid!important;page-break-inside:avoid!important}
 
   /* Word Walls are recall sheets, not prose tables. Keep every term and its
      bracketed usage count on one line and keep each wall on one printed page. */

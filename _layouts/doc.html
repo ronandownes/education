@@ -203,7 +203,7 @@
   {% endif %}
 
   <main class="page-stage">
-    <article class="doc-paper">
+    <article class="doc-paper{% if page.print_landscape %} print-landscape{% endif %}">
       <p class="doc-kicker">{{ page.eyebrow }}</p>
       <h1>{{ page.title }}</h1>
       {% if page.intro %}<p class="doc-intro">{{ page.intro }}</p>{% endif %}
