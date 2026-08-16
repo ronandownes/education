@@ -9,15 +9,15 @@ This repository is Ronan Downes's working education and interview-preparation si
 The main navigation is built around **eight interview areas**, plus dedicated **Profiles** and **Plans** shelves:
 
 1. Teaching & Learning
-2. Profiles
-3. Classroom Management
-4. SEN / AEN & Inclusion
-5. Differentiation & Accessibility
-6. Assessment, Feedback & Reporting
-7. Planning & Curriculum
-8. Plans
-9. Relationships & Wellbeing
-10. Professional Responsibility & School Community
+2. Classroom Management
+3. SEN / AEN & Inclusion
+4. Differentiation & Accessibility
+5. Assessment, Feedback & Reporting
+6. Planning & Curriculum
+7. Relationships & Wellbeing
+8. Professional Responsibility & School Community
+9. Profiles
+10. Plans
 
 Do not restore **Subjects** as permanent top-level navigation unless Ronan explicitly asks for it. Subject pages can remain in the repository and may be reached from homepage launchpads or contextual links.
 
@@ -28,6 +28,7 @@ Do not add separate top-level **Home**, **Practice**, **Schools**, **Timeline**,
 - Each of the eight interview-area titles is a direct link to the full notes page for that area.
 - **Profiles** is a top-level shelf containing both **Class Profiles** and **School Profiles**.
 - **Plans** is a top-level shelf containing actual plans, schemes of work and curriculum specifications—not Planning & Curriculum interview questions.
+- Keep **Profiles** and then **Plans** as the final two top-level shelves.
 - Keep class pages and school profiles out of the **Teaching & Learning** dropdown.
 - Keep scheme-of-work pages out of the **Planning & Curriculum** dropdown.
 - The small dropdown control beside each interview-area title opens the current interview questions or subtopics.
