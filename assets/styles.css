@@ -160,27 +160,25 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   .pdf-source{display:none}
 }
 
-/* Whole heading is the dropdown trigger; tiny caret controls are visually removed. */
-.navitem{grid-template-columns:1fr}
+/* Keep top-level titles as real links; dropdowns use their own visible control. */
+.navitem{grid-template-columns:minmax(0,1fr) 19px}
 .navitem>.navtoggle{
-  position:absolute;
-  top:0;
-  left:0;
-  z-index:5;
-  width:100%;
-  height:80px;
-  min-height:0;
-  padding:0;
+  position:static;
+  z-index:auto;
+  width:auto;
+  height:auto;
+  min-height:80px;
+  padding:0 4px 0 0;
   border:0;
-  opacity:0;
+  opacity:1;
   cursor:pointer;
 }
 .navitem:hover>.navlabel,.navitem.is-open>.navlabel{background:#f8f9fa;color:#174ea6}
-.inline-caret{display:none}
+.inline-caret{display:inline}
 
 @media(max-width:1500px){
-  .navitem,.nav-teaching,.nav-classes,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-plans,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{grid-template-columns:1fr}
-  .navitem>.navtoggle{height:48px}
+  .navitem,.nav-teaching,.nav-classes,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-plans,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{grid-template-columns:minmax(0,1fr) 46px}
+  .navitem>.navtoggle{height:auto;min-height:48px;padding:0;border-left:1px solid #eceff1}
 }
 
 /* Homepage notebook shelf: available without competing with the main interview navigation. */
