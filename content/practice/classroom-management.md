@@ -9,11 +9,7 @@ intro: >
   de-escalate calmly, follow up through agreed school systems, and repair the
   relationship so the student can return to learning.
 ---
-
-
 ## Classroom Management Retrieval Chains
-
-
 
 
 | **Concept** | **Recall chain** |
@@ -44,8 +40,6 @@ intro: >
 | **Transitions & seating** | Teach routines → predictable transitions → seating for learning → active supervision → adjust from evidence |
 | **Safeguarding** | Notice concern → immediate safety → do not investigate or promise secrecy → record facts → designated route → dignity |
 | **Review practice** | Evidence and patterns → student voice or colleague feedback → evaluate interventions → adjust routines, responses or support → monitor impact |
-
-
 
 
 ## Classroom Management Interview Questions
