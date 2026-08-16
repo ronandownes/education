@@ -1,20 +1,11 @@
 ---
-layout: null
-permalink: /
+layout: doc
+title: Appendix
+eyebrow: INTERVIEW MASTER RESOURCES
 ---
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="refresh" content="0; url={{ '/teaching-learning.html' | relative_url }}">
-  <link rel="canonical" href="{{ '/teaching-learning.html' | absolute_url }}">
-  <title>Teaching &amp; Learning</title>
-  <script>
-    window.location.replace("{{ '/teaching-learning.html' | relative_url }}");
-  </script>
-</head>
-<body>
-  <p><a href="{{ '/teaching-learning.html' | relative_url }}">Open Teaching &amp; Learning</a></p>
-</body>
-</html>
+
+- [Start with Teaching & Learning](teaching-learning.html)
+- [Education Question Banks](interview-question-banks.html)
+- [Education Word Walls](interview-word-walls.html)
+
+The live interview pages now keep their retrieval chains and answers clean. The full question banks and original word walls are retained here as appendix resources and do not need to be printed with the interview pages.
