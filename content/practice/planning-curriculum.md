@@ -46,15 +46,61 @@ Where are they? → SoW/LI → retrieval → vocab → FA/questioning → assess
 
 ## Yearly plan first Maths?
 
-**I start by reviewing the learner profile, transition and handover information, including primary-school reports and any available assessment evidence. Because students are coming from different primary schools, I use early assessment and retrieval to establish their actual starting points, strengths, gaps and misconceptions rather than making assumptions about prior learning.**
+We start by reviewing the class and learner profiles,
 
-**I then work directly from the Junior Cycle Mathematics specification, unpacking the individual learning outcomes in detail, identifying the knowledge and skills they require, and linking related outcomes into a coherent sequence of learning across the year.**
+transition and handover information,
 
-I prioritise key foundational learning **and build in regular retrieval, consolidation and revision. I differentiate and scaffold from the outset where needed, while also planning appropriate challenge. Throughout the year I monitor progress, use formative assessment evidence to adjust pace and sequencing, revisit learning where necessary, and adapt the plan to the students actually in front of me.**  
+including primary-school reports
 
-👤 → 📊 → 📍 → ∥ → 🧭 → 🔧
+and any available assessment evidence.
+
+Because students are coming from different primary schools,
+
+I use early assessment and retrieval
+
+to establish their actual starting points,
+
+strengths, gaps and misconceptions,
+
+rather than making assumptions about prior learning.
+
+I then work directly from the Junior Cycle Mathematics specification,
+
+unpacking the individual learning outcomes in detail,
+
+identifying the knowledge and skills they require,
+
+and linking related outcomes
+
+into a coherent sequence of learning across the year.
+
+I prioritise key foundational learning
+
+and build in regular retrieval,
+
+consolidation and revision.
+
+I differentiate and scaffold from the outset where needed,
+
+while also planning appropriate challenge.
+
+Throughout the year,
+
+I monitor progress,
+
+use formative assessment evidence
+
+to adjust pace and sequencing,
+
+revisit learning where necessary,
+
+and adapt the plan
+
+to the students actually in front of me.
 
 **profile → assess → establish → align → sequence → adapt**
+
+Yes, I’d drop the icons. They’re not wrong, but for interview notes they do make the page feel a bit more childish and visually busy. The arrow chain is cleaner and probably more useful for recall.
 
 ## Yearly plan second Maths?
 
