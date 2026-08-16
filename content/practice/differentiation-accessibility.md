@@ -3,348 +3,148 @@ layout: doc
 permalink: /differentiation-accessibility.html
 title: Differentiation & Accessibility
 eyebrow: PROFESSIONAL PRACTICE
-intro: "Common learning, different routes: access, scaffolding, representation, pace, challenge and response."
+intro: Common learning, different routes: vary entry, scaffolding, representation, response and challenge while building independence.
 ---
+# Differentiation & Accessibility
 
-<style>
-.concept-grid{
-  display:grid;
-  grid-template-columns:repeat(2,minmax(0,1fr));
-  gap:12px;
-  margin:12px 0 22px;
-}
-.concept-card{
-  padding:14px 16px;
-  border:1px solid #d7e3f4;
-  border-radius:10px;
-  background:#f7faff;
-}
-.concept-card h3{
-  margin:0 0 7px;
-  color:#174ea6;
-  font-size:1rem;
-}
-.concept-card p{margin:5px 0!important;line-height:1.5!important;}
-.concept-card .concept-icons{font-size:1.08rem;letter-spacing:.02em;}
-.answer-section:has(#categorised-vocabulary) .section-content table,
-.answer-section:has(#categorised-icon-wall) .section-content table{
-  display:grid;
-  grid-template-columns:repeat(6,minmax(0,1fr));
-  gap:9px;
-  width:100%;
-  margin:10px 0 28px;
-  border:0;
-  border-collapse:separate;
-  table-layout:auto;
-  background:transparent;
-}
-.answer-section:has(#categorised-vocabulary) .section-content table thead,
-.answer-section:has(#categorised-vocabulary) .section-content table tbody,
-.answer-section:has(#categorised-vocabulary) .section-content table tr,
-.answer-section:has(#categorised-icon-wall) .section-content table thead,
-.answer-section:has(#categorised-icon-wall) .section-content table tbody,
-.answer-section:has(#categorised-icon-wall) .section-content table tr{display:contents;}
-.answer-section:has(#categorised-vocabulary) .section-content table th,
-.answer-section:has(#categorised-vocabulary) .section-content table td,
-.answer-section:has(#categorised-icon-wall) .section-content table th,
-.answer-section:has(#categorised-icon-wall) .section-content table td{
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  min-height:46px;
-  padding:8px 7px;
-  border:1px solid #d7e3f4;
-  border-radius:9px;
-  background:#f7faff!important;
-  color:#24364b;
-  font-size:.87rem;
-  font-weight:600;
-  text-align:center;
-}
-.answer-section:has(#categorised-vocabulary) .section-content table th,
-.answer-section:has(#categorised-icon-wall) .section-content table th{
-  background:#e8f0fe!important;
-  color:#174ea6;
-}
-@media(max-width:800px){
-  .answer-section:has(#categorised-vocabulary) .section-content table,
-  .answer-section:has(#categorised-icon-wall) .section-content table{grid-template-columns:repeat(3,minmax(0,1fr));}
-}
-@media(max-width:600px){
-  .concept-grid{grid-template-columns:1fr;}
-  .answer-section:has(#categorised-vocabulary) .section-content table,
-  .answer-section:has(#categorised-icon-wall) .section-content table{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;}
-}
-@media(max-width:340px){
-  .answer-section:has(#categorised-vocabulary) .section-content table,
-  .answer-section:has(#categorised-icon-wall) .section-content table{grid-template-columns:1fr;}
-}
-</style>
-
-## Differentiation Thesis
-
-### I vary the route, not the learning.
-
-I keep the important learning clear and ambitious, then vary **entry point, scaffolding, representation, pace, challenge and response** so that more students can participate successfully and become increasingly independent.
-
-Differentiation is not thirty separate lesson plans. It is a common learning conversation with appropriate access, support and stretch.
-
-**ETB lens:** mainly **Professional Practice**, with **Professional Values & Relationships** where dignity, equality and inclusion are involved.
-
-**goal → evidence → access → support → challenge → respond → independence**
-
-🎯 → 🔎 → 🔓 → 🤲 → 🧗 → 🔧 → 🌱
-
-## Concept Blocks
-
-Use these six blocks as short retrieval routes. Each one can become the spine of an interview answer.
-
-<div class="concept-grid">
-  <div class="concept-card">
-    <h3>Accessibility</h3>
-    <p><strong>barrier → clarity → structure → language → representation → processing → participation</strong></p>
-    <p class="concept-icons">🚧 → 💡 → 🧱 → 🗣️ → 👁️ → ⏳ → 🙋</p>
-  </div>
-  <div class="concept-card">
-    <h3>Differentiation</h3>
-    <p><strong>goal → evidence → entry → scaffold → pace → challenge → response</strong></p>
-    <p class="concept-icons">🎯 → 🔎 → 🚪 → 🏗️ → ⏱️ → 🧗 → 🔧</p>
-  </div>
-  <div class="concept-card">
-    <h3>Representation</h3>
-    <p><strong>concrete → visual → verbal → numerical → symbolic → connect</strong></p>
-    <p class="concept-icons">🧮 → 🖼️ → 🗣️ → 🔢 → 🔣 → 🔗</p>
-  </div>
-  <div class="concept-card">
-    <h3>Scaffolding</h3>
-    <p><strong>model → guide → prompt → practise → fade → independence</strong></p>
-    <p class="concept-icons">👨‍🏫 → 🤝 → 💡 → ✏️ → 🌫️ → 🌱</p>
-  </div>
-  <div class="concept-card">
-    <h3>Challenge</h3>
-    <p><strong>apply → compare → explain → justify → generalise → transfer</strong></p>
-    <p class="concept-icons">🛠️ → ⚖️ → 🗣️ → 🧠 → 🔭 → 🔀</p>
-  </div>
-  <div class="concept-card">
-    <h3>UDL</h3>
-    <p><strong>engage → represent → act → express → choose → self-regulate</strong></p>
-    <p class="concept-icons">🙋 → 👁️ → 🛠️ → 💬 → ↔️ → 🧭</p>
-  </div>
-</div>
+## Differentiation & Accessibility Word Wall
 
-## Categorised Vocabulary
+| **Entry** | **Scaffold** | **Represent** | **Respond** | **Challenge** |
+|---|---|---|---|---|
+| Entry point (4) | Scaffolding (3) | Multiple representations (2) | Formative assessment (3) | Challenge (5) |
+| Access barrier (3) | Modelling (5) | Concrete model (2) | Responsive adjustment (4) | Productive struggle (4) |
+| Common learning goal (2) | Worked example (6) | Visual model (4) | Check-in points (5) | Learner independence (3) |
+| Starting point (3) | Guided prompt (4) | Symbolic form (2) | Flexible grouping (4) | Complexity (7) |
+| Prior knowledge (3) | Sentence stem (4) | Accessible layout (4) | Choice of format (2) | Extension (4) |
+| Diagnostic task (2) | Checklist (2) | Explicit language (2) | Processing time (4) | Reasoning (4) |
+| Low-floor task (1) | Part-completed example (2) | Visual cue (2) | Alternative response (3) | Rich questioning (2) |
+| Prerequisite skill (4) | Guided practice (7) | Universal design (1) | Oral response (1) | Generalisation (2) |
+| Early success (1) | Prompt hierarchy (2) | Multiple means (1) | Written response (1) | Open-ended task (2) |
+| Familiar context (1) | Gradual release (3) | Word bank (1) | Digital response (2) | High-attaining learner (1) |
+| Concrete example (4) | Independent practice (4) | Vocabulary pre-teach (1) | Flexible pacing (1) | High potential (1) |
+| Success criteria (5) | Faded support (2) | Assistive technology (3) | Wait time (1) | Transfer (2) |
 
-| Purpose | Evidence | Design & Access | Support | Challenge | Response & Impact |
-| --- | --- | --- | --- | --- | --- |
-| Access | Profile | Clarity | Scaffold | Apply | Assess |
-| Inclusion | Strength | Structure | Model | Explain | Adapt |
-| Equity | Barrier | Representation | Chunk | Compare | Extend |
-| Participation | Prior knowledge | Language | Prompt | Justify | Monitor |
-| Ambition | Misconception | Modality | Pace | Generalise | Progress |
-| Belonging | Readiness | Choice | Processing time | Transfer | Independence |
+## 24 Interview Questions
 
-## Categorised Icon Wall
+| **DA concept** | **Interview question** |
+|---|---|
+| **1 Mixed ability** | How do you differentiate in a mixed-ability class? |
+| **2 Not separate lessons** | How do you differentiate without creating several different lessons? |
+| **3 Entry point** | How do you choose an appropriate entry point? |
+| **4 Scaffolding** | How do you scaffold learning while still building independence? |
+| **5 Modelling** | How do you use modelling as a differentiation strategy? |
+| **6 Representations** | How do you use multiple representations to improve access? |
+| **7 UDL** | What role does universal design play in your teaching? |
+| **8 Cognitive load** | How do you reduce cognitive load without reducing challenge? |
+| **9 Vocabulary** | How do you differentiate for language and vocabulary needs? |
+| **10 Response formats** | How can students demonstrate learning in different ways? |
+| **11 Assistive technology** | How do you use assistive technology for accessibility? |
+| **12 Pace** | How do you differentiate by pace without holding back the class? |
+| **13 Questioning** | How do you use questioning to differentiate? |
+| **14 Flexible grouping** | How do you use flexible grouping effectively? |
+| **15 High attainers** | How do you challenge high-attaining or high-potential students? |
+| **16 Support and challenge** | How do you provide support and challenge in the same lesson? |
+| **17 Productive struggle** | How do you know when to support and when to allow productive struggle? |
+| **18 Fade support** | How do you know when to fade a scaffold? |
+| **19 Accessibility vs standards** | How do you make learning accessible without lowering standards? |
+| **20 Maths example** | Give an example of differentiation in a Maths lesson. |
+| **21 Science example** | Give an example of differentiation in a Science lesson. |
+| **22 Assessment access** | How do you make assessment accessible while preserving validity? |
+| **23 Independence** | How does differentiation build learner independence? |
+| **24 Review differentiation** | How do you evaluate whether differentiation is working? |
 
-| Purpose | Evidence | Design & Access | Support | Challenge | Impact |
-| --- | --- | --- | --- | --- | --- |
-| 🔓 Access | 📋 Profile | 💡 Clarity | 🏗️ Scaffold | 🛠️ Apply | 🙋 Participation |
-| 🤝 Inclusion | 💪 Strength | 🧱 Structure | 👨‍🏫 Model | 🗣️ Explain | 📈 Progress |
-| ⚖️ Equity | 🚧 Barrier | 👁️ Representation | 🧩 Chunk | ⚖️ Compare | 🌱 Independence |
-| 🎯 Ambition | 🔎 Evidence | 🗣️ Language | 💡 Prompt | 🧠 Justify | 🔀 Transfer |
-| ❤️ Belonging | 🚦 Readiness | ↔️ Choice | ⏳ Processing time | 🔭 Generalise | 🔄 Review |
+## 1 Mixed ability — How do you differentiate in a mixed-ability class?
 
-## What does differentiation mean in your classroom?
+I begin with a common learning goal and establish the starting point through prior knowledge and a short diagnostic task. I vary the entry point, scaffolding, representation and complexity while keeping students in the same learning conversation where possible. Formative assessment tells me who needs more support, who is ready for extension and when a responsive adjustment is needed.
 
-### I vary the route to the learning without losing sight of the learning.
+## 2 Not separate lessons — How do you differentiate without creating several different lessons?
 
-I usually keep a common learning intention and vary six main levers: **entry point, scaffolding, representation, pace, challenge and response**.
+I differentiate the route before differentiating the destination. I keep a common learning goal and vary prompts, examples, vocabulary, representation, pacing and challenge around it. A low-floor task, flexible grouping and targeted check-in points let me respond to different needs without planning five unrelated lessons. Separate work is used only when there is a genuine identified need.
 
-The useful adjustment may be a worked example, a concrete or visual model, a sentence stem, a reduced first step, additional processing time or a deeper extension question—not necessarily a different worksheet.
+## 3 Entry point — How do you choose an appropriate entry point?
 
-The aim is appropriate access and challenge without unnecessarily separating students from the same learning conversation.
+I identify the prerequisite skill and use prior knowledge, questioning or a diagnostic task to find the real starting point. I then choose an entry point that gives students early success without making the task trivial. That might mean a familiar context, concrete example or reduced first step, followed by increasing complexity as understanding becomes visible.
 
-**goal → entry → scaffold → represent → pace → challenge → respond**
+## 4 Scaffolding — How do you scaffold learning while still building independence?
 
-🎯 → 🚪 → 🏗️ → 👁️ → ⏱️ → 🧗 → 🔧
+I scaffold enough to give access without removing the thinking. I may use modelling, a worked example, guided prompt, sentence stem, checklist or part-completed example, then move through guided practice towards independent practice. I use a prompt hierarchy and gradual release so support is faded deliberately and learner independence increases.
 
-## What is the difference between accessibility and differentiation?
+## 5 Modelling — How do you use modelling as a differentiation strategy?
 
-### Accessibility removes unnecessary barriers; differentiation then varies support and challenge in response to need.
+Modelling can provide a common access point without reducing the learning goal. I use a worked example or think-aloud to make the decisions visible, highlight the prerequisite skill and model subject language. Students then move into guided practice with fewer prompts. I avoid over-modelling: the scaffold should lead towards independent practice rather than replace student thinking.
 
-I first make the lesson usable for everyone through visible structure, clear instructions, an organised board, explained vocabulary and manageable first steps.
+## 6 Representations — How do you use multiple representations to improve access?
 
-I use diagrams, models, manipulatives, GeoGebra, Desmos and verbal, visual, numerical, concrete or symbolic routes where they expose the learning clearly.
+I choose multiple representations that make the structure visible and connect them deliberately. In Mathematics that may mean a concrete model, visual model, numerical form and symbolic form; in Science it may mean a diagram, demonstration and technical language. I check that students can move between representations rather than merely recognise them, because the connection is where much of the understanding sits.
 
-Differentiation then adds targeted support, a different entry point, adjusted pace, greater independence or deeper challenge where the evidence shows it is needed.
+## 7 UDL — What role does universal design play in your teaching?
 
-**barrier → access → participate → identify need → differentiate**
+Universal design means removing predictable barriers in the initial lesson design rather than waiting for individual students to fail. I use an accessible layout, explicit language, visual cues, multiple means of representation and, where appropriate, choice of format for response. Universal access does not mean one method suits everyone; it creates a stronger starting point before targeted differentiation is added.
 
-🚧 → 🔓 → 🙋 → 🔎 → 🔧
+## 8 Cognitive load — How do you reduce cognitive load without reducing challenge?
 
-## How does UDL fit?
+I reduce extraneous load rather than the intellectual demand. I use chunking, clear sequencing, worked examples and an accessible layout, integrate words and visuals, and remove redundancy or irrelevant information. I allow processing time where needed. Once the student can access the idea, I increase complexity and productive struggle rather than leaving the work permanently simplified.
 
-### Design as much access as possible from the start, then add individual support where necessary.
+## 9 Vocabulary — How do you differentiate for language and vocabulary needs?
 
-UDL asks me to anticipate learner variability rather than waiting for students to fail before changing the design.
+I use vocabulary pre-teach where a small number of terms are essential to access the task, then connect the words to a visual model, concrete example or worked example. Explicit language, a word bank or sentence stem can support participation and reasoning. I then fade those supports as the language becomes more secure so vocabulary support does not become permanent dependence.
 
-I think about multiple means of **engagement, representation, and action and expression**. That includes predictable instructions, useful choices, several ways into an idea and appropriate ways for students to show understanding.
+## 10 Response formats — How can students demonstrate learning in different ways?
 
-Universal design reduces common barriers; agreed accommodations and targeted supports still matter where universal design is not enough.
+Where the learning outcome allows it, I can vary the response without varying the intellectual demand. A student might use an oral response, written response, digital response or another choice of format while working towards the same success criteria. An alternative response is useful when the usual format creates an access barrier, but I still need valid evidence of the intended learning.
 
-**anticipate → engage → represent → act → express → support**
+## 11 Assistive technology — How do you use assistive technology for accessibility?
 
-🔮 → 🙋 → 👁️ → 🛠️ → 💬 → 🤲
+I use assistive technology when it removes a genuine barrier and gives the student better access to the same worthwhile learning. It might support reading, writing, organisation, representation or a digital response. I teach the student how to use it, check that it is not adding unnecessary complexity, and evaluate whether it increases participation and independence rather than assuming technology is automatically helpful.
 
-## How do you identify students' needs and adapt your teaching?
+## 12 Pace — How do you differentiate by pace without holding back the class?
 
-### I identify need from information, observation and assessment—not from assumption or a label alone.
+I use flexible pacing rather than one fixed speed for every student. Check-in points and formative assessment show who needs processing time, guided practice or another example and who can move into greater complexity. Flexible grouping can let me provide targeted support without slowing everyone. Pace changes should respond to evidence, not become a permanent label about who is fast or slow.
 
-I use appropriate handover information, student-support plans, previous assessment and advice from colleagues. I then compare that with questioning, low-stakes retrieval, student work, discussion and classroom observation.
+## 13 Questioning — How do you use questioning to differentiate?
 
-I identify the specific barrier: prior knowledge, language, working memory, pace, confidence, representation or level of challenge. I choose a response, monitor whether it improves access and adjust again if necessary.
+I use questioning to adjust the level of support and challenge in real time. Wait time, guided prompts and sentence stems can open access; rich questioning can push reasoning, comparison and generalisation. I listen to the quality of the response and make a responsive adjustment rather than deciding in advance which students are capable of which questions.
 
-**information → observe → assess → identify barrier → adapt → review**
+## 14 Flexible grouping — How do you use flexible grouping effectively?
 
-📋 → 👀 → 🔎 → 🚧 → 🔧 → 🔄
+Flexible grouping is temporary and purpose-driven. I might group students for a targeted prerequisite skill, guided practice, peer explanation or an open-ended task, then regroup as the evidence changes. I avoid fixed ability identities. The group should serve the current learning need and return students to the wider learning conversation with greater independence.
 
-## How do you plan for a mixed-ability class?
+## 15 High attainers — How do you challenge high-attaining or high-potential students?
 
-### Common purpose, flexible routes, appropriate support and visible challenge.
+For a high-attaining learner or a student with high potential, I increase depth and complexity rather than simply adding more questions. I use rich questioning, open-ended tasks, multiple methods, reasoning, justification and generalisation. Extension should create productive struggle and connections between ideas while preserving the core learning, not become unrelated busywork.
 
-I plan one clear core learning intention with accessible entry points, a model or worked example, guided and independent practice, and extension that deepens the same idea.
+## 16 Support and challenge — How do you provide support and challenge in the same lesson?
 
-I use flexible grouping rather than permanent ability groups. Sometimes I target a similar-need group for a brief reteach; at other times mixed grouping supports explanation and comparison of methods.
+I keep common success criteria where appropriate and vary the route and depth. One student may need a concrete example, worked example or guided prompt; another may move into greater complexity, reasoning or extension. Check-in points help me adjust both directions. Support is not low expectation, and challenge is not simply more volume.
 
-Questioning and formative assessment allow me to vary the first step, prompt, pace, complexity and independence in real time.
+## 17 Productive struggle — How do you know when to support and when to allow productive struggle?
 
-**common goal → accessible entry → flexible group → support → extend → assess**
+I distinguish productive struggle from an access barrier. If a student has the prerequisite skill and understands the task, I may allow time, questioning and persistence rather than intervene immediately. If language, representation or missing prior knowledge is blocking access, I scaffold. I use checking for understanding to decide when struggle is mathematically useful and when support is needed.
 
-🎯 → 🚪 → 👥 → 🤲 → 🧗 → 🔎
+## 18 Fade support — How do you know when to fade a scaffold?
 
-## How do you use different representations in Mathematics?
+I fade support when evidence shows the student can carry more of the thinking independently. I move from modelling to guided practice, reduce prompts through a prompt hierarchy, and then check independent practice and transfer. If performance collapses, I restore only the support that is needed. Faded support is planned gradual release, not simply removing help abruptly.
 
-### I change the representation when the mathematics is sound but the route into it is not working.
+## 19 Accessibility vs standards — How do you make learning accessible without lowering standards?
 
-I move between concrete, visual or representational, verbal, numerical and abstract or symbolic forms: manipulatives, number lines, grids, diagrams, tables, graphs, GeoGebra, Desmos, worked examples and formal notation.
+Accessibility means removing barriers to the intended learning, not removing the intended learning itself. I may use an accessible layout, assistive technology, processing time, multiple representations or an alternative response while retaining the same worthwhile success criteria. I judge the student on evidence of the learning outcome rather than on a barrier that is incidental to it.
 
-The representation is not decoration. It should expose the mathematical structure students need to notice. I explicitly connect the representations and move students towards increasing fluency with the formal mathematics.
+## 20 Maths example — Give an example of differentiation in a Maths lesson.
 
-**concrete → visual → verbal → numerical → connect → symbolic**
+In a Maths lesson on equations I might begin with a concrete model or visual model for the balance idea, then connect it to symbolic form. Some students use a worked example, sentence stem or part-completed example during guided practice, while others compare methods or generalise. Flexible grouping and check-in points let me respond without separating the class into different topics.
 
-🧮 → 🖼️ → 🗣️ → 🔢 → 🔗 → 🔣
+## 21 Science example — Give an example of differentiation in a Science lesson.
 
-## How do you use scaffolding without creating dependence?
+In Science I might pre-teach essential vocabulary, use a concrete example or demonstration and an accessible visual model before students interpret the technical explanation. During practical work I can use a checklist, guided prompt or choice of response format. Students ready for extension can explain variables, justify a method or evaluate evidence rather than simply complete extra questions.
 
-### A scaffold should make the next step possible and then gradually disappear.
+## 22 Assessment access — How do you make assessment accessible while preserving validity?
 
-I may use a worked example, partially completed solution, formula box, sentence stem, checklist, prompt or guided question.
+I start with what the assessment is supposed to measure. If reading, handwriting or response format is not the target, an alternative response, assistive technology, accessible layout or extra processing time may remove an irrelevant barrier. I keep the success criteria and cognitive demand intact and make sure the accommodation does not give away the learning being assessed.
 
-I make the support explicit enough to reduce avoidable load and allow successful entry to the task. I then fade prompts, remove structure or increase independence as the student becomes secure.
+## 23 Independence — How does differentiation build learner independence?
 
-The test is not merely whether the supported task is completed; it is whether the learner can later act with less support.
+Good differentiation should make itself less necessary over time. I use modelling, guided practice, prompts and visual cues to create access, then faded support and gradual release move responsibility to the learner. I look for independent practice, transfer and self-correction. Learner independence is therefore one of the outcomes of differentiation, not an optional extra.
 
-**model → guide → prompt → practise → fade → independence**
+## 24 Review differentiation — How do you evaluate whether differentiation is working?
 
-👨‍🏫 → 🤝 → 💡 → ✏️ → 🌫️ → 🌱
-
-## How do you differentiate pace and processing time?
-
-### I protect thinking time without allowing pace to become a ceiling on progress.
-
-I chunk instructions, provide a stable written reference, model the first step and allow sufficient wait or processing time before expecting a response.
-
-Students who are ready can move into independent application or extension while I briefly reteach or prompt a smaller group. Checkpoints keep the class connected and prevent students from becoming lost or simply rushing ahead.
-
-**chunk → model → process → check → support or extend → reconnect**
-
-🧩 → 👨‍🏫 → ⏳ → 🔎 → ↔️ → 🔗
-
-## How does assessment guide differentiation?
-
-### I differentiate from evidence, not assumption.
-
-I use questioning, mini-whiteboards, observation, student work, hinge questions, retrieval and exit tasks to see who is secure, who is uncertain and where the misconception lies.
-
-The evidence may lead to a whole-class change of explanation, a brief small-group reteach, an additional scaffold, more practice, greater independence or deeper extension.
-
-I review the response so that differentiation remains a professional cycle rather than a one-off adjustment.
-
-**elicit → interpret → respond → support or extend → review**
-
-💬 → 🔎 → 🔧 → ↔️ → 🔄
-
-## How do you support a struggling student without lowering expectations?
-
-### Reduce the first barrier, not the ambition.
-
-I identify whether the difficulty is prior knowledge, language, representation, working memory, confidence or the size of the first step.
-
-I may activate prerequisite knowledge, model one example, use a concrete or visual representation, provide a prompt, reduce the number of simultaneous steps or give additional processing time.
-
-I keep the learner connected to the important mathematics, notice success, check understanding and gradually return responsibility to the student.
-
-**identify → reduce barrier → model → practise → fade → progress**
-
-🔎 → 🚧 → 👨‍🏫 → ✏️ → 🌫️ → 📈
-
-## How do you challenge stronger students?
-
-### Greater challenge should usually mean deeper thinking, not simply more work.
-
-I ask students to compare methods, explain why a method works, spot and correct an error, create an example, solve a reverse problem, test a conjecture, generalise a pattern or transfer the idea to an unfamiliar context.
-
-That keeps stronger students connected to the same core learning while increasing reasoning, abstraction, precision and independence.
-
-**apply → compare → explain → justify → generalise → transfer**
-
-🛠️ → ⚖️ → 🗣️ → 🧠 → 🔭 → 🔀
-
-## How do you differentiate through mathematical language?
-
-### Language can be the barrier even when the mathematics is within reach.
-
-I explicitly teach key vocabulary, notation, command words and the language of reasoning. I use annotated examples, visual prompts, word walls, sentence stems and structured explanations where they help students enter the task and express mathematical thinking.
-
-I simplify unnecessary language around the mathematics without oversimplifying the mathematical idea, and I build students' own precise language over time.
-
-**identify language → clarify → model → rehearse → communicate**
-
-🗣️ → 💡 → 👨‍🏫 → 🔄 → 💬
-
-## How do you differentiate assessment while keeping it fair?
-
-### Fair assessment removes barriers to showing the learning; it does not quietly replace the learning outcome.
-
-I begin with what the assessment is intended to establish. I may clarify language, chunk instructions, use a familiar layout, allow agreed processing time or accommodations, provide an appropriate response mode or use assistive technology.
-
-I keep success criteria clear and distinguish an access support from help that would supply the knowledge or skill being assessed. I use several sources of evidence rather than allowing one format to define the learner.
-
-**outcome → identify barrier → provide access → gather evidence → judge fairly**
-
-🎯 → 🚧 → 🔓 → 📊 → ⚖️
-
-## How can technology support differentiation and accessibility?
-
-### Technology is useful when it changes access, feedback or representation—not simply because it is digital.
-
-GeoGebra and Desmos can make abstract relationships visible and manipulable. Digital tools can also provide immediate feedback, adjustable pacing, repeated practice, reduced copying demands and alternative ways to organise or communicate thinking.
-
-I choose the tool from the learning need, teach students how to use it purposefully and check that it increases understanding or independence.
-
-**need → choose tool → represent → interact → feedback → independence**
-
-🎯 → 💻 → 👁️ → 🖱️ → ⚡ → 🌱
-
-## Give an example of differentiation in a Mathematics lesson.
-
-### Keep the mathematical idea common, then vary entry, support, depth and independence.
-
-In a lesson on simplifying algebraic expressions, the shared goal is to recognise structure and combine like terms accurately.
-
-I might begin with a visual sorting task and model one example. Some students use colour, algebra tiles or a partially completed solution; others move directly to symbolic practice. A hinge question tells me who needs a short reteach while the rest continue independently.
-
-For extension, students explain why unlike terms cannot be combined, diagnose an incorrect solution, create an expression with a given simplified form or generalise the method. I then fade the supports and use an exit task to check independent transfer.
-
-**common goal → visual entry → model → scaffold → assess → deepen → fade**
-
-🎯 → 👁️ → 👨‍🏫 → 🏗️ → 🔎 → 🧗 → 🌫️
+I look for evidence that more students can access the learning, meet the success criteria and work with increasing independence. I compare student work, participation, questioning and assessment evidence, and use check-in points to identify where a support helped or created dependence. I then make responsive adjustments to entry point, scaffolding, representation, pace or challenge rather than repeating the same approach automatically.
