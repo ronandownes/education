@@ -47,19 +47,30 @@
           display:block;
           width:100%;
           box-sizing:border-box;
-          margin:5px 0 10px;
-          padding:0;
+          margin:9px 0 14px;
+          padding:0 0 9px;
           border:0;
+          border-bottom:1px solid #e5e7eb;
           background:transparent;
           color:#4b5563;
           font-size:.9rem;
-          line-height:1.4;
+          line-height:1.45;
           font-weight:400;
           letter-spacing:0;
         }
-        @media(max-width:600px){.question-breadcrumb-line{font-size:.84rem}}
+        @media(max-width:600px){
+          .question-breadcrumb-line{margin-top:8px;margin-bottom:12px;padding-bottom:8px;font-size:.84rem}
+        }
         @media print{
-          .question-breadcrumb-line{margin:1mm 0 1.8mm;padding:0;font-size:8pt;line-height:1.2;background:transparent;border:0;font-weight:400}
+          .question-breadcrumb-line{
+            margin:1.8mm 0 2.4mm;
+            padding:0 0 1.4mm;
+            border-bottom:.4pt solid #bfc3c8;
+            background:transparent;
+            font-size:8pt;
+            line-height:1.2;
+            font-weight:400;
+          }
         }
       `;
       document.head.appendChild(style);
@@ -84,10 +95,8 @@
 
       const headingRow = heading.closest('.answer-heading-row');
       if (headingRow) {
-        // The question lives in the heading row; put the prompt immediately after it.
         headingRow.insertAdjacentElement('afterend', line);
       } else {
-        // Plain Markdown page: question H2, then prompt, then the answer paragraph.
         heading.insertAdjacentElement('afterend', line);
       }
     });
