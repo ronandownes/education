@@ -3,14 +3,15 @@ layout: doc
 permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
-intro: My planning starts with the learner and the evidence, aligns with the curriculum, sequences the learning, designs for access and challenge, builds in assessment, and adapts as evidence comes in.
+intro: My planning starts with the learner and the evidence, aligns with the
+  curriculum, sequences the learning, designs for access and challenge, builds
+  in assessment, and adapts as evidence comes in.
 ---
-# Planning & Curriculum
-
 ## Word Wall
 
+
 | **Start** | **Align** | **Sequence** | **Design** | **Assess** | **Adapt** |
-|---|---|---|---|---|---|
+| ------------------------- | --------------------------- | -------------------------- | ---------------------------- | ------------------------- | ------------------------- |
 | Handover (5) | Curriculum (6) | Map across the year (3) | Achievable learning goal (2) | Formative assessment (6) | Adjust pace (3) |
 | Learner profile (4) | Learning outcomes (8) | Retrieval (13) | Key vocabulary (3) | Effective questioning (3) | Responsive (4) |
 | Low-stakes diagnostic (2) | Scheme of work (8) | Retrieval points (3) | Support & challenge (5) | Assessment points (2) | Record decisions (2) |
@@ -27,10 +28,12 @@ intro: My planning starts with the learner and the evidence, aligns with the cur
 |  |  |  | Learner independence (2) |  |  |
 |  |  |  | Practical contexts (1) |  |  |
 
+
 ## 24 Interview Questions
 
+
 | **PC concept** | **Interview question** |
-|---|---|
+| --------------------------------------- | -------------------------------------------------------------------------------------------- |
 | **1 Yearly plan — second Maths** | If you were given a second-year Maths class in September, how would you plan the year? |
 | **2 Short-notice lesson** | How would you plan a lesson on short notice? |
 | **3 Starting point** | How do you establish a real starting point for a class? |
@@ -56,12 +59,15 @@ intro: My planning starts with the learner and the evidence, aligns with the cur
 | **23 Formative assessment** | How do you incorporate formative assessment into your planning? |
 | **24 Evaluate planning** | How do you evaluate and improve a scheme of work or future planning? |
 
-<a id="if-you-were-given-a-second-year-maths-class-in-september-how-would-you-plan-the-year"></a>
+
+
+
 ## 1 Yearly plan — second Maths — If you were given a second-year Maths class in September, how would you plan the year?
 
 I start with the **handover**, **scheme of work** and **learner profile** to establish where the class actually is. I use an early **low-stakes diagnostic** to confirm the **starting point**, then **map the relevant learning outcomes across the year**. I build in **retrieval points**, **formative assessment** and **consolidation**, and **adapt** the plan as evidence comes in.
 
-<a id="how-do-you-plan-a-lesson"></a>
+
+
 ## 2 Short-notice lesson — How would you plan a lesson on short notice?
 
 I establish where the class is in their learning, check the **scheme of work** and relevant **learning outcome**, and unpack it to an **achievable lesson goal**. I use **retrieval** to activate prior learning and identify or pre-teach **key vocabulary**. I then let **formative assessment** and **effective questioning** guide the lesson and finish by identifying the **natural next step**.
@@ -126,7 +132,8 @@ I use the **learner profile**, **Student Support Files** and collaboration with 
 
 I keep the core learning goal ambitious and vary the route, **scaffold** and depth. **Additional support** may include modelling, prompts, **worked examples**, manipulatives, **key vocabulary** or extra **guided practice**. I **increase challenge** through **justification**, **generalisation**, comparing methods and unfamiliar problem-solving rather than simply adding more questions. **Formative assessment** and **observation** help me match **support and challenge** to current need.
 
-<a id="how-do-you-plan-for-different-programmes-and-pathways"></a>
+
+
 ## 18 Programmes & pathways — How do you plan for different programmes and pathways?
 
 I begin with the **programme outcomes**, **curriculum requirements** and **assessment requirements** of the particular pathway. I adapt the sequence, pacing, context, resources and level of **scaffolding** for Junior Cycle, Senior Cycle, LCA or a learning-support setting. I use **practical contexts** where appropriate while keeping the learning purposeful and ambitious. The route changes, but the planning remains aligned to the **curriculum** and **responsive** to the learner.
