@@ -15,7 +15,7 @@
 | Reliability (4) | Line management (1) | Resource development (3) | Review (5) | School community (2) |
 | Ethical practice (1) | Collective goals (2) | Sustainable contribution (1) | Adapt (4) | Professional growth (2) |
 
-## 24 Interview Questions
+## Professional Responsibility Concepts and Questions
 
 | **PR concept** | **Interview question** |
 |---|---|
