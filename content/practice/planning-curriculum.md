@@ -7,7 +7,7 @@ intro: My planning starts with the learner and the evidence, aligns with the
   curriculum, sequences the learning, designs for access and challenge, builds
   in assessment, and adapts as evidence comes in.
 ---
-## Word Wall
+## Planning & Curriculum Word Wall
 
 
 | **Start** | **Align** | **Sequence** | **Design** | **Assess** | **Adapt** |
