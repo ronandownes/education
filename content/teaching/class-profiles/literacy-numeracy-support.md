@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/literacy-numeracy-support.html
 title: Literacy and Numeracy Support — Timetabled Group
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
