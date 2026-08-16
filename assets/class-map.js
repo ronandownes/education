@@ -75,6 +75,9 @@
   dialog.className = 'student-dialog';
   document.body.appendChild(dialog);
 
+  let activeGrid = null;
+  let activeCard = null;
+
   dialog.addEventListener('click', (event) => {
     if (event.target === dialog) dialog.close();
   });
@@ -119,8 +122,22 @@
     return `<section class="profile-field${wide ? ' profile-field--wide' : ''}"><h3>${label}</h3><p>${value}</p></section>`;
   }
 
+  function cardsInActiveGrid() {
+    return activeGrid ? [...activeGrid.querySelectorAll('.class-map-card')] : [];
+  }
+
+  function moveStudent(step) {
+    const cards = cardsInActiveGrid();
+    if (!cards.length || !activeCard) return;
+    const current = cards.indexOf(activeCard);
+    const next = cards[(current + step + cards.length) % cards.length];
+    if (next) openCard(next);
+  }
+
   function show(profile, hasSsf) {
     const title = hasSsf ? 'Student Support File' : 'Learner profile';
+    const cards = cardsInActiveGrid();
+    const position = Math.max(0, cards.indexOf(activeCard));
     dialog.innerHTML = `
       <button class="dialog-close" type="button" aria-label="Close">×</button>
       <p class="profile-kicker">${hasSsf ? 'FICTIONAL STUDENT SUPPORT FILE' : 'FICTIONAL WORKING PROFILE'}</p>
@@ -131,6 +148,11 @@
         </div>
         ${hasSsf ? '<span class="profile-ssf-mark">SSF</span>' : ''}
       </div>
+      <nav class="profile-student-nav" aria-label="Move between students">
+        <button class="profile-nav-button profile-nav-prev" type="button" aria-label="Previous student">← <span>Previous student</span></button>
+        <span class="profile-nav-position">${cards.length ? `${position + 1} of ${cards.length}` : ''}</span>
+        <button class="profile-nav-button profile-nav-next" type="button" aria-label="Next student"><span>Next student</span> →</button>
+      </nav>
       <div class="profile-chips">
         <span>${profile.support}</span>
         <span>${hasSsf ? profile.level : 'Classroom profile'}</span>
@@ -149,8 +171,28 @@
       ${hasSsf ? '<p class="profile-file-note"><strong>Purpose:</strong> record the agreed support, monitor its impact and review what should continue, change or fade.</p>' : ''}
       <p class="profile-demo-note">Entirely invented demonstration data. No real pupil is represented.</p>`;
     dialog.querySelector('.dialog-close').addEventListener('click', () => dialog.close());
-    dialog.showModal();
+    dialog.querySelector('.profile-nav-prev').addEventListener('click', () => moveStudent(-1));
+    dialog.querySelector('.profile-nav-next').addEventListener('click', () => moveStudent(1));
+    if (!dialog.open) dialog.showModal();
   }
+
+  function openCard(card) {
+    if (!card) return;
+    activeCard = card;
+    activeGrid = card.closest('.class-map-grid');
+    show(card._profile, card._hasSsf);
+  }
+
+  document.addEventListener('keydown', (event) => {
+    if (!dialog.open) return;
+    if (event.key === 'ArrowLeft') {
+      event.preventDefault();
+      moveStudent(-1);
+    } else if (event.key === 'ArrowRight') {
+      event.preventDefault();
+      moveStudent(1);
+    }
+  });
 
   roots.forEach((root) => {
     const count = Number(root.dataset.count || 12);
@@ -175,13 +217,15 @@
       card.type = 'button';
       card.className = `class-map-card${hasSsf ? ' has-ssf' : ''}`;
       card.draggable = true;
+      card._profile = profile;
+      card._hasSsf = hasSsf;
       card.setAttribute('aria-label', `${name}. ${hasSsf ? 'Open fictional Student Support File.' : 'Open fictional learner profile.'}`);
       card.innerHTML = `
         ${hasSsf ? '<span class="class-map-ssf-badge">SSF</span>' : ''}
         <span class="class-map-photo" style="background-position:${col * 10}% ${row * 10}%"></span>
         <strong>${name}</strong>
         <small>${hasSsf ? 'Student Support File' : profile.support}</small>`;
-      card.addEventListener('click', () => show(profile, hasSsf));
+      card.addEventListener('click', () => openCard(card));
       grid.appendChild(card);
     }
 
