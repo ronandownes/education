@@ -8,12 +8,43 @@ intro: My planning starts with the learner and the evidence, aligns with the
   in assessment, and adapts as evidence comes in.
 ---
 
+## Planning & Curriculum Retrieval Chains
+
+| Concept | Retrieval chain |
+| --- | --- |
+| General approach | Learner + evidence → curriculum → sequence → access/challenge → assessment → adapt from evidence |
+| Yearly plan — second Maths | Handover → scheme → learner profile → diagnostic starting point → map LOs/year → retrieval → AfL → consolidation → adapt |
+| Short-notice lesson | Where are they? → scheme/LO → achievable goal → retrieval/prior → key vocab → Q/AfL → next step |
+| Starting point | Handover + previous work + assessment + needs + retrieval → strengths/gaps → misconceptions/barriers → starting point |
+| Yearly plan — first Maths | Transition/handover → primary evidence → retrieval/diagnostic → strengths/gaps/misconceptions → unpack LOs → sequence → consolidate → adapt pace/S/C |
+| Specification & learning outcomes | Specification → unpack LOs → action verbs/depth → connect outcomes → coherent sequence → SC/assessment → adapt from evidence |
+| Scheme of work | Specification/LOs → starting point/prereqs → map year → sequence → retrieval/consolidation/assessment → resources/time → flexible |
+| Subject plan vs scheme | Subject plan = department framework → curriculum/assessment/inclusion/resources/expectations → scheme = class/year sequence → individual planning within both |
+| Department planning | Share resources/evidence/misconceptions → agree LOs/sequence/terminology/expectations/assessment → professional judgement → record decisions |
+| Continuity & progression | Schemes + records + handover → what taught/secure → prerequisites → retrieval confirms gaps → revisit essentials → progression/next step |
+| Handover | Scheme point → assessment → learner profile/support → previous teacher → strengths/misconceptions/barriers/strategies → hypothesis → retrieval/observation confirm |
+| Assessment evidence | Beyond mark → patterns/misconceptions → move/re-teach/support/re-rep/challenge → flexible grouping/GP → next plan responds |
+| Not understood | Diagnose misconception/prereq → re-teach/change rep/example/explanation/task → GP → hinge/MWB/exit → reconnect sequence |
+| Coverage vs depth | Prioritise unlockers → AfL readiness → revisit prereqs → retrieval/cumulative/interleave → maintain pace without sacrificing foundations |
+| Retrieval & consolidation | Retrieval across year → homework/Q/cumulative review → interleave → consolidation after units/before dependencies → remembering designed in |
+| Mixed ability | Common worthwhile goal → multiple reps/routes → model/worked ex/scaffold → GP → IP → extension via reasoning/justify/generalise → AfL S/C |
+| AEN literacy numeracy | Learner profile/SSF/support staff → anticipate barriers → vocab/instructions/reps/steps/processing → AT/scaffolds → review impact → independence |
+| Support & challenge | Ambitious core → vary route/scaffold/depth → model/prompts/worked ex/GP → challenge justify/generalise/unfamiliar problems → AfL/observation match need |
+| Programmes & pathways | Programme outcomes + curriculum + assessment → adapt sequence/pace/context/resources/scaffold → practical context → ambitious/purposeful → responsive |
+| Junior vs Senior Cycle | JC outcomes/connections/investigate/reason/progress → SC syllabus/level/exam → both coherent sequence/retrieval/responsive → curriculum + learners, not textbook |
+| LCA | Programme outcomes/assessment → practical relevant contexts → achievable stages → essential numeracy/success → record evidence → key assignments |
+| Level 1 / Level 2 | Priority needs + L1/L2 outcomes → support team → meaningful targets → concrete/accessible → communication/numeracy/independence → record small progress → inclusion |
+| Prior knowledge & misconceptions | Identify prereqs + likely misconceptions → retrieval/diagnostic → reps/worked ex/varied tasks → expose thinking → revisit prereq/re-rep before build |
+| Formative assessment | Plan evidence points → Q/hinge/MWB/observation/exit → link to misconceptions/SC → adjust pace/grouping/explanation/GP → next step |
+| Evaluate planning | Intended vs taught vs learned → evidence/misconceptions/pacing/resources/S/C → reflect explanations/reps/tasks → retain/move/remove/strengthen → next scheme |
+
+## General approach — What is your general approach to planning and curriculum?
+
+My planning starts with the learner and the evidence, aligns with the curriculum, sequences the learning coherently, designs for access and challenge, builds in assessment, and adapts as evidence comes in. I want the plan to be clear enough to give direction but flexible enough to respond to the students in front of me.
 
 ## Yearly plan — second Maths — If you were given a second-year Maths class in September, how would you plan the year?
 
 I start with the **handover**, **scheme of work** and **learner profile** to establish where the class actually is. I use an early **low-stakes diagnostic** to confirm the **starting point**, then **map the relevant learning outcomes across the year**. I build in **retrieval points**, **formative assessment** and **consolidation**, and **adapt** the plan as evidence comes in.
-
-
 
 ## Short-notice lesson — How would you plan a lesson on short notice?
 
@@ -79,8 +110,6 @@ I use the **learner profile**, **Student Support Files** and collaboration with 
 
 I keep the core learning goal ambitious and vary the route, **scaffold** and depth. **Additional support** may include modelling, prompts, **worked examples**, manipulatives, **key vocabulary** or extra **guided practice**. I **increase challenge** through **justification**, **generalisation**, comparing methods and unfamiliar problem-solving rather than simply adding more questions. **Formative assessment** and **observation** help me match **support and challenge** to current need.
 
-
-
 ## Programmes & pathways — How do you plan for different programmes and pathways?
 
 I begin with the **programme outcomes**, **curriculum requirements** and **assessment requirements** of the particular pathway. I adapt the sequence, pacing, context, resources and level of **scaffolding** for Junior Cycle, Senior Cycle, LCA or a learning-support setting. I use **practical contexts** where appropriate while keeping the learning purposeful and ambitious. The route changes, but the planning remains aligned to the **curriculum** and **responsive** to the learner.
@@ -109,12 +138,9 @@ I plan the evidence I need before the lesson, not merely the activity I will del
 
 I compare the intended sequence with what was actually taught and, more importantly, what students learned. I review **assessment evidence**, **misconceptions**, pacing, resources, **support and challenge**, and I **reflect** on which explanations, representations and tasks worked best. I record what should be retained, moved, removed or strengthened. That reflection and evidence become the **starting point** for the next **scheme of work** rather than relying on memory.
 
-
-
 &nbsp;
 
 ## Planning & Curriculum Word Wall
-
 
 | **Start** | **Align** | **Sequence** | **Design** | **Assess** | **Adapt** |
 | ------------------------- | --------------------------- | -------------------------- | ---------------------------- | ------------------------- | ------------------------- |
@@ -134,12 +160,11 @@ I compare the intended sequence with what was actually taught and, more importan
 |  |  |  | Learner independence (2) |  |  |
 |  |  |  | Practical contexts (1) |  |  |
 
-
 ## Planning & Curriculum Concepts and Questions
-
 
 | **PC concept** | **Interview question** |
 | ------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **General approach** | What is your general approach to planning and curriculum? |
 | **Yearly plan — second Maths** | If you were given a second-year Maths class in September, how would you plan the year? |
 | **Short-notice lesson** | How would you plan a lesson on short notice? |
 | **Starting point** | How do you establish a real starting point for a class? |
@@ -164,5 +189,3 @@ I compare the intended sequence with what was actually taught and, more importan
 | **Prior knowledge & misconceptions** | How do prior knowledge and likely misconceptions influence your planning? |
 | **Formative assessment** | How do you incorporate formative assessment into your planning? |
 | **Evaluate planning** | How do you evaluate and improve a scheme of work or future planning? |
-
-
