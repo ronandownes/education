@@ -8,6 +8,39 @@ intro: I start with the learner, not the label; identify strengths, needs and
   participation, independence and ambition.
 ---
 
+## AEN & Inclusion Retrieval Chains
+
+| Concept | Retrieval chain |
+| --- | --- |
+| General approach | Learner not label → strengths + needs + barriers → evidence → adapt access/support → high expectations → review impact → participation/independence |
+| Identify needs | Handover/SSF/prior attainment/attendance → observation/work/checking/student voice → strengths + needs → access barriers → classroom profile |
+| Learner profile | Strengths → needs → aspirations/interests → prior attainment → communication/sensory/attendance/supports → current evidence → update |
+| Student Support File | Strengths + priority need → short-term target → accommodation/strategies → classroom decisions → contribute evidence → record/review |
+| Evaluate support | Access → participation → progress → independence → prompting needed → student voice → monitor/evaluate → record/review → adapt |
+| Independence | Participate meaningfully → scaffold/prompt/reduced first step → fade support → check understanding → transfer → independence |
+| Autism | Learner profile → predictability/routines → explicit language/visuals → processing/sensory/communication → reduce public pressure → high expectations |
+| ADHD | Organisation visible → routines/chunking/explicit language → manageable steps/choice → check → movement if appropriate → executive function → clear expectations |
+| Dyslexia | Remove literacy barrier → accessible layout/visuals/explicit language → word bank/worked ex/chunk → assistive tech/accommodation → check concept vs language |
+| Numeracy | Concrete → multiple reps/visual → worked example → manageable stages → retrieval number relationships → monitor → worthwhile maths goal |
+| Communication | Reduce language load → explicit language/visuals/chunk → communication profile → prompt/alternative response → processing time → check → same worthwhile learning |
+| Cognitive load | Prior knowledge → limit new → chunk/sequence → worked example → multiple reps → words + visuals → remove distraction → scaffold → fade |
+| Executive function | Make task organisation visible → routines/sequence/chunk → reduced first step → intermediate goals → check → timer/movement/prompt → independence |
+| Sensory & regulation | Sensory profile/barrier → predictability/layout → reduce stimulation → choice/processing/movement → collaborate → dignity/participation → review impact |
+| Anxiety & distress | Relational safety → predictability → manageable re-entry → reduced first step/processing/choice → check calmly → monitor → coordinated support |
+| Attendance | Establish missed vs retained → prior/current work/retrieval → priority gaps → short-term target → coordinated support → monitor attendance/progress → re-engage |
+| Learning support | Mainstream + LS/small group/withdrawal → concrete/visual/AT → model/worked ex/scaffold → targeted support → connect to curriculum → participation/independence |
+| Team-teaching | Shared planning → common goal/barriers/roles/checks → flexible grouping/prompts/alternative response → compare evidence → evaluate/adapt |
+| Small-group / withdrawal | Clear purpose → identified target → explicit priority skill → transfer back → monitor progress → review inclusion balance |
+| SNA | Teacher retains teaching responsibility → plan SNA support → access/care/participation → avoid dependence → fade where appropriate → share observations → independence |
+| L1LP / L2LP | Priority learning outcomes → learner needs → coordinate team → concrete/accessible/explicit/visual → short-term targets → evidence progress → class connection |
+| Accommodation & technology | Identify genuine barrier → agreed accommodation/tool → teach use → same expectation → check access/independence → evaluate/adapt |
+| Collaboration | Shared planning → AEN coordinator/teachers/SNA/parents → classroom evidence + student voice → agree priorities → monitor → record/review |
+| High expectations | Strengths/aspirations/interests → ambitious common learning → support access, not lower demand → evidence of capability → adjust challenge |
+| Review support | Short-term target → work/checking/participation/student voice → monitor progress → evaluate with team → continue/change/fade → record/review |
+
+## General approach — What is your general approach to AEN and inclusion?
+
+I start with the learner, not the label. I identify strengths, needs and barriers using the Student Support File, classroom evidence and student voice, then adapt access and support without lowering worthwhile expectations. I review whether the support is increasing participation, individual progress and learner independence, and I change or fade it when the evidence says I should.
 
 ## Identify needs — How do you identify the educational needs of your students?
 
@@ -105,14 +138,11 @@ I actively guard against additional needs becoming low expectations. I begin wit
 
 I review support systematically rather than leaving it in place indefinitely. I monitor progress against the short-term target, gather student work, checking understanding, participation data and student voice, and evaluate impact with the AEN coordinator and relevant team. We record and review what should continue, change or fade. The aim is coordinated support that increases access, individual progress and learner independence.
 
-
-
 &nbsp;
 
 &nbsp;
 
 ## AEN & Inclusion Word Wall
-
 
 | **Learner** | **Barrier** | **Access** | **Support** | **Impact** |
 | ------------------------- | -------------------------- | ---------------------------- | ---------------------------- | ------------------------ |
@@ -129,12 +159,11 @@ I review support systematically rather than leaving it in place indefinitely. I 
 | Sensory profile (3) | Sensory needs (1) | Multiple representations (2) | SNA support (2) | Shared planning (2) |
 | Individual progress (5) | General learning needs (1) | Retrieval (2) | L1LP / L2LP (1) | Parents / guardians (1) |
 
-
 ## AEN & Inclusion Concepts and Questions
-
 
 | **AEN concept** | **Interview question** |
 | ------------------------------ | --------------------------------------------------------------------------------- |
+| **General approach** | What is your general approach to AEN and inclusion? |
 | **Identify needs** | How do you identify the educational needs of your students? |
 | **Learner profile** | What do you look for in a learner profile? |
 | **Student Support File** | How do you use a Student Support File? |
@@ -159,9 +188,6 @@ I review support systematically rather than leaving it in place indefinitely. I 
 | **Collaboration** | How do you collaborate with the AEN team and parents or guardians? |
 | **High expectations** | How do you avoid additional needs becoming low expectations? |
 | **Review support** | How do you review AEN support over time? |
-
-
-
 
 &nbsp;
 
