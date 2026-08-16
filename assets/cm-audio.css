@@ -114,32 +114,43 @@
   font-weight:400!important;
 }
 
-/* Retrieval-chain tables are always weighted 20/80 site-wide. This targets
-   both the raw Markdown DOM and the section-wrapped DOM used by rehearsal UI,
-   so later JavaScript cannot collapse the columns back towards 50/50. */
+/* Retrieval tables are always weighted 20/80 site-wide. Support both the
+   standard "Retrieval Chains" heading and older "Retrieval Table" headings. */
 #docBody > h2[id*="retrieval-chains"] + table,
-.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type{
+#docBody > h2[id*="retrieval-table"] + table,
+.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type,
+.answer-section:has(h2[id*="retrieval-table"]) .section-content table:first-of-type{
   width:100%!important;
   table-layout:fixed!important;
 }
 #docBody > h2[id*="retrieval-chains"] + table th:first-child,
 #docBody > h2[id*="retrieval-chains"] + table td:first-child,
+#docBody > h2[id*="retrieval-table"] + table th:first-child,
+#docBody > h2[id*="retrieval-table"] + table td:first-child,
 .answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type th:first-child,
-.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type td:first-child{
+.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type td:first-child,
+.answer-section:has(h2[id*="retrieval-table"]) .section-content table:first-of-type th:first-child,
+.answer-section:has(h2[id*="retrieval-table"]) .section-content table:first-of-type td:first-child{
   width:20%!important;
   max-width:20%!important;
 }
 #docBody > h2[id*="retrieval-chains"] + table th:last-child,
 #docBody > h2[id*="retrieval-chains"] + table td:last-child,
+#docBody > h2[id*="retrieval-table"] + table th:last-child,
+#docBody > h2[id*="retrieval-table"] + table td:last-child,
 .answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type th:last-child,
-.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type td:last-child{
+.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type td:last-child,
+.answer-section:has(h2[id*="retrieval-table"]) .section-content table:first-of-type th:last-child,
+.answer-section:has(h2[id*="retrieval-table"]) .section-content table:first-of-type td:last-child{
   width:80%!important;
   max-width:80%!important;
 }
 
 @media(max-width:600px){
   #docBody > h2[id*="retrieval-chains"] + table,
-  .answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type{
+  #docBody > h2[id*="retrieval-table"] + table,
+  .answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type,
+  .answer-section:has(h2[id*="retrieval-table"]) .section-content table:first-of-type{
     table-layout:fixed!important;
   }
 }
