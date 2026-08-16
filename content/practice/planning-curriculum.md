@@ -60,8 +60,6 @@ intro: My planning starts with the learner and the evidence, aligns with the
 | **24 Evaluate planning** | How do you evaluate and improve a scheme of work or future planning? |
 
 
-
-
 ## 1 Yearly plan — second Maths — If you were given a second-year Maths class in September, how would you plan the year?
 
 I start with the **handover**, **scheme of work** and **learner profile** to establish where the class actually is. I use an early **low-stakes diagnostic** to confirm the **starting point**, then **map the relevant learning outcomes across the year**. I build in **retrieval points**, **formative assessment** and **consolidation**, and **adapt** the plan as evidence comes in.
