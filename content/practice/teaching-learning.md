@@ -109,3 +109,39 @@ I look at **evidence of student learning**, not simply whether I felt a lesson w
 **Know the learner → activate prior knowledge → clear learning intention → chunk/model/represent → guided practice → independent practice → question → check → adapt → consolidate/challenge**
 
 That is what I would start learning now. The 24 answers are variations around **that one route**, not 24 separate speeches.
+
+
+
+
+|  |  |  |  |  |
+| -------------------------- | ---------------------------------- | -------------------- | ----------------------- | ------------------------- |
+| **🎓 Teaching & Learning** |  |  |  |  |
+| **Plan** | **Teach** | **Secure** | **Engage** | **Respond** |
+| **Carefully** | **Clearly** | **The learning** | **Students thinking** | **Evidence of learning.** |
+| Know the students | Clear on what i want them to learn | Explain |  | Check for understanding |
+| Learning intention | Clear explanation | Model |  | Adapt teaching |
+| Clear goal | Teacher modelling | Clearly |  | Increase challenge |
+| Success criteria | Multiple representations | Guided practice | Mini-whiteboards | Adjust pace |
+| Activate prior knowledge | Chunking | Independent practice | Active learning | Change representation |
+| Clear lesson focus | Worked example | Consolidation | Think–pair–share | Scaffolding |
+| Coherent sequence | Think-aloud | Retrieval practice | Guided discovery | Fade support |
+| Prerequisites | Make thinking visible | Deliberate practice | Student explanations | AfL evidence |
+| Misconceptions | Explicit instruction | Reasoning | Justification | Re-teach |
+| Small steps | Gradual release | Application | Wait time | Feedback loop |
+| High expectations | Cognitive load | Spacing | Hinge questions | Learner independence |
+| Pre-teach vocabulary | Limit new information | Cumulative review | Inclusive participation | Remove barriers |
+| Learner need | Integrate words + visuals | Interleaving | Learner engagement | Pause and diagnose |
+| Closure | Remove redundancy | Transfer | Collaborative learning | Evaluate impact |
+|  | Example–non-example | Rehearsal | Student voice | Reflect and refine |
+|  | Subject vocabulary |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+
