@@ -6,320 +6,108 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: My answers on explanation, modelling, questioning, active learning,
   digital learning and building understanding.
 ---
-# Teaching & Learning
+# Teaching & Learning — 24 Interview Answers
 
-## Vocabulary
+The wording is deliberately repetitive. **You are learning one teaching language and then bending it slightly to the question asked.**
 
+## What are the key features of good teaching?
 
-| Learn | Model | Retrieve | Question | Scaffold |
-| ---------- | --------------- | ----------- | ------------- | ----------- |
-| Clarify | Check | Explain | Discuss | Practise |
-| Connect | Guide | Explore | Apply | Challenge |
-| Chunk | Represent | Collaborate | Revisit | Consolidate |
-| Dictionary | Bilingual cor.. | Elicit it | Real life use | Pre teach |
+For me, good teaching starts with **knowing the students in front of me** and being clear about what I want them to learn. I explain and model clearly, then move students from guided towards independent practice. I use questioning to make their thinking visible and check understanding throughout. Then I respond to that evidence by adapting the pace, support, representation or level of challenge.
 
+## What does an effective lesson look like?
 
-## Vocabulary
+I start with a **clear learning intention** and activate the prior knowledge students need. I model or represent the new learning clearly, then move from guided towards independent practice. Throughout the lesson I use questioning, mini-whiteboards or short checks to see what students understand. I adapt where necessary and finish by consolidating the important learning rather than simply reaching the end of the activity.
 
+## How do you teach a difficult concept?
 
-| 🧠 Learn | 👨‍🏫 Model | 🔄 Retrieve | ❓ Question | 🧩 Scaffold |
-| ---------- | ------------ | -------------- | ----------- | -------------- |
-| 🎯 Clarify | 👀 Check | 💡 Explain | 🗣️ Discuss | ✏️ Practise |
-| 🔗 Connect | 🧭 Guide | 🔍 Explore | 🛠️ Apply | 📈 Challenge |
-| 🧱 Chunk | 🎨 Represent | 🤝 Collaborate | 🔁 Revisit | 🔒 Consolidate |
+I first check the **prior knowledge and prerequisites** and try to identify likely misconceptions. I then chunk the concept, model it clearly and use a worked example or another representation. Students move into guided practice and then greater independence while explaining their thinking. I check understanding throughout and, if it isn't working, I change the representation or re-teach rather than simply repeating the same explanation.
 
+## How do you explain something clearly?
 
-I particularly want **Model, Retrieve, Question, Scaffold, Check, Practise, Challenge, Chunk, Represent, Revisit, Consolidate** in there 
+I connect the new learning to **what students already know** and keep the focus very clear. I chunk the explanation, model my thinking and use an appropriate representation without adding unnecessary information. Then I get students doing something with the idea quite quickly. I ask them to explain it back to me, because that tells me whether the explanation has actually worked or whether I need to represent it differently.
 
+## How do you use modelling effectively?
 
+I use modelling to **make the thinking visible**, not simply to demonstrate an answer. I might think aloud through a worked example, explaining the decisions, steps and mathematical language I am using. Students then move from watching to guided practice and gradually towards independence. I keep questioning and checking understanding, and I fade the support as students become more secure.
 
-## **What are the key features of good teaching?**
+## How do you scaffold learning?
 
-👥 **Know the students** → 🧭 **Clear direction** → 🛠️ **Adapt teaching** → 📈 **Check progress** → 🤝 **Build confidence**
-
-Your evidence anchor: you taught small classes and created a synthesised profile for each class so that planning began with the actual students and their needs.
-
-Now answer aloud, beginning:
-
-> “For me, good teaching begins with knowing the students in front of me…”
-
-### Clear explanation matters, but students must do the thinking.
-
-I plan from the learning intention and the students in front of me. I explain and model clearly, then move students into prediction, discussion, practice, justification and application. I check understanding continuously and change pace, representation or support when the evidence tells me to.
-
-Across Mathematics, Science, Physics, Computer Science and Applied Mathematics, I want students to understand what they are doing rather than merely imitate a procedure.
-
-
-
-## Cognitive Load
-
-
-| 🔄 Activate prior knowledge | 🔢 Limit new information | 🧩 Chunk and sequence | 👨‍🏫 Model the steps |
-| --------------------------- | ------------------------------ | ------------------------------------ | --------------------------- |
-| 📝 Use worked examples | 🔗 Integrate words and visuals | 🧹 Remove redundancy and distraction | 📉 Guide, then fade support |
-
+I scaffold according to **learner need**, giving enough support to provide access without removing the thinking. That might involve chunking, modelling, a worked example, a prompt, vocabulary support or a visual representation. I then move students from guided towards more independent practice. I keep checking understanding and gradually fade the scaffold, because independence is ultimately the goal.
 
 ## How do you reduce cognitive load?
 
-### Keep the thinking that matters and remove avoidable load around it.
-
-Working memory is limited, particularly when students are dealing with unfamiliar material.
-
-I **activate prior knowledge, limit the amount of new information, chunk and sequence the learning, model the steps, use worked examples, integrate words and visuals, remove redundant information and gradually fade guidance**.
-
-Reducing cognitive load does not mean reducing intellectual demand. It means removing avoidable demands so that students can concentrate on the learning itself.
-
-### Verbal Retrieval
-
-**prior knowledge → limit → chunk → model → worked example → integrate → remove → fade**
-
-### Visual Retrieval
-
-🔄 → 🔢 → 🧩 → 👨‍🏫 → 📝 → 🔗 → 🧹 → 📉
-
-### Mixed Retrieval
-
-retrieve 🔄 → limit 🔢 → chunk 🧩 → model 👨‍🏫 → example 📝 → integrate 🔗 → remove 🧹 → fade 📉
+I activate prior knowledge, introduce new material in **manageable steps** and limit unnecessary information. I chunk and sequence the learning, model clearly, use worked examples and integrate words and visuals where that helps. I remove redundancy and distraction and give students guided practice before gradually fading support. The important distinction is that reducing cognitive load does **not** mean reducing intellectual demand.
 
 ## How do you make learning active without losing structure?
 
-**Key line: Activity has to serve the learning intention.**
+For me, **activity has to serve the learning intention**. I give students enough explanation and modelling to access the task, then move the thinking to them through reasoning, application, mini-whiteboards, think-pair-share, sorting tasks or guided discovery. I keep the activity purposeful and bring the class back together to make the important learning explicit. I then check the evidence and adapt if necessary.
 
-I use questioning, mini-whiteboards, think-pair-share, sorting tasks, practical work, guided discovery and technology where they make the thinking more visible. I keep the task purposeful and bring the class back together to make the mathematics or science explicit.
+## How do you make sure students are doing the thinking?
+
+I model **enough to give students access**, but I don't want my explanation to become the whole lesson. Students need opportunities to predict, reason, practise, explain, justify and apply. I use questioning and proper wait time rather than immediately supplying answers. As understanding develops, I fade support and increase the level of independence and challenge.
+
+## How do you use questioning effectively?
+
+I use questioning to **activate prior knowledge, expose misconceptions and check current understanding**. I move from retrieval questions into explanation, reasoning and justification, and I give students proper thinking time. I try to involve the whole class rather than relying on volunteers. Their responses give me formative evidence to decide whether to move on, probe further, re-teach or increase the challenge.
 
 ## How do you know whether students have understood?
 
-**Key line: I look for evidence during the lesson, not only at the end.**
+I look for evidence **during the learning, not just at the end**. I use questioning, mini-whiteboards, observation, student explanations, written work and short checks. I'm looking for whether students can actually explain or apply the idea rather than simply copy a procedure. That evidence tells me whether to consolidate and extend or whether I need to practise, scaffold, re-teach or change the representation.
 
-Questioning, observation, student explanations, written work, practical outcomes and short checks tell me whether to extend, practise, reteach or change representation.
+## How do you identify and respond to misconceptions?
 
-## Digital Learning / ICT {#digital-learning-ict}
+I try to **surface misconceptions early** through retrieval, questioning and carefully chosen examples. Once I identify one, I make the difference between the misconception and the correct reasoning explicit, often using another example or representation. Students then practise the corrected idea and explain their thinking. I also revisit it later through retrieval because one correction does not necessarily mean the misconception has disappeared.
 
-**Key line: Digital technology should be embedded, not bolted on — it earns its place by improving learning.**
+## How do you use retrieval practice?
 
-**My five hooks: Purpose · Learning · Inclusion · Evidence · Ethics.**
+I use retrieval to **activate prior knowledge and strengthen learning over time**. It might be a few short questions at the beginning of a lesson or material deliberately revisited from earlier topics. It also gives me useful formative information about what students actually remember. So retrieval is not just revision; it helps me decide what can be extended and what needs to be modelled, practised or revisited.
 
-My starting point is the learning intention and the learner, not the device. I ask **why** a digital tool is useful, then choose it where it can improve active engagement, knowledge construction, collaboration, assessment, differentiation, accessibility or feedback. I evaluate its impact, model safe and ethical use, and share effective practice with colleagues.
+## How do you use formative assessment to inform teaching?
 
-The four documents below fit together as one system:
+Formative assessment is **built into the lesson**, not something I add at the end. Through questioning, mini-whiteboards, observation, discussion and student work, I continually gather evidence about understanding. The important part is what I do with that evidence. I might move on, increase the challenge, provide more practice, scaffold, revisit a misconception or change the representation.
 
-- **Digital Strategy for Schools to 2027** — the national vision and three pillars.
-- **Digital Learning Framework (Post-Primary)** — what effective and highly effective digital practice looks like.
-- **Digital Strategy Implementation Plan 2024** — the concrete national actions supporting the strategy.
-- **Digital Learning Planning Guidelines** — the six-step school/SSE process for turning vision into action.
+## How do you move students towards independent learning?
 
+I give students the support they genuinely need at the beginning, but I don't want that support to become permanent. I might **model, scaffold and guide practice initially**, then gradually reduce prompts and increase the responsibility placed on the student. I continue checking understanding as I do that. The goal is that students can eventually explain, apply and check their own work without depending on me.
 
+## How do you challenge students who are ready to go further?
 
-### Digital Strategy for Schools to 2027
+I don't see challenge as simply giving students **more of the same work**. Once the core learning is secure, I increase the depth through explanation, justification, unfamiliar applications, multiple methods, generalisation or connections between ideas. I can also fade scaffolding and increase independence. So the learning intention may remain common, while the level of thinking becomes more demanding.
 
-**Recall hooks: Seamless · Learner-centred · TPACK · Inclusion · Safe/ethical.**
+## How do you teach subject-specific vocabulary?
 
-3-line summary
+I identify important vocabulary **before it becomes a barrier to the learning**. I explicitly teach key terms, connect them to examples and representations and use the language consistently myself. I then give students repeated opportunities to hear it, read it, say it and use it in explanations. I revisit the vocabulary through questioning and retrieval so it becomes part of their working language rather than something memorised once.
 
-- The strategy aims to embed digital technologies as a **seamless part of teaching, learning and assessment**, with learners at the centre.
-- Its three pillars are **teaching/learning/assessment**, **digital infrastructure**, and **policy, research and digital leadership**.
-- For teachers, the recurring ideas are **TPACK, inclusion/equity, teacher professional learning, digital competence, and safe and ethical use**.
+## How do you keep students engaged in learning?
 
+For me, engagement comes from **accessible but appropriately challenging learning**, rather than trying to entertain students. I make the purpose clear, connect with prior knowledge and give students opportunities to think, discuss, practise and apply. I vary representation and participation where appropriate. I also watch engagement as evidence: if students are switching off, I consider whether the pace, level of support or level of challenge needs to change.
 
+## How do you use digital technology in teaching and learning?
 
-Study summary
+I start with the **learning intention and the learner, not the device**. I use technology where it genuinely improves representation, engagement, accessibility, practice, collaboration, assessment or feedback. In Mathematics that might be something like GeoGebra or Desmos where students can see relationships dynamically. But technology has to earn its place, and I always ask whether it actually improved the learning.
 
-- The goal is not technology for its own sake; digital technology should enhance learning and help learners participate fully in a digital world.
-- **Pillar 1** concerns embedding digital technologies in teaching, learning and assessment.
-- **Pillar 2** concerns infrastructure: funding, broadband, Wi-Fi, technical support and procurement.
-- **Pillar 3** concerns future-facing policy, research, leadership, safe/ethical use, communication, emerging technologies and data protection.
-- Learners should become **confident and competent digital learners**.
-- Digital technology should support **active, creative and critical engagement**, not passive substitution.
-- The strategy explicitly links technology with **inclusion, equity, learner participation and personalisation**.
-- It highlights Universal Design for Learning: multiple means of **engagement, representation and action/expression**.
-- Effective teacher practice requires a blend of **technological, pedagogical and content knowledge — TPACK**.
-- Teachers need continuing professional learning so confidence and competence develop with technology.
-- Digital technologies should support curriculum, assessment, collaboration, feedback and the development of digital skills.
-- Schools and teachers should use digital technologies in a **safe, responsible and ethical** way.
-- Digital citizenship, online safety, wellbeing and responsible participation are part of digital learning, not separate from it.
-- Leadership matters because digital change requires a shared vision, staff engagement and links with School Self-Evaluation.
-- The strategy expects schools to review impact rather than equating the purchase or presence of devices with effective digital learning.
+## How can digital technology support inclusion?
 
+Digital technology can support inclusion when it **removes a barrier or provides another route into the same learning**. That might involve visual representation, accessibility tools, differentiated practice, immediate feedback or different ways for students to engage and respond. I still begin with the learner need and the learning intention. The technology should make participation easier, not create an additional cognitive or practical barrier.
 
+## How do you decide whether a digital tool is worth using?
 
-#### Likely interview questions
+I ask three questions: **What is the learning objective? What does this learner need? What does the technology add?** If a tool improves understanding, participation, accessibility, assessment or feedback, then it may be worthwhile. I also consider whether it adds unnecessary complexity or distraction. Afterwards I evaluate its impact rather than assuming that because students used technology, effective digital learning occurred.
 
-**How do you use ICT or digital technology in your teaching?**  
-**Prompt:** learning intention → purposeful tool → active learner → check impact.
+## What do you do when a lesson is not working?
 
-**How can digital technology support inclusion?**  
-**Prompt:** equity → UDL → personalisation → accessibility → remove barriers.
+I don't continue with a plan simply because **it was written down**. I use questioning, observation and student work to diagnose where the difficulty is. Then I might slow the pace, revisit prior knowledge, chunk the learning further, model another example, change the representation or provide additional guided practice. I keep the learning intention in view, but I'm prepared to change the route towards it.
 
-**How do you balance the benefits and risks of technology?**  
-**Prompt:** safe · responsible · ethical · digital citizenship · wellbeing.
+## How do you consolidate learning?
 
-Open embedded full document
+I build consolidation into the lesson and then **revisit important learning over time**. Students might explain the idea, summarise it, complete a short check or apply it in another context. I then return to that learning later through retrieval and cumulative review. I want students to retain and transfer the learning, not simply reproduce it immediately after I have explained it.
 
-[Open the official PDF in a new tab](https://assets.gov.ie/static/documents/digital-strategy-for-schools-to-2027.pdf)
+## How do you evaluate and improve your own teaching?
 
+I look at **evidence of student learning**, not simply whether I felt a lesson went well. I reflect on questioning, student work, assessment evidence, misconceptions and where students needed additional support or challenge. I use that to adjust future explanations, examples, representations or sequencing. I also learn through collaboration with colleagues and professional learning, but the central question for me is always: **what impact did this have on the students' learning?**
 
+## The spine underneath nearly everything
 
-&nbsp;
+**Know the learner → activate prior knowledge → clear learning intention → chunk/model/represent → guided practice → independent practice → question → check → adapt → consolidate/challenge**
 
-### Digital Learning Framework for Post-Primary Schools
-
-**Recall hooks: Outcomes · Experiences · Individual · Collective · Improvement.**
-
-3-line summary
-
-- The DLF describes **effective and highly effective practice** rather than simply asking whether technology is present.
-- In teaching and learning it looks at **learner outcomes, learner experiences, teachers' individual practice and teachers' collective/collaborative practice**.
-- Its test is whether digital technology improves learner engagement, ownership, creativity, collaboration, assessment, differentiation and achievement.
-
-
-
-Study summary
-
-- The framework is aligned with School Self-Evaluation and is intended as a tool for reflection and improvement.
-- It separates **Teaching and Learning** from **Leadership and Management**.
-- Teaching and Learning Domain 1 is **Learner Outcomes**.
-- Teaching and Learning Domain 2 is **Learner Experiences**.
-- Teaching and Learning Domain 3 is **Teachers' Individual Practice**.
-- Teaching and Learning Domain 4 is **Teachers' Collective/Collaborative Practice**.
-- Effective learner outcomes involve purposeful use of technology to support appropriate learning outcomes.
-- Highly effective practice moves further towards **active, creative and critical engagement**, reflection and the creation of new solutions or products.
-- Students should use digital technologies to collect evidence, record progress, reflect and develop ownership of learning.
-- Digital interactions should be respectful, positive and conducive to wellbeing.
-- Teachers should select technology that is appropriate to the **learning objective and learner need**.
-- Teachers should use technology to support **personalised and differentiated learning**.
-- Digital tools can support both **assessment of learning and assessment for learning**.
-- Effective practice includes evaluating whether a digital learning activity actually worked and revising teaching accordingly.
-- Collective practice includes professional learning, collaboration, sharing expertise and developing a shared vision.
-- The framework values authentic assessment and the ethical use of student data.
-- Leadership should promote a culture of improvement, collaboration, innovation and creativity.
-- The strongest question is always about impact on **learner outcomes and experiences**, not the sophistication of the tool.
-
-
-
-#### Likely interview questions
-
-**What does effective digital learning look like?**  
-**Prompt:** outcomes · experiences · active/critical learners · ownership · evidence.
-
-**How do you decide whether a digital tool is worth using?**  
-**Prompt:** objective + learner need → appropriate tool → evaluate impact.
-
-**How would you contribute to whole-school digital capacity?**  
-**Prompt:** collaborate · share practice · professional learning · shared vision.
-
-Open embedded full document
-
-[Open the official PDF in a new tab](https://www.oidetechnologyineducation.ie/app/uploads/2021/07/Digital-Learning-Framework-for-Post-Primary-Schools.pdf)
-
-
-
-&nbsp;
-
-### Digital Strategy for Schools — Implementation Plan 2024
-
-**Recall hooks: Participation · TPL · Oide · Inclusion · AI.**
-
-3-line summary
-
-- The implementation plan turns the strategy's three pillars into specific actions, owners and timelines.
-- Pillar 1 emphasises **student participation, teacher professional learning, Oide supports, digital learning planning, Scoilnet and digital inclusion**.
-- It also brings emerging priorities such as **AI, blended learning, digital leadership and ethical use** into the implementation programme.
-
-
-
-Study summary
-
-- The plan operationalises the Digital Strategy rather than replacing it.
-- It retains the same three-pillar structure.
-- It aims to ensure learners have opportunities to use digital technologies during learning and build digital competence.
-- Student participation and engagement in digital learning are explicit actions.
-- Oide is central to teacher professional learning and school support.
-- Professional learning is intended to be **flexible, differentiated and needs-based**.
-- Oide resources support digital technologies across curricular areas.
-- The plan promotes resources and hubs on **AI, blended learning, digital inclusion, digital leadership and other emerging themes**.
-- Scoilnet remains a major curriculum-linked source of digital content for teachers and schools.
-- Schools are supported in digital learning planning through **dlplanning.ie** and the interactive DLF.
-- Good practice is to be mapped to DLF standards and statements.
-- Digital competence frameworks such as DigComp/DigCompEdu inform continuing development.
-- Infrastructure, connectivity and funding remain enabling conditions rather than ends in themselves.
-- Webwise and related supports connect digital learning with online safety and wellbeing.
-- The plan includes support for the **effective and ethical use of AI** and professional learning in education for and with AI.
-- A useful interview message is that digital competence is not static: teachers should remain professionally curious and engage with current guidance and TPL.
-
-
-
-#### Likely interview questions
-
-**How do you keep your digital practice up to date?**  
-**Prompt:** Oide TPL · Scoilnet · professional curiosity · share practice.
-
-**What is your approach to AI in education?**  
-**Prompt:** purposeful · effective · ethical · transparent · current guidance.
-
-**How could you support a school's digital development?**  
-**Prompt:** planning · TPL · modelling practice · collaboration · capacity-building.
-
-Open embedded full document
-
-[Open the official PDF in a new tab](https://assets.gov.ie/static/documents/digital-strategy-implementation-plan.pdf)
-
-
-
-&nbsp;
-
-### Digital Learning Planning Guidelines
-
-**Recall hooks: Why · Focus · Evidence · Action · Evaluate.**
-
-3-line summary
-
-- The guidelines use a **six-step cycle**, closely aligned with School Self-Evaluation, to create and improve a Digital Learning Plan.
-- The crucial planning principle is **Why before What and How**: begin with learning needs and outcomes before choosing technology.
-- Schools move from focus and evidence to judgement, SMART actions, implementation and ongoing evaluation of impact.
-
-
-
-Study summary
-
-- Digital learning planning is about embedding digital technologies into learning, teaching and assessment, not producing an ICT shopping list.
-- The process begins with a **shared vision for digital learning**.
-- Whole-school planning can be led by a representative Digital Learning Team while involving the wider school community.
-- The guidelines repeatedly ask: How well are we doing? How do we know? What evidence do we have? What can improve?
-- Planning should begin with **Why are we using digital technology?**
-- Only after the learning purpose is clear should a school move to **What** technology and **How** it will be used.
-- Step 1: **Identify a focus** from the DLF rather than trying to address everything at once.
-- Step 2: **Gather evidence** from relevant sources.
-- Evidence may be quantitative or qualitative and can include students, teachers, parents, management and classroom practice.
-- Step 3: **Analyse and make judgements** by comparing evidence with DLF statements of practice.
-- Step 4: **Write and share the Digital Learning Plan**.
-- The plan should include specific **SMART targets** for improvement.
-- Step 5: **Put the plan into action** at teacher, class, subject-department and whole-school level as appropriate.
-- Step 6: **Monitor actions and evaluate impact** on learning, teaching and assessment.
-- Monitoring should identify whether actions and targets need to change.
-- The cycle is iterative; evaluation informs the next focus.
-- The framework can be used at whole-school, subject-department, programme, cross-curricular or individual-teacher level.
-- Digital planning can complement SSE rather than becoming a disconnected parallel process.
-
-
-
-#### Likely interview questions
-
-**How would you contribute to a Digital Learning Plan?**  
-**Prompt:** shared vision → why → six-step SSE cycle → SMART action → impact.
-
-**What evidence would you use to evaluate digital learning?**  
-**Prompt:** students · teachers · parents · classroom evidence · outcomes.
-
-**What would you do before buying or choosing a new technology?**  
-**Prompt:** Why first → learner need → desired outcome → then What/How.
-
-Open embedded full document
-
-Give students lots of chances to practice hearing, reading, speaking, and saying new words,
-
-
-
-&nbsp;
-
-[Open the official PDF in a new tab](https://www.oidetechnologyineducation.ie/app/uploads/2021/07/Digital-Learning-Planning-Guidelines-compressed_1.pdf)
-
+That is what I would start learning now. The 24 answers are variations around **that one route**, not 24 separate speeches.
