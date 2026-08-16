@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/digital-computing.html
 title: Digital and Computer Studies — Mixed Practical Class
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
