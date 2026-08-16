@@ -6,19 +6,49 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Act with integrity, collaborate well, contribute to school life, keep
   developing, and connect practice to the school's ethos and community.
 ---
+
 ## Interview details
 
 **Monday 17 August · 3:00 pm · St Patrick's Comprehensive School, Shannon · V14 Y434 · in person.**
 
-## Tell us about yourself / tell us about your experience
+## Professional Responsibility Retrieval Chains
+
+| Concept | Retrieval chain |
+| --- | --- |
+| About me | Experienced post-primary Maths → JC/LC/TY/mixed ability/AEN → accessible without lowering expectations → plan/teach/scaffold/retrieve/think/adapt → exams + tech/modelling/data → teacher first |
+| School knowledge | Comprehensive tradition → equality/opportunity → breadth/inclusion/community → mixed ability/AEN/Inbhear/L2LP/LCA → individual potential → fit with my experience |
+| Professional responsibility | Reliable/prepared/accountable → integrity/fairness/respect → boundaries/confidentiality → policy/judgement → contribute beyond classroom |
+| Values & conduct | Respect/fairness/equality/care/integrity → students/families/colleagues → defensible decisions → policy → learning/dignity/inclusion |
+| Accountability | Own decisions → plan/assess → records → follow-through/deadlines/communication → acknowledge what failed → adapt/evaluate impact |
+| Boundaries & confidentiality | Approachable/supportive → teacher role clear → need-to-know channels → no informal discussion → digital/personal boundaries → safeguarding limits |
+| Duty of care | Safe supervision → thoughtful planning → practical risk → boundaries → act on concerns → procedures/child protection/H&S → judgement |
+| Policy awareness | Behaviour/assessment/child protection/AEN/AUP/H&S/communication → agreed framework → understand purpose → judgement → clarify uncertainty |
+| Collegiality | Clear communication/reliability → share relevant info/resources/evidence → listen → follow through → disagree professionally → student/shared task focus |
+| Department planning | Planning/resources/common assessment/misconceptions/curriculum → classroom evidence → record decisions → coherence/reliability → autonomy, not identical teaching |
+| Co-teaching & AEN | Shared planning → goal/roles/barriers/evidence → AEN/SNA coordination → compare observations → adapt |
+| Professional disagreement | Direct/private/respectful → shared purpose → listen/evidence → preference vs policy/responsibility → line-management/consultation if needed |
+| Feedback | Treat as evidence → listen → ask specifics → compare with student work/evidence → practical goal → try → evaluate → seek feedback too |
+| Beyond timetable | Strengths + school need → exams/SEN/digital/subject/wider activities → Maths/Science/coding/data/tech → sustainable contribution → value, not list |
+| Initiative & committees | Identify useful need → consult → defined work → evidence/practical ideas/follow-through → resource/data/tech/AEN strengths → evaluate impact |
+| Extracurricular | Listen to existing provision → Maths/Science/coding/data/STEM → problem-solving/projects/competitions → complement, don't duplicate |
+| Examination work | Standards/reliability/evidence → criteria consistency → organisation/confidentiality/fairness/procedure → bring back to assessment → don't narrow teaching |
+| Digital contribution | Real need → resource/organisation/digital learning/data decisions → collaborate → data protection/systems → evaluate impact → no novelty |
+| CPD | Formal CPD/reading/collaboration/updates → connect to classroom evidence → try critically → evaluate impact → normal practice only if useful |
+| Reflective practice | Evidence of learning/participation/outcome → identify one practical change → feedback/work/peer observation → implement → review impact |
+| Evidence-informed practice | Research/guidance + subject knowledge + classroom evidence + judgement → problem fit/context → define impact evidence → revise if needed |
+| School improvement | Identified priority → gather evidence → translate goal to classroom action → manageable focus → student/staff evidence → shared plan → evaluate/adapt |
+| Ethos & mission | Mission/ethos/patronage/inclusion/profile/programmes/priorities → connect teaching/contribution → values visible in relationships/equality/opportunity |
+| Parents & community | Respectful/factual student-focused communication → listen to context → boundaries/school channels → purposeful safe community links → mission aligned |
+| Equality & inclusion | Genuine access to participation/support/opportunity → equality ≠ identical treatment → reasonable support → high expectations → policy/collaboration → barriers not ceilings |
+| Professional growth | Strengthen subject teaching + inclusion + evidence-informed practice → goals/CPD/reading/feedback/reflection → better learning + school contribution |
+
+## About me — Tell us about yourself / tell us about your experience
 
 I am an experienced post-primary **Mathematics teacher** with substantial experience across Junior Cycle, Leaving Certificate, Transition Year, mixed-ability classes and AEN / learning-support settings. The strongest thread through my teaching is making demanding Mathematics accessible without lowering expectations. I **plan carefully, teach clearly, scaffold where needed, secure learning through retrieval and purposeful practice, engage student thinking, and respond to evidence of learning**. I also bring State Examinations experience and a strong background in technology, mathematical modelling and data analytics. Whatever the exact opening question, I want the board to hear first and clearly what I bring **as a teacher**.
 
-## What do you know about St Patrick's Comprehensive — the Comp?
+## School knowledge — What do you know about St Patrick's Comprehensive — the Comp?
 
 What stands out to me is the school's **comprehensive tradition, equality of opportunity, breadth of provision, inclusion and strong community identity**. For this post I would connect that particularly to mixed-ability teaching, AEN provision, **Inbhear**, L2LP and LCA, and the emphasis on helping individual students reach their potential. That fits very closely with my own experience across **Mathematics, mixed-ability teaching and learning support / AEN**.
-
-
 
 ## 1 Professional responsibility — What does professional responsibility mean to you as a teacher?
 
@@ -116,12 +146,9 @@ Professional responsibility requires me to notice whether students have genuine 
 
 My next professional step is to continue strengthening the connection between strong subject teaching, inclusion and evidence-informed practice. I use goal setting, CPD, professional reading, professional feedback and reflective practice to identify what to improve next. I want professional growth to be visible in better student learning and contribution to the school, not simply in another qualification or title.
 
-
-
 &nbsp;
 
 ## Professional Responsibility Word Wall
-
 
 | **Conduct** | **Collaborate** | **Contribute** | **Develop** | **Connect** |
 | --------------------------- | ----------------------------- | ---------------------------- | ------------------------------ | ----------------------- |
@@ -138,12 +165,12 @@ My next professional step is to continue strengthening the connection between st
 | Reliability (4) | Line management (1) | Resource development (3) | Review (5) | School community (2) |
 | Ethical practice (1) | Collective goals (2) | Sustainable contribution (1) | Adapt (4) | Professional growth (2) |
 
-
 ## Professional Responsibility Concepts and Questions
-
 
 | **PR concept** | **Interview question** |
 | ---------------------------------- | -------------------------------------------------------------------------- |
+| **About me** | Tell us about yourself / tell us about your experience |
+| **School knowledge** | What do you know about St Patrick's Comprehensive — the Comp? |
 | **1 Professional responsibility** | What does professional responsibility mean to you as a teacher? |
 | **2 Values & conduct** | What professional values guide your practice? |
 | **3 Accountability** | How do you demonstrate accountability in your work? |
@@ -168,9 +195,6 @@ My next professional step is to continue strengthening the connection between st
 | **22 Parents & community** | How do you work with parents, guardians and the wider community? |
 | **23 Equality & inclusion** | How does professional responsibility support equality and inclusion? |
 | **24 Professional growth** | What is your next professional step and how will you keep developing? |
-
-
-
 
 &nbsp;
 
