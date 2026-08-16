@@ -53,6 +53,83 @@
   document.querySelector('.nav-glossary')?.remove();
   document.querySelector('.nav-timeline')?.remove();
 
+  // Keep the old /timeline.html URL working, but stop presenting the page as a
+  // "Timeline" now that its useful role is an evidence bank for experience.
+  if (location.pathname.endsWith('/timeline.html')) {
+    document.title = document.title.replace(/^Timeline(?=\s*\|)/, 'Teaching Experience');
+    const pageHeading = document.querySelector('main h1');
+    if (pageHeading && pageHeading.textContent.trim() === 'Timeline') {
+      pageHeading.textContent = 'Teaching Experience';
+    }
+    const kicker = document.querySelector('.doc-kicker');
+    if (kicker && kicker.textContent.trim().toUpperCase() === 'TIMELINE') {
+      kicker.textContent = 'PROFESSIONAL EVIDENCE';
+    }
+  }
+
+  // Teaching & Learning uses "chunk" three times in the current interview answers.
+  // Surface that settled language in the live Word Wall and visually reinforce the
+  // same term in the answers.
+  if (location.pathname.endsWith('/teaching-learning.html')) {
+    const body = document.getElementById('docBody');
+    if (body) {
+      const wallHeading = Array.from(body.querySelectorAll('h2')).find(
+        heading => heading.textContent.trim() === 'Teaching & Learning Word Wall'
+      );
+      const wall = wallHeading?.nextElementSibling;
+      if (wall?.tagName === 'TABLE') {
+        const headers = Array.from(wall.querySelectorAll('thead th'));
+        const teachIndex = headers.findIndex(header => header.textContent.trim() === 'Teach');
+        if (teachIndex >= 0) {
+          const rows = Array.from(wall.querySelectorAll('tbody tr'));
+          const alreadyPresent = rows.some(row =>
+            row.children[teachIndex]?.textContent.trim().toLowerCase().startsWith('chunk')
+          );
+          if (!alreadyPresent) {
+            let targetCell = rows
+              .map(row => row.children[teachIndex])
+              .find(cell => cell && !cell.textContent.trim());
+
+            if (!targetCell) {
+              const row = document.createElement('tr');
+              headers.forEach(() => row.appendChild(document.createElement('td')));
+              wall.querySelector('tbody')?.appendChild(row);
+              targetCell = row.children[teachIndex];
+            }
+            if (targetCell) targetCell.textContent = 'Chunk (3)';
+          }
+        }
+      }
+
+      const textNodes = [];
+      const walker = document.createTreeWalker(body, NodeFilter.SHOW_TEXT, {
+        acceptNode(node) {
+          if (!/\bchunk\b/i.test(node.nodeValue || '')) return NodeFilter.FILTER_REJECT;
+          const parent = node.parentElement;
+          if (!parent || parent.closest('strong, a, code, table')) return NodeFilter.FILTER_REJECT;
+          return NodeFilter.FILTER_ACCEPT;
+        }
+      });
+      while (walker.nextNode()) textNodes.push(walker.currentNode);
+
+      textNodes.forEach(node => {
+        const parts = node.nodeValue.split(/(\bchunk\b)/gi);
+        if (parts.length < 2) return;
+        const fragment = document.createDocumentFragment();
+        parts.forEach(part => {
+          if (/^chunk$/i.test(part)) {
+            const strong = document.createElement('strong');
+            strong.textContent = part;
+            fragment.appendChild(strong);
+          } else {
+            fragment.appendChild(document.createTextNode(part));
+          }
+        });
+        node.replaceWith(fragment);
+      });
+    }
+  }
+
   // The document layout rebuilds question menus from the current rendered headings.
   // Before that async rebuild finishes, make every old hard-coded hash a safe page
   // fallback rather than leaving a stale/dead anchor clickable.
