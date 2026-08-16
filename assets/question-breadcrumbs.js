@@ -98,20 +98,22 @@
       const section = heading.closest('.answer-section');
       const content = section?.querySelector(':scope > .section-content');
 
-      if (section && content) {
-        // Question heading, then full answer content, then the retrieval prompt.
-        content.insertAdjacentElement('afterend', line);
+      if (content) {
+        // Put the prompt INSIDE the answer area after all answer content.
+        // This guarantees: question -> answer -> retrieval prompt.
+        content.appendChild(line);
         return;
       }
 
-      // Plain Markdown fallback: insert after the answer block and before the next H2.
-      let last = heading;
+      // Plain Markdown fallback: place it after the answer paragraph/content,
+      // immediately before the next interview-question heading.
+      let lastAnswerNode = heading;
       let node = heading.nextElementSibling;
       while (node && node.tagName !== 'H2') {
-        last = node;
+        if (!node.classList?.contains('question-breadcrumb-line')) lastAnswerNode = node;
         node = node.nextElementSibling;
       }
-      last.insertAdjacentElement('afterend', line);
+      lastAnswerNode.insertAdjacentElement('afterend', line);
     });
   };
 
@@ -119,6 +121,7 @@
     run();
     requestAnimationFrame(run);
     window.setTimeout(run, 120);
+    window.setTimeout(run, 500);
   };
 
   if (document.readyState === 'loading') {
