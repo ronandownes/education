@@ -6,11 +6,11 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Build trust, notice changes, support regulation and re-engagement,
   coordinate pastoral support, and safeguard when required.
 ---
+## Relationships & Wellbeing Retrieval Table
 
-## Relationships & Wellbeing Retrieval Chains
 
 | Concept | Retrieval chain |
-| --- | --- |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Relationships & learning | Relational safety → trust/consistency/respect/fairness → high expectations → belonging → participation/readiness to learn |
 | New class | Warmth + structure → learn names/greet/listen → predictable routines → fair follow-through → trust → boundaries/dignity/high expectations |
 | Pastoral role | Notice attendance/engagement/peers/work/mood/behaviour → private check-in → listen → record facts → tutor/year head/pastoral/AEN → not counsellor |
@@ -35,6 +35,7 @@ intro: Build trust, notice changes, support regulation and re-engagement,
 | Parents / guardians | Factual respectful observations → no labels/diagnoses → listen to context → focus participation/readiness/support → procedures/confidentiality → safeguarding via designated route |
 | Coordinated support | Share observations → tutor/year head/pastoral/AEN → consistent supports → monitor attendance/participation/re-engagement → student voice → professional referral if beyond role |
 | Review wellbeing | Readiness/participation/attendance/help-seeking/regulation/re-engagement → check in/student voice → share observations → monitor pattern → adjust support → belonging/resilience/safe participation |
+
 
 ## Relationships & learning — What role do relationships play in learning?
 
@@ -144,11 +145,12 @@ The progression is:
 
 If what I notice moves beyond ordinary pastoral support into a welfare or child-protection concern, I escalate it through the proper safeguarding procedures. I do not investigate or decide whether somebody has committed an offence. I notice, listen appropriately, record and report as required, and pass the concern to the appropriate person.
 
-&nbsp;
+
 
 &nbsp;
 
 &nbsp;
+
 
 | **Trust** | **Notice** | **Regulate** | **Support** | **Safeguard** |
 | ------------------------ | -------------------------- | ------------------------ | ------------------------- | ---------------------------- |
@@ -164,7 +166,9 @@ If what I notice moves beyond ordinary pastoral support into a welfare or child-
 | Fairness (2) | Emotional literacy (1) | Resilience (2) | Trusted adult (2) | Repair (5) |
 | Connection (2) | Peer relationships (2) | Recovery (2) | Pastoral support (2) | Fresh start (2) |
 
+
 ## Relationships & Wellbeing Concepts and Questions
+
 
 | **RW concept** | **Interview question** |
 | ---------------------------- | --------------------------------------------------------------------------- |
@@ -192,3 +196,5 @@ If what I notice moves beyond ordinary pastoral support into a welfare or child-
 | **Parents / guardians** | How do you communicate with parents or guardians about wellbeing? |
 | **Coordinated support** | How do you work with colleagues to support student wellbeing? |
 | **Review wellbeing** | How do you know whether your wellbeing support is helping? |
+
+
