@@ -114,6 +114,36 @@
   font-weight:400!important;
 }
 
+/* Retrieval-chain tables are always weighted 20/80 site-wide. This targets
+   both the raw Markdown DOM and the section-wrapped DOM used by rehearsal UI,
+   so later JavaScript cannot collapse the columns back towards 50/50. */
+#docBody > h2[id*="retrieval-chains"] + table,
+.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type{
+  width:100%!important;
+  table-layout:fixed!important;
+}
+#docBody > h2[id*="retrieval-chains"] + table th:first-child,
+#docBody > h2[id*="retrieval-chains"] + table td:first-child,
+.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type th:first-child,
+.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type td:first-child{
+  width:20%!important;
+  max-width:20%!important;
+}
+#docBody > h2[id*="retrieval-chains"] + table th:last-child,
+#docBody > h2[id*="retrieval-chains"] + table td:last-child,
+.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type th:last-child,
+.answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type td:last-child{
+  width:80%!important;
+  max-width:80%!important;
+}
+
+@media(max-width:600px){
+  #docBody > h2[id*="retrieval-chains"] + table,
+  .answer-section:has(h2[id*="retrieval-chains"]) .section-content table:first-of-type{
+    table-layout:fixed!important;
+  }
+}
+
 @media print{
   @page teaching-retrieval-portrait{size:A4 portrait;margin:5mm 6mm}
 
@@ -175,12 +205,12 @@
   }
   .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table th:first-child,
   .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table td:first-child{
-    width:19%!important;
+    width:20%!important;
     font-weight:700!important;
   }
   .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table th:last-child,
   .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table td:last-child{
-    width:81%!important;
+    width:80%!important;
   }
   .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table tr{
     break-inside:avoid!important;
