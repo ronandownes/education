@@ -56,3 +56,158 @@
     font-size:6.8pt!important;
   }
 }
+
+/* Teaching & Learning retrieval sheet: deliberately plain. No pills, no card
+   treatment, just a concept column and a speakable chain with small arrows and
+   flexible space between cues. */
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table table{
+  table-layout:fixed;
+}
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table th,
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table td{
+  text-align:left;
+  vertical-align:middle;
+  background:#fff!important;
+}
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table th:first-child,
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table td:first-child{
+  width:19%;
+  background:#fff!important;
+  font-weight:700;
+}
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table th:last-child,
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table td:last-child{
+  width:81%;
+}
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line,
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line.is-wrapped{
+  display:flex;
+  flex-wrap:wrap!important;
+  align-items:center;
+  justify-content:space-between;
+  column-gap:clamp(.35rem,1.15vw,1rem);
+  row-gap:.18rem;
+  width:100%;
+  font-size:.98rem!important;
+}
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line span,
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line.is-wrapped span{
+  display:inline-flex;
+  align-items:center;
+  justify-content:flex-start;
+  flex:0 0 auto!important;
+  min-width:0;
+  padding:0!important;
+  border:0!important;
+  border-radius:0!important;
+  background:transparent!important;
+  text-align:left;
+  white-space:nowrap!important;
+  font-size:inherit!important;
+}
+.answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line span::before{
+  content:"→";
+  flex:0 0 auto;
+  margin-right:.38em!important;
+  color:#6a6d70;
+  font-size:.72em;
+  font-weight:400!important;
+}
+
+@media print{
+  @page teaching-retrieval-portrait{size:A4 portrait;margin:5mm 6mm}
+
+  .doc-paper:has(#teaching--learning-retrieval-chains){
+    page:teaching-retrieval-portrait!important;
+  }
+  .doc-paper:has(#teaching--learning-retrieval-chains) .doc-kicker{
+    margin:0 0 .8mm!important;
+    font-size:7pt!important;
+    line-height:1!important;
+  }
+  .doc-paper:has(#teaching--learning-retrieval-chains) h1{
+    margin:0 0 1.2mm!important;
+    font-size:15pt!important;
+    line-height:1.05!important;
+  }
+  .doc-paper:has(#teaching--learning-retrieval-chains) .doc-intro{
+    display:none!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains){
+    margin:0!important;
+    padding:0!important;
+    border:0!important;
+    break-inside:avoid-page!important;
+    page-break-inside:avoid!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .answer-heading-row{
+    margin:0!important;
+  }
+  #teaching--learning-retrieval-chains{
+    margin:0 0 1mm!important;
+    font-size:10.5pt!important;
+    line-height:1.05!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .section-content{
+    padding-top:0!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table{
+    margin:0!important;
+    break-inside:avoid-page!important;
+    page-break-inside:avoid!important;
+    break-after:page!important;
+    page-break-after:always!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table table{
+    width:100%!important;
+    table-layout:fixed!important;
+    margin:0!important;
+    border-collapse:collapse!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table th,
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table td{
+    padding:.7mm 1mm!important;
+    border:1px solid #cfd3d7!important;
+    background:#fff!important;
+    font-size:10pt!important;
+    line-height:1.08!important;
+    vertical-align:middle!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table th:first-child,
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table td:first-child{
+    width:19%!important;
+    font-weight:700!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table th:last-child,
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table td:last-child{
+    width:81%!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-table tr{
+    break-inside:avoid!important;
+    page-break-inside:avoid!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line,
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line.is-wrapped{
+    flex-wrap:wrap!important;
+    justify-content:space-between!important;
+    column-gap:1mm!important;
+    row-gap:.2mm!important;
+    font-size:10pt!important;
+    line-height:1.08!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line span,
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line.is-wrapped span{
+    flex:0 0 auto!important;
+    padding:0!important;
+    border:0!important;
+    border-radius:0!important;
+    background:transparent!important;
+    white-space:nowrap!important;
+    font-size:inherit!important;
+  }
+  .answer-section:has(#teaching--learning-retrieval-chains) .retrieval-chain-line span::before{
+    margin-right:.32em!important;
+    font-size:.68em!important;
+    font-weight:400!important;
+  }
+}
