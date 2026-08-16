@@ -3,10 +3,12 @@ layout: doc
 permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
-intro: My answers on planning, teaching, securing knowledge and skills, engaging
-  students in thinking and gaining confidence through using the language of
-  maths for conversation and problem-solving, and responding to evidence of
-  learning through tasks, quizzes, exercises and rich problem-solving tasks.
+intro: >+
+  I plan carefully, teach clearly and scaffold where needed, secure knowledge
+  and skills through retrieval and purposeful practice, engage student thinking
+  by building confidence in the language of Mathematics through mathematical
+  conversation and problem-solving, and respond to evidence of learning from
+  tasks, questioning, quizzes, exercises and rich problem-solving activities.
 ---
 # Word Wall
 
