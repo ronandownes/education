@@ -17,6 +17,6 @@ Class profiles are practical planning documents. They hold the learner picture t
 
 School profiles hold the context I need before an interview: ethos, mission, school type, curriculum, inclusion, current priorities, policies, community links and the strongest connections with my own experience.
 
-<a href="{{ '/content/schools/st-patricks.html' | relative_url }}">St Patrick's Comprehensive, Shannon →</a>
+<a href="{{ '/school-research.html' | relative_url }}">St Patrick's Comprehensive, Shannon →</a>
 
 Keep school knowledge useful for interview answers rather than turning it into a general history. The question is always: **what does this tell me about the school, and what evidence from my own experience connects to it?**
