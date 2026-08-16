@@ -1,0 +1,59 @@
+
+/* Classroom Management rehearsal audio. The three launchers stay compact;
+   pause/resume and stop become deliberately larger only while audio is active. */
+.visually-hidden{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+.cm-audio-launchers{display:flex;flex:1 1 100%;flex-wrap:wrap;gap:7px;margin-bottom:2px}
+.doc-toolbar .cm-audio-launch{display:inline-flex;align-items:center;gap:7px;border-color:#b9c9df;background:#f8fbff;color:#24518a;font-weight:700}
+.doc-toolbar .cm-audio-launch::before{content:"";width:0;height:0;border-top:5px solid transparent;border-bottom:5px solid transparent;border-left:8px solid currentColor}
+.doc-toolbar .cm-audio-launch:hover,.doc-toolbar .cm-audio-launch:focus-visible{background:#edf4ff;border-color:#7ea4d6;outline:none}
+.doc-toolbar .cm-audio-launch.is-active{background:#e8f0fe;border-color:#5b8dcc;color:#174ea6;box-shadow:0 0 0 2px rgba(26,115,232,.11)}
+.doc-toolbar .cm-audio-launch:disabled{opacity:.48;cursor:not-allowed}
+.cm-audio-player{position:sticky;top:92px;z-index:8;display:flex;align-items:center;justify-content:space-between;gap:16px;margin:-18px 0 26px;padding:11px 12px 11px 15px;border:1px solid #9ab8df;border-radius:10px;background:#f8fbff;box-shadow:0 4px 14px rgba(60,64,67,.14)}
+.cm-audio-player[hidden]{display:none}
+.cm-audio-status{min-width:0;color:#27496f;font-size:.88rem;font-weight:700;line-height:1.3}
+.cm-audio-player-controls{display:flex;gap:8px;flex:0 0 auto}
+.cm-audio-control{display:inline-flex;align-items:center;justify-content:center;width:46px;height:42px;padding:0;border:1px solid #779dcc;border-radius:8px;background:#fff;color:#174ea6;font:inherit;font-size:1.05rem;cursor:pointer}
+.cm-audio-control:hover,.cm-audio-control:focus-visible{background:#e8f0fe;outline:2px solid #8ab4f8;outline-offset:1px}
+.cm-audio-stop{color:#9c2f2f;border-color:#d2a0a0}
+.cm-audio-stop:hover,.cm-audio-stop:focus-visible{background:#fce8e6;outline-color:#e3a6a1}
+.cm-question-play{position:relative;float:left;width:31px;height:31px;margin:-2px 9px 3px 0;padding:0;border:1px solid #b9c9df;border-radius:50%;background:#fff;color:#24518a;cursor:pointer}
+.cm-question-play::before{content:"";position:absolute;top:50%;left:52%;width:0;height:0;border-top:5px solid transparent;border-bottom:5px solid transparent;border-left:8px solid currentColor;transform:translate(-40%,-50%)}
+.cm-question-play:hover,.cm-question-play:focus-visible{background:#edf4ff;border-color:#6e98ca;outline:2px solid #c7d9f2;outline-offset:1px}
+.cm-question-play.is-active{background:#e8f0fe;border-color:#4f83c2;color:#174ea6;box-shadow:0 0 0 3px rgba(26,115,232,.1)}
+.doc-body h2.cm-audio-active-question{color:#174ea6}
+#classroom-management-interview-questions{margin-top:8px;padding-top:8px}
+
+@media(max-width:1500px){
+  .cm-audio-player{top:72px}
+}
+
+@media(max-width:600px){
+  .cm-audio-launchers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));width:100%}
+  .doc-toolbar .cm-audio-launch{justify-content:center;min-height:40px;padding:7px 8px;font-size:.77rem}
+  .doc-toolbar .cm-audio-launch:last-child{grid-column:1/-1}
+  .cm-audio-player{top:70px;margin:-18px 0 22px;gap:10px;padding:10px}
+  .cm-audio-status{font-size:.78rem}
+  .cm-audio-control{width:44px;height:42px}
+  .cm-question-play{width:33px;height:33px;margin-right:8px}
+}
+
+@media print{
+  .cm-audio-launchers,.cm-audio-player,.cm-question-play{display:none!important}
+  #classroom-management-word-wall{break-after:avoid-page;page-break-after:avoid}
+  #classroom-management-word-wall + table{
+    width:100%!important;
+    table-layout:auto!important;
+    margin:1.5mm 0 4mm!important;
+    break-inside:avoid-page!important;
+    page-break-inside:avoid!important;
+    font-size:6.8pt!important;
+  }
+  #classroom-management-word-wall + table th,
+  #classroom-management-word-wall + table td{
+    white-space:nowrap!important;
+    padding:1.45mm 1mm!important;
+    line-height:1.05!important;
+    font-size:6.8pt!important;
+  }
+}
+
