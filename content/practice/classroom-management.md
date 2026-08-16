@@ -10,23 +10,21 @@ intro: >
   the relationship so the student can return to learning.
 ---
 
-<link rel="stylesheet" href="{{ '/assets/cm-audio.css' | relative_url }}?v={{ site.github.build_revision }}">
-
 ## Classroom Management Word Wall
 
 | **Prevent** | **Respond** | **Regulate** | **Follow Up** | **Repair** |
 |---|---|---|---|---|
-| Clear routines (4) | Proximity (2) | De-escalation (2) | School procedures (5) | Fresh start (2) |
+| Clear routines (6) | Proximity (2) | De-escalation (2) | School procedures (5) | Fresh start (2) |
 | High expectations (2) | Non-verbal cue (1) | Emotional regulation (3) | Factual record (4) | Listen (5) |
-| Positive relationships (3) | Reminder (2) | Dignity (4) | Monitor (4) | Reintegration (2) |
-| Task clarity (3) | Redirection (1) | Calm tone (3) | Year head (4) | Restorative conversation (2) |
-| Active supervision (3) | Choice (2) | Pause (1) | Accountability (3) | Acknowledge harm (3) |
+| Positive relationships (3) | Reminder (2) | Dignity (5) | Monitor (4) | Reintegration (2) |
+| Task clarity (4) | Redirection (1) | Calm tone (3) | Year head (4) | Restorative conversation (2) |
+| Active supervision (4) | Choice (2) | Pause (1) | Accountability (3) | Acknowledge harm (3) |
 | Belonging (2) | Take-up time (3) | Reduced language (3) | AEN support (3) | Behaviour not person (2) |
-| Predictability (1) | Follow-through (3) | Processing time (3) | Safeguarding (5) | Problem-solving (3) |
+| Predictability (2) | Follow-through (3) | Processing time (4) | Safeguarding (5) | Problem-solving (3) |
 | Trust (6) | Private correction (2) | Safety (6) | Parent / guardian (2) | Repair relationship (2) |
 | Seating plan (3) | Appropriate boundary (3) | Co-regulation (1) | Tutor system (2) | Re-engagement (2) |
 | Smooth transitions (3) | Seating change (2) | Sensory awareness (2) | Pastoral team (2) | Trust rebuilt (2) |
-| Teacher presence (4) | Proportionate consequence (2) | Movement break (2) | Refer (3) | Student voice (1) |
+| Teacher presence (5) | Proportionate consequence (2) | Movement break (2) | Refer (3) | Student voice (1) |
 | Hope (1) | Code of Behaviour (2) | Reset (2) | Collaboration (1) | Review (2) |
 
 ## Classroom Management Concepts and Questions
@@ -35,6 +33,8 @@ intro: >
 |---|---|
 | **Good classroom management** | What would good classroom management look like in your classroom? |
 | **Establish expectations** | How do you establish expectations with a new class? |
+| **Learning-support expectations** | How do you establish expectations with a learning-support group? |
+| **Temporary cover class** | How do you establish expectations when covering a class temporarily? |
 | **Prevent problems** | How do you prevent behaviour problems before they begin? |
 | **Low-level disruption** | How do you respond to low-level disruption? |
 | **Persistent behaviour** | What do you do when low-level behaviour persists? |
@@ -58,6 +58,41 @@ intro: >
 | **Safeguarding** | What do you do if behaviour raises a safeguarding concern? |
 | **Review practice** | How do you evaluate and improve your classroom-management practice? |
 
+## Classroom Management Retrieval Chains
+
+<div class="retrieval-wall retrieval-wall--recall" markdown="1">
+
+| **Concept** | **Recall chain** |
+|---|---|
+| **Good classroom management** | Purposeful climate → clear routines → task clarity → active supervision → early response → positive relationships → high expectations → belonging |
+| **Establish expectations** | Few clear routines → explain → model → rehearse → reinforce consistently → predictable response → trust |
+| **Learning-support expectations** | Age-appropriate expectations → predictable routines → explicit language → model and rehearse → processing time → adapt the route → independence |
+| **Temporary cover class** | Greet and register → check assigned work → state a few expectations → task clarity → circulate → normal school procedures → factual handover |
+| **Prevent problems** | Immediate start → task clarity → appropriate challenge → smooth transitions → seating → scan and circulate → respond early |
+| **Low-level disruption** | Presence → proximity → name or cue → reminder → redirect → choice → take-up time → follow-through |
+| **Persistent behaviour** | Notice pattern → restate boundary → seating or proportionate consequence → Code of Behaviour → factual record → monitor → refer if needed |
+| **Refusal** | Calm instruction → private correction → limited choice → take-up time → follow-through → keep the class learning → school procedure |
+| **Consequences** | Clear boundary → take-up time → predictable and proportionate consequence → follow-through → accountability → return to learning |
+| **Active supervision** | Circulate → scan → check learning and behaviour → proximity → support seating and transitions → prevent escalation |
+| **De-escalation** | Lower tone → pause → reduce audience → brief language → space and time → safety and boundary → revisit later |
+| **Dysregulation** | Regulate first → co-regulate → reduce language → processing or sensory support → dignity and safety → re-engage |
+| **AEN & behaviour** | Identify communication, sensory or regulation need → use the plan → adapt language, routine or processing → maintain boundary → dignity |
+| **Serious unsafe behaviour** | Safety → calm directions → reduce audience → school procedure → senior support → factual record → safeguarding if required |
+| **Practical safety** | Pre-teach routines → active supervision → stop unsafe behaviour → restate boundary → follow procedure → resume only when safe |
+| **Student leaves class** | Supervise the class → alert designated support → factual record → follow up the trigger → monitor → reintegrate safely |
+| **Student conflict** | Stop and separate → reduce audience → establish facts → follow procedure → restorative work when ready → accountability and repair |
+| **Restorative practice** | What happened → who was affected → acknowledge harm → accountability → what happens next → repair → reintegrate |
+| **Repair relationship** | Listen → behaviour not person → revisit expectation → problem-solve → acknowledge harm → fresh start → rebuild trust |
+| **Parent communication** | Factual early contact → behaviour and impact → steps already taken → listen → joint problem-solving → record actions |
+| **Record & follow up** | Factual record → identify pattern → monitor → refer through agreed support → confidentiality |
+| **Teamwork & referral** | Persistent pattern → share facts → tutor, year head, pastoral or AEN support → consistent response → parent where appropriate → safeguard immediately |
+| **Relationships & expectations** | Warmth and clear boundaries → fair consistency → listen → follow through → hope → trust |
+| **Transitions & seating** | Teach routines → predictable transitions → seating for learning → active supervision → adjust from evidence |
+| **Safeguarding** | Notice concern → immediate safety → do not investigate or promise secrecy → record facts → designated route → dignity |
+| **Review practice** | Evidence and patterns → student voice or colleague feedback → evaluate interventions → adjust routines, responses or support → monitor impact |
+
+</div>
+
 ## Classroom Management Interview Questions
 
 ## Good classroom management — What would good classroom management look like in your classroom?
@@ -67,6 +102,14 @@ Good classroom management creates a purposeful, predictable climate where studen
 ## Establish expectations — How do you establish expectations with a new class?
 
 With a new class I explicitly teach the **clear routines** and boundaries I need: entering, starting work, listening, transitions, equipment, asking for help and finishing. I use positive framing, model the routines, reinforce them consistently and explain the reason for important expectations. **Predictability** builds **trust** because students know what will happen and how I will respond.
+
+## Learning-support expectations — How do you establish expectations with a learning-support group?
+
+With a learning-support group I keep expectations clear, age-appropriate and connected to successful participation. I establish **predictability** through a small number of **clear routines** for arriving, equipment, asking for help, attempting the first step and finishing. I use **explicit language**, model and rehearse the routines, and allow **processing time** where needed. I adapt the route without lowering the expectation, protect **dignity**, and reinforce growing **independence** rather than dependence on adult prompting.
+
+## Temporary cover class — How do you establish expectations when covering a class temporarily?
+
+In a temporary cover class I establish calm authority quickly without pretending I already know the group. I greet the students, take the register, check the teacher's assigned work and state a few **clear expectations**: follow the task, listen when someone is speaking, ask for help appropriately and remain safe. I use **teacher presence**, **task clarity**, **active supervision** and the school's established **clear routines**, avoid public power struggles, and keep the class learning. I record anything significant factually and leave a clear handover for the regular teacher.
 
 ## Prevent problems — How do you prevent behaviour problems before they begin?
 
@@ -155,5 +198,3 @@ If behaviour suggests that a student may be at risk, I move from classroom-manag
 ## Review practice — How do you evaluate and improve your classroom-management practice?
 
 I **review** classroom management by looking for patterns: when disruption occurs, which routines are weak, whether tasks are accessible and whether my responses are proportionate and consistent. I use **student voice** and colleague feedback where useful, **monitor** the impact of changes, and review the seating, routines or supports. The aim is better prevention, stronger **re-engagement** and **trust rebuilt** over time.
-
-<script src="{{ '/assets/cm-audio.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
