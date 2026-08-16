@@ -15,12 +15,22 @@
   if (!domain) return;
 
   const body = document.getElementById('docBody');
+  if (!body) return;
+
+  const cleanNumber = value => (value || '').replace(/^\s*\d+[.)]?\s+/, '').trim();
+  const removeVisibleNumber = element => {
+    const walker = document.createTreeWalker(element, NodeFilter.SHOW_TEXT);
+    let node = walker.nextNode();
+    while (node && !node.nodeValue.trim()) node = walker.nextNode();
+    if (node) node.nodeValue = node.nodeValue.replace(/^\s*\d+[.)]?\s+/, '');
+  };
+  body.querySelectorAll(':scope > h2, table tbody td:first-child').forEach(removeVisibleNumber);
+
   const toolbar = document.querySelector('.doc-toolbar');
   const synth = window.speechSynthesis;
-  if (!body || !toolbar || !synth || typeof SpeechSynthesisUtterance === 'undefined') return;
+  if (!toolbar || !synth || typeof SpeechSynthesisUtterance === 'undefined') return;
 
   const headings = Array.from(body.querySelectorAll(':scope > h2'));
-  const cleanNumber = value => (value || '').replace(/^\s*\d+[.)]?\s+/, '').trim();
   const findHeading = text => headings.find(heading => cleanNumber(heading.textContent) === text);
 
   const tableAfter = heading => {
