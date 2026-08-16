@@ -1,51 +1,111 @@
 (() => {
+  const normalise = value => (value || '')
+    .replace(/^\s*\d+[.)]?\s+/, '')
+    .toLowerCase()
+    .replace(/&/g, 'and')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  const abbreviate = value => (value || '')
+    .replace(/examples and non-examples/gi, 'ex/non-ex')
+    .replace(/multiple representations/gi, 'multi-reps')
+    .replace(/representations?/gi, 'reps')
+    .replace(/exemplars?/gi, 'exempl.')
+    .replace(/examples?/gi, 'ex')
+    .replace(/misconceptions?/gi, 'miscon.')
+    .replace(/prerequisites?/gi, 'prereq.')
+    .replace(/assessment/gi, 'assess.')
+    .replace(/conversion/gi, 'convert.')
+    .replace(/questioning/gi, 'Q')
+    .replace(/explanations?/gi, 'explain')
+    .replace(/observations?/gi, 'observe')
+    .replace(/independent practice/gi, 'indep. practice')
+    .replace(/guided practice/gi, 'guided practice')
+    .replace(/formative assessment/gi, 'AfL')
+    .replace(/learning intention/gi, 'learning intent.')
+    .replace(/success criteria/gi, 'success crit.')
+    .replace(/cumulative review/gi, 'cum. review')
+    .replace(/high expectations/gi, 'high expect.')
+    .replace(/professional learning/gi, 'prof. learning')
+    .replace(/consolidation/gi, 'consol.')
+    .replace(/independence/gi, 'indep.')
+    .replace(/participation/gi, 'particip.')
+    .replace(/understanding/gi, 'underst.')
+    .replace(/collaborative/gi, 'collab.')
+    .replace(/technology/gi, 'tech')
+    .replace(/differentiate[d]?/gi, 'diff.')
+    .replace(/responsive adjustment/gi, 'adapt')
+    .replace(/change representation/gi, 're-rep')
+    .replace(/re-teach/gi, 'reteach')
+    .replace(/expectations/gi, 'expect.')
+    .replace(/procedures/gi, 'procs.')
+    .replace(/factual handover/gi, 'fact. handover')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  const rememberQuestion = heading => {
+    if (heading.dataset.interviewConcept && heading.dataset.interviewQuestion) {
+      return {
+        concept: heading.dataset.interviewConcept,
+        question: heading.dataset.interviewQuestion
+      };
+    }
+
+    const text = (heading.textContent || '').trim();
+    const parts = text.split(/\s+—\s+/);
+    if (parts.length < 2) return null;
+    const concept = parts.shift().trim();
+    const question = parts.join(' — ').trim();
+    if (!concept || !question) return null;
+    heading.dataset.interviewConcept = concept;
+    heading.dataset.interviewQuestion = question;
+    return { concept, question };
+  };
+
+  const hideConceptPrefix = (heading, concept) => {
+    if (!heading || !concept || heading.dataset.conceptHidden === 'true') return;
+    const escaped = concept.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const prefix = new RegExp(`^\\s*${escaped}\\s+—\\s+`);
+    const walker = document.createTreeWalker(heading, NodeFilter.SHOW_TEXT);
+    let node;
+    while ((node = walker.nextNode())) {
+      if (node.parentElement?.closest('button')) continue;
+      if (!prefix.test(node.nodeValue || '')) continue;
+      node.nodeValue = (node.nodeValue || '').replace(prefix, '');
+      heading.dataset.conceptHidden = 'true';
+      break;
+    }
+  };
+
+  const compactMenuLinks = () => {
+    document.querySelectorAll('.topnav .dropmenu a[href*="#"]').forEach(link => {
+      if (link.dataset.menuPage !== undefined) return;
+      const raw = (link.textContent || '').trim();
+      if (!raw) return;
+
+      const parts = raw.split(/\s+—\s+/);
+      if (parts.length > 1) {
+        link.textContent = parts[0].trim();
+        return;
+      }
+
+      try {
+        const url = new URL(link.href, location.href);
+        if (url.pathname !== location.pathname || !url.hash) return;
+        const heading = document.getElementById(decodeURIComponent(url.hash.slice(1)));
+        if (heading?.dataset.interviewConcept) link.textContent = heading.dataset.interviewConcept;
+      } catch (_) {
+        // Leave the existing menu label alone if the URL is not parseable.
+      }
+    });
+  };
+
   const run = () => {
     const body = document.getElementById('docBody');
     if (!body) return;
 
     document.querySelector('.doc-intro')?.remove();
-
-    const normalise = value => (value || '')
-      .replace(/^\s*\d+[.)]?\s+/, '')
-      .toLowerCase()
-      .replace(/&/g, 'and')
-      .replace(/[^a-z0-9]+/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim();
-
-    const abbreviate = value => (value || '')
-      .replace(/examples and non-examples/gi, 'ex/non-ex')
-      .replace(/multiple representations/gi, 'multi-reps')
-      .replace(/representations?/gi, 'reps')
-      .replace(/exemplars?/gi, 'exempl.')
-      .replace(/examples?/gi, 'ex')
-      .replace(/misconceptions?/gi, 'miscon.')
-      .replace(/prerequisites?/gi, 'prereq.')
-      .replace(/assessment/gi, 'assess.')
-      .replace(/conversion/gi, 'convert.')
-      .replace(/questioning/gi, 'Q')
-      .replace(/explanations?/gi, 'explain')
-      .replace(/observations?/gi, 'observe')
-      .replace(/independent practice/gi, 'IP')
-      .replace(/guided practice/gi, 'GP')
-      .replace(/formative assessment/gi, 'AfL')
-      .replace(/learning intention/gi, 'LI')
-      .replace(/success criteria/gi, 'SC')
-      .replace(/cumulative review/gi, 'cum. review')
-      .replace(/high expectations/gi, 'high exp.')
-      .replace(/professional learning/gi, 'PL')
-      .replace(/consolidation/gi, 'consol.')
-      .replace(/independence/gi, 'indep.')
-      .replace(/participation/gi, 'particip.')
-      .replace(/understanding/gi, 'underst.')
-      .replace(/collaborative/gi, 'collab.')
-      .replace(/technology/gi, 'tech')
-      .replace(/differentiate[d]?/gi, 'diff.')
-      .replace(/responsive adjustment/gi, 'adapt')
-      .replace(/change representation/gi, 're-rep')
-      .replace(/re-teach/gi, 'reteach')
-      .replace(/\s+/g, ' ')
-      .trim();
 
     const headings = Array.from(body.querySelectorAll('h2'));
     const retrievalHeading = headings.find(heading => /retrieval\s+(chains|draft|map|table)/i.test(heading.textContent || ''));
@@ -125,10 +185,10 @@
 
     body.querySelectorAll('.question-breadcrumb-line').forEach(line => line.remove());
 
-    Array.from(body.querySelectorAll('h2')).forEach(heading => {
-      const text = (heading.textContent || '').trim();
-      if (!text.includes('—')) return;
-      const concept = text.split(/\s+—\s+/)[0].trim();
+    headings.forEach(heading => {
+      const remembered = rememberQuestion(heading);
+      if (!remembered) return;
+      const { concept } = remembered;
       const chain = chains.get(normalise(concept));
       if (!chain) return;
 
@@ -140,15 +200,16 @@
       const section = heading.closest('.answer-section');
       if (section) {
         section.appendChild(line);
-        return;
+      } else {
+        let nextHeading = heading.nextElementSibling;
+        while (nextHeading && nextHeading.tagName !== 'H2') {
+          nextHeading = nextHeading.nextElementSibling;
+        }
+        if (nextHeading) body.insertBefore(line, nextHeading);
+        else body.appendChild(line);
       }
 
-      let nextHeading = heading.nextElementSibling;
-      while (nextHeading && nextHeading.tagName !== 'H2') {
-        nextHeading = nextHeading.nextElementSibling;
-      }
-      if (nextHeading) body.insertBefore(line, nextHeading);
-      else body.appendChild(line);
+      hideConceptPrefix(heading, concept);
     });
 
     const fitLine = line => {
@@ -163,6 +224,7 @@
     const fitAll = () => body.querySelectorAll('.question-breadcrumb-line').forEach(fitLine);
     requestAnimationFrame(fitAll);
     window.setTimeout(fitAll, 250);
+    compactMenuLinks();
   };
 
   const schedule = () => {
@@ -171,7 +233,15 @@
     window.setTimeout(run, 150);
     window.setTimeout(run, 600);
     window.setTimeout(run, 1500);
+    window.setTimeout(compactMenuLinks, 1800);
   };
+
+  if (!document.documentElement.dataset.compactInterviewMenus) {
+    document.documentElement.dataset.compactInterviewMenus = 'true';
+    const observer = new MutationObserver(() => compactMenuLinks());
+    const nav = document.querySelector('.topnav');
+    if (nav) observer.observe(nav, { childList: true, subtree: true, characterData: true });
+  }
 
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', schedule, { once: true });
