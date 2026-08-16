@@ -12,10 +12,11 @@ intro: My answers on explanation, modelling, questioning, active learning,
 
 
 | Learn | Model | Retrieve | Question | Scaffold |
-| ------- | --------- | ----------- | -------- | ----------- |
+| ---------- | --------------- | ----------- | ------------- | ----------- |
 | Clarify | Check | Explain | Discuss | Practise |
 | Connect | Guide | Explore | Apply | Challenge |
 | Chunk | Represent | Collaborate | Revisit | Consolidate |
+| Dictionary | Bilingual cor.. | Elicit it | Real life use | Pre teach |
 
 
 ## Vocabulary
@@ -33,8 +34,6 @@ I particularly want **Model, Retrieve, Question, Scaffold, Check, Practise, Chal
 
 
 ## **What are the key features of good teaching?**
-
-
 
 👥 **Know the students** → 🧭 **Clear direction** → 🛠️ **Adapt teaching** → 📈 **Check progress** → 🤝 **Build confidence**
 
@@ -315,6 +314,12 @@ Study summary
 **Prompt:** Why first → learner need → desired outcome → then What/How.
 
 Open embedded full document
+
+Give students lots of chances to practice hearing, reading, speaking, and saying new words,
+
+
+
+&nbsp;
 
 [Open the official PDF in a new tab](https://www.oidetechnologyineducation.ie/app/uploads/2021/07/Digital-Learning-Planning-Guidelines-compressed_1.pdf)
 
