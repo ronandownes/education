@@ -18,6 +18,33 @@
     else label.removeAttribute('aria-current');
   });
 
+  // Teaching & Learning uses visible retrieval chips rather than a hidden or
+  // click-through chain. Keep each row on one line when it remains readable,
+  // and mark every unnumbered interview question with a small lead arrow.
+  if (/\/teaching-learning\.html$/.test(location.pathname)) {
+    document.querySelectorAll('#docBody > h2').forEach(heading => {
+      if (heading.textContent.includes('—')) heading.classList.add('interview-question-heading');
+    });
+
+    const retrievalLines = Array.from(document.querySelectorAll('.retrieval-chain-line'));
+    const fitRetrievalLine = line => {
+      line.classList.remove('is-wrapped');
+      line.style.fontSize = '';
+      let size = parseFloat(getComputedStyle(line).fontSize) || 14;
+      while (line.scrollWidth > line.clientWidth + 1 && size > 9) {
+        size -= .5;
+        line.style.fontSize = `${size}px`;
+      }
+      if (line.scrollWidth > line.clientWidth + 1) {
+        line.classList.add('is-wrapped');
+        line.style.fontSize = '';
+      }
+    };
+    const fitAllRetrievalLines = () => retrievalLines.forEach(fitRetrievalLine);
+    requestAnimationFrame(fitAllRetrievalLines);
+    window.addEventListener('resize', fitAllRetrievalLines);
+  }
+
   // Interview dropdowns are reading/rehearsal tools. On a desktop, use nearly the
   // full available screen height so long 24-question banks remain visible without
   // an unnecessary small internal scroll box.
