@@ -6,8 +6,6 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Build trust, notice changes, support regulation and re-engagement,
   coordinate pastoral support, and safeguard when required.
 ---
-
-
 ## Relationships & learning — What role do relationships play in learning?
 
 Relationships create the relational safety students need to take intellectual risks, ask for help, persist and recover from mistakes. I build trust through consistency, respect, fairness and positive regard while keeping high expectations clear. Trust is not an alternative to expectations; it makes expectations workable. When students feel a sense of belonging, participation and readiness to learn usually improve.
@@ -122,7 +120,7 @@ If what I notice moves beyond ordinary pastoral support into a welfare or child-
 
 &nbsp;
 
-
+&nbsp;
 
 
 | **Trust** | **Notice** | **Regulate** | **Support** | **Safeguard** |
@@ -172,7 +170,5 @@ If what I notice moves beyond ordinary pastoral support into a welfare or child-
 
 
 
-
-&nbsp;
 
 &nbsp;
