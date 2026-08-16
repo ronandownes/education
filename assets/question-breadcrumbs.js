@@ -100,6 +100,27 @@
     });
   };
 
+  const hideAppendixSources = body => {
+    const headings = Array.from(body.querySelectorAll('h2'));
+    headings.forEach(heading => {
+      const label = (heading.textContent || '').trim();
+      if (!/word wall$/i.test(label) && !/concepts and questions$/i.test(label)) return;
+
+      const section = heading.closest('.answer-section');
+      if (section) {
+        section.classList.add('interview-appendix-source');
+        return;
+      }
+
+      heading.classList.add('interview-appendix-source');
+      let node = heading.nextElementSibling;
+      while (node && node.tagName !== 'H2') {
+        node.classList.add('interview-appendix-source');
+        node = node.nextElementSibling;
+      }
+    });
+  };
+
   const ensureStyle = () => {
     let style = document.getElementById('question-breadcrumb-style');
     if (style) return;
@@ -107,6 +128,7 @@
     style = document.createElement('style');
     style.id = 'question-breadcrumb-style';
     style.textContent = `
+      .interview-appendix-source{display:none!important}
       .question-breadcrumb-line{
         display:block;
         width:100%;
@@ -132,6 +154,7 @@
         }
       }
       @media print{
+        .interview-appendix-source{display:none!important}
         .question-breadcrumb-line{
           margin:2.8mm 0 2mm;
           padding:1.7mm 2mm;
@@ -151,6 +174,9 @@
   const run = () => {
     const body = document.getElementById('docBody');
     if (!body) return;
+
+    ensureStyle();
+    hideAppendixSources(body);
 
     const headings = Array.from(body.querySelectorAll('h2'));
     const retrievalHeading = headings.find(heading =>
@@ -180,8 +206,6 @@
       if (concept && chain) chains.set(normalise(concept), chain);
     });
     if (!chains.size) return;
-
-    ensureStyle();
 
     headings.forEach(heading => {
       const remembered = rememberQuestion(heading);
