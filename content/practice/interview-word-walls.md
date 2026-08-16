@@ -31,4 +31,4 @@ intro: All eight interview-domain word walls in website order. Each table is pul
 }
 </style>
 
-<script src="{{ '/assets/interview-master.js' | relative_url }}"></script>
+<script src="{{ '/assets/interview-master.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
