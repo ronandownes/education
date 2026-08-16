@@ -1,3 +1,6 @@
+## Interview details
+**Monday 17 August · 3:00 pm · St Patrick's Comprehensive School, Shannon · V14 Y434 · in person.**
+
 ## Tell us about yourself / tell us about your experience
 I am an experienced post-primary **Mathematics teacher** with substantial experience across Junior Cycle, Leaving Certificate, Transition Year, mixed-ability classes and AEN / learning-support settings. The strongest thread through my teaching is making demanding Mathematics accessible without lowering expectations. I **plan carefully, teach clearly, scaffold where needed, secure learning through retrieval and purposeful practice, engage student thinking, and respond to evidence of learning**. I also bring State Examinations experience and a strong background in technology, mathematical modelling and data analytics. Whatever the exact opening question, I want the board to hear first and clearly what I bring **as a teacher**.
 
