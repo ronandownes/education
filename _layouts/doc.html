@@ -8,6 +8,7 @@
   <title>{{ page.title }} | Ronan Downes Education</title>
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}?v={{ site.github.build_revision }}">
+  <link rel="stylesheet" href="{{ '/assets/cm-audio.css' | relative_url }}?v={{ site.github.build_revision }}">
   {% if page.class_map %}<link rel="stylesheet" href="{{ '/assets/class-map.css' | relative_url }}?v={{ site.github.build_revision }}">{% endif %}
 </head>
 <body>
@@ -215,6 +216,7 @@
     </article>
   </main>
   <script src="{{ '/assets/navigation.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
+  <script src="{{ '/assets/cm-audio.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
   <script>
     document.querySelector('[data-action="print"]')?.addEventListener('click', () => window.print());
     (() => {
