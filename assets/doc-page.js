@@ -76,6 +76,22 @@
     });
   });
 
+  // The desktop navigation opens on hover/focus without visible arrow controls.
+  // On the collapsed navigation, the first tap opens a submenu and a second tap
+  // follows the section link.
+  document.querySelectorAll('.navitem > .navlabel').forEach(label => {
+    label.addEventListener('click', event => {
+      if (window.innerWidth > 1500) return;
+      const item = label.closest('.navitem');
+      const menu = item?.querySelector(':scope > .dropmenu');
+      if (!item || !menu || item.classList.contains('is-open')) return;
+      event.preventDefault();
+      event.stopPropagation();
+      closeNavMenus(item);
+      item.classList.add('is-open');
+    });
+  });
+
   document.addEventListener('click', event => {
     if (!event.target.closest('.topbar')) {
       closeNavMenus();
@@ -90,7 +106,7 @@
   });
 
   window.addEventListener('resize', () => {
-    if (window.innerWidth > 1280) closeMobileNav();
+    if (window.innerWidth > 1500) closeMobileNav();
   });
 
   const body = document.getElementById('docBody');
