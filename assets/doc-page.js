@@ -76,12 +76,11 @@
     });
   });
 
-  // The desktop navigation opens on hover/focus without visible arrow controls.
-  // On the collapsed navigation, the first tap opens a submenu and a second tap
-  // follows the section link.
+  // First click on a top-level heading opens and pins its menu. A second click
+  // follows the heading link. The menu otherwise stays open until a menu item
+  // is chosen, another heading is opened, or the user clicks away.
   document.querySelectorAll('.navitem > .navlabel').forEach(label => {
     label.addEventListener('click', event => {
-      if (window.innerWidth > 1500) return;
       const item = label.closest('.navitem');
       const menu = item?.querySelector(':scope > .dropmenu');
       if (!item || !menu || item.classList.contains('is-open')) return;
@@ -89,6 +88,7 @@
       event.stopPropagation();
       closeNavMenus(item);
       item.classList.add('is-open');
+      item.querySelectorAll('[data-nav-toggle]').forEach(toggle => toggle.setAttribute('aria-expanded', 'true'));
     });
   });
 
