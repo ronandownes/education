@@ -8,8 +8,6 @@ intro: My answers on explanation, modelling, questioning, active learning,
 ---
 # Teaching & Learning — 24 Interview Answers
 
-The wording is deliberately repetitive. **You are learning one teaching language and then bending it slightly to the question asked.**
-
 ## What are the key features of good teaching?
 
 For me, good teaching starts with **knowing the students in front of me** and being clear about what I want them to learn. I explain and model clearly, then move students from guided towards independent practice. I use questioning to make their thinking visible and check understanding throughout. Then I respond to that evidence by adapting the pace, support, representation or level of challenge.
