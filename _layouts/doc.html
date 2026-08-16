@@ -254,7 +254,7 @@
         if (!menu || (!headings.length && !pageLinks.length)) return false;
         menu.replaceChildren();
         addPageLinks(item, menu, pageLinks);
-        if (headings.length) addMenuHeading(menu, pageLinks.length ? 'Interview questions' : 'On this page');
+        if (headings.length && pageLinks.length) addMenuHeading(menu, 'Interview questions');
         headings.forEach((heading, index) => {
           const id = heading.id || `section-${index + 1}`;
           const link = document.createElement('a');
