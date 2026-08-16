@@ -6,18 +6,20 @@ This repository is Ronan Downes's working education and interview-preparation si
 
 ## Information Architecture
 
-The main navigation is built around **eight interview areas**, followed by **Glossary** and **Timeline**:
+The main navigation is built around **eight interview areas**, plus dedicated **Classes** and **Subject Planning** shelves, followed by **Glossary** and **Timeline**:
 
 1. Teaching & Learning
-2. Classroom Management
-3. SEN / AEN & Inclusion
-4. Differentiation & Accessibility
-5. Assessment, Feedback & Reporting
-6. Planning & Curriculum
-7. Relationships & Wellbeing
-8. Professional Responsibility & School Community
-9. Glossary
-10. Timeline
+2. Classes
+3. Classroom Management
+4. SEN / AEN & Inclusion
+5. Differentiation & Accessibility
+6. Assessment, Feedback & Reporting
+7. Planning & Curriculum
+8. Subject Planning
+9. Relationships & Wellbeing
+10. Professional Responsibility & School Community
+11. Glossary
+12. Timeline
 
 Do not restore **Subjects** as permanent top-level navigation unless Ronan explicitly asks for it. Subject pages can remain in the repository and may be reached from homepage launchpads or contextual links.
 
@@ -26,6 +28,8 @@ Do not add separate top-level **Home**, **Practice**, **Schools**, or **Intervie
 ## Navigation Rules
 
 - Each of the eight interview-area titles is a direct link to the full notes page for that area.
+- **Classes** and **Subject Planning** are top-level page shelves. Their dropdowns list pages only and do not mix in interview questions.
+- Keep class pages out of the **Teaching & Learning** dropdown and scheme-of-work pages out of the **Planning & Curriculum** dropdown.
 - The small dropdown control beside each title opens its typical interview questions or subtopics. Do not make users click an extra "All Notes" item.
 - Keep the desktop headings compact and deliberately wrapped where appropriate rather than stretching them across the full width.
 - Glossary is a direct top-level link for recurring professional language, concise definitions, distinctions and recall phrases.
