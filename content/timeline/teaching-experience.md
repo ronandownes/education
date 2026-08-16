@@ -1,9 +1,9 @@
 ---
 layout: doc
 permalink: /timeline.html
-title: Timeline
-eyebrow: TIMELINE
-intro: A reverse-chronological working record of schools, roles, subjects,
+title: Teaching Experience
+eyebrow: PROFESSIONAL EVIDENCE
+intro: A reverse-chronological evidence bank of schools, roles, subjects,
   SEN/AEN experience and the interview evidence each setting gives me.
 ---
 ## St Patrick's Comprehensive
@@ -183,7 +183,7 @@ Capture examples of withdrawal/support work, differentiation, concrete or visual
 
 ## John the Baptist Community School, Hospital — 2021
 
-**Key line: Add the specific classes, responsibilities and strongest examples from this period as the timeline is completed.**
+**Key line: Add the specific classes, responsibilities and strongest examples from this period as the evidence bank is completed.**
 
 Use this entry for evidence that is distinct from the later ETB and voluntary-secondary settings.
 
@@ -201,4 +201,4 @@ Build backwards from here through the remaining schools on the CV. For each scho
 - **What I learned**
 - **Which of the eight interview areas it supports**
 
-The timeline is a working evidence bank, not simply a CV. Add detail only when it helps me remember what I actually did, what I learned, and how that experience answers an interview question.
+This is a working evidence bank, not simply a CV. Add detail only when it helps me remember what I actually did, what I learned, and how that experience answers an interview question.
