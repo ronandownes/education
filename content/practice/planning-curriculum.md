@@ -24,7 +24,7 @@ I establish **where the class is in their learning**,
 
 check the **scheme of work and relevant learning outcome**, 
 
-and unpack that into an **achievable lesson goal**. 
+unpack to an **achievable lesson goal**. 
 
 I use **retrieval** to activate prior learning 
 
