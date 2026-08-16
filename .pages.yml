@@ -40,11 +40,10 @@ content:
   - { name: differentiation, label: "Differentiation & Accessibility", type: file, path: content/practice/differentiation-accessibility.md, format: yaml-frontmatter, fields: *docfields }
   - { name: assessment, label: "Assessment, Feedback & Reporting", type: file, path: content/practice/assessment-reporting.md, format: yaml-frontmatter, fields: *docfields }
   - { name: relationships, label: "Relationships & Wellbeing", type: file, path: content/practice/relationships-wellbeing.md, format: yaml-frontmatter, fields: *docfields }
-  - { name: professional, label: "Professional Responsibility & School Community", type: group, items: [ { name: professional_main, label: "Professional Responsibility — Main Notes", type: file, path: content/practice/professional-practice.md, format: yaml-frontmatter, fields: *docfields }, { name: stpatricks, label: "School Research — St Patrick's Comprehensive", type: file, path: content/schools/st-patricks.md, format: yaml-frontmatter, fields: *docfields }, { name: stpatricksnote, label: "Interview Note — St Patrick's", type: file, path: content/interview/st-patricks.md, format: yaml-frontmatter, fields: *docfields } ] }
+  - { name: professional, label: "Professional Responsibility & School Community", type: group, items: [ { name: professional_main, label: "Professional Responsibility — Main Notes", type: file, path: content/practice/professional-practice.md, format: yaml-frontmatter, fields: *docfields }, { name: timeline, label: "Teaching Experience", type: file, path: content/timeline/teaching-experience.md, format: yaml-frontmatter, fields: *docfields }, { name: stpatricks, label: "School Research — St Patrick's Comprehensive", type: file, path: content/schools/st-patricks.md, format: yaml-frontmatter, fields: *docfields }, { name: stpatricksnote, label: "Interview Note — St Patrick's", type: file, path: content/interview/st-patricks.md, format: yaml-frontmatter, fields: *docfields } ] }
   - { name: glossary, label: "Glossary", type: file, path: content/reference/glossary.md, format: yaml-frontmatter, fields: *docfields }
   - { name: policies, label: "Policies", type: file, path: content/policies/policies.md, format: yaml-frontmatter, fields: *docfields }
   - { name: wordwall, label: "Word Wall", type: file, path: content/reference/word-wall.md, format: yaml-frontmatter, fields: *docfields }
-  - { name: timeline, label: "Timeline", type: file, path: content/timeline/teaching-experience.md, format: yaml-frontmatter, fields: *docfields }
 
   - name: schemes
     label: "Plans"
@@ -84,14 +83,6 @@ content:
       - { name: profile_sixth_lca, label: "Sixth Year LCA Mathematics", type: file, path: content/teaching/class-profiles/sixth-year-lca.md, format: yaml-frontmatter, fields: *docfields }
       - { name: profile_fifth_support, label: "Fifth Year — Learning Support", type: file, path: content/teaching/class-profiles/fifth-year-support.md, format: yaml-frontmatter, fields: *docfields }
       - { name: profile_sixth_support, label: "Sixth Year — Learning Support", type: file, path: content/teaching/class-profiles/sixth-year-support.md, format: yaml-frontmatter, fields: *docfields }
-
-  - name: expanded_domains
-    label: "Expanded Professional Pages"
-    type: group
-    items:
-      - { name: sen_detail, label: "SEN", type: file, path: content/practice/sen.md, format: yaml-frontmatter, fields: *docfields }
-      - { name: aen_detail, label: "AEN", type: file, path: content/practice/aen.md, format: yaml-frontmatter, fields: *docfields }
-      - { name: inclusion_detail, label: "Inclusion", type: file, path: content/practice/inclusion.md, format: yaml-frontmatter, fields: *docfields }
 
   - name: notebooks
     label: "Notebooks"
