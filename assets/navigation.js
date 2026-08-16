@@ -31,7 +31,8 @@
       line.classList.remove('is-wrapped');
       line.style.fontSize = '';
       let size = parseFloat(getComputedStyle(line).fontSize) || 14;
-      while (line.scrollWidth > line.clientWidth + 1 && size > 9) {
+      const minimumSize = window.matchMedia('(max-width: 720px)').matches ? 9 : 7.5;
+      while (line.scrollWidth > line.clientWidth + 1 && size > minimumSize) {
         size -= .5;
         line.style.fontSize = `${size}px`;
       }
