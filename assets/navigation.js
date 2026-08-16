@@ -138,6 +138,249 @@
     }
   }
 
+  // Planning & Curriculum Word Wall: selecting a term highlights every interview
+  // question/answer that uses it. This is deliberately page-scoped so the rest of
+  // the site and the editable Markdown remain untouched.
+  if (location.pathname.endsWith('/planning-curriculum.html')) {
+    const body = document.getElementById('docBody');
+    if (body) {
+      const wallHeading = Array.from(body.querySelectorAll('h2')).find(
+        heading => heading.textContent.trim() === 'Planning & Curriculum Word Wall'
+      );
+      const wall = wallHeading?.nextElementSibling;
+
+      if (wall?.tagName === 'TABLE') {
+        wall.classList.add('interactive-word-wall');
+
+        const style = document.createElement('style');
+        style.textContent = `
+          .interactive-word-wall tbody td.wordwall-term{cursor:pointer;transition:background .12s ease,box-shadow .12s ease,color .12s ease}
+          .interactive-word-wall tbody td.wordwall-term:hover,.interactive-word-wall tbody td.wordwall-term:focus-visible{outline:none;box-shadow:inset 0 0 0 2px #34a853;background:#f3fbf5!important}
+          .interactive-word-wall tbody td.wordwall-term.is-selected{box-shadow:inset 0 0 0 3px #34a853;background:#e6f4ea!important;color:#137333;font-weight:700}
+          .wordwall-results{margin:-10px 0 26px;padding:12px 14px;border:1px solid #ceead6;border-radius:10px;background:#f6fff8}
+          .wordwall-results-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:9px;color:#137333;font-weight:700}
+          .wordwall-results-clear{border:1px solid #a8dab5;border-radius:999px;background:#fff;color:#137333;padding:4px 9px;font:inherit;font-size:.76rem;cursor:pointer}
+          .wordwall-results-list{display:flex;flex-wrap:wrap;gap:7px}
+          .wordwall-question-chip{display:inline-block;padding:6px 10px;border:2px solid #34a853;border-radius:999px;background:#fff;color:#137333;text-decoration:none;font-size:.78rem;font-weight:700;line-height:1.25}
+          .wordwall-question-chip:hover,.wordwall-question-chip:focus-visible{background:#e6f4ea;outline:none}
+          .doc-body h2.wordwall-question-hit{margin-top:8px;padding:8px 12px;border:2px solid #34a853;border-radius:14px;background:#e6f4ea;box-shadow:0 0 0 2px rgba(52,168,83,.08);scroll-margin-top:112px}
+          mark.wordwall-term-mark{background:#b7e1cd;color:inherit;border-radius:3px;padding:0 .08em}
+          @media(max-width:600px){.wordwall-results-head{align-items:flex-start}.wordwall-question-chip{font-size:.74rem}}
+          @media print{.wordwall-results{display:none!important}.interactive-word-wall tbody td.wordwall-term{box-shadow:none!important}.doc-body h2.wordwall-question-hit{padding:0;border:0;background:transparent;box-shadow:none}mark.wordwall-term-mark{background:transparent;padding:0}}
+        `;
+        document.head.appendChild(style);
+
+        const results = document.createElement('div');
+        results.className = 'wordwall-results';
+        results.hidden = true;
+        wall.insertAdjacentElement('afterend', results);
+
+        const questionHeadings = Array.from(body.querySelectorAll('h2')).filter(heading =>
+          /^\s*\d+\b/.test(heading.textContent.trim())
+        );
+
+        const questionSections = questionHeadings.map((heading, index) => {
+          if (!heading.id) heading.id = `planning-question-${index + 1}`;
+          const nodes = [];
+          let node = heading.nextElementSibling;
+          while (node && node.tagName !== 'H2') {
+            nodes.push(node);
+            node = node.nextElementSibling;
+          }
+          return {
+            heading,
+            nodes,
+            text: [heading.textContent, ...nodes.map(item => item.textContent || '')].join(' ')
+          };
+        });
+
+        const escapeRegex = value => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const normaliseTerm = value => value
+          .toLowerCase()
+          .replace(/[–—-]/g, ' ')
+          .replace(/&/g, ' and ')
+          .replace(/[^a-z0-9\s]/g, ' ')
+          .replace(/\s+/g, ' ')
+          .trim();
+        const stopWords = new Set(['a', 'an', 'the', 'of', 'and', 'to']);
+
+        const tokenPattern = token => {
+          const special = {
+            assessment: 'assess\\w*',
+            assessments: 'assess\\w*',
+            challenge: 'challeng\\w*',
+            consolidation: 'consolidat\\w*',
+            decisions: 'decision\\w*',
+            evidence: 'evidenc\\w*',
+            expectations: 'expect\\w*',
+            generalisation: 'generalis\\w*',
+            grouping: 'group\\w*',
+            independence: 'independen\\w*',
+            interleaving: 'interleav\\w*',
+            justification: 'justif\\w*',
+            misconceptions: 'misconcept\\w*',
+            observation: 'observ\\w*',
+            outcomes: 'outcome\\w*',
+            processing: 'process\\w*',
+            progression: 'progress\\w*',
+            questioning: 'question\\w*',
+            reflect: 'reflect\\w*',
+            representation: 'represent\\w*',
+            representations: 'represent\\w*',
+            responsive: 'respons\\w*',
+            scaffold: 'scaffold\\w*',
+            support: 'support\\w*',
+            change: 'chang\\w*'
+          };
+          if (special[token]) return special[token];
+          if (token.length > 4 && token.endsWith('s')) return `${escapeRegex(token.slice(0, -1))}\\w*`;
+          if (token.length > 4) return `${escapeRegex(token)}\\w*`;
+          return escapeRegex(token);
+        };
+
+        const matcherSource = term => {
+          const key = normaliseTerm(term);
+          if (key === 'revisit learning') return '\\brevisit\\w*\\b';
+          const tokens = key.split(' ').filter(token => token && !stopWords.has(token));
+          if (!tokens.length) return null;
+          const joined = tokens.map(tokenPattern).join('(?:\\W+\\w+){0,6}\\W+');
+          return `\\b${joined}\\b`;
+        };
+
+        const clearMarks = () => {
+          body.querySelectorAll('mark.wordwall-term-mark').forEach(mark => {
+            mark.replaceWith(document.createTextNode(mark.textContent || ''));
+          });
+          body.normalize();
+        };
+
+        const clearSelection = () => {
+          wall.querySelectorAll('td.wordwall-term').forEach(cell => {
+            cell.classList.remove('is-selected');
+            cell.setAttribute('aria-pressed', 'false');
+          });
+          questionHeadings.forEach(heading => heading.classList.remove('wordwall-question-hit'));
+          clearMarks();
+          results.hidden = true;
+          results.replaceChildren();
+        };
+
+        const markMatches = (nodes, source) => {
+          const regex = new RegExp(source, 'gi');
+          nodes.forEach(root => {
+            const textNodes = [];
+            const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+              acceptNode(node) {
+                const parent = node.parentElement;
+                if (!parent || parent.closest('script, style, table, mark, .wordwall-results')) return NodeFilter.FILTER_REJECT;
+                regex.lastIndex = 0;
+                return regex.test(node.nodeValue || '') ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+              }
+            });
+            while (walker.nextNode()) textNodes.push(walker.currentNode);
+
+            textNodes.forEach(node => {
+              const text = node.nodeValue || '';
+              const local = new RegExp(source, 'gi');
+              let match;
+              let last = 0;
+              let changed = false;
+              const fragment = document.createDocumentFragment();
+              while ((match = local.exec(text))) {
+                if (match.index > last) fragment.appendChild(document.createTextNode(text.slice(last, match.index)));
+                const mark = document.createElement('mark');
+                mark.className = 'wordwall-term-mark';
+                mark.textContent = match[0];
+                fragment.appendChild(mark);
+                last = match.index + match[0].length;
+                changed = true;
+                if (match[0].length === 0) local.lastIndex += 1;
+              }
+              if (!changed) return;
+              if (last < text.length) fragment.appendChild(document.createTextNode(text.slice(last)));
+              node.replaceWith(fragment);
+            });
+          });
+        };
+
+        const shortQuestion = heading => {
+          const parts = heading.textContent.trim().split(/\s+—\s+/);
+          if (parts.length > 1 && /\?$/.test(parts[parts.length - 1])) parts.pop();
+          return parts.join(' — ');
+        };
+
+        const selectTerm = cell => {
+          const raw = cell.textContent.trim();
+          const parsed = raw.match(/^(.*?)(?:\s*\((\d+)\))?$/);
+          const term = parsed?.[1]?.trim() || raw;
+          const count = Number(parsed?.[2] || 0);
+          const source = matcherSource(term);
+          if (!term || !source) return;
+
+          const alreadySelected = cell.classList.contains('is-selected');
+          clearSelection();
+          if (alreadySelected) return;
+
+          cell.classList.add('is-selected');
+          cell.setAttribute('aria-pressed', 'true');
+
+          const matcher = new RegExp(source, 'i');
+          const matches = questionSections.filter(section => matcher.test(section.text));
+          matches.forEach(section => {
+            section.heading.classList.add('wordwall-question-hit');
+            markMatches(section.nodes, source);
+          });
+
+          const head = document.createElement('div');
+          head.className = 'wordwall-results-head';
+          const title = document.createElement('span');
+          const usage = count ? `${term} (${count})` : term;
+          title.textContent = `${usage} · ${matches.length} question${matches.length === 1 ? '' : 's'}`;
+          const clear = document.createElement('button');
+          clear.type = 'button';
+          clear.className = 'wordwall-results-clear';
+          clear.textContent = 'Clear';
+          clear.addEventListener('click', clearSelection);
+          head.append(title, clear);
+
+          const list = document.createElement('div');
+          list.className = 'wordwall-results-list';
+          matches.forEach(section => {
+            const chip = document.createElement('a');
+            chip.className = 'wordwall-question-chip';
+            chip.href = `#${section.heading.id}`;
+            chip.textContent = shortQuestion(section.heading);
+            chip.title = section.heading.textContent.trim();
+            chip.addEventListener('click', event => {
+              event.preventDefault();
+              history.replaceState(null, '', `#${section.heading.id}`);
+              section.heading.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            });
+            list.appendChild(chip);
+          });
+
+          results.append(head, list);
+          results.hidden = false;
+        };
+
+        wall.querySelectorAll('tbody td').forEach(cell => {
+          if (!cell.textContent.trim()) return;
+          cell.classList.add('wordwall-term');
+          cell.tabIndex = 0;
+          cell.setAttribute('role', 'button');
+          cell.setAttribute('aria-pressed', 'false');
+          cell.title = 'Show the Planning & Curriculum questions that use this term';
+          cell.addEventListener('click', () => selectTerm(cell));
+          cell.addEventListener('keydown', event => {
+            if (event.key !== 'Enter' && event.key !== ' ') return;
+            event.preventDefault();
+            selectTerm(cell);
+          });
+        });
+      }
+    }
+  }
+
   // The document layout rebuilds question menus from the current rendered headings.
   // Before that async rebuild finishes, make every old hard-coded hash a safe page
   // fallback rather than leaving a stale/dead anchor clickable.
