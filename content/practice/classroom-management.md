@@ -5,7 +5,6 @@ title: Classroom Management
 eyebrow: PROFESSIONAL PRACTICE
 intro: My approach is preventative first: clear routines, high expectations and positive relationships. I respond early to low-level disruption, regulate and de-escalate calmly, follow up through agreed school systems, and repair the relationship so the student can return to learning.
 ---
-# Classroom Management
 
 ## Classroom Management Word Wall
 
@@ -24,7 +23,7 @@ intro: My approach is preventative first: clear routines, high expectations and 
 | Teacher presence (4) | Proportionate consequence (2) | Movement break (2) | Refer (3) | Student voice (1) |
 | Hope (1) | Code of Behaviour (2) | Reset (2) | Collaboration (1) | Review (2) |
 
-## 24 Interview Questions
+## Classroom Management Concepts and Questions
 
 | **CM concept** | **Interview question** |
 |---|---|
