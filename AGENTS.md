@@ -6,7 +6,7 @@ This repository is Ronan Downes's working education and interview-preparation si
 
 ## Information Architecture
 
-The main navigation is built around **eight interview areas**, plus dedicated **Classes** and **Subject Planning** shelves, followed by **Glossary** and **Timeline**:
+The main navigation is built around **eight interview areas**, plus dedicated **Classes** and **Plans** shelves, followed by **Glossary** and **Timeline**:
 
 1. Teaching & Learning
 2. Classes
@@ -15,7 +15,7 @@ The main navigation is built around **eight interview areas**, plus dedicated **
 5. Differentiation & Accessibility
 6. Assessment, Feedback & Reporting
 7. Planning & Curriculum
-8. Subject Planning
+8. Plans
 9. Relationships & Wellbeing
 10. Professional Responsibility & School Community
 11. Glossary
@@ -28,7 +28,8 @@ Do not add separate top-level **Home**, **Practice**, **Schools**, or **Intervie
 ## Navigation Rules
 
 - Each of the eight interview-area titles is a direct link to the full notes page for that area.
-- **Classes** and **Subject Planning** are top-level page shelves. Their dropdowns list pages only and do not mix in interview questions.
+- **Classes** and **Plans** are top-level page shelves. Their dropdowns list pages only and do not mix in interview questions.
+- **Plans** contains actual plans, schemes of work and the curriculum specifications they use—not Planning & Curriculum interview questions.
 - Keep class pages out of the **Teaching & Learning** dropdown and scheme-of-work pages out of the **Planning & Curriculum** dropdown.
 - The small dropdown control beside each title opens its typical interview questions or subtopics. Do not make users click an extra "All Notes" item.
 - Keep the desktop headings compact and deliberately wrapped where appropriate rather than stretching them across the full width.

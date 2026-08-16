@@ -11,9 +11,9 @@ This is the organising idea behind the site. **Hope** that progress is possible;
 
 ## How this site is organised
 
-The main navigation follows the core interview domains. **Glossary** holds recurring professional language and recall phrases. **Timeline** holds teaching experience and school context. **Policies** is available from the reference shelf below.
+The main navigation keeps the core interview domains visible and adds two practical shelves: **Classes** for class profiles and **Plans** for actual schemes of work and the curriculum specifications they use. **Glossary** holds recurring professional language and recall phrases. **Timeline** holds teaching experience and school context. **Policies** is available from the reference shelf below.
 
-Subject material is deliberately kept out of the permanent navigation for now so the interview structure stays clean.
+Use the top navigation as the first place to look: interview questions stay under their domains, while class records and working plans have their own obvious homes.
 
 ## Subject Launchpad
 

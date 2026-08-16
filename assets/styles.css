@@ -15,7 +15,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .nav-differentiation{--nav-w:128px}
 .nav-assessment{--nav-w:145px}
 .nav-planning{--nav-w:104px}
-.nav-subject-planning{--nav-w:92px}
+.nav-plans{--nav-w:92px}
 .nav-relationships{--nav-w:116px}
 .nav-professional{--nav-w:122px}
 .nav-subjects{--nav-w:76px}
@@ -118,7 +118,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   .topbar.nav-open .mobile-nav-icon::after{top:0;transform:rotate(-45deg)}
   .topnav{display:none;order:3;flex:0 0 100%;width:100%;min-height:0;max-height:calc(100vh - 64px);overflow-y:auto;overflow-x:hidden;flex-direction:column;align-items:stretch;border-top:1px solid var(--line);margin-top:8px;background:#fff}
   .topbar.nav-open .topnav{display:flex}
-  .navitem,.nav-teaching,.nav-classes,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-subject-planning,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{--nav-w:auto;width:100%;flex:0 0 auto;min-height:0;grid-template-columns:minmax(0,1fr) 46px;border-bottom:1px solid #eceff1}
+  .navitem,.nav-teaching,.nav-classes,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-plans,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{--nav-w:auto;width:100%;flex:0 0 auto;min-height:0;grid-template-columns:minmax(0,1fr) 46px;border-bottom:1px solid #eceff1}
   .nav-menu-only{grid-template-columns:1fr}
   .navlabel,.navtoggle{min-height:48px}
   .navlabel{justify-content:flex-start;text-align:left;font-size:.94rem;line-height:1.25;white-space:normal;padding:0 12px}
@@ -179,7 +179,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .inline-caret{display:none}
 
 @media(max-width:1500px){
-  .navitem,.nav-teaching,.nav-classes,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-subject-planning,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{grid-template-columns:1fr}
+  .navitem,.nav-teaching,.nav-classes,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-plans,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{grid-template-columns:1fr}
   .navitem>.navtoggle{height:48px}
 }
 

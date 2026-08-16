@@ -109,11 +109,12 @@
         </div>
       </div>
 
-      <div class="navitem nav-subject-planning">
-        <a class="navlabel" href="{{ '/planning/schemes-of-work.html' | relative_url }}"><span>Subject<br>Planning</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Subject Planning menu">▾</button>
+      <div class="navitem nav-plans">
+        <a class="navlabel" href="{{ '/planning/schemes-of-work.html' | relative_url }}"><span>Plans</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Plans menu">▾</button>
         <div class="dropmenu">
-          <a data-menu-page href="{{ '/planning/schemes-of-work.html' | relative_url }}">Subject Planning — overview</a>
+          <a data-menu-page href="{{ '/planning/schemes-of-work.html' | relative_url }}">Plans — overview</a>
+          <a data-menu-page href="{{ '/specification/jc-mathematics.html' | relative_url }}">Junior Cycle Mathematics Specification</a>
           <a data-menu-page href="{{ '/planning/schemes/first-year-maths.html' | relative_url }}">First Year Mathematics</a>
           <a data-menu-page href="{{ '/planning/schemes/second-year-maths.html' | relative_url }}">Second Year Mathematics — OL / HL</a>
           <a data-menu-page href="{{ '/planning/schemes/third-year-maths.html' | relative_url }}">Third Year Mathematics — OL / HL</a>
@@ -281,8 +282,8 @@
           text: link.textContent.trim()
         }));
 
-        // Classes and Subject Planning are page shelves, not interview-question menus.
-        if (item.matches('.nav-classes, .nav-subject-planning')) {
+        // Classes and Plans are page shelves, not interview-question menus.
+        if (item.matches('.nav-classes, .nav-plans')) {
           menu.replaceChildren();
           addPageLinks(item, menu, pageLinks);
           return;
