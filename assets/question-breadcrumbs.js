@@ -47,26 +47,31 @@
           display:block;
           width:100%;
           box-sizing:border-box;
-          margin:9px 0 14px;
-          padding:0 0 9px;
-          border:0;
+          margin:16px 0 24px;
+          padding:9px 12px 10px;
+          border-top:1px solid #e5e7eb;
           border-bottom:1px solid #e5e7eb;
-          background:transparent;
-          color:#4b5563;
+          background:#fafafa;
+          color:#59636e;
           font-size:.9rem;
           line-height:1.45;
           font-weight:400;
           letter-spacing:0;
         }
         @media(max-width:600px){
-          .question-breadcrumb-line{margin-top:8px;margin-bottom:12px;padding-bottom:8px;font-size:.84rem}
+          .question-breadcrumb-line{
+            margin:14px 0 20px;
+            padding:8px 10px 9px;
+            font-size:.84rem;
+          }
         }
         @media print{
           .question-breadcrumb-line{
-            margin:1.8mm 0 2.4mm;
-            padding:0 0 1.4mm;
-            border-bottom:.4pt solid #bfc3c8;
-            background:transparent;
+            margin:2.5mm 0 3.5mm;
+            padding:1.6mm 2mm;
+            border-top:.4pt solid #c7cbd0;
+            border-bottom:.4pt solid #c7cbd0;
+            background:#fafafa;
             font-size:8pt;
             line-height:1.2;
             font-weight:400;
@@ -76,9 +81,6 @@
       document.head.appendChild(style);
     }
 
-    // Rebuild these lines each time so later page-enhancement scripts cannot leave
-    // them sitting above the question. The master retrieval table remains the only
-    // source of truth.
     body.querySelectorAll('.question-breadcrumb-line').forEach(line => line.remove());
 
     Array.from(body.querySelectorAll('h2')).forEach(heading => {
@@ -93,12 +95,23 @@
       line.dataset.breadcrumbConcept = concept;
       line.textContent = chain;
 
-      const headingRow = heading.closest('.answer-heading-row');
-      if (headingRow) {
-        headingRow.insertAdjacentElement('afterend', line);
-      } else {
-        heading.insertAdjacentElement('afterend', line);
+      const section = heading.closest('.answer-section');
+      const content = section?.querySelector(':scope > .section-content');
+
+      if (section && content) {
+        // Question heading, then full answer content, then the retrieval prompt.
+        content.insertAdjacentElement('afterend', line);
+        return;
       }
+
+      // Plain Markdown fallback: insert after the answer block and before the next H2.
+      let last = heading;
+      let node = heading.nextElementSibling;
+      while (node && node.tagName !== 'H2') {
+        last = node;
+        node = node.nextElementSibling;
+      }
+      last.insertAdjacentElement('afterend', line);
     });
   };
 
