@@ -7,17 +7,17 @@ A document-style professional notebook for teaching practice, subject knowledge,
 The site uses eight core interview domains plus two practical top-level shelves:
 
 - Teaching & Learning
-- Profiles
 - Classroom Management
 - SEN / AEN & Inclusion
 - Differentiation & Accessibility
 - Assessment, Feedback & Reporting
 - Planning & Curriculum
-- Plans
 - Relationships & Wellbeing
 - Professional Responsibility & School Community
+- Profiles
+- Plans
 
-The logo is the Home link. There are no separate Home, Practice or Interview navigation tabs. **Profiles** holds both class profiles and school profiles. **Plans** holds actual schemes of work and the curriculum specifications they use. Planning and curriculum interview questions remain under **Planning & Curriculum**.
+The logo is the Home link. There are no separate Home, Practice or Interview navigation tabs. **Profiles** holds both class profiles and school profiles. **Plans** holds actual schemes of work and the curriculum specifications they use, and sits at the end of the navigation immediately after Profiles. Planning and curriculum interview questions remain under **Planning & Curriculum**.
 
 Each interview-domain dropdown surfaces the current questions for that area so the navigation acts as an interview-recall scaffold. Operational material is kept in Profiles and Plans so users do not have to discover it inside question menus. Teaching experience is retained under Professional Responsibility rather than as a separate Timeline tab.
 

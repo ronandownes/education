@@ -61,7 +61,10 @@
 
   document.querySelector('.nav-glossary')?.remove();
   document.querySelector('.nav-timeline')?.remove();
-  if (profilesItem) document.querySelector('.topnav')?.appendChild(profilesItem);
+  const topnav = document.querySelector('.topnav');
+  const plansItem = document.querySelector('.nav-plans');
+  if (profilesItem) topnav?.appendChild(profilesItem);
+  if (plansItem) topnav?.appendChild(plansItem);
 
   // Keep the old /timeline.html URL working, but stop presenting the page as a
   // "Timeline" now that its useful role is an evidence bank for experience.

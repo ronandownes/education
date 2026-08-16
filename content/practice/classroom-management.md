@@ -3,7 +3,11 @@ layout: doc
 permalink: /classroom-management.html
 title: Classroom Management
 eyebrow: PROFESSIONAL PRACTICE
-intro: My approach is preventative first: clear routines, high expectations and positive relationships. I respond early to low-level disruption, regulate and de-escalate calmly, follow up through agreed school systems, and repair the relationship so the student can return to learning.
+intro: >
+  My approach is preventative first: clear routines, high expectations and
+  positive relationships. I respond early to low-level disruption, regulate
+  and de-escalate calmly, follow up through agreed school systems, and repair
+  the relationship so the student can return to learning.
 ---
 
 ## Classroom Management Word Wall
