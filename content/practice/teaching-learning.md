@@ -5,6 +5,8 @@ title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
+<script src="{{ '/assets/question-breadcrumbs.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
+
 ## Teaching & Learning Retrieval Chains
 
 | Concept | Retrieval chain |
