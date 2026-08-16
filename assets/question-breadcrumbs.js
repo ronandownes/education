@@ -28,68 +28,81 @@
     }
     if (!table || table.tagName !== 'TABLE') return;
 
-    const rows = Array.from(table.querySelectorAll('tbody tr'));
     const chains = new Map();
-    rows.forEach(row => {
+    Array.from(table.querySelectorAll('tbody tr')).forEach(row => {
       const conceptCell = row.children[0];
       const chainCell = row.children[row.children.length - 1];
       if (!conceptCell || !chainCell || conceptCell === chainCell) return;
       const concept = conceptCell.textContent.trim();
       const chain = chainCell.textContent.trim();
-      if (!concept || !chain) return;
-      chains.set(normalise(concept), chain);
+      if (concept && chain) chains.set(normalise(concept), chain);
     });
     if (!chains.size) return;
 
-    const style = document.createElement('style');
-    style.textContent = `
-      .question-breadcrumb-line{
-        display:block;
-        width:100%;
-        box-sizing:border-box;
-        margin:5px 0 10px;
-        padding:0;
-        border:0;
-        background:transparent;
-        color:#4b5563;
-        font-size:.9rem;
-        line-height:1.4;
-        font-weight:400;
-        letter-spacing:0;
-      }
-      @media(max-width:600px){
-        .question-breadcrumb-line{font-size:.84rem}
-      }
-      @media print{
-        .question-breadcrumb-line{margin:1mm 0 1.8mm;padding:0;font-size:8pt;line-height:1.2;background:transparent;border:0;font-weight:400}
-      }
-    `;
-    document.head.appendChild(style);
+    if (!document.getElementById('question-breadcrumb-style')) {
+      const style = document.createElement('style');
+      style.id = 'question-breadcrumb-style';
+      style.textContent = `
+        .question-breadcrumb-line{
+          display:block;
+          width:100%;
+          box-sizing:border-box;
+          margin:5px 0 10px;
+          padding:0;
+          border:0;
+          background:transparent;
+          color:#4b5563;
+          font-size:.9rem;
+          line-height:1.4;
+          font-weight:400;
+          letter-spacing:0;
+        }
+        @media(max-width:600px){.question-breadcrumb-line{font-size:.84rem}}
+        @media print{
+          .question-breadcrumb-line{margin:1mm 0 1.8mm;padding:0;font-size:8pt;line-height:1.2;background:transparent;border:0;font-weight:400}
+        }
+      `;
+      document.head.appendChild(style);
+    }
 
-    headings.forEach(heading => {
+    // Rebuild these lines each time so later page-enhancement scripts cannot leave
+    // them sitting above the question. The master retrieval table remains the only
+    // source of truth.
+    body.querySelectorAll('.question-breadcrumb-line').forEach(line => line.remove());
+
+    Array.from(body.querySelectorAll('h2')).forEach(heading => {
       const text = (heading.textContent || '').trim();
       if (!text.includes('—')) return;
       const concept = text.split(/\s+—\s+/)[0].trim();
       const chain = chains.get(normalise(concept));
       if (!chain) return;
-      if (heading.closest('.answer-section')?.querySelector(':scope > .question-breadcrumb-line')) return;
-      if (heading.nextElementSibling?.classList?.contains('question-breadcrumb-line')) return;
 
       const line = document.createElement('div');
       line.className = 'question-breadcrumb-line';
       line.dataset.breadcrumbConcept = concept;
       line.textContent = chain;
 
-      const section = heading.closest('.answer-section');
       const headingRow = heading.closest('.answer-heading-row');
-      if (section && headingRow && headingRow.parentElement === section) {
+      if (headingRow) {
+        // The question lives in the heading row; put the prompt immediately after it.
         headingRow.insertAdjacentElement('afterend', line);
       } else {
+        // Plain Markdown page: question H2, then prompt, then the answer paragraph.
         heading.insertAdjacentElement('afterend', line);
       }
     });
   };
 
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run, { once: true });
-  else run();
+  const schedule = () => {
+    run();
+    requestAnimationFrame(run);
+    window.setTimeout(run, 120);
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', schedule, { once: true });
+  } else {
+    schedule();
+  }
+  window.addEventListener('load', run, { once: true });
 })();
