@@ -3,7 +3,7 @@ layout: doc
 permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
-intro: My answers on planning, teaching, securing knowledge and skills, engaging students in thinking, connections and problem-solving, and responding to evidence of learning.
+intro: My answers on planning, teaching, securing knowledge and skills, engaging students in thinking and gaining confidence through using the language of maths for conversation and problem-solving, and responding to evidence of learning through tasks, quizzes, exercises and rich problem-solving tasks.
 ---
 # Teaching & Learning
 
