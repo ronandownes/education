@@ -85,6 +85,9 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .retrieval-wall th:nth-child(1),.retrieval-wall td:nth-child(1){width:15%}
 .retrieval-wall th:nth-child(2),.retrieval-wall td:nth-child(2){width:32%}
 .retrieval-wall th:nth-child(3),.retrieval-wall td:nth-child(3){width:53%}
+.retrieval-wall.retrieval-wall--recall table{min-width:820px}
+.retrieval-wall.retrieval-wall--recall th:nth-child(1),.retrieval-wall.retrieval-wall--recall td:nth-child(1){width:17%}
+.retrieval-wall.retrieval-wall--recall th:nth-child(2),.retrieval-wall.retrieval-wall--recall td:nth-child(2){width:83%}
 
 /* Retrieval chain: the concept is deliberately the smallest cell; the full
    remainder of the row is available to the visible, speakable recall route. */
