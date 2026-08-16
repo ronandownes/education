@@ -20,13 +20,13 @@ intro: |-
 
 ## Plan a lesson on **short notice**?
 
-I establish where the class is
+I establish where the class is.
 
- clarify an achievable learning goal from the instructions or sow
+ clarify an achievable learning goal from the instructions or sow.
 
  use retrieval to activate prior learning, 
 
-pre-teach key vocabulary to ensure pupils can access the learning
+pre-teach key vocabulary to ensure pupils can access the learning,
 
  and let formative assessment and effective questioning guide the lesson. 
 
