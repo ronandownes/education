@@ -1,3 +1,9 @@
+## Tell us about yourself / tell us about your experience
+I am an experienced post-primary **Mathematics teacher** with substantial experience across Junior Cycle, Leaving Certificate, Transition Year, mixed-ability classes and AEN / learning-support settings. The strongest thread through my teaching is making demanding Mathematics accessible without lowering expectations. I **plan carefully, teach clearly, scaffold where needed, secure learning through retrieval and purposeful practice, engage student thinking, and respond to evidence of learning**. I also bring State Examinations experience and a strong background in technology, mathematical modelling and data analytics. Whatever the exact opening question, I want the board to hear first and clearly what I bring **as a teacher**.
+
+## What do you know about St Patrick's Comprehensive — the Comp?
+What stands out to me is the school's **comprehensive tradition, equality of opportunity, breadth of provision, inclusion and strong community identity**. For this post I would connect that particularly to mixed-ability teaching, AEN provision, **Inbhear**, L2LP and LCA, and the emphasis on helping individual students reach their potential. That fits very closely with my own experience across **Mathematics, mixed-ability teaching and learning support / AEN**.
+
 ## Professional Responsibility Word Wall
 
 | **Conduct** | **Collaborate** | **Contribute** | **Develop** | **Connect** |
