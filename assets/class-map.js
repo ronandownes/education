@@ -1,4 +1,13 @@
 (() => {
+  const scriptSource = document.currentScript?.src;
+  if (scriptSource && /\/teaching\/class-profiles\//.test(location.pathname) && !document.querySelector('script[data-profile-dashboard]')) {
+    const dashboardScript = document.createElement('script');
+    dashboardScript.src = new URL('profile-dashboard.js', scriptSource).href;
+    dashboardScript.dataset.profileDashboard = '';
+    dashboardScript.async = false;
+    document.head.appendChild(dashboardScript);
+  }
+
   const roots = [...document.querySelectorAll('.class-map')];
   if (!roots.length) return;
 
