@@ -48,7 +48,7 @@ content:
   - { name: timeline, label: "Timeline", type: file, path: content/timeline/teaching-experience.md, format: yaml-frontmatter, fields: *docfields }
 
   - name: schemes
-    label: "Schemes of Work"
+    label: "Subject Planning"
     type: group
     items:
       - { name: schemes_hub, label: "Schemes of Work — Overview", type: file, path: content/planning/schemes-of-work.md, format: yaml-frontmatter, fields: *docfields }
@@ -60,7 +60,7 @@ content:
       - { name: scheme_lc_higher, label: "Leaving Certificate — Higher Level", type: file, path: content/planning/schemes/leaving-cert-higher.md, format: yaml-frontmatter, fields: *docfields }
 
   - name: class_profiles
-    label: "Synthetic Class Profiles"
+    label: "Classes"
     type: group
     items:
       - { name: profiles_hub, label: "Class Profiles — Overview", type: file, path: content/teaching/class-profiles.md, format: yaml-frontmatter, fields: *docfields }
@@ -75,6 +75,15 @@ content:
       - { name: profile_lit_num_support, label: "Literacy & Numeracy Support", type: file, path: content/teaching/class-profiles/literacy-numeracy-support.md, format: yaml-frontmatter, fields: *docfields }
       - { name: profile_emotional_reg, label: "Emotional Regulation & Engagement", type: file, path: content/teaching/class-profiles/emotional-regulation.md, format: yaml-frontmatter, fields: *docfields }
       - { name: profile_digital, label: "Digital & Computer Studies", type: file, path: content/teaching/class-profiles/digital-computing.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_second_support, label: "Second Year — Learning Support", type: file, path: content/teaching/class-profiles/second-year-support.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_third_support, label: "Third Year — Learning Support", type: file, path: content/teaching/class-profiles/third-year-support.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_ty_support, label: "TY — Learning Support", type: file, path: content/teaching/class-profiles/ty-support.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_fifth_maths, label: "Fifth Year Mathematics", type: file, path: content/teaching/class-profiles/fifth-year-maths.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_sixth_maths, label: "Sixth Year Mathematics", type: file, path: content/teaching/class-profiles/sixth-year-maths.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_fifth_lca, label: "Fifth Year LCA Mathematics", type: file, path: content/teaching/class-profiles/fifth-year-lca.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_sixth_lca, label: "Sixth Year LCA Mathematics", type: file, path: content/teaching/class-profiles/sixth-year-lca.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_fifth_support, label: "Fifth Year — Learning Support", type: file, path: content/teaching/class-profiles/fifth-year-support.md, format: yaml-frontmatter, fields: *docfields }
+      - { name: profile_sixth_support, label: "Sixth Year — Learning Support", type: file, path: content/teaching/class-profiles/sixth-year-support.md, format: yaml-frontmatter, fields: *docfields }
 
   - name: expanded_domains
     label: "Expanded Professional Pages"

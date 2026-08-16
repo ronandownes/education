@@ -22,6 +22,17 @@
         <a class="navlabel" href="{{ '/teaching-learning.html' | relative_url }}"><span>Teaching &amp;<br>Learning</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Teaching and Learning menu">▾</button>
         <div class="dropmenu">
+          <a href="{{ '/teaching-learning.html#what-is-your-general-approach-to-teaching-and-learning' | relative_url }}">What is your general approach?</a>
+          <a href="{{ '/teaching-learning.html#how-do-you-make-learning-active-without-losing-structure' | relative_url }}">How do you make learning active?</a>
+          <a href="{{ '/teaching-learning.html#how-do-you-know-whether-students-have-understood' | relative_url }}">How do you know they understood?</a>
+          <a href="{{ '/teaching-learning.html#digital-learning-ict' | relative_url }}">Digital Learning / ICT</a>
+        </div>
+      </div>
+
+      <div class="navitem nav-classes">
+        <a class="navlabel" href="{{ '/teaching/class-profiles.html' | relative_url }}"><span>Classes</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Classes menu">▾</button>
+        <div class="dropmenu">
           <a data-menu-page href="{{ '/teaching/class-profiles/first-year-mixed.html' | relative_url }}">Maths — First Year Mixed</a>
           <a data-menu-page href="{{ '/teaching/class-profiles/second-year-ordinary.html' | relative_url }}">Maths — Second Year Ordinary</a>
           <a data-menu-page href="{{ '/teaching/class-profiles/second-year-higher.html' | relative_url }}">Maths — Second Year Higher</a>
@@ -38,10 +49,6 @@
           <a data-menu-page href="{{ '/teaching/class-profiles/ty-support.html' | relative_url }}">Learning Support — TY</a>
           <a data-menu-page href="{{ '/teaching/class-profiles/fifth-year-support.html' | relative_url }}">Learning Support — Fifth Year</a>
           <a data-menu-page href="{{ '/teaching/class-profiles/sixth-year-support.html' | relative_url }}">Learning Support — Sixth Year</a>
-          <a href="{{ '/teaching-learning.html#what-is-your-general-approach-to-teaching-and-learning' | relative_url }}">What is your general approach?</a>
-          <a href="{{ '/teaching-learning.html#how-do-you-make-learning-active-without-losing-structure' | relative_url }}">How do you make learning active?</a>
-          <a href="{{ '/teaching-learning.html#how-do-you-know-whether-students-have-understood' | relative_url }}">How do you know they understood?</a>
-          <a href="{{ '/teaching-learning.html#digital-learning-ict' | relative_url }}">Digital Learning / ICT</a>
         </div>
       </div>
 
@@ -96,17 +103,23 @@
         <a class="navlabel" href="{{ '/planning-curriculum.html' | relative_url }}"><span>Planning &amp;<br>Curriculum</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Planning and Curriculum menu">▾</button>
         <div class="dropmenu">
-          <a data-menu-page href="{{ '/planning/schemes-of-work.html' | relative_url }}">Schemes of Work — overview</a>
+          <a href="{{ '/planning-curriculum.html#if-you-were-given-a-second-year-maths-class-in-september-how-would-you-plan-the-year' | relative_url }}">Plan a second-year class</a>
+          <a href="{{ '/planning-curriculum.html#how-do-you-plan-a-lesson' | relative_url }}">Plan a lesson</a>
+          <a href="{{ '/planning-curriculum.html#how-do-you-plan-for-different-programmes-and-pathways' | relative_url }}">Programmes and pathways</a>
+        </div>
+      </div>
+
+      <div class="navitem nav-subject-planning">
+        <a class="navlabel" href="{{ '/planning/schemes-of-work.html' | relative_url }}"><span>Subject<br>Planning</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Subject Planning menu">▾</button>
+        <div class="dropmenu">
+          <a data-menu-page href="{{ '/planning/schemes-of-work.html' | relative_url }}">Subject Planning — overview</a>
           <a data-menu-page href="{{ '/planning/schemes/first-year-maths.html' | relative_url }}">First Year Mathematics</a>
           <a data-menu-page href="{{ '/planning/schemes/second-year-maths.html' | relative_url }}">Second Year Mathematics — OL / HL</a>
           <a data-menu-page href="{{ '/planning/schemes/third-year-maths.html' | relative_url }}">Third Year Mathematics — OL / HL</a>
           <a data-menu-page href="{{ '/planning/schemes/transition-year-maths.html' | relative_url }}">Transition Year Mathematics</a>
           <a data-menu-page href="{{ '/planning/schemes/leaving-cert-ordinary.html' | relative_url }}">Leaving Certificate Mathematics — Ordinary</a>
           <a data-menu-page href="{{ '/planning/schemes/leaving-cert-higher.html' | relative_url }}">Leaving Certificate Mathematics — Higher</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles.html' | relative_url }}">Synthetic class profiles</a>
-          <a href="{{ '/planning-curriculum.html#if-you-were-given-a-second-year-maths-class-in-september-how-would-you-plan-the-year' | relative_url }}">Plan a second-year class</a>
-          <a href="{{ '/planning-curriculum.html#how-do-you-plan-a-lesson' | relative_url }}">Plan a lesson</a>
-          <a href="{{ '/planning-curriculum.html#how-do-you-plan-for-different-programmes-and-pathways' | relative_url }}">Programmes and pathways</a>
         </div>
       </div>
 
@@ -267,6 +280,14 @@
           href: link.href,
           text: link.textContent.trim()
         }));
+
+        // Classes and Subject Planning are page shelves, not interview-question menus.
+        if (item.matches('.nav-classes, .nav-subject-planning')) {
+          menu.replaceChildren();
+          addPageLinks(item, menu, pageLinks);
+          return;
+        }
+
         const pageUrl = new URL(label.href, location.href);
         const targetPath = normalisePath(pageUrl.href);
 
