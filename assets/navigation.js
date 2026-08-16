@@ -7,6 +7,18 @@
   const siteRoot = brand?.href || `${location.origin}/`;
   const siteHref = path => new URL(path.replace(/^\/+/, ''), siteRoot).href;
 
+  // GitHub Pages is currently emitting a few Markdown pages at their source-derived
+  // paths even though the Markdown front matter declares shorter permalinks. Point
+  // primary navigation at the paths that actually exist in the deployed artifact.
+  const routeFixes = [
+    ['.nav-classroom > .navlabel', 'content/practice/classroom-management.html'],
+    ['.nav-differentiation > .navlabel', 'content/practice/differentiation-accessibility.html']
+  ];
+  routeFixes.forEach(([selector, path]) => {
+    const link = document.querySelector(selector);
+    if (link) link.href = siteHref(path);
+  });
+
   // Keep the information architecture compact: Profiles contains class and school
   // profiles; Glossary and Timeline are no longer permanent top-level items.
   const profilesItem = document.querySelector('.nav-classes');
@@ -17,7 +29,7 @@
     const menu = profilesItem.querySelector(':scope > .dropmenu');
 
     if (label) {
-      label.href = siteHref('profiles.html');
+      label.href = siteHref('content/profiles.html');
       const text = label.querySelector('span');
       if (text) text.textContent = 'Profiles';
     }
@@ -33,7 +45,7 @@
         menu.insertBefore(link, menu.firstChild);
       };
 
-      addProfileLink(siteHref('school-research.html'), "School Profiles — St Patrick's Comprehensive");
+      addProfileLink(siteHref('content/schools/st-patricks.html'), "School Profiles — St Patrick's Comprehensive");
       addProfileLink(siteHref('teaching/class-profiles.html'), 'Class Profiles — overview');
     }
   }
@@ -49,6 +61,14 @@
     link.dataset.teachingExperience = '';
     professionalMenu.insertBefore(link, professionalMenu.firstChild);
   }
+
+  // The St Patrick's source currently deploys at content/schools/st-patricks.html.
+  professionalMenu?.querySelectorAll('a').forEach(link => {
+    const url = new URL(link.href, location.href);
+    if (url.pathname.endsWith('/school-research.html')) {
+      link.href = siteHref('content/schools/st-patricks.html');
+    }
+  });
 
   document.querySelector('.nav-glossary')?.remove();
   document.querySelector('.nav-timeline')?.remove();
