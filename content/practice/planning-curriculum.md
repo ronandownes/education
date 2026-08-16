@@ -42,7 +42,7 @@ by the end of the lesson.
 
 Where are they? → SoW/LI → retrieval → vocab → FA/questioning → assess → feedback → next step
 
-📍 → ⚽ → 🔄 → 🧭 → 📊 → 🗣️ → ➡️
+
 
 ## Yearly plan first Maths?
 
