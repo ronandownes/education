@@ -3,54 +3,11 @@ layout: doc
 permalink: /sen-inclusion.html
 title: AEN & Inclusion
 eyebrow: PROFESSIONAL PRACTICE
-intro: I start with the learner, not the label; identify strengths, needs and barriers; adapt access and support; and review whether that support increases participation, independence and ambition.
+intro: I start with the learner, not the label; identify strengths, needs and
+  barriers; adapt access and support; and review whether that support increases
+  participation, independence and ambition.
 ---
 
-## AEN & Inclusion Word Wall
-
-| **Learner** | **Barrier** | **Access** | **Support** | **Impact** |
-|---|---|---|---|---|
-| Learner profile (4) | Access barriers (3) | Checking understanding (9) | Short-term target (5) | Participation (9) |
-| Strengths (5) | Processing time (5) | Clear routines (5) | Reasonable accommodation (3) | Learner independence (7) |
-| Needs (12) | Communication needs (2) | Predictability (3) | Scaffold (4) | High expectations (2) |
-| Student Support File (2) | Autism (2) | Explicit language (5) | Guided prompt (4) | Ambition (1) |
-| Prior attainment (3) | Executive function (2) | Visual supports (6) | Reduced first step (3) | Monitor progress (5) |
-| Attendance (5) | ADHD (2) | Chunking (5) | Faded support (3) | Evaluate impact (4) |
-| Student voice (5) | Literacy (1) | Choice (3) | Movement break (3) | Record and review (3) |
-| Aspirations (2) | Language access (2) | Accessible layout (2) | Alternative response (3) | AEN coordinator (4) |
-| Interests (2) | Dyslexia (2) | Worked example (4) | Part-completed example (1) | Challenge (3) |
-| Communication profile (2) | Numeracy (3) | Assistive technology (3) | Team-teaching (2) | Coordinated support (3) |
-| Sensory profile (3) | Sensory needs (1) | Multiple representations (2) | SNA support (2) | Shared planning (2) |
-| Individual progress (5) | General learning needs (1) | Retrieval (2) | L1LP / L2LP (1) | Parents / guardians (1) |
-
-## AEN & Inclusion Concepts and Questions
-
-| **AEN concept** | **Interview question** |
-|---|---|
-| **Identify needs** | How do you identify the educational needs of your students? |
-| **Learner profile** | What do you look for in a learner profile? |
-| **Student Support File** | How do you use a Student Support File? |
-| **Evaluate support** | How do you know whether an AEN support is working? |
-| **Independence** | How do you make sure support builds participation and independence? |
-| **Autism** | How do you support an autistic student? |
-| **ADHD** | How do you support a student with ADHD? |
-| **Dyslexia** | How do you support dyslexia in Maths or Science? |
-| **Numeracy** | How do you support a student with dyscalculia or significant numeracy difficulty? |
-| **Communication** | How do you support speech, language and communication needs? |
-| **Cognitive load** | How do you reduce cognitive load for students who need it? |
-| **Executive function** | How do you support a student with executive-function difficulties? |
-| **Sensory & regulation** | How do you support sensory or regulation needs? |
-| **Anxiety & distress** | How do you support a student experiencing anxiety or emotional distress? |
-| **Attendance** | How do you support a student after disrupted attendance or interrupted schooling? |
-| **Learning support** | What experience do you have of learning support? |
-| **Team-teaching** | How do you use team-teaching effectively for AEN? |
-| **Small-group / withdrawal** | When is small-group or withdrawal support appropriate? |
-| **SNA** | How do you work effectively with an SNA? |
-| **L1LP / L2LP** | How do you plan for students following Level 1 or Level 2 Learning Programmes? |
-| **Accommodation & technology** | How do you use reasonable accommodations or assistive technology? |
-| **Collaboration** | How do you collaborate with the AEN team and parents or guardians? |
-| **High expectations** | How do you avoid additional needs becoming low expectations? |
-| **Review support** | How do you review AEN support over time? |
 
 ## Identify needs — How do you identify the educational needs of your students?
 
@@ -147,3 +104,73 @@ I actively guard against additional needs becoming low expectations. I begin wit
 ## Review support — How do you review AEN support over time?
 
 I review support systematically rather than leaving it in place indefinitely. I monitor progress against the short-term target, gather student work, checking understanding, participation data and student voice, and evaluate impact with the AEN coordinator and relevant team. We record and review what should continue, change or fade. The aim is coordinated support that increases access, individual progress and learner independence.
+
+
+
+&nbsp;
+
+&nbsp;
+
+## AEN & Inclusion Word Wall
+
+
+| **Learner** | **Barrier** | **Access** | **Support** | **Impact** |
+| ------------------------- | -------------------------- | ---------------------------- | ---------------------------- | ------------------------ |
+| Learner profile (4) | Access barriers (3) | Checking understanding (9) | Short-term target (5) | Participation (9) |
+| Strengths (5) | Processing time (5) | Clear routines (5) | Reasonable accommodation (3) | Learner independence (7) |
+| Needs (12) | Communication needs (2) | Predictability (3) | Scaffold (4) | High expectations (2) |
+| Student Support File (2) | Autism (2) | Explicit language (5) | Guided prompt (4) | Ambition (1) |
+| Prior attainment (3) | Executive function (2) | Visual supports (6) | Reduced first step (3) | Monitor progress (5) |
+| Attendance (5) | ADHD (2) | Chunking (5) | Faded support (3) | Evaluate impact (4) |
+| Student voice (5) | Literacy (1) | Choice (3) | Movement break (3) | Record and review (3) |
+| Aspirations (2) | Language access (2) | Accessible layout (2) | Alternative response (3) | AEN coordinator (4) |
+| Interests (2) | Dyslexia (2) | Worked example (4) | Part-completed example (1) | Challenge (3) |
+| Communication profile (2) | Numeracy (3) | Assistive technology (3) | Team-teaching (2) | Coordinated support (3) |
+| Sensory profile (3) | Sensory needs (1) | Multiple representations (2) | SNA support (2) | Shared planning (2) |
+| Individual progress (5) | General learning needs (1) | Retrieval (2) | L1LP / L2LP (1) | Parents / guardians (1) |
+
+
+## AEN & Inclusion Concepts and Questions
+
+
+| **AEN concept** | **Interview question** |
+| ------------------------------ | --------------------------------------------------------------------------------- |
+| **Identify needs** | How do you identify the educational needs of your students? |
+| **Learner profile** | What do you look for in a learner profile? |
+| **Student Support File** | How do you use a Student Support File? |
+| **Evaluate support** | How do you know whether an AEN support is working? |
+| **Independence** | How do you make sure support builds participation and independence? |
+| **Autism** | How do you support an autistic student? |
+| **ADHD** | How do you support a student with ADHD? |
+| **Dyslexia** | How do you support dyslexia in Maths or Science? |
+| **Numeracy** | How do you support a student with dyscalculia or significant numeracy difficulty? |
+| **Communication** | How do you support speech, language and communication needs? |
+| **Cognitive load** | How do you reduce cognitive load for students who need it? |
+| **Executive function** | How do you support a student with executive-function difficulties? |
+| **Sensory & regulation** | How do you support sensory or regulation needs? |
+| **Anxiety & distress** | How do you support a student experiencing anxiety or emotional distress? |
+| **Attendance** | How do you support a student after disrupted attendance or interrupted schooling? |
+| **Learning support** | What experience do you have of learning support? |
+| **Team-teaching** | How do you use team-teaching effectively for AEN? |
+| **Small-group / withdrawal** | When is small-group or withdrawal support appropriate? |
+| **SNA** | How do you work effectively with an SNA? |
+| **L1LP / L2LP** | How do you plan for students following Level 1 or Level 2 Learning Programmes? |
+| **Accommodation & technology** | How do you use reasonable accommodations or assistive technology? |
+| **Collaboration** | How do you collaborate with the AEN team and parents or guardians? |
+| **High expectations** | How do you avoid additional needs becoming low expectations? |
+| **Review support** | How do you review AEN support over time? |
+
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
