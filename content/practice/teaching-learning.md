@@ -4,6 +4,13 @@ permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
+<style>
+#teaching--learning-retrieval-chains + table th:first-child,
+#teaching--learning-retrieval-chains + table td:first-child { width: 20%; }
+#teaching--learning-retrieval-chains + table th:last-child,
+#teaching--learning-retrieval-chains + table td:last-child { width: 80%; }
+</style>
+
 ## Teaching & Learning Retrieval Chains
 
 
@@ -162,5 +169,4 @@ I would start by establishing the student's real starting point and creating ear
 |  | Limit new information (1) |  | Multiple-choice questions (1) | Reflect and refine (1) |
 |  |  |  | Student voice (1) |  |
 |  | Integrate words and visuals (1) |  | Learner engagement (1) |  |
-
 
