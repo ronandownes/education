@@ -155,6 +155,43 @@
   }
 }
 
+/* Keep retrieval headings short without changing the underlying Markdown ids
+   used by the breadcrumb, audio and print logic. */
+#teaching--learning-retrieval-chains,
+#classroom-management-retrieval-chains,
+#aen--inclusion-retrieval-chains,
+#retrieval-chains,
+#assessment-feedback--reporting-retrieval-chains,
+#planning--curriculum-retrieval-chains,
+#relationships--wellbeing-retrieval-table,
+#professional-responsibility-retrieval-chains{
+  position:relative;
+  white-space:nowrap;
+  overflow:hidden;
+  color:transparent!important;
+}
+#teaching--learning-retrieval-chains::after,
+#classroom-management-retrieval-chains::after,
+#aen--inclusion-retrieval-chains::after,
+#retrieval-chains::after,
+#assessment-feedback--reporting-retrieval-chains::after,
+#planning--curriculum-retrieval-chains::after,
+#relationships--wellbeing-retrieval-table::after,
+#professional-responsibility-retrieval-chains::after{
+  position:absolute;
+  left:0;
+  top:0;
+  color:var(--ink,#202124);
+}
+#teaching--learning-retrieval-chains::after{content:"TL Retrieval Table"}
+#classroom-management-retrieval-chains::after{content:"CM Retrieval Table"}
+#aen--inclusion-retrieval-chains::after{content:"AEN Retrieval Table"}
+#retrieval-chains::after{content:"DA Retrieval Table"}
+#assessment-feedback--reporting-retrieval-chains::after{content:"AFR Retrieval Table"}
+#planning--curriculum-retrieval-chains::after{content:"PC Retrieval Table"}
+#relationships--wellbeing-retrieval-table::after{content:"RW Retrieval Table"}
+#professional-responsibility-retrieval-chains::after{content:"PR Retrieval Table"}
+
 @media print{
   @page teaching-retrieval-portrait{size:A4 portrait;margin:5mm 6mm}
 
