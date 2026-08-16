@@ -18,7 +18,7 @@ intro: >
   <table>
     <thead><tr><th>Concept</th><th>Retrieval chain</th></tr></thead>
     <tbody>
-      <tr><td>General approach</td><td><div class="retrieval-chain-line"><span>Plan carefully</span><span>Know the students</span><span>Clear intention</span><span>Teach and model clearly</span><span>Scaffold where needed</span><span>Retrieve and practise</span><span>Engage thinking</span><span>Adapt to evidence</span><span>Consolidate</span></div></td></tr>
+      <tr><td>General approach</td><td><div class="retrieval-chain-line"><span>Plan</span><span>Know students</span><span>Clear intention</span><span>Teach and model</span><span>Scaffold</span><span>Retrieve and practise</span><span>Engage thinking</span><span>Adapt to evidence</span><span>Consolidate</span></div></td></tr>
       <tr><td>Good teaching</td><td><div class="retrieval-chain-line"><span>Know students</span><span>Learning intention</span><span>Activate prior knowledge</span><span>Model</span><span>Guided practice</span><span>Check understanding</span><span>Adapt</span><span>Consolidate</span></div></td></tr>
       <tr><td>Effective lesson</td><td><div class="retrieval-chain-line"><span>Clear goal</span><span>Success criteria</span><span>Retrieval</span><span>Coherent sequence</span><span>Guided practice</span><span>Independent practice</span><span>Closure</span></div></td></tr>
       <tr><td>Difficult concept</td><td><div class="retrieval-chain-line"><span>Prerequisites</span><span>Misconceptions</span><span>Small steps</span><span>Clear explanations</span><span>Multiple representations</span><span>Scaffold</span><span>Fade support</span></div></td></tr>
@@ -43,7 +43,7 @@ intro: >
       <tr><td>Lesson not working</td><td><div class="retrieval-chain-line"><span>Pause</span><span>Diagnose</span><span>Adapt pace, chunk or representation</span><span>Re-teach or model</span><span>Guided practice</span><span>Keep intention clear</span></div></td></tr>
       <tr><td>Consolidation</td><td><div class="retrieval-chain-line"><span>Closure</span><span>Summarise</span><span>Explain</span><span>Apply or retrieve</span><span>Space</span><span>Interleave</span><span>Transfer</span></div></td></tr>
       <tr><td>Improving practice</td><td><div class="retrieval-chain-line"><span>Evidence of learning</span><span>Reflect</span><span>Work and assessment</span><span>Misconceptions</span><span>Explanations and sequence</span><span>Adapt</span><span>Evaluate</span></div></td></tr>
-      <tr><td>Unmotivated student</td><td><div class="retrieval-chain-line"><span>Find starting point</span><span>Create early success</span><span>Achievable steps</span><span>Model and scaffold</span><span>Retrieve secure learning</span><span>Choice and relevance</span><span>High expectations</span><span>Build independence</span></div></td></tr>
+      <tr><td>Unmotivated student</td><td><div class="retrieval-chain-line"><span>Starting point</span><span>Early success</span><span>Achievable steps</span><span>Model and scaffold</span><span>Secure retrieval</span><span>Choice or relevance</span><span>High expectations</span><span>Independence</span></div></td></tr>
     </tbody>
   </table>
 </div>

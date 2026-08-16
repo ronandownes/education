@@ -253,10 +253,8 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   .doc-paper.print-landscape{page:interview-landscape}
   .doc-paper.print-landscape h1{font-size:15pt!important;margin-bottom:2mm!important}
   .doc-paper.print-landscape .doc-intro{display:none!important}
-  .answer-section:has(#teaching-learning-retrieval-chains){break-inside:auto!important;page-break-inside:auto!important;break-after:page;margin-top:0!important;padding-top:0!important}
-  .answer-section:has(#teaching-learning-retrieval-chains) .answer-heading-row h2{font-size:10pt!important;margin:0 0 1.5mm!important}
-  .answer-section:has(#teaching-learning-retrieval-chains) .section-content{padding-top:0!important}
-  .retrieval-chain-table{margin:0!important}
+  #teaching--learning-retrieval-chains{font-size:10pt!important;margin:0 0 1.5mm!important}
+  .retrieval-chain-table{break-inside:auto!important;page-break-inside:auto!important;break-after:page;margin:0!important}
   .retrieval-chain-table table{width:100%!important;table-layout:fixed!important;margin:0!important}
   .retrieval-chain-table th,.retrieval-chain-table td{padding:1mm!important;font-size:6.5pt!important;line-height:1.05!important}
   .retrieval-chain-table th:first-child,.retrieval-chain-table td:first-child{width:12%!important}
@@ -294,6 +292,21 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
     vertical-align:top!important;
   }
   .retrieval-wall tr{break-inside:avoid!important;page-break-inside:avoid!important}
+
+  #teaching--learning-word-wall + table{
+    width:100%!important;
+    table-layout:auto!important;
+    margin:0 0 4mm!important;
+    font-size:6.8pt!important;
+  }
+  #teaching--learning-word-wall + table th,
+  #teaching--learning-word-wall + table td{
+    white-space:nowrap!important;
+    padding:1.6mm 1.1mm!important;
+    line-height:1.05!important;
+    font-size:6.8pt!important;
+  }
+  #teaching--learning-word-wall + table tr{break-inside:avoid!important;page-break-inside:avoid!important}
 
   /* Word Walls are recall sheets, not prose tables. Keep every term and its
      bracketed usage count on one line and keep each wall on one printed page. */
