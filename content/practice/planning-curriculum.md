@@ -7,57 +7,6 @@ intro: My planning starts with the learner and the evidence, aligns with the
   curriculum, sequences the learning, designs for access and challenge, builds
   in assessment, and adapts as evidence comes in.
 ---
-## Planning & Curriculum Word Wall
-
-
-| **Start** | **Align** | **Sequence** | **Design** | **Assess** | **Adapt** |
-| ------------------------- | --------------------------- | -------------------------- | ---------------------------- | ------------------------- | ------------------------- |
-| Handover (5) | Curriculum (6) | Map across the year (3) | Achievable learning goal (2) | Formative assessment (6) | Adjust pace (3) |
-| Learner profile (4) | Learning outcomes (8) | Retrieval (13) | Key vocabulary (3) | Effective questioning (3) | Responsive (4) |
-| Low-stakes diagnostic (2) | Scheme of work (8) | Retrieval points (3) | Support & challenge (5) | Assessment points (2) | Record decisions (2) |
-| Starting point (5) | Unpack outcomes (4) | Consolidation (4) | Guided practice (5) | Common assessments (1) | Revisit learning (4) |
-| Assessment evidence (6) | Action verbs (1) | Natural next step (3) | Multiple representations (3) | Retrieval evidence (1) | Re-teach (2) |
-| Previous work (1) | Success criteria (2) | Coherent sequence (4) | Worked examples (3) | Hinge questions (2) | Change representation (3) |
-| Misconceptions (9) | Common expectations (2) | Prerequisite knowledge (6) | Scaffold (4) | Mini-whiteboards (2) | Additional support (2) |
-| Access barriers (3) | Department plan (1) | Consolidation points (2) | Independent practice (1) | Exit tasks (2) | Increase challenge (2) |
-| Strengths & gaps (1) | Professional judgement (1) | Time allocation (1) | Reasoning (2) | Record progress (2) | Flexible grouping (2) |
-| Support needs (2) | Programme outcomes (2) | Progression (3) | Justification (2) |  | Reflect (2) |
-| Observation (3) | Assessment requirements (3) | Cumulative review (2) | Generalisation (2) |  |  |
-| Student Support Files (1) |  | Interleaving (2) | Processing time (1) |  |  |
-|  |  |  | Assistive technology (1) |  |  |
-|  |  |  | Learner independence (2) |  |  |
-|  |  |  | Practical contexts (1) |  |  |
-
-
-## Planning & Curriculum Concepts and Questions
-
-
-| **PC concept** | **Interview question** |
-| --------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Yearly plan — second Maths** | If you were given a second-year Maths class in September, how would you plan the year? |
-| **Short-notice lesson** | How would you plan a lesson on short notice? |
-| **Starting point** | How do you establish a real starting point for a class? |
-| **Yearly plan — first Maths** | How would you plan the year for a first-year Maths class? |
-| **Specification & learning outcomes** | How do the specification and learning outcomes influence your planning? |
-| **Scheme of work** | How would you develop a scheme of work for a class? |
-| **Subject plan vs scheme** | What is the difference between a subject plan and a scheme of work? |
-| **Department planning** | How do you contribute to collaborative planning and consistency within the Maths department? |
-| **Continuity & progression** | How do you ensure continuity and progression from one year to the next? |
-| **Handover** | How do you use handover information when taking over a new class? |
-| **Assessment evidence** | How do you use assessment evidence to inform future planning? |
-| **Not understood** | How do you adapt your plan when students have not understood a topic? |
-| **Coverage vs depth** | How do you balance curriculum coverage with depth of understanding? |
-| **Retrieval & consolidation** | How do you build retrieval, consolidation and revision into long-term planning? |
-| **Mixed ability** | How do you plan for a mixed-ability class? |
-| **AEN literacy numeracy** | How do you build AEN, literacy and numeracy needs into planning from the outset? |
-| **Support & challenge** | How do you provide both support and appropriate challenge through your planning? |
-| **Programmes & pathways** | How do you plan for different programmes and pathways? |
-| **Junior vs Senior Cycle** | How would your planning differ between Junior Cycle and Senior Cycle Mathematics? |
-| **LCA** | How would your planning differ for an LCA class? |
-| **Level 1 / Level 2** | How do you plan for students following Level 1 or Level 2 Learning Programmes? |
-| **Prior knowledge & misconceptions** | How do prior knowledge and likely misconceptions influence your planning? |
-| **Formative assessment** | How do you incorporate formative assessment into your planning? |
-| **Evaluate planning** | How do you evaluate and improve a scheme of work or future planning? |
 
 
 ## Yearly plan — second Maths — If you were given a second-year Maths class in September, how would you plan the year?
@@ -159,3 +108,61 @@ I plan the evidence I need before the lesson, not merely the activity I will del
 ## Evaluate planning — How do you evaluate and improve a scheme of work or future planning?
 
 I compare the intended sequence with what was actually taught and, more importantly, what students learned. I review **assessment evidence**, **misconceptions**, pacing, resources, **support and challenge**, and I **reflect** on which explanations, representations and tasks worked best. I record what should be retained, moved, removed or strengthened. That reflection and evidence become the **starting point** for the next **scheme of work** rather than relying on memory.
+
+
+
+&nbsp;
+
+## Planning & Curriculum Word Wall
+
+
+| **Start** | **Align** | **Sequence** | **Design** | **Assess** | **Adapt** |
+| ------------------------- | --------------------------- | -------------------------- | ---------------------------- | ------------------------- | ------------------------- |
+| Handover (5) | Curriculum (6) | Map across the year (3) | Achievable learning goal (2) | Formative assessment (6) | Adjust pace (3) |
+| Learner profile (4) | Learning outcomes (8) | Retrieval (13) | Key vocabulary (3) | Effective questioning (3) | Responsive (4) |
+| Low-stakes diagnostic (2) | Scheme of work (8) | Retrieval points (3) | Support & challenge (5) | Assessment points (2) | Record decisions (2) |
+| Starting point (5) | Unpack outcomes (4) | Consolidation (4) | Guided practice (5) | Common assessments (1) | Revisit learning (4) |
+| Assessment evidence (6) | Action verbs (1) | Natural next step (3) | Multiple representations (3) | Retrieval evidence (1) | Re-teach (2) |
+| Previous work (1) | Success criteria (2) | Coherent sequence (4) | Worked examples (3) | Hinge questions (2) | Change representation (3) |
+| Misconceptions (9) | Common expectations (2) | Prerequisite knowledge (6) | Scaffold (4) | Mini-whiteboards (2) | Additional support (2) |
+| Access barriers (3) | Department plan (1) | Consolidation points (2) | Independent practice (1) | Exit tasks (2) | Increase challenge (2) |
+| Strengths & gaps (1) | Professional judgement (1) | Time allocation (1) | Reasoning (2) | Record progress (2) | Flexible grouping (2) |
+| Support needs (2) | Programme outcomes (2) | Progression (3) | Justification (2) |  | Reflect (2) |
+| Observation (3) | Assessment requirements (3) | Cumulative review (2) | Generalisation (2) |  |  |
+| Student Support Files (1) |  | Interleaving (2) | Processing time (1) |  |  |
+|  |  |  | Assistive technology (1) |  |  |
+|  |  |  | Learner independence (2) |  |  |
+|  |  |  | Practical contexts (1) |  |  |
+
+
+## Planning & Curriculum Concepts and Questions
+
+
+| **PC concept** | **Interview question** |
+| ------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Yearly plan — second Maths** | If you were given a second-year Maths class in September, how would you plan the year? |
+| **Short-notice lesson** | How would you plan a lesson on short notice? |
+| **Starting point** | How do you establish a real starting point for a class? |
+| **Yearly plan — first Maths** | How would you plan the year for a first-year Maths class? |
+| **Specification & learning outcomes** | How do the specification and learning outcomes influence your planning? |
+| **Scheme of work** | How would you develop a scheme of work for a class? |
+| **Subject plan vs scheme** | What is the difference between a subject plan and a scheme of work? |
+| **Department planning** | How do you contribute to collaborative planning and consistency within the Maths department? |
+| **Continuity & progression** | How do you ensure continuity and progression from one year to the next? |
+| **Handover** | How do you use handover information when taking over a new class? |
+| **Assessment evidence** | How do you use assessment evidence to inform future planning? |
+| **Not understood** | How do you adapt your plan when students have not understood a topic? |
+| **Coverage vs depth** | How do you balance curriculum coverage with depth of understanding? |
+| **Retrieval & consolidation** | How do you build retrieval, consolidation and revision into long-term planning? |
+| **Mixed ability** | How do you plan for a mixed-ability class? |
+| **AEN literacy numeracy** | How do you build AEN, literacy and numeracy needs into planning from the outset? |
+| **Support & challenge** | How do you provide both support and appropriate challenge through your planning? |
+| **Programmes & pathways** | How do you plan for different programmes and pathways? |
+| **Junior vs Senior Cycle** | How would your planning differ between Junior Cycle and Senior Cycle Mathematics? |
+| **LCA** | How would your planning differ for an LCA class? |
+| **Level 1 / Level 2** | How do you plan for students following Level 1 or Level 2 Learning Programmes? |
+| **Prior knowledge & misconceptions** | How do prior knowledge and likely misconceptions influence your planning? |
+| **Formative assessment** | How do you incorporate formative assessment into your planning? |
+| **Evaluate planning** | How do you evaluate and improve a scheme of work or future planning? |
+
+
