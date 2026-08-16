@@ -3,50 +3,40 @@ layout: doc
 permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
-print_landscape: true
-intro: >
-  I plan carefully, teach clearly and scaffold where needed, secure knowledge
-  and skills through retrieval and purposeful practice, engage student thinking
-  by building confidence in the language of Mathematics through mathematical
-  conversation and problem-solving, and adapt in response to evidence of
-  learning from tasks, questioning, quizzes, exercises and rich problem-solving
-  activities.
+intro: |+
 ---
 ## Teaching & Learning Retrieval Chains
 
-<div class="retrieval-chain-table">
-  <table>
-    <thead><tr><th>Concept</th><th>Retrieval chain</th></tr></thead>
-    <tbody>
-      <tr><td>General approach</td><td><div class="retrieval-chain-line"><span>Plan</span><span>Know students</span><span>Clear intention</span><span>Teach and model</span><span>Scaffold</span><span>Retrieve and practise</span><span>Engage thinking</span><span>Adapt to evidence</span><span>Consolidate</span></div></td></tr>
-      <tr><td>Good teaching</td><td><div class="retrieval-chain-line"><span>Know students</span><span>Learning intention</span><span>Activate prior knowledge</span><span>Model</span><span>Guided practice</span><span>Check understanding</span><span>Adapt</span><span>Consolidate</span></div></td></tr>
-      <tr><td>Effective lesson</td><td><div class="retrieval-chain-line"><span>Clear goal</span><span>Success criteria</span><span>Retrieval</span><span>Coherent sequence</span><span>Guided practice</span><span>Independent practice</span><span>Closure</span></div></td></tr>
-      <tr><td>Difficult concept</td><td><div class="retrieval-chain-line"><span>Prerequisites</span><span>Misconceptions</span><span>Small steps</span><span>Clear explanations</span><span>Multiple representations</span><span>Scaffold</span><span>Fade support</span></div></td></tr>
-      <tr><td>Clear explanation</td><td><div class="retrieval-chain-line"><span>Prior knowledge</span><span>Explicit instruction</span><span>Think aloud</span><span>Examples and non-examples</span><span>Remove redundancy</span><span>Check</span><span>Re-represent</span></div></td></tr>
-      <tr><td>Modelling</td><td><div class="retrieval-chain-line"><span>Worked example</span><span>Make thinking visible</span><span>Subject vocabulary</span><span>Guided practice</span><span>Independent practice</span><span>Check</span></div></td></tr>
-      <tr><td>Scaffolding</td><td><div class="retrieval-chain-line"><span>Learner need</span><span>Prompt or stem</span><span>High expectations</span><span>Check understanding</span><span>Gradual release</span><span>Fade support</span></div></td></tr>
-      <tr><td>Cognitive load</td><td><div class="retrieval-chain-line"><span>Prerequisites</span><span>Limit new information</span><span>Chunk</span><span>Words and visuals</span><span>Worked examples</span><span>Remove redundancy</span></div></td></tr>
-      <tr><td>Active learning</td><td><div class="retrieval-chain-line"><span>Learning intention</span><span>Mini-whiteboards</span><span>Think-pair-share</span><span>Guided discovery</span><span>Collaboration</span><span>Inclusive participation</span><span>Make thinking visible</span></div></td></tr>
-      <tr><td>Student thinking</td><td><div class="retrieval-chain-line"><span>Predict</span><span>Reason</span><span>Justify</span><span>Apply</span><span>Wait time</span><span>Explain</span><span>Increase challenge</span></div></td></tr>
-      <tr><td>Questioning</td><td><div class="retrieval-chain-line"><span>Prior knowledge</span><span>Recall</span><span>Reason</span><span>Justify</span><span>Apply</span><span>Wait time</span><span>Hinge question</span><span>Adapt</span></div></td></tr>
-      <tr><td>Check understanding</td><td><div class="retrieval-chain-line"><span>Question</span><span>Mini-whiteboards</span><span>Explain</span><span>Student work</span><span>Diagnose</span><span>Re-teach or re-represent</span><span>Feedback loop</span></div></td></tr>
-      <tr><td>Misconceptions</td><td><div class="retrieval-chain-line"><span>Retrieval</span><span>Questioning</span><span>Examples and non-examples</span><span>Expose reasoning</span><span>Contrast</span><span>Re-teach</span><span>Rehearse</span></div></td></tr>
-      <tr><td>Retrieval practice</td><td><div class="retrieval-chain-line"><span>Retrieve</span><span>Space</span><span>Cumulative review</span><span>Interleave</span><span>Rehearse</span><span>Deliberate practice</span></div></td></tr>
-      <tr><td>Formative assessment</td><td><div class="retrieval-chain-line"><span>Question, boards and work</span><span>Gather evidence</span><span>Check understanding</span><span>Adapt pace, support or representation</span><span>Increase challenge</span><span>Recheck</span></div></td></tr>
-      <tr><td>Independence</td><td><div class="retrieval-chain-line"><span>Model</span><span>Scaffold</span><span>Guided practice</span><span>Fade support</span><span>Independent practice</span><span>Transfer</span></div></td></tr>
-      <tr><td>Challenge</td><td><div class="retrieval-chain-line"><span>Secure core</span><span>Depth, not volume</span><span>Applications</span><span>Multiple methods</span><span>Justify</span><span>Generalise</span><span>Transfer</span></div></td></tr>
-      <tr><td>Vocabulary</td><td><div class="retrieval-chain-line"><span>Identify barrier</span><span>Teach explicitly</span><span>Examples and non-examples</span><span>Represent</span><span>Hear, read, say and use</span><span>Retrieve</span></div></td></tr>
-      <tr><td>Engagement</td><td><div class="retrieval-chain-line"><span>Purpose</span><span>Accessibility</span><span>Challenge</span><span>Inclusive participation</span><span>Collaboration</span><span>Student voice</span><span>Adjust</span></div></td></tr>
-      <tr><td>Digital learning</td><td><div class="retrieval-chain-line"><span>Learning intention</span><span>Learner need</span><span>Add value</span><span>Explain and represent</span><span>Practise and collaborate</span><span>Gather evidence</span><span>Evaluate</span></div></td></tr>
-      <tr><td>Digital inclusion</td><td><div class="retrieval-chain-line"><span>Identify barrier</span><span>Learner need</span><span>Accessibility tool</span><span>Multiple representations</span><span>Common intention</span><span>Maintain expectations</span></div></td></tr>
-      <tr><td>Choosing tools</td><td><div class="retrieval-chain-line"><span>Learning intention</span><span>Learner need</span><span>Added value</span><span>Evidence of learning</span><span>Evaluate impact</span></div></td></tr>
-      <tr><td>Lesson not working</td><td><div class="retrieval-chain-line"><span>Pause</span><span>Diagnose</span><span>Adapt pace, chunk or representation</span><span>Re-teach or model</span><span>Guided practice</span><span>Keep intention clear</span></div></td></tr>
-      <tr><td>Consolidation</td><td><div class="retrieval-chain-line"><span>Closure</span><span>Summarise</span><span>Explain</span><span>Apply or retrieve</span><span>Space</span><span>Interleave</span><span>Transfer</span></div></td></tr>
-      <tr><td>Improving practice</td><td><div class="retrieval-chain-line"><span>Evidence of learning</span><span>Reflect</span><span>Work and assessment</span><span>Misconceptions</span><span>Explanations and sequence</span><span>Adapt</span><span>Evaluate</span></div></td></tr>
-      <tr><td>Unmotivated student</td><td><div class="retrieval-chain-line"><span>Starting point</span><span>Early success</span><span>Achievable steps</span><span>Model and scaffold</span><span>Secure retrieval</span><span>Choice or relevance</span><span>High expectations</span><span>Independence</span></div></td></tr>
-    </tbody>
-  </table>
-</div>
+
+| Concept | Retrieval chain |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| General approach | PlanKnow studentsClear intentionTeach and modelScaffoldRetrieve and practiseEngage thinkingAdapt to evidenceConsolidate |
+| Good teaching | Know studentsLearning intentionActivate prior knowledgeModelGuided practiceCheck understandingAdaptConsolidate |
+| Effective lesson | Clear goalSuccess criteriaRetrievalCoherent sequenceGuided practiceIndependent practiceClosure |
+| Difficult concept | PrerequisitesMisconceptionsSmall stepsClear explanationsMultiple representationsScaffoldFade support |
+| Clear explanation | Prior knowledgeExplicit instructionThink aloudExamples and non-examplesRemove redundancyCheckRe-represent |
+| Modelling | Worked exampleMake thinking visibleSubject vocabularyGuided practiceIndependent practiceCheck |
+| Scaffolding | Learner needPrompt or stemHigh expectationsCheck understandingGradual releaseFade support |
+| Cognitive load | PrerequisitesLimit new informationChunkWords and visualsWorked examplesRemove redundancy |
+| Active learning | Learning intentionMini-whiteboardsThink-pair-shareGuided discoveryCollaborationInclusive participationMake thinking visible |
+| Student thinking | PredictReasonJustifyApplyWait timeExplainIncrease challenge |
+| Questioning | Prior knowledgeRecallReasonJustifyApplyWait timeHinge questionAdapt |
+| Check understanding | QuestionMini-whiteboardsExplainStudent workDiagnoseRe-teach or re-representFeedback loop |
+| Misconceptions | RetrievalQuestioningExamples and non-examplesExpose reasoningContrastRe-teachRehearse |
+| Retrieval practice | RetrieveSpaceCumulative reviewInterleaveRehearseDeliberate practice |
+| Formative assessment | Question, boards and workGather evidenceCheck understandingAdapt pace, support or representationIncrease challengeRecheck |
+| Independence | ModelScaffoldGuided practiceFade supportIndependent practiceTransfer |
+| Challenge | Secure coreDepth, not volumeApplicationsMultiple methodsJustifyGeneraliseTransfer |
+| Vocabulary | Identify barrierTeach explicitlyExamples and non-examplesRepresentHear, read, say and useRetrieve |
+| Engagement | PurposeAccessibilityChallengeInclusive participationCollaborationStudent voiceAdjust |
+| Digital learning | Learning intentionLearner needAdd valueExplain and representPractise and collaborateGather evidenceEvaluate |
+| Digital inclusion | Identify barrierLearner needAccessibility toolMultiple representationsCommon intentionMaintain expectations |
+| Choosing tools | Learning intentionLearner needAdded valueEvidence of learningEvaluate impact |
+| Lesson not working | PauseDiagnoseAdapt pace, chunk or representationRe-teach or modelGuided practiceKeep intention clear |
+| Consolidation | ClosureSummariseExplainApply or retrieveSpaceInterleaveTransfer |
+| Improving practice | Evidence of learningReflectWork and assessmentMisconceptionsExplanations and sequenceAdaptEvaluate |
+| Unmotivated student | Starting pointEarly successAchievable stepsModel and scaffoldSecure retrievalChoice or relevanceHigh expectationsIndependence |
+
 
 ## General approach — What is your general approach to teaching and learning?
 
@@ -154,6 +144,7 @@ I would start by establishing the student's real starting point and creating ear
 
 ## Teaching & Learning Word Wall
 
+
 | **Plan** | **Teach** | **Secure** | **Engage** | **Adapt** |
 | ---------------------------- | ------------------------------- | ------------------------ | ----------------------------- | ------------------------- |
 | Know the students (1) | Scaffold (8) | Retrieval (7) | Student thinking (3) | Evidence of learning (3) |
@@ -172,3 +163,5 @@ I would start by establishing the student's real starting point and creating ear
 |  | Limit new information (1) |  | Multiple-choice questions (1) | Reflect and refine (1) |
 |  |  |  | Student voice (1) |  |
 |  | Integrate words and visuals (1) |  | Learner engagement (1) |  |
+
+
