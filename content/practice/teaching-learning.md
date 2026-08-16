@@ -30,8 +30,8 @@ intro: >
 |  | Sentence stems (1) | Deliberate practice (2) | Student explanations (2) | Remove barriers (1) |
 |  | Cognitive load (2) | Transfer (3) | Hinge questions (2) | Evaluate impact (2) |
 |  | Limit new information (1) |  | Multiple-choice questions (1) | Reflect and refine (1) |
-|  | Integrate words and visuals (1) |  | Student voice (1) |  |
-|  |  |  | Learner engagement (1) |  |
+|  |  |  | Student voice (1) |  |
+|  | Integrate words and visuals (1) |  | Learner engagement (1) |  |
 
 
 ## Teaching & Learning Concepts and Questions
