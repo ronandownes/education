@@ -1,141 +1,122 @@
 ---
 layout: doc
 permalink: /school-research.html
-title: St Patrick's Comprehensive — What I Know
-eyebrow: SCHOOL RESEARCH · INTERVIEW PREPARATION
-intro: One working document on the Comp: history, ethos, policies, curriculum, AEN, digital practice and what each point means for the interview.
+title: St Patrick's Comprehensive — Interview Recall
+eyebrow: SCHOOL PROFILE · SHANNON · MATHS & SEN INTERVIEW
+intro: Learn the school through short interview answers, retrieval chains and audio. Use Play all for the full run, or the play button beside any question.
 ---
-## What do I know about St Patrick's Comprehensive?
-**Key line: Ireland's first comprehensive school, established in Shannon in 1966, with equality of opportunity at the centre of its mission.**
+## St Patrick's Retrieval Map
 
-St Patrick's Comprehensive School in Shannon — **“The Comp”** — was established in 1966 and describes itself as Ireland's first comprehensive school. Its mission emphasises excellence, equality of opportunity, a disciplined and caring environment, helping individual students reach their potential, and positive relationships with the wider community.
+| Concept | Question |
+|---|---|
+| School identity | What do I know about St Patrick's Comprehensive? |
+| Scale | How big is the school? |
+| Comprehensive model | Why does “comprehensive” matter? |
+| Ethos and governance | How would I describe the school's ethos? |
+| Mission | What is the mission in memorable language? |
+| Maths and SEN fit | Why is this post a strong fit for me? |
+| AEN and inclusion | What do I know about additional educational needs? |
+| Inbhear | What does Inbhear mean? |
+| Inspection evidence | What did the 2025 AEN evaluation highlight? |
+| Curriculum pathways | What pathways does the school provide? |
+| Classroom management | What does the school expect from a classroom teacher? |
+| Digital learning | What do I know about ICT and mobile phones? |
+| Assessment | How would I approach assessment and feedback? |
+| Pastoral care | What is the subject teacher's pastoral role? |
+| Shannon community | How is the school connected to its community? |
+| My contribution | What could I contribute to the school? |
+| Why St Patrick's | What is my strongest answer? |
+| Panel question | What useful question could I ask the panel? |
 
-The school is co-educational. Its own website describes a Catholic ethos under the joint trusteeship of the Bishop of Killaloe and Limerick and Clare Education and Training Board. Its identity is closely tied to Shannon itself and to the idea of a comprehensive school serving a whole community.
+## School identity — What do I know about St Patrick's Comprehensive?
 
-## Why does the word “comprehensive” matter?
-**Key line: The model brings a wider range of students, subjects and educational pathways together in one school.**
+**Key line: St Patrick's is Ireland's first comprehensive school, established in Shannon in 1966, with breadth, equality of opportunity and community at the heart of its identity.** It is a co-educational post-primary school, known locally as **“The Comp”**, with roll number **81007U**.
 
-For interview purposes, I would not treat *comprehensive* as just part of the name. The significance is breadth: academic, practical, technical and vocational opportunities within a common school rather than a narrow single-track identity.
+## Scale — How big is the school?
 
-That connects naturally with the school's present emphasis on equality of opportunity, AEN provision, L2LP, LCA, Senior Cycle options and a broad extracurricular programme.
+**Key line: The current enrolment is 765 students — 402 boys and 363 girls — so it is a large, mixed post-primary school.** In interview language, that means a broad learner population, substantial subject and support teams, and a need for clear systems, collaboration and consistent classroom practice.
 
-## What is the ethos and mission?
-**Key line: Excellence + equality of opportunity + care + community.**
+## Comprehensive model — Why does “comprehensive” matter?
 
-The mission statement gives four very usable ideas for interview answers: excellence; equality of opportunity; a disciplined and caring environment; and helping students relate positively to one another and the community.
+**Key line: Comprehensive means different students, subjects and pathways learning within one school community.** It is not merely part of the name: it signals breadth across academic, practical, technical and vocational learning, with more than one valid route to success.
 
-A strong “Why St Patrick's?” answer should connect my own examples to those ideas rather than simply reciting the mission statement.
+## Ethos and governance — How would I describe the school's ethos?
 
-## What does the school expect around classroom management?
-**Key line: Classroom teacher first; restorative and proportionate intervention; record persistent patterns; then use the wider support structure.**
+**Key line: The school describes itself as Catholic and co-educational, under the joint trusteeship of the Bishop of Killaloe and Limerick and Clare Education and Training Board, while serving a pluralist local community in an inclusive spirit.** I would keep governance and ethos precise rather than using Catholic, ETB and multi-denominational as interchangeable labels.
 
-The published behaviour material places the classroom teacher at the first level of intervention. The useful interview model is:
+## Mission — What is the mission in memorable language?
 
-**Prevent → Intervene → Restore → Record → Collaborate → Escalate proportionately.**
+**Key line: Excellence, equality of opportunity, care, potential and community.** The mission commits the school to excellence, equal opportunity in a disciplined and caring environment, helping each student reach their potential, and building positive relationships with other people and the wider community.
 
-Ordinary low-level disruption should normally be addressed calmly at classroom level. Persistent or more serious issues are recorded and move through year-head, pastoral, AEN and management structures as appropriate. The point is not to outsource classroom management immediately, but equally not to operate in isolation when a pattern or safeguarding concern requires wider support.
+## Maths and SEN fit — Why is this post a strong fit for me?
 
-## What do I know about mobile phones and ICT?
-**Key line: Digital learning is encouraged; unrestricted personal-phone use is not.**
+**Key line: The post joins the two strongest strands of my experience — Mathematics teaching and substantial SEN/AEN and learning-support work.** I can bring subject knowledge, mixed-ability planning, accessible explanations, high expectations, team teaching, learning support and experience of alternative pathways such as LCA Mathematical Applications.
 
-The school separates purposeful digital learning from personal-device distraction. Its published material describes Microsoft 365/Teams and school-directed ICT use, while the mobile-phone rules are deliberately restrictive about social or unauthorised use during the school day.
+## AEN and inclusion — What do I know about additional educational needs?
 
-That gives me a useful interview distinction: use technology because it improves access, explanation, practice, feedback or participation — not simply because a phone is available.
+**Key line: AEN is visible in the school's mainstream operating model, not treated as a separate add-on.** The school highlights Inbhear, L2LP and Senior Cycle Level 2 learning, autism-friendly work, team teaching, support teaching, SNA support, small-group or individual support, and curricular adjustment where identified need requires it.
 
-## What do I know about digital access?
-**Key line: The school has invested in devices and infrastructure specifically to reduce barriers to access.**
+## Inbhear — What does Inbhear mean?
 
-The school website records digital-divide funding used to improve Wi-Fi and device access, including devices for both LCA groups, charging cabinets, an ambition to operate a device-loan scheme and a SMART TV in an AEN classroom.
+**Key line: Inbhear means estuary, linking the Shannon Estuary with each student's individual educational journey.** The metaphor helps me remember that progress is not always linear: students meet different currents, transitions and barriers, so the teacher needs patience, regulation support, a safe route back into learning and consistently high expectations.
 
-## What do I know about AEN / SEN and inclusion?
-**Key line: AEN is part of the school's mainstream operating model, not a separate add-on.**
+## Inspection evidence — What did the 2025 AEN evaluation highlight?
 
-The school gives AEN a visible place and refers to **Inbhear**, **L2LP** provision and autism-friendly work. Published SEN material describes mixed-ability first-year classes and supports including team teaching, support teaching, SNA support, small-group withdrawal, individual withdrawal and curricular adjustment where appropriate.
+**Key line: The evaluation recognised strong work and positive outcomes in Inbhear, while recommending broader access to safe regulation spaces and even tighter matching of support to identified need.** The interview lesson is that inclusion involves curriculum access, environment, relationships, regulation, continuity and evidence-led allocation of support.
 
-For a Maths & SEN interview this is central. My examples should show that I can teach the class while also reading support information, collaborating with colleagues, adapting access and maintaining high expectations.
+## Curriculum pathways — What pathways does the school provide?
 
-## What does “Inbhear” mean to me?
-**Key line: Inbhear means estuary — a useful metaphor for an educational journey that is individual, changing and not always linear.**
+**Key line: The curriculum reflects the comprehensive ideal by offering several routes through Junior and Senior Cycle.** The school presents Junior Cycle, Transition Year, the established Leaving Certificate, LCA, LCVP, L2LP and Senior Cycle Level 2 provision, alongside a wide subject range including Mathematics, sciences, technologies, business, languages, arts and practical subjects.
 
-**Inbhear** is the Irish word for **estuary**. The school's own explanation links Shannon's location on the estuary with the educational journey of its students.
+## Classroom management — What does the school expect from a classroom teacher?
 
-For interview preparation, the metaphor is useful in the broadest sense. A river does not move through identical conditions all the way to the sea. An estuary is a place of transition, changing currents and different routes. In the same way, a student's educational journey may involve periods of rapid progress, difficulty, regulation, redirection and renewed progress.
+**Key line: The classroom teacher acts first, using calm, restorative and proportionate intervention, while recording patterns and involving the wider structure when necessary.** My retrieval chain is **prevent → intervene → restore → record → collaborate → escalate proportionately**; ordinary disruption is not outsourced, but persistent, serious or safeguarding concerns are never managed in isolation.
 
-The practical lesson for me is **patience**. What is visible at one moment does not necessarily tell me the full story of a student's learning, processing or regulation. My job is to understand the individual, provide a safe route back into learning and keep expectations high without demanding that every student travel at the same pace or in the same way.
+## Digital learning — What do I know about ICT and mobile phones?
 
-**Interview cue:** *Inbhear → estuary → journey → different currents → patience → individual support → progress.*
+**Key line: Purposeful digital learning is supported; unrestricted personal-phone use is not.** I would use Microsoft 365, Teams or other technology when it improves access, explanation, practice, feedback or participation, while following the school's phone and acceptable-use expectations consistently.
 
-## What did the 2025 AEN inspection say about Inbhear?
-**Key line: Strong provision is visible in Inbhear, while the report also pushes the school toward broader access, stronger regulation supports and tighter alignment of support with identified need.**
+## Assessment — How would I approach assessment and feedback?
 
-The Department of Education's 2025 evaluation recorded **three special classes in Inbhear**. It described the suite as including two large classrooms, a modular classroom, sensory and quiet spaces, office spaces, a common area, and life-skills and cookery spaces. Parents in the inspection focus groups were very positive about the quality of supports and outcomes being achieved.
+**Key line: I use evidence to decide the next teaching move and then communicate progress clearly.** That includes questioning, observation, student work, retrieval practice, formative feedback, CBAs and appropriate summative assessment, with adjustments to teaching rather than assessment becoming a record-keeping exercise.
 
-The report also identified an important next step. Some mainstream students told inspectors that they needed a **quiet and safe place when overwhelmed**, and some parents wanted greater understanding of their children's social, emotional and regulation needs. Inspectors recommended an inclusive teaching, learning and self-regulation space in the main school and greater use of Inbhear, where appropriate, for mainstream students with the greatest level of need.
+## Pastoral care — What is the subject teacher's pastoral role?
 
-For interview purposes, this is highly relevant: **inclusion is not only curriculum access; it also includes regulation, environment, relationships, continuity and matching support to the student's actual identified need.**
+**Key line: The subject teacher notices, listens, records and communicates, but does not work alone.** I would build a safe relationship, observe changes in engagement or regulation, follow procedures, and collaborate appropriately with tutors, year heads, guidance, AEN, student support and school leadership.
 
-## Home-Based Summer Programme 2026
-**Key line: The school is actively supporting access to the 2026 Home-Based Summer Programme for students with complex educational or care needs.**
+## Shannon community — How is the school connected to its community?
 
-The school has a dedicated **Home-Based Summer Programme 2026** page. The current notice states that the application deadline is **15 May** and that applications must be returned to the school in advance of that date.
+**Key line: The Comp presents itself as part of Shannon, not simply a school building located there.** Its history is tied to the development of the town, it makes facilities available locally, and its broad extracurricular life — sport, music, creativity, Green Schools, mentoring, lunch clubs, language work and STEM initiatives — reinforces the idea of a school serving a whole community.
 
-[Open the official St Patrick's Home-Based Summer Programme 2026 page →](https://stpatrickscomprehensive.ie/home-based-summer-programme-2026.html)
+## My contribution — What could I contribute to the school?
 
-<details>
-<summary><strong>Quick summary</strong></summary>
-<p>The programme is a summer support scheme for eligible students with complex educational or care needs. St Patrick's is providing the application material and programme overview through its AEN area. A fuller summary will be added here from the complete 2026 document.</p>
-</details>
+**Key line: I would contribute first through excellent Mathematics and inclusive classroom practice, then through reliable collaboration and wider school involvement.** My practical contribution is strong planning, accessible teaching, calm classroom routines, useful assessment, teamwork with AEN colleagues and a willingness to support activities that build belonging beyond the timetable.
 
-<details>
-<summary><strong>Medium summary</strong></summary>
-<p>Pending the complete 2026 overview document. This section will condense the practical information a parent, teacher or SNA needs: eligibility, programme purpose, application route, hours or tuition arrangements, roles and responsibilities, and the main conditions attached to participation.</p>
-</details>
+## Why St Patrick's — What is my strongest answer?
 
-<details>
-<summary><strong>Detailed summary</strong></summary>
-<p>Pending the complete 2026 overview document. This section will provide a structured summary of the full guidance without requiring the reader to work through the entire document, while retaining the official document as the source of truth.</p>
-</details>
+**Key line: I am attracted by the meeting point between breadth and inclusion.** St Patrick's comprehensive tradition values more than one route to success, while the Maths and SEN post matches my own experience across subject teaching, mixed-ability classrooms, LCA, learning support and AEN. I could contribute immediately while continuing to learn from an established team.
 
-## What do I know about LCA and pathways?
-**Key line: The school offers more than one route to success and treats pathway choice as part of inclusion.**
+## Panel question — What useful question could I ask the panel?
 
-The school's curriculum and publications include Leaving Certificate Applied as well as the established Leaving Certificate. Its digital-access work specifically included both LCA groups. My own LCA Mathematical Applications and learning-support experience therefore fit naturally, provided examples remain anonymous.
+**Key line: Ask a question that shows I am already thinking about collaboration and student progress.** “How do the Mathematics and AEN teams currently collaborate around planning, team teaching and tracking progress, and where would you most like the successful candidate to add value?”
 
-## What do I know about books and resources?
-The current school book-list area points families to the **Free Schoolbooks Scheme**, which is the more relevant current context than older book-rental arrangements. For interview purposes, the bigger point is equitable access to the materials students need.
+## St Patrick's Word Wall
 
-## What do I know about assessment, feedback and reporting?
-**Key line: Use evidence to move learning forward, then communicate progress clearly.**
+| Identity | Ethos | Inclusion | Practice | My fit |
+|---|---|---|---|---|
+| 1966 | excellence | Inbhear | relationships | Mathematics |
+| first comprehensive | equality of opportunity | estuary | high expectations | SEN / AEN |
+| Shannon | disciplined and caring | L2LP | restorative | mixed ability |
+| 765 students | potential | regulation | evidence | learning support |
+| co-educational | community | access | collaboration | LCA |
+| roll 81007U | joint trusteeship | identified need | proportionality | contribution |
 
-The school operates within the Junior Cycle framework of ongoing formative assessment, classroom-based assessment and broader reporting. Its homework and assessment materials also emphasise feedback and structured support. My interview examples should show not just that I give tests, but how evidence changes the next teaching decision.
+## Sources
 
-## What do I know about pastoral care?
-**Key line: The subject teacher is part of the pastoral system, but does not act alone.**
+- [Official school overview, history, mission and ethos](https://www.stpatrickscomprehensive.ie/about-us.html)
+- [Official AEN and Inbhear area](https://www.stpatrickscomprehensive.ie/aen.html)
+- [Official L2LP information](https://www.stpatrickscomprehensive.ie/l2lps.html)
+- [Department of Education school and inspection reports](https://www.gov.ie/en/department-of-education/school-inspection-reports/st-patricks-comprehensive-school-2/)
+- [Current 2026 vacancy evidence for school type and enrolment](https://www.educationposts.ie/post/view/249892)
 
-Published school structures include tutors, year heads, guidance, AEN and wider student-support structures. The subject teacher notices, records and communicates concerns while specialist and leadership roles are brought in appropriately.
-
-## What do I know about the school's community identity?
-**Key line: The Comp presents itself as part of Shannon, not just a building in Shannon.**
-
-The school describes itself as an integral part of the local community and makes facilities available locally. Its history, partnerships and extracurricular life reinforce the original comprehensive-school idea of a school serving a developing community.
-
-## What is my strongest “Why St Patrick's?” line?
-**Key line: The fit is between breadth and inclusion — broad STEM teaching, mixed-ability practice and substantial learning-support/AEN experience.**
-
-The attraction is the combination of a genuinely broad comprehensive-school tradition and a present-day commitment to inclusion. The post itself — Maths & SEN — sits directly across two strong strands of my experience: subject teaching and supporting students with very different learning profiles.
-
-## What should I still research?
-Continue through the current Code of Behaviour, Bí Cineálta / anti-bullying material, Child Safeguarding Statement, AEN policy, attendance, homework/assessment, ICT/AUP, mobile-phone policy, admissions and recent school news/social media.
-
-For each item extract four things:
-1. What does the school value?
-2. What is the classroom teacher expected to do?
-3. Who becomes involved next?
-4. Which of my own examples demonstrates a good fit?
-
-## Sources to keep beside this note
-- St Patrick's Comprehensive official **About Us**, **Welcome**, **Curriculum**, **AEN**, policy and publications pages.
-- Department of Education **Evaluation of Inclusive Practices and Provision for Children with Special and Additional Educational Needs**, Shannon Comprehensive School, published September 2025.
-- Current school news and social-media posts for recent activity.
-
-<p class="source-note">This is an unofficial personal preparation document. It summarises public school information and my own interview preparation; it is not a school publication.</p>
+<p class="source-note">This is an unofficial personal preparation document based on public school information and interview rehearsal. It is not a school publication.</p>
