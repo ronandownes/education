@@ -11,9 +11,9 @@ This is the organising idea behind the site. **Hope** that progress is possible;
 
 ## How this site is organised
 
-The main navigation keeps the core interview domains visible and adds two practical shelves: **Classes** for class profiles and **Plans** for actual schemes of work and the curriculum specifications they use. **Glossary** holds recurring professional language and recall phrases. **Timeline** holds teaching experience and school context. **Policies** is available from the reference shelf below.
+The main navigation keeps the eight interview domains visible and adds two practical shelves: **Profiles** and **Plans**. **Profiles** contains both class profiles and school profiles. **Plans** contains actual schemes of work and the curriculum specifications they use. Teaching experience sits with Professional Responsibility rather than in a separate Timeline tab. **Policies** remains available from the reference shelf below.
 
-Use the top navigation as the first place to look: interview questions stay under their domains, while class records and working plans have their own obvious homes.
+Use the top navigation as the first place to look: interview questions stay under their domains, while learner/school context and working plans have obvious homes of their own.
 
 ## Subject Launchpad
 
@@ -25,9 +25,9 @@ Use the top navigation as the first place to look: interview questions stay unde
 
 ## Reference Shelf
 
-- [Glossary](glossary.html)
+- [Profiles](profiles.html)
 - [Policies](policies.html)
-- [Timeline](timeline.html)
+- [Teaching Experience](timeline.html)
 
 ## Editing
 
