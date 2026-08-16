@@ -8,16 +8,6 @@ intro: |-
   Align with the curriculum and
   Adapt to the evidence.
 ---
-## Vocabulary
-
-
-| Adapt | Adjust | Align | Collaborate | Consolidate |
-| ---------- | --------- | -------- | ----------- | ----------- |
-| Evaluate | Integrate | Map | Monitor | Pace |
-| Prioritise | Reflect | Revisit | Review | Sequence |
-| Track | Scaffold | Retrieve |  |  |
-
-
 ## Plan a lesson on **short notice**?
 
 I establish **where the class is in their learning**, 
