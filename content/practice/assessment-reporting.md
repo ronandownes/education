@@ -5,7 +5,6 @@ title: Assessment, Feedback & Reporting
 eyebrow: PROFESSIONAL PRACTICE
 intro: Elicit evidence, interpret it, give actionable feedback, build student agency and report progress clearly.
 ---
-# Assessment, Feedback & Reporting
 
 {% include afr-interview-1.md %}
 
