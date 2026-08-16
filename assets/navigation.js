@@ -7,18 +7,6 @@
   const siteRoot = brand?.href || `${location.origin}/`;
   const siteHref = path => new URL(path.replace(/^\/+/, ''), siteRoot).href;
 
-  // GitHub Pages is currently emitting a few Markdown pages at their source-derived
-  // paths even though the Markdown front matter declares shorter permalinks. Point
-  // primary navigation at the paths that actually exist in the deployed artifact.
-  const routeFixes = [
-    ['.nav-classroom > .navlabel', 'content/practice/classroom-management.html'],
-    ['.nav-differentiation > .navlabel', 'content/practice/differentiation-accessibility.html']
-  ];
-  routeFixes.forEach(([selector, path]) => {
-    const link = document.querySelector(selector);
-    if (link) link.href = siteHref(path);
-  });
-
   // Keep the information architecture compact: Profiles contains class and school
   // profiles; Glossary and Timeline are no longer permanent top-level items.
   const profilesItem = document.querySelector('.nav-classes');
