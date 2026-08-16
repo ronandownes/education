@@ -141,75 +141,89 @@
         node.replaceWith(fragment);
       });
 
-      // Three focused audio modes for interview rehearsal: concepts only,
-      // questions only, or answers only. Use browser speech synthesis so the
-      // controls always follow the current live page content.
+      // Teaching & Learning audio is generated directly from the current page
+      // text, avoiding room/microphone artefacts. The top control reads every
+      // question and answer; each interview question also gets one small,
+      // unambiguous play control for its own question-and-answer pair.
       const toolbar = document.querySelector('.doc-toolbar');
       const synth = window.speechSynthesis;
-      if (toolbar && synth && typeof SpeechSynthesisUtterance !== 'undefined') {
-        const conceptsHeading = Array.from(body.querySelectorAll('h2')).find(
-          heading => heading.textContent.trim() === 'Teaching & Learning Concepts and Questions'
-        );
-        const conceptsTable = conceptsHeading?.nextElementSibling;
-        const conceptRows = conceptsTable?.tagName === 'TABLE'
-          ? Array.from(conceptsTable.querySelectorAll('tbody tr'))
-          : [];
-
-        const concepts = conceptRows
-          .map(row => row.children[0]?.textContent.trim().replace(/^\d+\s*/, ''))
-          .filter(Boolean);
-        const questions = conceptRows
-          .map(row => row.children[1]?.textContent.trim())
-          .filter(Boolean);
-
-        const answerHeadings = Array.from(body.querySelectorAll('h2')).filter(
+      if (toolbar && synth && typeof SpeechSynthesisUtterance !== 'undefined' && !document.querySelector('.tl-audio-panel')) {
+        const questionHeadings = Array.from(body.querySelectorAll(':scope > h2')).filter(
           heading => /^\d+\s/.test(heading.textContent.trim())
         );
-        const answers = answerHeadings.map(heading => {
-          const parts = [];
+        const pairs = questionHeadings.map(heading => {
+          const headingText = heading.textContent.replace(/\s+/g, ' ').trim();
+          const question = headingText.split(/\s+—\s+/).pop() || headingText;
+          const answerParts = [];
           let node = heading.nextElementSibling;
           while (node && node.tagName !== 'H2') {
             if (node.matches('p, ul, ol, blockquote')) {
               const text = node.textContent.replace(/\s+/g, ' ').trim();
-              if (text) parts.push(text);
+              if (text) answerParts.push(text);
             }
             node = node.nextElementSibling;
           }
-          return parts.join(' ');
-        }).filter(Boolean);
+          return { heading, question, answer: answerParts.join(' ') };
+        }).filter(pair => pair.question && pair.answer);
 
-        const modes = {
-          concepts: { label: '🔊 Concepts', intro: 'Teaching and Learning concepts.', segments: concepts },
-          questions: { label: '🔊 Questions', intro: 'Teaching and Learning questions.', segments: questions },
-          answers: { label: '🔊 Answers', intro: 'Teaching and Learning answers.', segments: answers }
-        };
+        const panel = document.createElement('section');
+        panel.className = 'tl-audio-panel';
+        panel.setAttribute('aria-labelledby', 'tl-audio-title');
+        panel.innerHTML = `
+          <div class="tl-audio-copy">
+            <p class="tl-audio-eyebrow">TEACHING &amp; LEARNING AUDIO</p>
+            <h2 id="tl-audio-title">Question first. Answer second.</h2>
+            <p>Clean synthetic voice from the current page text · ${pairs.length} interview questions</p>
+          </div>
+          <div class="tl-audio-actions">
+            <button class="tl-play-all" type="button">
+              <span class="tl-play-icon" aria-hidden="true"></span>
+              <span class="tl-play-label">Play all Q&amp;A</span>
+            </button>
+            <button class="tl-audio-stop" type="button" hidden>Stop</button>
+            <p class="tl-audio-status" aria-live="polite">Ready</p>
+          </div>
+        `;
 
-        const buttons = {};
-        let activeMode = null;
-        let queue = [];
+        const playAllButton = panel.querySelector('.tl-play-all');
+        const playAllLabel = panel.querySelector('.tl-play-label');
+        const stopButton = panel.querySelector('.tl-audio-stop');
+        const status = panel.querySelector('.tl-audio-status');
+        const questionButtons = [];
+        let selectedVoice = null;
+        let activeButton = null;
+        let currentQueue = [];
         let queueIndex = 0;
-        let currentUtterance = null;
         let runId = 0;
 
-        const stopButton = document.createElement('button');
-        stopButton.type = 'button';
-        stopButton.textContent = '■ Stop';
-        stopButton.title = 'Stop audio';
-        stopButton.hidden = true;
+        const selectVoice = () => {
+          const voices = synth.getVoices();
+          selectedVoice = voices.find(voice => voice.lang.toLowerCase() === 'en-ie')
+            || voices.find(voice => voice.lang.toLowerCase().startsWith('en-gb') && /natural|google|microsoft|siri/i.test(voice.name))
+            || voices.find(voice => voice.lang.toLowerCase().startsWith('en-gb'))
+            || voices.find(voice => voice.lang.toLowerCase().startsWith('en'))
+            || null;
+        };
+        selectVoice();
+        synth.addEventListener?.('voiceschanged', selectVoice);
 
-        const resetLabels = () => {
-          Object.entries(modes).forEach(([key, mode]) => {
-            if (buttons[key]) buttons[key].textContent = mode.label;
+        const resetControls = () => {
+          playAllButton.classList.remove('is-playing');
+          playAllButton.setAttribute('aria-pressed', 'false');
+          playAllLabel.textContent = 'Play all Q&A';
+          questionButtons.forEach(button => {
+            button.classList.remove('is-playing');
+            button.setAttribute('aria-pressed', 'false');
           });
         };
 
         const finish = () => {
-          resetLabels();
-          stopButton.hidden = true;
-          activeMode = null;
-          queue = [];
+          resetControls();
+          activeButton = null;
+          currentQueue = [];
           queueIndex = 0;
-          currentUtterance = null;
+          stopButton.hidden = true;
+          status.textContent = 'Ready';
         };
 
         const stop = () => {
@@ -218,67 +232,106 @@
           finish();
         };
 
+        const setPlayingState = playing => {
+          resetControls();
+          if (!activeButton) return;
+          activeButton.classList.toggle('is-playing', playing);
+          activeButton.setAttribute('aria-pressed', String(playing));
+          if (activeButton === playAllButton) {
+            playAllLabel.textContent = playing ? 'Pause' : 'Resume';
+            playAllButton.classList.toggle('is-playing', playing);
+          }
+        };
+
         const speakNext = sessionId => {
-          if (sessionId !== runId || !activeMode) return;
-          if (queueIndex >= queue.length) {
+          if (sessionId !== runId || !activeButton) return;
+          if (queueIndex >= currentQueue.length) {
             finish();
             return;
           }
 
-          currentUtterance = new SpeechSynthesisUtterance(queue[queueIndex]);
-          currentUtterance.lang = 'en-IE';
-          currentUtterance.rate = 0.95;
-          currentUtterance.onend = () => {
-            if (sessionId !== runId || !activeMode) return;
+          const segment = currentQueue[queueIndex];
+          const utterance = new SpeechSynthesisUtterance(segment.text);
+          utterance.lang = 'en-IE';
+          utterance.rate = segment.type === 'question' ? 0.92 : 0.96;
+          utterance.pitch = 1;
+          if (selectedVoice) utterance.voice = selectedVoice;
+          utterance.onend = () => {
+            if (sessionId !== runId) return;
             queueIndex += 1;
             speakNext(sessionId);
           };
-          currentUtterance.onerror = () => {
+          utterance.onerror = () => {
             if (sessionId === runId) finish();
           };
-          synth.speak(currentUtterance);
+          status.textContent = segment.status;
+          synth.speak(utterance);
         };
 
-        const startMode = key => {
-          const mode = modes[key];
-          if (!mode || !mode.segments.length) return;
+        const start = (segments, button) => {
           runId += 1;
           const sessionId = runId;
           synth.cancel();
-          resetLabels();
-          activeMode = key;
-          queue = [mode.intro, ...mode.segments];
+          activeButton = button;
+          currentQueue = segments;
           queueIndex = 0;
-          buttons[key].textContent = '⏸ Pause';
           stopButton.hidden = false;
+          setPlayingState(true);
           speakNext(sessionId);
         };
 
-        Object.entries(modes).forEach(([key, mode]) => {
+        pairs.forEach((pair, index) => {
           const button = document.createElement('button');
           button.type = 'button';
-          button.textContent = mode.label;
-          button.title = `Listen to ${key} only`;
-          button.setAttribute('aria-label', `Listen to Teaching and Learning ${key} only`);
-          button.addEventListener('click', () => {
-            if (activeMode === key && synth.speaking && !synth.paused) {
+          button.className = 'tl-question-audio';
+          button.title = 'Play this question and answer';
+          button.setAttribute('aria-label', `Play question ${index + 1} and its answer`);
+          button.setAttribute('aria-pressed', 'false');
+          button.addEventListener('click', event => {
+            event.stopPropagation();
+            if (activeButton === button && synth.speaking && !synth.paused) {
               synth.pause();
-              button.textContent = '▶ Resume';
+              setPlayingState(false);
+              status.textContent = `Question ${index + 1} paused`;
               return;
             }
-            if (activeMode === key && synth.paused) {
+            if (activeButton === button && synth.paused) {
               synth.resume();
-              button.textContent = '⏸ Pause';
+              setPlayingState(true);
+              status.textContent = `Playing question ${index + 1}`;
               return;
             }
-            startMode(key);
+            start([
+              { text: pair.question, type: 'question', status: `Question ${index + 1}` },
+              { text: pair.answer, type: 'answer', status: `Answer ${index + 1}` }
+            ], button);
           });
-          buttons[key] = button;
+          pair.heading.append(' ', button);
+          questionButtons.push(button);
         });
 
+        playAllButton.setAttribute('aria-pressed', 'false');
+        playAllButton.addEventListener('click', () => {
+          if (activeButton === playAllButton && synth.speaking && !synth.paused) {
+            synth.pause();
+            setPlayingState(false);
+            status.textContent = 'All questions paused';
+            return;
+          }
+          if (activeButton === playAllButton && synth.paused) {
+            synth.resume();
+            setPlayingState(true);
+            return;
+          }
+          const allSegments = pairs.flatMap((pair, index) => [
+            { text: pair.question, type: 'question', status: `Question ${index + 1} of ${pairs.length}` },
+            { text: pair.answer, type: 'answer', status: `Answer ${index + 1} of ${pairs.length}` }
+          ]);
+          start(allSegments, playAllButton);
+        });
         stopButton.addEventListener('click', stop);
-        toolbar.prepend(buttons.concepts, buttons.questions, buttons.answers, stopButton);
         window.addEventListener('beforeunload', stop);
+        toolbar.before(panel);
       }
     }
   }
