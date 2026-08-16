@@ -7,6 +7,34 @@ intro: Elicit evidence, interpret it, give actionable feedback, build student
   agency and report progress clearly.
 ---
 
+## Assessment, Feedback & Reporting Retrieval Chains
+
+| Concept | Retrieval chain |
+| --- | --- |
+| Assess learning | Elicit evidence → questioning/observation/MWB/work/retrieval/formal → interpret thinking → understanding/misconceptions/fluency/reasoning → next step |
+| Starting point | Handover/prior attainment → diagnostic/retrieval/Q/observation/explanations → strengths/gaps/misconceptions/barriers → defensible starting point |
+| Hinge question | Plausible distractors → likely misconceptions → whole-class response → see pattern quickly → infer thinking → respond → recheck |
+| Barrier vs misconception | Keep demand → change access route → simplify irrelevant language/represent/read aloud/oral response → concept appears? barrier → error remains? misconception |
+| After the mark | Mark → interpret evidence → error analysis → class/individual pattern → re-teach/practise/re-rep/challenge → check again → close loop |
+| AfL | LI + SC → elicit evidence during learning → interpret → responsive action → pace/re-teach/re-rep/challenge → feedback loop |
+| Assessment as learning | SC + exemplars → self/peer assessment → reflection → identify strength + development → metacognition/ownership/self-regulation → independence |
+| Assessment of learning | Summative snapshot → test/common assessment/exam/performance → record attainment → professional judgement → validity/reliability |
+| Effective feedback | Timely → focused → specific → linked to SC → strength + manageable development → actionable prompt → student acts → reattempt |
+| Live feedback | Circulate → Q/assessment conversation/prompt → misconception/reasoning/SC → immediate correction/redirection → check again |
+| Written & whole-class feedback | Durable specific need? written → common pattern? whole-class → examples/exemplars → time to correct/redraft → avoid low-impact marking |
+| Self-assessment | Clear SC → enough subject knowledge → exemplars/checklist/prompts → strength + development + next step → metacognition/self-regulation |
+| Peer assessment | Structure + respectful culture → SC + exemplars → focused prompt → evidence of success + one improvement → teacher judgement retained |
+| Success criteria | Derive from LI → clear language/examples/exemplars → visible quality → guide Q/self/peer/feedback → focus on important learning |
+| Retrieval as assessment | Low-stakes retrieval → retention without prompts → misconceptions returning → evidence over time → revisit/re-teach/practise/challenge |
+| Common assessments | Shared expectations/reliability/comparison → align with taught content → beware access/starting point/sequence → error analysis + wider evidence |
+| Validity & reliability | Validity = right construct → reliability = consistent enough → clear SC/suitable tasks/enough evidence → remove irrelevant barriers |
+| Accessible assessment | Intended learning first → preserve demand/SC → clear language/layout/accommodation/alternative response → processing needs → barrier removed, construct unchanged |
+| Digital assessment | Use if better/faster evidence → whole-class response/immediate feedback/retry → check validity → combine with Q/discussion/work for reasoning |
+| Progress vs attainment | Attainment = standard reached → progress = movement from start → evidence/work/records → strengths + development → clear next step |
+| Record keeping | Required formal results + useful formative patterns → progress/attainment/misconceptions → proportionate → planning/parents/reporting/judgement |
+| Parent communication | Clear evidence → attainment + progress + strengths + development + next step → distinguish mark from pattern → avoid labels/ceilings |
+| Reporting | Accurate + evidence-informed + useful → attainment/progress/strengths/development → clear language → procedures → where now + next step |
+| Review assessment | Valid evidence? → students act on feedback? → review Q/tasks/feedback/redrafting/follow-up → compare with work/common evidence → adjust |
 
 ## Assess learning — How do you assess learning in your classroom?
 
@@ -104,14 +132,11 @@ A good report is accurate, evidence-informed and useful. I use an evidence-infor
 
 I look at whether assessment is producing valid evidence and whether students actually act on feedback. I review the quality of questions, tasks, feedback, redrafting and follow-up, and compare my judgement with student work and common evidence where available. I use professional judgement to adjust the approach, because assessment should improve learning rather than simply generate marks.
 
-
-
 &nbsp;
 
 &nbsp;
 
 ## Assessment, Feedback & Reporting Word Wall
-
 
 | **Elicit** | **Interpret** | **Feedback** | **Agency** | **Report** |
 | -------------------- | -------------------------- | ------------------------ | --------------------------- | ---------------------------- |
@@ -128,9 +153,7 @@ I look at whether assessment is producing valid evidence and whether students ac
 | Hinge question (1) | Error analysis (3) | Written feedback (1) | Learner independence (1) | Parent communication (2) |
 | Exit ticket (1) | Retention (1) | Whole-class feedback (1) | Assessment conversation (1) | Evidence-informed report (1) |
 
-
 ## Assessment, Feedback & Reporting Concepts and Questions
-
 
 | **AFR concept** | **Interview question** |
 | ---------------------------------- | ------------------------------------------------------------------------------- |
@@ -158,9 +181,6 @@ I look at whether assessment is producing valid evidence and whether students ac
 | **Parent communication** | How do you communicate assessment information to parents or guardians? |
 | **Reporting** | What makes a good student report? |
 | **Review assessment** | How do you evaluate whether your assessment and feedback practices are working? |
-
-
-
 
 &nbsp;
 
