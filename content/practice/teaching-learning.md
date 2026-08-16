@@ -3,8 +3,7 @@ layout: doc
 permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
-intro: My answers on explanation, modelling, questioning, active learning,
-  digital learning and building understanding.
+intro: My answers on planning, teaching, securing knowledge and skills, engaging students in thinking, connections and problem-solving, and responding to evidence of learning.
 ---
 # Teaching & Learning
 
