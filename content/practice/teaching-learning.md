@@ -10,7 +10,7 @@ intro: >
   conversation and problem-solving, and respond to evidence of learning from
   tasks, questioning, quizzes, exercises and rich problem-solving activities.
 ---
-## Word Wall
+## Teaching & Learning Word Wall
 
 
 | **Plan** | **Teach** | **Secure** | **Engage** | **Respond** |
