@@ -5,7 +5,6 @@ title: AEN & Inclusion
 eyebrow: PROFESSIONAL PRACTICE
 intro: I start with the learner, not the label; identify strengths, needs and barriers; adapt access and support; and review whether that support increases participation, independence and ambition.
 ---
-# AEN & Inclusion
 
 ## AEN & Inclusion Word Wall
 
@@ -24,7 +23,7 @@ intro: I start with the learner, not the label; identify strengths, needs and ba
 | Sensory profile (3) | Sensory needs (1) | Multiple representations (2) | SNA support (2) | Shared planning (2) |
 | Individual progress (5) | General learning needs (1) | Retrieval (2) | L1LP / L2LP (1) | Parents / guardians (1) |
 
-## 24 Interview Questions
+## AEN & Inclusion Concepts and Questions
 
 | **AEN concept** | **Interview question** |
 |---|---|
