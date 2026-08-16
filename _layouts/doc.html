@@ -214,7 +214,7 @@
       <div class="doc-body" id="docBody">{{ content }}</div>
     </article>
   </main>
-  <script src="{{ '/assets/navigation.js' | relative_url }}"></script>
+  <script src="{{ '/assets/navigation.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
   <script>
     document.querySelector('[data-action="print"]')?.addEventListener('click', () => window.print());
     (() => {
