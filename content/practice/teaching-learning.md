@@ -3,14 +3,18 @@ layout: doc
 permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
-intro: My answers on planning, teaching, securing knowledge and skills, engaging students in thinking and gaining confidence through using the language of maths for conversation and problem-solving, and responding to evidence of learning through tasks, quizzes, exercises and rich problem-solving tasks.
+intro: My answers on planning, teaching, securing knowledge and skills, engaging
+  students in thinking and gaining confidence through using the language of
+  maths for conversation and problem-solving, and responding to evidence of
+  learning through tasks, quizzes, exercises and rich problem-solving tasks.
 ---
-# Teaching & Learning
+# Word Wall
 
-## Word Wall
+
+
 
 | **Plan** | **Teach** | **Secure** | **Engage** | **Respond** |
-|---|---|---|---|---|
+| ---------------------------- | ------------------------------- | ------------------------ | ----------------------------- | ------------------------- |
 | Know the students (1) | Scaffold (7) | Retrieval (6) | Student thinking (3) | Evidence of learning (3) |
 | Learning intention (7) | Explanation (13) | Fade support (4) | Questioning (7) | Formative assessment (2) |
 | Activate prior knowledge (2) | Model (5) | Independent practice (4) | Reasoning (6) | Check understanding (6) |
@@ -28,10 +32,12 @@ intro: My answers on planning, teaching, securing knowledge and skills, engaging
 |  | Integrate words and visuals (1) |  | Student voice (1) |  |
 |  |  |  | Learner engagement (1) |  |
 
+
 ## 24 Interview Questions
 
+
 | **TL concept** | **Interview question** |
-|---|---|
+| --------------------------- | ----------------------------------------------------------- |
 | **1 Good teaching** | What are the key features of good teaching? |
 | **2 Effective lesson** | What does an effective lesson look like? |
 | **3 Difficult concept** | How do you teach a difficult concept? |
@@ -56,6 +62,7 @@ intro: My answers on planning, teaching, securing knowledge and skills, engaging
 | **22 Lesson not working** | What do you do when a lesson is not working? |
 | **23 Consolidation** | How do you consolidate learning? |
 | **24 Improving practice** | How do you evaluate and improve your own teaching? |
+
 
 ## 1 Good teaching — What are the key features of good teaching?
 
