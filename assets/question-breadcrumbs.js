@@ -39,47 +39,49 @@
     });
     if (!chains.size) return;
 
-    if (!document.getElementById('question-breadcrumb-style')) {
-      const style = document.createElement('style');
+    let style = document.getElementById('question-breadcrumb-style');
+    if (!style) {
+      style = document.createElement('style');
       style.id = 'question-breadcrumb-style';
-      style.textContent = `
-        .question-breadcrumb-line{
-          display:block;
-          width:100%;
-          box-sizing:border-box;
-          margin:16px 0 24px;
-          padding:9px 12px 10px;
-          border-top:1px solid #e5e7eb;
-          border-bottom:1px solid #e5e7eb;
-          background:#fafafa;
-          color:#59636e;
-          font-size:.9rem;
-          line-height:1.45;
-          font-weight:400;
-          letter-spacing:0;
-        }
-        @media(max-width:600px){
-          .question-breadcrumb-line{
-            margin:14px 0 20px;
-            padding:8px 10px 9px;
-            font-size:.84rem;
-          }
-        }
-        @media print{
-          .question-breadcrumb-line{
-            margin:2.5mm 0 3.5mm;
-            padding:1.6mm 2mm;
-            border-top:.4pt solid #c7cbd0;
-            border-bottom:.4pt solid #c7cbd0;
-            background:#fafafa;
-            font-size:8pt;
-            line-height:1.2;
-            font-weight:400;
-          }
-        }
-      `;
       document.head.appendChild(style);
     }
+    style.textContent = `
+      .question-breadcrumb-line{
+        display:block;
+        width:100%;
+        box-sizing:border-box;
+        order:99;
+        margin:18px 0 28px;
+        padding:10px 13px 11px;
+        border-top:1px solid #d8dde3;
+        border-bottom:1px solid #d8dde3;
+        background:#f5f6f7;
+        color:#4f5965;
+        font-size:.91rem;
+        line-height:1.48;
+        font-weight:500;
+        letter-spacing:0;
+      }
+      @media(max-width:600px){
+        .question-breadcrumb-line{
+          margin:16px 0 22px;
+          padding:9px 11px 10px;
+          font-size:.85rem;
+        }
+      }
+      @media print{
+        .question-breadcrumb-line{
+          margin:2.8mm 0 3.8mm;
+          padding:1.8mm 2.2mm;
+          border-top:.5pt solid #bfc5cb;
+          border-bottom:.5pt solid #bfc5cb;
+          background:#f6f6f6;
+          font-size:8pt;
+          line-height:1.2;
+          font-weight:500;
+        }
+      }
+    `;
 
     body.querySelectorAll('.question-breadcrumb-line').forEach(line => line.remove());
 
@@ -96,32 +98,30 @@
       line.textContent = chain;
 
       const section = heading.closest('.answer-section');
-      const content = section?.querySelector(':scope > .section-content');
-
-      if (content) {
-        // Put the prompt INSIDE the answer area after all answer content.
-        // This guarantees: question -> answer -> retrieval prompt.
-        content.appendChild(line);
+      if (section) {
+        // Make the retrieval prompt the final child of the whole Q&A section.
+        // This forces the visible order: question -> answer -> prompt.
+        section.appendChild(line);
         return;
       }
 
-      // Plain Markdown fallback: place it after the answer paragraph/content,
-      // immediately before the next interview-question heading.
-      let lastAnswerNode = heading;
-      let node = heading.nextElementSibling;
-      while (node && node.tagName !== 'H2') {
-        if (!node.classList?.contains('question-breadcrumb-line')) lastAnswerNode = node;
-        node = node.nextElementSibling;
+      // Plain Markdown fallback: put the prompt immediately before the next H2,
+      // after every paragraph/list belonging to this answer.
+      let nextHeading = heading.nextElementSibling;
+      while (nextHeading && nextHeading.tagName !== 'H2') {
+        nextHeading = nextHeading.nextElementSibling;
       }
-      lastAnswerNode.insertAdjacentElement('afterend', line);
+      if (nextHeading) body.insertBefore(line, nextHeading);
+      else body.appendChild(line);
     });
   };
 
   const schedule = () => {
     run();
     requestAnimationFrame(run);
-    window.setTimeout(run, 120);
-    window.setTimeout(run, 500);
+    window.setTimeout(run, 150);
+    window.setTimeout(run, 600);
+    window.setTimeout(run, 1500);
   };
 
   if (document.readyState === 'loading') {
