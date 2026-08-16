@@ -211,17 +211,14 @@
       <h1>{{ page.title }}</h1>
       {% if page.intro %}<p class="doc-intro">{{ page.intro }}</p>{% endif %}
       <div class="doc-toolbar" aria-label="Document controls">
-        <button type="button" data-action="show-all">Show all</button>
-        <button type="button" data-action="hide-all">Hide all</button>
-        <button type="button" data-action="starred">★ Starred only</button>
         <button type="button" data-action="print">Print</button>
         <a class="edit-link" href="{{ cms_url }}" target="_blank" rel="noopener">Edit this page</a>
       </div>
       <div class="doc-body" id="docBody">{{ content }}</div>
     </article>
   </main>
-  <script src="{{ '/assets/doc-page.js' | relative_url }}"></script>
   <script>
+    document.querySelector('[data-action="print"]')?.addEventListener('click', () => window.print());
     (() => {
       const body = document.getElementById('docBody');
       if (!body) return;
@@ -324,7 +321,6 @@
       });
     })();
   </script>
-  <script src="{{ '/assets/sentence-reveal.js' | relative_url }}"></script>
   {% if page.class_map %}<script src="{{ '/assets/class-map.js' | relative_url }}"></script>{% endif %}
 </body>
 </html>
