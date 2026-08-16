@@ -7,6 +7,13 @@
   const siteRoot = brand?.href || `${location.origin}/`;
   const siteHref = path => new URL(path.replace(/^\/+/, ''), siteRoot).href;
 
+  // Interview dropdowns are reading/rehearsal tools. On a desktop, use nearly the
+  // full available screen height so long 24-question banks remain visible without
+  // an unnecessary small internal scroll box.
+  const interviewMenuStyle = document.createElement('style');
+  interviewMenuStyle.textContent = '@media (min-width:1501px){.topnav .dropmenu{max-height:calc(100vh - 92px)!important;overflow-y:auto!important;}}';
+  document.head.appendChild(interviewMenuStyle);
+
   // Keep the information architecture compact: Profiles contains class and school
   // profiles; Glossary and Timeline are no longer permanent top-level items.
   const profilesItem = document.querySelector('.nav-classes');
@@ -38,23 +45,17 @@
     }
   }
 
-  // Preserve the teaching-experience evidence bank without keeping the misleading
-  // Timeline label in the main navigation.
+  // Professional Responsibility is an interview-question bank, not a shelf of
+  // separate pages. Keep useful material as H2 sections on the page itself.
   const professionalMenu = document.querySelector('.nav-professional > .dropmenu');
-  if (professionalMenu && !professionalMenu.querySelector('a[data-teaching-experience]')) {
-    const link = document.createElement('a');
-    link.href = siteHref('timeline.html');
-    link.textContent = 'Teaching experience';
-    link.dataset.menuPage = '';
-    link.dataset.teachingExperience = '';
-    professionalMenu.insertBefore(link, professionalMenu.firstChild);
-  }
-
-  // The St Patrick's source currently deploys at content/schools/st-patricks.html.
   professionalMenu?.querySelectorAll('a').forEach(link => {
     const url = new URL(link.href, location.href);
-    if (url.pathname.endsWith('/school-research.html')) {
-      link.href = siteHref('content/schools/st-patricks.html');
+    if (
+      url.pathname.endsWith('/timeline.html') ||
+      url.pathname.endsWith('/school-research.html') ||
+      url.pathname.endsWith('/content/schools/st-patricks.html')
+    ) {
+      link.remove();
     }
   });
 
