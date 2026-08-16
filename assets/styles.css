@@ -206,3 +206,47 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 
 /* Synthetic profiles must remain unmistakably fictional if copied or printed. */
 .doc-body blockquote{margin:18px 0;padding:12px 16px;border-left:4px solid #e0a100;background:#fff9e8;color:#4d3b05}
+
+/* Teaching & Learning and Planning already have the page title above them, so
+   the extra Word Wall heading is redundant. Keep the wall itself prominent. */
+.answer-section:has(#teaching-learning-word-wall) .answer-heading-row,
+.answer-section:has(#planning-curriculum-word-wall) .answer-heading-row{display:none}
+.answer-section:has(#teaching-learning-word-wall),
+.answer-section:has(#planning-curriculum-word-wall){padding-top:0;border-top:0}
+.answer-section:has(#teaching-learning-word-wall) .section-content,
+.answer-section:has(#planning-curriculum-word-wall) .section-content{padding-top:0}
+
+@media print{
+  @page{margin:6mm}
+
+  /* Word Walls are recall sheets, not prose tables. Keep every term and its
+     bracketed usage count on one line and keep each wall on one printed page. */
+  .answer-section:has(#teaching-learning-word-wall),
+  .answer-section:has(#planning-curriculum-word-wall){
+    break-inside:avoid-page!important;
+    page-break-inside:avoid!important;
+    margin:0!important;
+    padding:0!important;
+  }
+  .answer-section:has(#teaching-learning-word-wall) .section-content table,
+  .answer-section:has(#planning-curriculum-word-wall) .section-content table{
+    width:100%!important;
+    table-layout:auto!important;
+    margin:0 0 4mm!important;
+    font-size:6.8pt!important;
+  }
+  .answer-section:has(#teaching-learning-word-wall) .section-content th,
+  .answer-section:has(#teaching-learning-word-wall) .section-content td,
+  .answer-section:has(#planning-curriculum-word-wall) .section-content th,
+  .answer-section:has(#planning-curriculum-word-wall) .section-content td{
+    white-space:nowrap!important;
+    padding:1.6mm 1.1mm!important;
+    line-height:1.05!important;
+    font-size:6.8pt!important;
+  }
+  .answer-section:has(#teaching-learning-word-wall) .section-content tr,
+  .answer-section:has(#planning-curriculum-word-wall) .section-content tr{
+    break-inside:avoid!important;
+    page-break-inside:avoid!important;
+  }
+}
