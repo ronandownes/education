@@ -33,7 +33,7 @@ intro: >
 |  |  |  | Learner engagement (1) |  |
 
 
-## 24 Interview Questions
+## Interview Concepts and Questions
 
 
 | **TL concept** | **Interview question** |
