@@ -3,39 +3,38 @@ layout: doc
 permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
-intro: |+
 ---
 ## Teaching & Learning Retrieval Chains
 
 
 | Concept | Retrieval chain |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| General approach | PlanKnow studentsClear intentionTeach and modelScaffoldRetrieve and practiseEngage thinkingAdapt to evidenceConsolidate |
-| Good teaching | Know studentsLearning intentionActivate prior knowledgeModelGuided practiceCheck understandingAdaptConsolidate |
-| Effective lesson | Clear goalSuccess criteriaRetrievalCoherent sequenceGuided practiceIndependent practiceClosure |
-| Difficult concept | PrerequisitesMisconceptionsSmall stepsClear explanationsMultiple representationsScaffoldFade support |
-| Clear explanation | Prior knowledgeExplicit instructionThink aloudExamples and non-examplesRemove redundancyCheckRe-represent |
-| Modelling | Worked exampleMake thinking visibleSubject vocabularyGuided practiceIndependent practiceCheck |
-| Scaffolding | Learner needPrompt or stemHigh expectationsCheck understandingGradual releaseFade support |
-| Cognitive load | PrerequisitesLimit new informationChunkWords and visualsWorked examplesRemove redundancy |
-| Active learning | Learning intentionMini-whiteboardsThink-pair-shareGuided discoveryCollaborationInclusive participationMake thinking visible |
-| Student thinking | PredictReasonJustifyApplyWait timeExplainIncrease challenge |
-| Questioning | Prior knowledgeRecallReasonJustifyApplyWait timeHinge questionAdapt |
-| Check understanding | QuestionMini-whiteboardsExplainStudent workDiagnoseRe-teach or re-representFeedback loop |
-| Misconceptions | RetrievalQuestioningExamples and non-examplesExpose reasoningContrastRe-teachRehearse |
-| Retrieval practice | RetrieveSpaceCumulative reviewInterleaveRehearseDeliberate practice |
-| Formative assessment | Question, boards and workGather evidenceCheck understandingAdapt pace, support or representationIncrease challengeRecheck |
-| Independence | ModelScaffoldGuided practiceFade supportIndependent practiceTransfer |
-| Challenge | Secure coreDepth, not volumeApplicationsMultiple methodsJustifyGeneraliseTransfer |
-| Vocabulary | Identify barrierTeach explicitlyExamples and non-examplesRepresentHear, read, say and useRetrieve |
-| Engagement | PurposeAccessibilityChallengeInclusive participationCollaborationStudent voiceAdjust |
-| Digital learning | Learning intentionLearner needAdd valueExplain and representPractise and collaborateGather evidenceEvaluate |
-| Digital inclusion | Identify barrierLearner needAccessibility toolMultiple representationsCommon intentionMaintain expectations |
-| Choosing tools | Learning intentionLearner needAdded valueEvidence of learningEvaluate impact |
-| Lesson not working | PauseDiagnoseAdapt pace, chunk or representationRe-teach or modelGuided practiceKeep intention clear |
-| Consolidation | ClosureSummariseExplainApply or retrieveSpaceInterleaveTransfer |
-| Improving practice | Evidence of learningReflectWork and assessmentMisconceptionsExplanations and sequenceAdaptEvaluate |
-| Unmotivated student | Starting pointEarly successAchievable stepsModel and scaffoldSecure retrievalChoice or relevanceHigh expectationsIndependence |
+| General approach | Plan → Know students → Clear intention → Teach and model → Scaffold → Retrieve and practise → Engage thinking → Adapt to evidence → Consolidate |
+| Good teaching | Know students → Learning intention → Activate prior knowledge → Model → Guided practice → Check understanding → Adapt → Consolidate |
+| Effective lesson | Clear goal → Success criteria → Retrieval → Coherent sequence → Guided practice → Independent practice → Closure |
+| Difficult concept | Prerequisites → Misconceptions → Small steps → Clear explanations → Multiple representations → Scaffold → Fade support |
+| Clear explanation | Prior knowledge → Explicit instruction → Think aloud → Examples and non-examples → Remove redundancy → Check → Re-represent |
+| Modelling | Worked example → Make thinking visible → Subject vocabulary → Guided practice → Independent practice → Check |
+| Scaffolding | Learner need → Prompt or stem → High expectations → Check understanding → Gradual release → Fade support |
+| Cognitive load | Prerequisites → Limit new information → Chunk → Words and visuals → Worked examples → Remove redundancy |
+| Active learning | Learning intention → Mini-whiteboards → Think-pair-share → Guided discovery → Collaboration → Inclusive participation → Make thinking visible |
+| Student thinking | Predict → Reason → Justify → Apply → Wait time → Explain → Increase challenge |
+| Questioning | Prior knowledge → Recall → Reason → Justify → Apply → Wait time → Hinge question → Adapt |
+| Check understanding | Question → Mini-whiteboards → Explain → Student work → Diagnose → Re-teach or re-represent → Feedback loop |
+| Misconceptions | Retrieval → Questioning → Examples and non-examples → Expose reasoning → Contrast → Re-teach → Rehearse |
+| Retrieval practice | Retrieve → Space → Cumulative review → Interleave → Rehearse → Deliberate practice |
+| Formative assessment | Question, boards and work → Gather evidence → Check understanding → Adapt pace, support or representation → Increase challenge → Recheck |
+| Independence | Model → Scaffold → Guided practice → Fade support → Independent practice → Transfer |
+| Challenge | Secure core → Depth, not volume → Applications → Multiple methods → Justify → Generalise → Transfer |
+| Vocabulary | Identify barrier → Teach explicitly → Examples and non-examples → Represent → Hear, read, say and use → Retrieve |
+| Engagement | Purpose → Accessibility → Challenge → Inclusive participation → Collaboration → Student voice → Adjust |
+| Digital learning | Learning intention → Learner need → Add value → Explain and represent → Practise and collaborate → Gather evidence → Evaluate |
+| Digital inclusion | Identify barrier → Learner need → Accessibility tool → Multiple representations → Common intention → Maintain expectations |
+| Choosing tools | Learning intention → Learner need → Added value → Evidence of learning → Evaluate impact |
+| Lesson not working | Pause → Diagnose → Adapt pace, chunk or representation → Re-teach or model → Guided practice → Keep intention clear |
+| Consolidation | Closure → Summarise → Explain → Apply or retrieve → Space → Interleave → Transfer |
+| Improving practice | Evidence of learning → Reflect → Work and assessment → Misconceptions → Explanations and sequence → Adapt → Evaluate |
+| Unmotivated student | Starting point → Early success → Achievable steps → Model and scaffold → Secure retrieval → Choice or relevance → High expectations → Independence |
 
 
 ## General approach — What is your general approach to teaching and learning?
