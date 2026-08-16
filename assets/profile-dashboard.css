@@ -1,0 +1,77 @@
+/* Class-profile dashboards -------------------------------------------------- */
+.profile-dashboard-page{width:min(1180px,100%);padding:40px 46px 64px;min-height:0}
+.profile-dashboard-page .doc-toolbar{display:none}
+.profile-dashboard-page .doc-intro{max-width:850px;margin-bottom:18px}
+.profile-dashboard{--pd-blue:#1a73e8;--pd-red:#d93025;--pd-green:#188038;--pd-ink:#202124;--pd-muted:#5f6368;display:grid;gap:18px}
+.profile-dashboard *{box-sizing:border-box}
+.profile-dashboard h2,.profile-dashboard h3,.profile-dashboard p{margin-top:0}
+.profile-dashboard h2{margin-bottom:12px;font-size:1.02rem;line-height:1.25}
+.profile-synthetic-notice,.class-dashboard .synthetic-strip{margin:0!important;padding:12px 15px!important;border:0!important;border-left:5px solid #e0a100!important;border-radius:9px!important;background:#fff8df!important;color:#4d3b05!important;font-size:.86rem!important;line-height:1.45!important}
+.profile-synthetic-notice p{margin:0}
+.profile-glance>h2{margin-bottom:10px}
+.profile-snapshot-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.profile-snapshot{min-height:91px;padding:13px 15px;border:1px solid #dde3ea;border-top:5px solid var(--tone);border-radius:11px;background:#fff;box-shadow:0 1px 2px rgba(32,33,36,.04)}
+.profile-snapshot.tone-blue{--tone:var(--pd-blue)}
+.profile-snapshot.tone-red{--tone:var(--pd-red)}
+.profile-snapshot.tone-green{--tone:var(--pd-green)}
+.profile-snapshot.tone-black{--tone:var(--pd-ink)}
+.profile-snapshot-value{display:block;color:var(--tone);font-size:1.55rem;line-height:1;font-weight:850;letter-spacing:-.02em}
+.profile-snapshot-label{display:block;margin-top:8px;color:#3c4043;font-size:.74rem;font-weight:750;line-height:1.3}
+.profile-dashboard-row{display:grid;grid-template-columns:1.04fr .96fr;gap:16px}
+.profile-panel{padding:17px 18px;border:1px solid #dde3ea;border-radius:12px;background:#fbfcfe}
+.profile-strength-list{display:grid;gap:10px}
+.profile-strength-item{display:grid;grid-template-columns:28px 1fr;align-items:start;gap:9px;color:#3c4043;font-size:.82rem;line-height:1.42}
+.profile-strength-icon{display:grid;place-items:center;width:28px;height:28px;border-radius:8px;background:#e8f0fe;color:var(--pd-blue);font-size:.7rem}
+.profile-context-line{margin:13px 0 0!important;padding-top:12px;border-top:1px solid #e4e8ed;color:var(--pd-muted);font-size:.76rem;line-height:1.45}
+.profile-bar-chart{display:grid;gap:10px}
+.profile-bar-row{display:grid;grid-template-columns:132px 1fr 32px;align-items:center;gap:9px;font-size:.74rem}
+.profile-bar-label{font-weight:750;line-height:1.2}
+.profile-bar-track{display:block;height:11px;overflow:hidden;border-radius:999px;background:#e8eaed}
+.profile-bar-fill{display:block;height:100%;min-width:3px;border-radius:inherit;background:var(--bar-color)}
+.profile-bar-row.bar-tone-1{--bar-color:var(--pd-blue)}
+.profile-bar-row.bar-tone-2{--bar-color:var(--pd-red)}
+.profile-bar-row.bar-tone-3{--bar-color:var(--pd-green)}
+.profile-bar-row.bar-tone-4{--bar-color:var(--pd-ink)}
+.profile-bar-count{text-align:right;font-weight:850;color:#303134}
+.profile-access-chips{display:flex;flex-wrap:wrap;gap:6px;margin:13px 0 0}
+.profile-access-chips span{padding:5px 8px;border-radius:999px;background:#eef3fb;color:#315b96;font-size:.68rem;font-weight:750}
+.profile-panel-note{margin:13px 0 0!important;padding-top:11px;border-top:1px solid #e4e8ed;color:var(--pd-muted);font-size:.75rem;line-height:1.45}
+.profile-evidence-panel{position:relative;padding-left:20px;background:#fff}
+.profile-evidence-panel:before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;border-radius:12px 0 0 12px;background:var(--pd-blue)}
+.profile-evidence-panel p,.profile-action-card p,.profile-context-panel p{margin-bottom:0;color:#444b55;font-size:.82rem;line-height:1.5}
+.profile-action-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.profile-action-card{position:relative;padding:17px 18px 17px 20px;background:#fff}
+.profile-action-card:before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;border-radius:12px 0 0 12px;background:var(--action)}
+.profile-action-teach{--action:var(--pd-green)}
+.profile-action-review{--action:var(--pd-red)}
+.profile-interview-card{border-color:#202124;background:#202124;color:#fff}
+.profile-interview-card h2{color:#fff}
+.profile-interview-card p{margin-bottom:0;color:#fff;font-size:.95rem;line-height:1.5;font-weight:650}
+.profile-map-panel{background:#f7fafc}
+.profile-map-panel>.class-map-note{margin:0 0 12px}
+.profile-connected-strip{display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+.profile-connected-strip>span{margin-right:3px;color:#5f6368;font-size:.7rem;font-weight:850;text-transform:uppercase;letter-spacing:.09em}
+.profile-connected-strip a{padding:6px 9px;border:1px solid #d7e3f4;border-radius:999px;background:#f7faff;color:#174ea6;text-decoration:none;font-size:.71rem;font-weight:750}
+.profile-connected-strip a:hover{background:#eaf2ff}
+
+/* Enhance the hand-built first-year support dashboard without changing its content. */
+.profile-dashboard-page:has(.class-dashboard) .class-dashboard{gap:18px}
+.profile-dashboard-page:has(.class-dashboard) .class-dashboard .bar-track{height:11px}
+.profile-dashboard-page:has(.class-dashboard) .class-dashboard .bar-fill{display:block;min-width:3px}
+.profile-dashboard-page:has(.class-dashboard) .class-dashboard .snapshot-card,
+.profile-dashboard-page:has(.class-dashboard) .class-dashboard .dashboard-panel,
+.profile-dashboard-page:has(.class-dashboard) .class-dashboard .student-card,
+.profile-dashboard-page:has(.class-dashboard) .class-dashboard .response-card{box-shadow:0 1px 2px rgba(32,33,36,.05)}
+
+@media(max-width:900px){
+  .profile-dashboard-page{padding:32px 28px 50px}
+  .profile-dashboard-row{grid-template-columns:1fr}
+  .profile-snapshot-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:700px){.profile-action-grid{grid-template-columns:1fr}}
+@media(max-width:600px){
+  .profile-dashboard-page{padding:26px 18px 44px}
+  .profile-snapshot-grid{grid-template-columns:1fr}
+  .profile-snapshot{min-height:76px}
+  .profile-bar-row{grid-template-columns:112px 1fr 28px}
+}
