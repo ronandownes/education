@@ -5,7 +5,6 @@ title: Differentiation & Accessibility
 eyebrow: PROFESSIONAL PRACTICE
 intro: Common learning, different routes: vary entry, scaffolding, representation, response and challenge while building independence.
 ---
-# Differentiation & Accessibility
 
 ## Differentiation & Accessibility Word Wall
 
@@ -24,7 +23,7 @@ intro: Common learning, different routes: vary entry, scaffolding, representatio
 | Concrete example (4) | Independent practice (4) | Vocabulary pre-teach (1) | Flexible pacing (1) | High potential (1) |
 | Success criteria (5) | Faded support (2) | Assistive technology (3) | Wait time (1) | Transfer (2) |
 
-## 24 Interview Questions
+## Differentiation & Accessibility Concepts and Questions
 
 | **DA concept** | **Interview question** |
 |---|---|
