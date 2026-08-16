@@ -9,40 +9,6 @@ intro: >
   adaptation and challenge while building independence.
 ---
 
-## Differentiation & Accessibility Retrieval Chains
-
-<div class="retrieval-wall" markdown="1">
-
-| **Concept** | **Question** | **Retrieval chain** |
-|---|---|---|
-| **General approach** | What is your general approach to differentiation and accessibility? | Common ambitious learning → remove access barriers → vary entry, scaffold, representation, pace and challenge → check learning → adapt → fade support → independence |
-| **Mixed ability** | How do you differentiate in a mixed-ability class? | Common goal → diagnose starting point → vary route and depth → check learning → support or extend → adapt |
-| **Not separate lessons** | How do you differentiate without creating several different lessons? | Common destination → varied route → low-floor task → flexible grouping → check-in points → targeted adaptation |
-| **Entry point** | How do you choose an appropriate entry point? | Prerequisite skill → prior knowledge → diagnostic task → real starting point → early success → increase complexity |
-| **Scaffolding** | How do you scaffold learning while still building independence? | Model → worked example → guided prompt → guided practice → reduce prompts → independent practice |
-| **Modelling** | How do you use modelling as a differentiation strategy? | Common access point → think aloud → make decisions visible → guided practice → fewer prompts → independence |
-| **Representations** | How do you use multiple representations to improve access? | Concrete → visual → numerical or verbal → symbolic → connect representations → check transfer |
-| **UDL** | What role does universal design play in your teaching? | Predict barriers → accessible layout and language → multiple representations → response choice → targeted support if needed |
-| **Cognitive load** | How do you reduce cognitive load without reducing challenge? | Remove extraneous load → chunk and sequence → worked example → processing time → restore complexity → productive struggle |
-| **Vocabulary** | How do you differentiate for language and vocabulary needs? | Pre-teach essentials → visual or concrete example → explicit language → word bank or stem → use → fade support |
-| **Response formats** | How can students demonstrate learning in different ways? | Same learning and criteria → remove format barrier → oral, written or digital response → collect valid evidence |
-| **Assistive technology** | How do you use assistive technology for accessibility? | Identify barrier → choose tool → teach its use → check access and participation → evaluate independence |
-| **Pace** | How do you differentiate by pace without holding back the class? | Check-in points → processing time or guided practice → flexible grouping → greater complexity when ready → avoid fixed labels |
-| **Questioning** | How do you use questioning to differentiate? | Wait time → prompts or stems → listen → adjust support → rich questions → reasoning and generalisation |
-| **Flexible grouping** | How do you use flexible grouping effectively? | Current learning need → temporary group → targeted teaching or peer explanation → recheck → regroup → return to class conversation |
-| **High attainers** | How do you challenge high-attaining or high-potential students? | Increase depth and complexity → rich questions → multiple methods → justify → generalise → productive struggle |
-| **Support and challenge** | How do you provide support and challenge in the same lesson? | Common criteria → concrete example or prompt → check-in → adjust support → deepen reasoning → extend |
-| **Productive struggle** | How do you know when to support and when to allow productive struggle? | Check prerequisite and task access → allow persistence if secure → scaffold barrier if blocked → recheck understanding |
-| **Fade support** | How do you know when to fade a scaffold? | Evidence of readiness → modelling to guided practice → reduce prompt hierarchy → independent practice → transfer → restore only what is needed |
-| **Accessibility vs standards** | How do you make learning accessible without lowering standards? | Keep intended learning → remove incidental barrier → preserve criteria and demand → vary access or response → judge valid evidence |
-| **Maths example** | Give an example of differentiation in a Maths lesson. | Concrete balance → visual model → symbolic equation → worked example or prompt → compare methods → flexible check-ins |
-| **Science example** | Give an example of differentiation in a Science lesson. | Essential vocabulary → demonstration and visual → guided practical support → varied response → justify method or evaluate evidence |
-| **Assessment access** | How do you make assessment accessible while preserving validity? | Define construct → identify irrelevant barrier → choose accommodation → retain criteria and demand → collect valid evidence |
-| **Independence** | How does differentiation build learner independence? | Create access → model and guide → fade prompts → independent practice → transfer → self-correction |
-| **Review differentiation** | How do you evaluate whether differentiation is working? | Access and participation → success criteria → work and questioning evidence → independence → identify dependence → adapt and recheck |
-
-</div>
-
 ## General approach — What is your general approach to differentiation and accessibility?
 
 I keep the important learning **common and ambitious**, then vary the **entry point**, **scaffolding**, **representation**, pace and **challenge** according to evidence. I remove an **access barrier** before lowering demand, use **formative assessment** to decide how to **adapt**, and fade support as students become more secure. The goal is meaningful participation, **productive struggle** and **learner independence**.
@@ -142,6 +108,40 @@ Good differentiation should make itself less necessary over time. I use **modell
 ## Review differentiation — How do you evaluate whether differentiation is working?
 
 I look for evidence that more students can access the learning, meet the **success criteria** and work with increasing **independence**. I compare student work, participation, **questioning** and assessment evidence, and use **check-in points** to identify where a support helped or created dependence. I then make **responsive adjustments** to **entry point**, **scaffolding**, **representation**, pace or **challenge** rather than repeating the same approach automatically.
+
+## Differentiation & Accessibility Retrieval Draft
+
+<div class="retrieval-wall" markdown="1">
+
+| **Concept** | **Question** | **Retrieval chain** |
+|---|---|---|
+| **General approach** | What is your general approach to differentiation and accessibility? | Common ambitious learning → remove access barriers → vary entry, scaffold, representation, pace and challenge → check learning → adapt → fade support → independence |
+| **Mixed ability** | How do you differentiate in a mixed-ability class? | Common goal → diagnose starting point → vary route and depth → check learning → support or extend → adapt |
+| **Not separate lessons** | How do you differentiate without creating several different lessons? | Common destination → varied route → low-floor task → flexible grouping → check-in points → targeted adaptation |
+| **Entry point** | How do you choose an appropriate entry point? | Prerequisite skill → prior knowledge → diagnostic task → real starting point → early success → increase complexity |
+| **Scaffolding** | How do you scaffold learning while still building independence? | Model → worked example → guided prompt → guided practice → reduce prompts → independent practice |
+| **Modelling** | How do you use modelling as a differentiation strategy? | Common access point → think aloud → make decisions visible → guided practice → fewer prompts → independence |
+| **Representations** | How do you use multiple representations to improve access? | Concrete → visual → numerical or verbal → symbolic → connect representations → check transfer |
+| **UDL** | What role does universal design play in your teaching? | Predict barriers → accessible layout and language → multiple representations → response choice → targeted support if needed |
+| **Cognitive load** | How do you reduce cognitive load without reducing challenge? | Remove extraneous load → chunk and sequence → worked example → processing time → restore complexity → productive struggle |
+| **Vocabulary** | How do you differentiate for language and vocabulary needs? | Pre-teach essentials → visual or concrete example → explicit language → word bank or stem → use → fade support |
+| **Response formats** | How can students demonstrate learning in different ways? | Same learning and criteria → remove format barrier → oral, written or digital response → collect valid evidence |
+| **Assistive technology** | How do you use assistive technology for accessibility? | Identify barrier → choose tool → teach its use → check access and participation → evaluate independence |
+| **Pace** | How do you differentiate by pace without holding back the class? | Check-in points → processing time or guided practice → flexible grouping → greater complexity when ready → avoid fixed labels |
+| **Questioning** | How do you use questioning to differentiate? | Wait time → prompts or stems → listen → adjust support → rich questions → reasoning and generalisation |
+| **Flexible grouping** | How do you use flexible grouping effectively? | Current learning need → temporary group → targeted teaching or peer explanation → recheck → regroup → return to class conversation |
+| **High attainers** | How do you challenge high-attaining or high-potential students? | Increase depth and complexity → rich questions → multiple methods → justify → generalise → productive struggle |
+| **Support and challenge** | How do you provide support and challenge in the same lesson? | Common criteria → concrete example or prompt → check-in → adjust support → deepen reasoning → extend |
+| **Productive struggle** | How do you know when to support and when to allow productive struggle? | Check prerequisite and task access → allow persistence if secure → scaffold barrier if blocked → recheck understanding |
+| **Fade support** | How do you know when to fade a scaffold? | Evidence of readiness → modelling to guided practice → reduce prompt hierarchy → independent practice → transfer → restore only what is needed |
+| **Accessibility vs standards** | How do you make learning accessible without lowering standards? | Keep intended learning → remove incidental barrier → preserve criteria and demand → vary access or response → judge valid evidence |
+| **Maths example** | Give an example of differentiation in a Maths lesson. | Concrete balance → visual model → symbolic equation → worked example or prompt → compare methods → flexible check-ins |
+| **Science example** | Give an example of differentiation in a Science lesson. | Essential vocabulary → demonstration and visual → guided practical support → varied response → justify method or evaluate evidence |
+| **Assessment access** | How do you make assessment accessible while preserving validity? | Define construct → identify irrelevant barrier → choose accommodation → retain criteria and demand → collect valid evidence |
+| **Independence** | How does differentiation build learner independence? | Create access → model and guide → fade prompts → independent practice → transfer → self-correction |
+| **Review differentiation** | How do you evaluate whether differentiation is working? | Access and participation → success criteria → work and questioning evidence → independence → identify dependence → adapt and recheck |
+
+</div>
 
 ## Differentiation & Accessibility Word Wall
 

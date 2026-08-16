@@ -24,6 +24,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .navlabel{min-width:0;min-height:80px;display:flex;align-items:center;justify-content:center;padding:0 2px 0 6px;border:0;background:transparent;color:#3c4043;text-decoration:none;font-size:.73rem;line-height:1.15;font-weight:700;cursor:pointer;text-align:center;white-space:normal}
 .navlabel span{display:inline-block}
 .navlabel:hover,.navitem.is-open>.navlabel{background:#f8f9fa;color:#174ea6}
+.navitem.is-current>.navlabel{background:#eef1f4;color:#202124;font-weight:800;box-shadow:inset 0 -4px 0 #5f6368}
 .navtoggle{min-height:80px;border:0;background:transparent;color:#70757a;padding:0 4px 0 0;cursor:pointer;font-size:.62rem}
 .navtoggle:hover,.navitem.is-open>.navtoggle{background:#f8f9fa;color:#174ea6}
 .nav-menu-only{grid-template-columns:1fr}
@@ -41,6 +42,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .doc-paper{width:min(900px,100%);margin:0 auto;background:var(--paper);border:1px solid #e0e0e0;box-shadow:0 1px 3px rgba(60,64,67,.16);padding:58px 72px 84px;min-height:1080px}
 .doc-kicker{margin:0 0 10px;color:#5f6368;text-transform:uppercase;letter-spacing:.12em;font-size:.73rem;font-weight:700}
 .doc-paper h1{font-size:2rem;line-height:1.15;margin:0 0 12px;font-weight:600;letter-spacing:-.02em}
+.doc-paper.print-landscape h1{font-size:1.72rem}
 .doc-intro{font-size:1.05rem;color:var(--muted);margin:0 0 24px;max-width:720px}
 .doc-toolbar{display:flex;flex-wrap:wrap;gap:7px;padding:10px 0 18px;border-bottom:1px solid var(--line);margin-bottom:28px}
 .doc-toolbar button,.doc-toolbar a,.section-controls button{font:inherit;font-size:.82rem;border:1px solid var(--line);background:#fff;color:#3c4043;border-radius:4px;padding:6px 9px;text-decoration:none;cursor:pointer}
@@ -75,14 +77,28 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .doc-body tbody tr:nth-child(odd) td{background:var(--soft)}
 .doc-body tbody tr:nth-child(even) td{background:#fff}
 
-/* Retrieval chains are compact recall prompts: concept and question on the
-   left, with the speakable route through the answer across the page. */
+/* Legacy three-column retrieval draft retained at the bottom of the
+   Differentiation page. */
 .retrieval-wall{width:100%;overflow-x:auto;margin:10px 0 28px}
 .retrieval-wall table{min-width:980px;margin:0;table-layout:fixed}
 .retrieval-wall th,.retrieval-wall td{padding:9px 10px;text-align:left;vertical-align:top;font-size:.9rem;line-height:1.28}
 .retrieval-wall th:nth-child(1),.retrieval-wall td:nth-child(1){width:15%}
 .retrieval-wall th:nth-child(2),.retrieval-wall td:nth-child(2){width:32%}
 .retrieval-wall th:nth-child(3),.retrieval-wall td:nth-child(3){width:53%}
+
+/* Retrieval chain: the concept is deliberately the smallest cell; the full
+   remainder of the row is available to the visible, speakable recall route. */
+.retrieval-chain-table{width:100%;margin:10px 0 30px}
+.retrieval-chain-table table{width:100%;margin:0;table-layout:fixed;border-collapse:collapse}
+.retrieval-chain-table th,.retrieval-chain-table td{padding:8px 9px;text-align:left;vertical-align:top;font-size:.88rem;line-height:1.25}
+.retrieval-chain-table th:first-child,.retrieval-chain-table td:first-child{width:13%;font-weight:700;background:#f3f5f7}
+.retrieval-chain-table th:last-child,.retrieval-chain-table td:last-child{width:87%}
+.retrieval-chain-line{display:flex;flex-wrap:nowrap;align-items:center;justify-content:space-between;gap:5px;width:100%;font-size:.86rem}
+.retrieval-chain-line span{display:inline-flex;align-items:center;justify-content:center;flex:0 1 auto;min-width:0;padding:4px 7px;border:1px solid #d8dde3;border-radius:999px;background:#f7f8fa;text-align:center;white-space:nowrap}
+.retrieval-chain-line span::before{content:"→";flex:0 0 auto;margin-right:5px;color:#5f6368;font-weight:800}
+.retrieval-chain-line.is-wrapped{flex-wrap:wrap}
+.retrieval-chain-line.is-wrapped span{flex:1 1 118px;white-space:normal}
+.interview-question-heading::before{content:"→";display:inline-block;margin-right:.45em;color:#5f6368;font-weight:800}
 
 /* Assessment Word Wall uses the same card-grid language as Planning. */
 .answer-section:has(#assessment-word-wall) .section-content table{
@@ -216,20 +232,40 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 /* Synthetic profiles must remain unmistakably fictional if copied or printed. */
 .doc-body blockquote{margin:18px 0;padding:12px 16px;border-left:4px solid #e0a100;background:#fff9e8;color:#4d3b05}
 
-/* Teaching & Learning and Planning already have the page title above them, so
-   the extra Word Wall heading is redundant. Keep the wall itself prominent. */
-.answer-section:has(#teaching-learning-word-wall) .answer-heading-row,
+/* Planning already has its page title immediately above the wall. */
 .answer-section:has(#planning-curriculum-word-wall) .answer-heading-row{display:none}
-.answer-section:has(#teaching-learning-word-wall),
 .answer-section:has(#planning-curriculum-word-wall){padding-top:0;border-top:0}
-.answer-section:has(#teaching-learning-word-wall) .section-content,
 .answer-section:has(#planning-curriculum-word-wall) .section-content{padding-top:0}
+
+@media(max-width:720px){
+  .navitem.is-current>.navlabel{box-shadow:inset 4px 0 0 #5f6368}
+  .retrieval-chain-table th:first-child,.retrieval-chain-table td:first-child{width:24%;font-size:.8rem}
+  .retrieval-chain-table th:last-child,.retrieval-chain-table td:last-child{width:76%}
+  .retrieval-chain-table th,.retrieval-chain-table td{padding:7px 6px}
+  .retrieval-chain-line{gap:5px}
+  .retrieval-chain-line.is-wrapped span{flex-basis:calc(50% - 5px);justify-content:flex-start;text-align:left}
+}
 
 @media print{
   @page{margin:6mm}
   @page interview-landscape{size:A4 landscape;margin:6mm}
 
   .doc-paper.print-landscape{page:interview-landscape}
+  .doc-paper.print-landscape h1{font-size:15pt!important;margin-bottom:2mm!important}
+  .doc-paper.print-landscape .doc-intro{display:none!important}
+  .answer-section:has(#teaching-learning-retrieval-chains){break-inside:auto!important;page-break-inside:auto!important;break-after:page;margin-top:0!important;padding-top:0!important}
+  .answer-section:has(#teaching-learning-retrieval-chains) .answer-heading-row h2{font-size:10pt!important;margin:0 0 1.5mm!important}
+  .answer-section:has(#teaching-learning-retrieval-chains) .section-content{padding-top:0!important}
+  .retrieval-chain-table{margin:0!important}
+  .retrieval-chain-table table{width:100%!important;table-layout:fixed!important;margin:0!important}
+  .retrieval-chain-table th,.retrieval-chain-table td{padding:1mm!important;font-size:6.5pt!important;line-height:1.05!important}
+  .retrieval-chain-table th:first-child,.retrieval-chain-table td:first-child{width:12%!important}
+  .retrieval-chain-table th:last-child,.retrieval-chain-table td:last-child{width:88%!important}
+  .retrieval-chain-table tr{break-inside:avoid!important;page-break-inside:avoid!important}
+  .retrieval-chain-line{gap:.7mm 1.4mm!important}
+  .retrieval-chain-line,.retrieval-chain-line.is-wrapped{flex-wrap:nowrap!important;font-size:5.7pt!important}
+  .retrieval-chain-line span,.retrieval-chain-line.is-wrapped span{flex:0 1 auto!important;padding:.5mm .8mm!important;white-space:nowrap!important;font-size:inherit!important}
+  .retrieval-chain-line span::before{margin-right:1mm!important}
   .answer-section:has(#differentiation-accessibility-retrieval-chains){
     break-inside:auto!important;
     page-break-inside:auto!important;

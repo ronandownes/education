@@ -7,6 +7,17 @@
   const siteRoot = brand?.href || `${location.origin}/`;
   const siteHref = path => new URL(path.replace(/^\/+/, ''), siteRoot).href;
 
+  // Keep the current interview domain visibly anchored while the user moves
+  // through questions or uses a hash link within the page.
+  const currentPath = location.pathname.replace(/\/+$/, '') || '/';
+  document.querySelectorAll('.navitem > .navlabel[href]').forEach(label => {
+    const targetPath = new URL(label.href, location.href).pathname.replace(/\/+$/, '') || '/';
+    const isCurrent = targetPath === currentPath;
+    label.closest('.navitem')?.classList.toggle('is-current', isCurrent);
+    if (isCurrent) label.setAttribute('aria-current', 'page');
+    else label.removeAttribute('aria-current');
+  });
+
   // Interview dropdowns are reading/rehearsal tools. On a desktop, use nearly the
   // full available screen height so long 24-question banks remain visible without
   // an unnecessary small internal scroll box.

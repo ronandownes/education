@@ -169,7 +169,11 @@
   // --- Answer sections / retrieval controls ----------------------------------
   const all = Array.from(body.children);
   const starts = all.filter(el => el.tagName === 'H2');
+  const isTeachingLearningPage = /\/teaching-learning\.html$/.test(location.pathname);
   starts.forEach(heading => {
+    if (isTeachingLearningPage && heading.textContent.includes('—')) {
+      heading.classList.add('interview-question-heading');
+    }
     const section = document.createElement('section');
     section.className = 'answer-section';
     const key = location.pathname + '::' + heading.textContent.trim();
@@ -222,6 +226,29 @@
       toggle.textContent = content.hidden ? 'Show' : 'Hide';
     });
   });
+
+  // Retrieval chips stay on one scan-friendly line where possible. Reduce the
+  // type just enough to fit; only wrap when a narrow screen would make the cues
+  // unreadably small.
+  const fitRetrievalLine = line => {
+    line.classList.remove('is-wrapped');
+    line.style.fontSize = '';
+    let size = parseFloat(getComputedStyle(line).fontSize) || 14;
+    while (line.scrollWidth > line.clientWidth + 1 && size > 9) {
+      size -= .5;
+      line.style.fontSize = `${size}px`;
+    }
+    if (line.scrollWidth > line.clientWidth + 1) {
+      line.classList.add('is-wrapped');
+      line.style.fontSize = '';
+    }
+  };
+  const retrievalLines = Array.from(body.querySelectorAll('.retrieval-chain-line'));
+  if (retrievalLines.length) {
+    const fitAllRetrievalLines = () => retrievalLines.forEach(fitRetrievalLine);
+    requestAnimationFrame(fitAllRetrievalLines);
+    window.addEventListener('resize', fitAllRetrievalLines);
+  }
 
   document.querySelector('[data-action="show-all"]')?.addEventListener('click', () => {
     document.querySelectorAll('.section-content').forEach(x => x.hidden = false);
