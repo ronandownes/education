@@ -47,29 +47,21 @@
         display:block;
         width:100%;
         box-sizing:border-box;
-        margin:7px 0 10px;
-        padding:7px 10px;
-        border-left:3px solid #c7d2df;
-        background:#fafbfc;
-        color:#34465a;
+        margin:5px 0 10px;
+        padding:0;
+        border:0;
+        background:transparent;
+        color:#4b5563;
         font-size:.9rem;
-        line-height:1.45;
-        font-weight:600;
-        letter-spacing:.005em;
-      }
-      .question-breadcrumb-line .breadcrumb-label{
-        color:#6b7280;
-        font-size:.72rem;
-        font-weight:800;
-        letter-spacing:.08em;
-        text-transform:uppercase;
-        margin-right:.5em;
+        line-height:1.4;
+        font-weight:400;
+        letter-spacing:0;
       }
       @media(max-width:600px){
-        .question-breadcrumb-line{font-size:.84rem;padding:6px 8px}
+        .question-breadcrumb-line{font-size:.84rem}
       }
       @media print{
-        .question-breadcrumb-line{margin:1.2mm 0 2mm;padding:1.2mm 1.6mm;font-size:8pt;line-height:1.2;background:#fff;border-left:1.2pt solid #888}
+        .question-breadcrumb-line{margin:1mm 0 1.8mm;padding:0;font-size:8pt;line-height:1.2;background:transparent;border:0;font-weight:400}
       }
     `;
     document.head.appendChild(style);
@@ -86,12 +78,7 @@
       const line = document.createElement('div');
       line.className = 'question-breadcrumb-line';
       line.dataset.breadcrumbConcept = concept;
-      const label = document.createElement('span');
-      label.className = 'breadcrumb-label';
-      label.textContent = 'Breadcrumb';
-      const content = document.createElement('span');
-      content.textContent = chain;
-      line.append(label, content);
+      line.textContent = chain;
 
       const section = heading.closest('.answer-section');
       const headingRow = heading.closest('.answer-heading-row');
