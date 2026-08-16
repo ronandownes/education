@@ -38,7 +38,7 @@ intro: >
 
 
 | **TL concept** | **Interview question** |
-| --------------------------- | ----------------------------------------------------------- |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **1 Good teaching** | What are the key features of good teaching? |
 | **2 Effective lesson** | What does an effective lesson look like? |
 | **3 Difficult concept** | How do you teach a difficult concept? |
@@ -162,6 +162,6 @@ I build **consolidation** into the lesson and then revisit learning over time. A
 
 I look at **evidence of learning**, not just whether I felt a lesson went well. I **reflect and refine** by examining **questioning**, student work, assessment evidence, **misconceptions** and the impact of my **explanations** or sequencing. I learn from colleagues and professional learning, then **adapt teaching** and **evaluate impact** over time to see whether the change actually improved student learning.
 
-## 25 Unmotivated student — How would you teach an unmotivated student with a history of lack of success in the subject who would rather not be at school?
+## 25 Unmotivated student — How would you teach an unmotivated student?
 
 I would start by establishing the student's real starting point and creating early success. I would keep the learning goal worthwhile, break the work into achievable steps, **scaffold** the first attempts and use clear modelling and **retrieval** of secure prior knowledge. I would give purposeful choice or relevant contexts where useful, notice genuine progress and use **formative assessment** to adapt support and challenge. The aim is to rebuild confidence through successful participation while keeping **high expectations** and gradually increasing independence.
