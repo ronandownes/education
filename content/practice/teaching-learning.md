@@ -5,63 +5,35 @@ title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
-
 ## Teaching & Learning Retrieval Chains
 
 | Concept | Retrieval chain |
-
 | --- | --- |
-
 | General approach | Plan → LI + students → Teach/model → Scaffold → Retrieval/practice → Q/explain/problem-solve → Evidence → Adapt S/C → Consolidate/next |
-
 | Good teaching | Students → LI → Prior → Explain/model → GP → IP → Q/AfL → Check → Adapt S/C → Consolidate |
-
 | Effective lesson | Students → LI/goal → SC → Prior/retrieval → Sequence → Model → GP → IP → Check/adapt → Closure/next |
-
 | Difficult concept | Prereqs/misconceptions → Small steps/chunk → Explain → Multi-reps/worked ex → Scaffold → Q/check/practise → Fade → High exp. |
-
 | Clear explanation | Prior → Explicit → Focus → Think aloud/reasoning → Ex/non-ex → Remove redundancy → Students do → Check → Re-rep |
-
 | Modelling | Thinking visible → Worked ex → Decisions/vocab → Gradual release → Watch/contribute → GP → IP → Q/check → Step back |
-
 | Scaffolding | Learner need → Prompts/stems/visual/vocab/small steps → High exp. → Check → Gradual release/fade → Independence |
-
 | Cognitive load | Prereqs → Limit new → Chunk → Words + visuals → Worked ex/reps → Remove redundancy → Reduce guidance → Access ≠ lower demand |
-
 | Active learning | LI → MWB/TPS/GD/collab/practical/tech → Thinking visible → Inclusive participation → Bring back → Learning explicit |
-
 | Student thinking | Less teacher talk → Predict/reason/justify/apply → Wait → Explain/multiple methods → Don’t supply → Responses → Scaffold/revisit/challenge |
-
 | Questioning | Prior/current → Recall → Reason/explain/justify/apply → Wait + whole class → Hinge/MCQ → Move/re-teach/misconception/re-rep |
-
 | Check understanding | Throughout → Q/MWB/observe/explain/work/checks → AfL → Weak? pause/diagnose → Re-teach/re-rep/GP → Feedback loop |
-
 | Misconceptions | Retrieval/Q/ex + non-ex → Expose wrong reasoning → Contrast correct → Re-teach/re-rep → Rehearse → Check later |
-
 | Retrieval practice | Strengthen over time → Spacing → Cum. review → Interleave/select method → Evidence → Rehearse/deliberate/re-teach |
-
 | Formative assessment | Q/MWB/observe/discuss/hinge/work → AfL/check → Respond → Adapt pace/S/C/re-rep → Re-teach/challenge → Feedback loop |
-
 | Independence | Gradual release → Model/scaffold → Reduce prompts/fade → More responsibility → GP → IP → Explain/self-correct → Transfer |
-
 | Challenge | High exp. → Depth not volume → Core secure → Unfamiliar apps/methods/justify/generalise/connect → Deliberate practice if needed → Reason/transfer/independence |
-
 | Vocabulary | Barrier/pre-teach → Explicit vocab → Ex/non-ex/reps → Hear/read/say/use → Retrieval/rehearsal → Working language |
-
 | Engagement | Accessible + purposeful + challenging → Active/inclusive/collab/student voice → Discuss/practise/solve/explain → Watch participation → Adjust pace/S/C |
-
 | Digital learning | LI + learner → Tech adds explain/reps/practice/collab/feedback/AfL → Thinking visible → Check access/participation/learning → Earns place |
-
 | Digital inclusion | Remove barriers/learner need → Access tools/reps/diff practice/feedback/ways to respond → Common LI → Widen access, not lower exp. |
-
 | Choosing tools | LI → Learner need → What does it add? → Understanding/participation/access/assessment/feedback → Evaluate impact → Evidence, not novelty |
-
 | Lesson not working | Pause/diagnose Q + observation → Adapt → Pace/chunk/re-rep → Re-teach/model/GP → Keep LI → Flexible route |
-
 | Consolidation | Closure → Summarise/explain/apply/retrieve → Spacing/cum. review/interleave → Transfer, not repetition |
-
 | Improving practice | Evidence → Reflect/refine → Q/work/assessment/misconceptions → Explanations/sequence → Colleagues/PL → Adapt → Evaluate impact |
-
 | Unmotivated student | Starting point → Early success → Worthwhile goal → Achievable steps → Scaffold/model/retrieval prior → Choice/relevance → Notice progress → AfL adapt S/C → High exp. → Independence |
 
 ## General approach — What is your general approach to teaching and learning?
@@ -171,75 +143,41 @@ I would start by establishing the student's real starting point and creating ear
 ## Teaching & Learning Word Wall
 
 | **Plan** | **Teach** | **Secure** | **Engage** | **Adapt** |
-
-| --- | --- | --- | --- | --- |
-
+| ---------------------------- | ------------------------------- | ------------------------ | ----------------------------- | ------------------------- |
 | Know the students | Scaffold | Retrieval | Student thinking | Evidence of learning |
-
 | Learning intention | Explanation | Fade support | Questioning | Formative assessment |
-
 | Activate prior knowledge | Model | Independent practice | Reasoning | Check understanding |
-
 | Clear goal | Multiple representations | Consolidation | Mini-whiteboards | Change representation |
-
 | Success criteria | Worked examples | Closure | Think-pair-share | Increase challenge |
-
 | Coherent sequence | Explicit instruction | Guided practice | Guided discovery | Re-teach |
-
 | Prerequisites | Think aloud | Gradual release | Collaborative learning | AfL evidence |
-
 | Misconceptions | Examples and non-examples | Rehearsal | Inclusive participation | Pause and diagnose |
-
 | Small steps | Remove redundancy | Spacing | Justification | Feedback loop |
-
 | High expectations | Subject vocabulary | Cumulative review | Application | Adapt teaching |
-
 | Learner need | Make thinking visible | Interleaving | Wait time | Adjust pace |
-
 |  | Sentence stems | Deliberate practice | Student explanations | Remove barriers |
-
 |  | Cognitive load | Transfer | Hinge questions | Evaluate impact |
-
 |  | Limit new information |  | Multiple-choice questions | Reflect and refine |
-
 |  |  |  | Student voice |  |
-
 |  | Integrate words and visuals |  | Learner engagement |  |
 
 ## Abbreviation Key
 
 **LI** = Learning intention  
-
 **SC** = Success criteria  
-
 **GP** = Guided practice  
-
 **IP** = Independent practice  
-
 **AfL** = Assessment for Learning  
-
 **S/C** = Support/challenge  
-
 **Q** = Questioning  
-
 **MWB** = Mini-whiteboards  
-
 **TPS** = Think-pair-share  
-
 **GD** = Guided discovery  
-
 **MCQ** = Multiple-choice question  
-
 **Multi-reps / reps** = Multiple representations  
-
 **Ex/non-ex** = Examples and non-examples  
-
 **Re-rep** = Change/re-represent  
-
 **Prereqs** = Prerequisites  
-
 **Cum. review** = Cumulative review  
-
 **High exp.** = High expectations  
-
 **PL** = Professional learning
