@@ -8,7 +8,8 @@
     { path: '/assessment-reporting.html', name: 'Assessment, Feedback & Reporting', short: 'AFR', wall: 'Assessment, Feedback & Reporting Word Wall', concepts: 'Assessment, Feedback & Reporting Concepts and Questions' },
     { path: '/planning-curriculum.html', name: 'Planning & Curriculum', short: 'PC', wall: 'Planning & Curriculum Word Wall', concepts: 'Planning & Curriculum Concepts and Questions' },
     { path: '/relationships-wellbeing.html', name: 'Relationships & Wellbeing', short: 'RW', wall: 'Relationships & Wellbeing Word Wall', concepts: 'Relationships & Wellbeing Concepts and Questions' },
-    { path: '/professional-practice.html', name: 'Professional Responsibility', short: 'PR', wall: 'Professional Responsibility Word Wall', concepts: 'Professional Responsibility Concepts and Questions' }
+    { path: '/professional-practice.html', name: 'Professional Responsibility', short: 'PR', wall: 'Professional Responsibility Word Wall', concepts: 'Professional Responsibility Concepts and Questions' },
+    { path: '/school-research.html', name: "St Patrick's Comprehensive", short: 'SPC', wall: "St Patrick's Word Wall", concepts: "St Patrick's Retrieval Map", pageAudio: true }
   ];
 
   const domain = domains.find(item => location.pathname.endsWith(item.path));
@@ -130,7 +131,18 @@
     { text: item.answer, rate: 0.92, delayAfter: 800, heading: item.heading, status: showConcept ? `Answer · ${item.concept}` : 'Answer' }
   ];
 
-  const modes = {
+  const modes = domain.pageAudio ? {
+    all: {
+      label: 'Play all',
+      title: `${domain.name} — whole page`,
+      segments: [
+        ...wordWallSegments,
+        ...interviewItems.flatMap(item => interviewSegments(item, true))
+      ]
+    },
+    wall: { label: `${domain.short} Word Wall`, title: `${domain.short} Word Wall`, segments: wordWallSegments },
+    concepts: { label: `${domain.short} Retrieval Map`, title: `${domain.short} Retrieval Map`, segments: conceptSegments }
+  } : {
     wall: { label: `${domain.short} Word Wall`, title: `${domain.short} Word Wall`, segments: wordWallSegments },
     concepts: { label: `${domain.short} Concepts`, title: `${domain.short} Concepts and Questions`, segments: conceptSegments },
     interview: { label: `${domain.short} Interview Questions`, title: `${domain.short} Interview Questions and Answers`, segments: interviewItems.flatMap(item => interviewSegments(item, true)) }
