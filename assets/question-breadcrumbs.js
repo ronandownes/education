@@ -3,6 +3,8 @@
     const body = document.getElementById('docBody');
     if (!body) return;
 
+    document.querySelector('.doc-intro')?.remove();
+
     const normalise = value => (value || '')
       .replace(/^\s*\d+[.)]?\s+/, '')
       .toLowerCase()
@@ -12,11 +14,16 @@
       .trim();
 
     const headings = Array.from(body.querySelectorAll('h2'));
-    const retrievalHeading = headings.find(heading => /retrieval chains/i.test(heading.textContent || ''));
+    const retrievalHeading = headings.find(heading => /retrieval\s+(chains|draft|map)/i.test(heading.textContent || ''));
     if (!retrievalHeading) return;
 
     let table = retrievalHeading.nextElementSibling;
     while (table && table.tagName !== 'H2' && table.tagName !== 'TABLE') {
+      const nested = table.querySelector?.('table');
+      if (nested) {
+        table = nested;
+        break;
+      }
       table = table.nextElementSibling;
     }
     if (!table || table.tagName !== 'TABLE') return;
@@ -25,8 +32,8 @@
     const chains = new Map();
     rows.forEach(row => {
       const conceptCell = row.children[0];
-      const chainCell = row.children[1];
-      if (!conceptCell || !chainCell) return;
+      const chainCell = row.children[row.children.length - 1];
+      if (!conceptCell || !chainCell || conceptCell === chainCell) return;
       const concept = conceptCell.textContent.trim();
       const chain = chainCell.textContent.trim();
       if (!concept || !chain) return;
@@ -74,6 +81,7 @@
       const chain = chains.get(normalise(concept));
       if (!chain) return;
       if (heading.closest('.answer-section')?.querySelector(':scope > .question-breadcrumb-line')) return;
+      if (heading.nextElementSibling?.classList?.contains('question-breadcrumb-line')) return;
 
       const line = document.createElement('div');
       line.className = 'question-breadcrumb-line';
