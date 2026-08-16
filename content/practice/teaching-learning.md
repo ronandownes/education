@@ -7,13 +7,13 @@ intro: >
   I plan carefully, teach clearly and scaffold where needed, secure knowledge
   and skills through retrieval and purposeful practice, engage student thinking
   by building confidence in the language of Mathematics through mathematical
-  conversation and problem-solving, and respond to evidence of learning from
+  conversation and problem-solving, and adapt in response to evidence of learning from
   tasks, questioning, quizzes, exercises and rich problem-solving activities.
 ---
 ## Teaching & Learning Word Wall
 
 
-| **Plan** | **Teach** | **Secure** | **Engage** | **Respond** |
+| **Plan** | **Teach** | **Secure** | **Engage** | **Adapt** |
 | ---------------------------- | ------------------------------- | ------------------------ | ----------------------------- | ------------------------- |
 | Know the students (1) | Scaffold (7) | Retrieval (6) | Student thinking (3) | Evidence of learning (3) |
 | Learning intention (7) | Explanation (13) | Fade support (4) | Questioning (7) | Formative assessment (2) |
