@@ -20,12 +20,9 @@ intro: |-
 
 ## Plan a lesson on **short notice**?
 
-  
+I establish **where the class is in their learning**, check the **scheme of work and relevant learning outcome**, and unpack that into an **achievable lesson goal**. I use **retrieval** to activate prior learning and identify or pre-teach any **key vocabulary** pupils need to access the lesson. I then let **formative assessment and effective questioning** guide the teaching, finish with a **quick assessment**, report back to the regular teacher, and identify the **natural next step**.
 
-
-I establish **where the class is in their learning**. I check the **scheme of work and learning outcome**, and unpack that into an **achievable goal**—for example, unpacking a learning outcome on solving equations into a lesson goal of **solving one-step equations**. I use **retrieval** to activate prior learning and **pre-teach key vocabulary** so pupils can access the learning. I let **formative assessment and effective questioning** guide the lesson. I finish with a **quick assessment**, report back to the regular teacher, and identify the **natural next step**.
-
-Where are they? → SoW/LO → Unpack → Retrieval → Vocab → FA/Questioning → Assess → Feedback → Next step
+**Where are they? → SoW/LO → Unpack → Retrieval → Vocab → FA/Questioning → Assess → Feedback → Next step**
 
 ## Yearly plan first Maths?
 
