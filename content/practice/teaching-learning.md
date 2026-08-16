@@ -8,6 +8,39 @@ intro: My answers on explanation, modelling, questioning, active learning,
 ---
 # Teaching & Learning — 24 Interview Answers
 
+
+|  |  |
+| ----------------------------- | ----------------------------------------------------------- |
+| **24 Questions TL Questions** |  |
+| **Cue** | **Full interview question** |
+| 1 Good teaching | What are the key features of good teaching? |
+| 2 Effective lesson | What does an effective lesson look like? |
+| 3 Difficult concept | How do you teach a difficult concept? |
+| 4 Clear explanation | How do you explain something clearly? |
+| 5 Modelling | How do you use modelling effectively? |
+| 6 Scaffolding | How do you scaffold learning? |
+| 7 Cognitive load | How do you reduce cognitive load? |
+| 8 Active learning | How do you make learning active without losing structure? |
+| 9 Student thinking | How do you make sure students are doing the thinking? |
+| 10 Questioning | How do you use questioning effectively? |
+| 11 Check understanding | How do you know whether students have understood? |
+| 12 Misconceptions | How do you identify and respond to misconceptions? |
+| 13 Retrieval practice | How do you use retrieval practice? |
+| 14 Formative assessment | How do you use formative assessment to inform teaching? |
+| 15 Independence | How do you move students towards independent learning? |
+| 16 Challenge | How do you challenge students who are ready to go further? |
+| 17 Vocabulary | How do you teach subject-specific vocabulary? |
+| 18 Engagement | How do you keep students engaged in learning? |
+| 19 Digital learning | How do you use digital technology in teaching and learning? |
+| 20 Digital inclusion | How can digital technology support inclusion? |
+| 21 Choosing tools | How do you decide whether a digital tool is worth using? |
+| 22 Lesson not working | What do you do when a lesson is not working? |
+| 23 Consolidation | How do you consolidate learning? |
+| 24 Improving practice | How do you evaluate and improve your own teaching? |
+
+
+
+
 ## What are the key features of good teaching?
 
 For me, good teaching starts with **knowing the students in front of me** and being clear about what I want them to learn. I explain and model clearly, then move students from guided towards independent practice. I use questioning to make their thinking visible and check understanding throughout. Then I respond to that evidence by adapting the pace, support, representation or level of challenge.
@@ -110,7 +143,7 @@ I look at **evidence of student learning**, not simply whether I felt a lesson w
 
 That is what I would start learning now. The 24 answers are variations around **that one route**, not 24 separate speeches.
 
-
+TL Word Wall
 
 
 |  |  |  |  |  |
