@@ -295,7 +295,7 @@
 
         try {
           if (targetPath === currentPath) {
-            const headings = Array.from(body.querySelectorAll('.answer-heading-row > h2'));
+            const headings = Array.from(body.querySelectorAll(':scope > h2, :scope > h3'));
             if (populateMenu(item, headings, pageUrl.pathname, pageLinks)) return;
           }
 
@@ -303,7 +303,7 @@
           if (!response.ok) throw new Error(`HTTP ${response.status}`);
           const html = await response.text();
           const parsed = new DOMParser().parseFromString(html, 'text/html');
-          const headings = Array.from(parsed.querySelectorAll('#docBody > h2'));
+          const headings = Array.from(parsed.querySelectorAll('#docBody > h2, #docBody > h3'));
           if (!populateMenu(item, headings, pageUrl.pathname, pageLinks)) throw new Error('No headings found');
         } catch (error) {
           menu.replaceChildren();
