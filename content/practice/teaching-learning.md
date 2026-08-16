@@ -30,6 +30,20 @@ intro: My answers on explanation, modelling, questioning, active learning,
 
 I particularly want **Model, Retrieve, Question, Scaffold, Check, Practise, Challenge, Chunk, Represent, Revisit, Consolidate** in there 
 
+
+
+## **What are the key features of good teaching?**
+
+
+
+👥 **Know the students** → 🧭 **Clear direction** → 🛠️ **Adapt teaching** → 📈 **Check progress** → 🤝 **Build confidence**
+
+Your evidence anchor: you taught small classes and created a synthesised profile for each class so that planning began with the actual students and their needs.
+
+Now answer aloud, beginning:
+
+> “For me, good teaching begins with knowing the students in front of me…”
+
 ### Clear explanation matters, but students must do the thinking.
 
 I plan from the learning intention and the students in front of me. I explain and model clearly, then move students into prediction, discussion, practice, justification and application. I check understanding continuously and change pace, representation or support when the evidence tells me to.
