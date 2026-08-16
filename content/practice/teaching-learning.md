@@ -7,8 +7,9 @@ intro: >
   I plan carefully, teach clearly and scaffold where needed, secure knowledge
   and skills through retrieval and purposeful practice, engage student thinking
   by building confidence in the language of Mathematics through mathematical
-  conversation and problem-solving, and adapt in response to evidence of learning from
-  tasks, questioning, quizzes, exercises and rich problem-solving activities.
+  conversation and problem-solving, and adapt in response to evidence of
+  learning from tasks, questioning, quizzes, exercises and rich problem-solving
+  activities.
 ---
 ## Teaching & Learning Word Wall
 
@@ -33,7 +34,7 @@ intro: >
 |  |  |  | Learner engagement (1) |  |
 
 
-## Interview Concepts and Questions
+## Teaching & Learning Concepts and Questions
 
 
 | **TL concept** | **Interview question** |
