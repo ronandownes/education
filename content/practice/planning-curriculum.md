@@ -20,11 +20,27 @@ intro: |-
 
 ## Plan a lesson on **short notice**?
 
-**I establish where the class is, clarify an achievable learning goal from the instructions or scheme, use retrieval to activate prior learning, and let formative assessment and effective questioning guide the lesson. I finish with a quick assessment, report back to the regular teacher, and identify the natural next step.**
+I establish where the class is
 
-If I am told, for example, **“do page 42 on linear equations,”** I still unpack that into what students should actually **know, understand or be able to do** by the end of the lesson.
+ clarify an achievable learning goal from the instructions or sow
 
-**establish → goal → retrieve → guide → assess → report → progress**
+ use retrieval to activate prior learning, 
+
+pre-teach key vocabulary to ensure pupils can access the learning
+
+ and let formative assessment and effective questioning guide the lesson. 
+
+I finish with a quick assessment, report back to the regular teacher,
+
+ and identify the natural next step. 
+
+Unpack LO and other materials that into what students should actually 
+
+know, understand or be able to do 
+
+by the end of the lesson.
+
+Where are they? → SoW/LI → retrieval → vocab → FA/questioning → assess → feedback → next step
 
 📍 → ⚽ → 🔄 → 🧭 → 📊 → 🗣️ → ➡️
 
