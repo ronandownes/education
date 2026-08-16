@@ -1,5 +1,6 @@
 ---
 layout: doc
+class_map: true
 permalink: /teaching/class-profiles/emotional-regulation.html
 title: AEN Support — Emotional Regulation and Engagement
 eyebrow: SYNTHETIC CLASS PROFILE — IMAGINARY
