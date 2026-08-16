@@ -16,8 +16,8 @@ intro: >
 
 | **Plan** | **Teach** | **Secure** | **Engage** | **Adapt** |
 | ---------------------------- | ------------------------------- | ------------------------ | ----------------------------- | ------------------------- |
-| Know the students (1) | Scaffold (7) | Retrieval (6) | Student thinking (3) | Evidence of learning (3) |
-| Learning intention (7) | Explanation (13) | Fade support (4) | Questioning (7) | Formative assessment (2) |
+| Know the students (1) | Scaffold (8) | Retrieval (7) | Student thinking (3) | Evidence of learning (3) |
+| Learning intention (7) | Explanation (13) | Fade support (4) | Questioning (7) | Formative assessment (3) |
 | Activate prior knowledge (2) | Model (5) | Independent practice (4) | Reasoning (6) | Check understanding (6) |
 | Clear goal (1) | Multiple representations (3) | Consolidation (3) | Mini-whiteboards (3) | Change representation (5) |
 | Success criteria (1) | Worked examples (3) | Closure (2) | Think-pair-share (1) | Increase challenge (3) |
@@ -25,7 +25,7 @@ intro: >
 | Prerequisites (2) | Think aloud (1) | Gradual release (3) | Collaborative learning (3) | AfL evidence (3) |
 | Misconceptions (4) | Examples and non-examples (2) | Rehearsal (3) | Inclusive participation (2) | Pause and diagnose (2) |
 | Small steps (2) | Remove redundancy (2) | Spacing (2) | Justification (3) | Feedback loop (2) |
-| High expectations (3) | Subject vocabulary (2) | Cumulative review (2) | Application (3) | Adapt teaching (3) |
+| High expectations (4) | Subject vocabulary (2) | Cumulative review (2) | Application (3) | Adapt teaching (3) |
 | Learner need (3) | Make thinking visible (1) | Interleaving (2) | Wait time (2) | Adjust pace (3) |
 |  | Sentence stems (1) | Deliberate practice (2) | Student explanations (2) | Remove barriers (1) |
 |  | Cognitive load (2) | Transfer (3) | Hinge questions (2) | Evaluate impact (2) |
@@ -63,6 +63,7 @@ intro: >
 | **22 Lesson not working** | What do you do when a lesson is not working? |
 | **23 Consolidation** | How do you consolidate learning? |
 | **24 Improving practice** | How do you evaluate and improve your own teaching? |
+| **25 Unmotivated student** | How would you teach an unmotivated student with a history of lack of success in the subject who would rather not be at school? |
 
 
 ## 1 Good teaching — What are the key features of good teaching?
@@ -160,3 +161,7 @@ I build **consolidation** into the lesson and then revisit learning over time. A
 ## 24 Improving practice — How do you evaluate and improve your own teaching?
 
 I look at **evidence of learning**, not just whether I felt a lesson went well. I **reflect and refine** by examining **questioning**, student work, assessment evidence, **misconceptions** and the impact of my **explanations** or sequencing. I learn from colleagues and professional learning, then **adapt teaching** and **evaluate impact** over time to see whether the change actually improved student learning.
+
+## 25 Unmotivated student — How would you teach an unmotivated student with a history of lack of success in the subject who would rather not be at school?
+
+I would start by establishing the student's real starting point and creating early success. I would keep the learning goal worthwhile, break the work into achievable steps, **scaffold** the first attempts and use clear modelling and **retrieval** of secure prior knowledge. I would give purposeful choice or relevant contexts where useful, notice genuine progress and use **formative assessment** to adapt support and challenge. The aim is to rebuild confidence through successful participation while keeping **high expectations** and gradually increasing independence.
