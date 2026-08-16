@@ -1,5 +1,5 @@
 
-/* Classroom Management rehearsal audio. The three launchers stay compact;
+/* Site-wide interview rehearsal audio. The three launchers stay compact;
    pause/resume and stop become deliberately larger only while audio is active. */
 .visually-hidden{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
 .cm-audio-launchers{display:flex;flex:1 1 100%;flex-wrap:wrap;gap:7px;margin-bottom:2px}
@@ -56,4 +56,3 @@
     font-size:6.8pt!important;
   }
 }
-
