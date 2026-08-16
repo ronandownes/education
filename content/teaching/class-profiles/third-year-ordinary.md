@@ -37,7 +37,7 @@ Weekly mixed retrieval, half-term common assessments, error coding and reassessm
 
 ## Connected pages
 
-[Third Year scheme](/education/planning/schemes/third-year-maths.html) · [AEN](/education/practice/aen.html) · [Feedback](/education/practice/feedback.html)
+[Third Year scheme](/education/planning/schemes/third-year-maths.html) · [AEN](/education/practice/aen.html) · [Feedback](/education/assessment-reporting.html#what-makes-feedback-useful)
 
 
 ## Students

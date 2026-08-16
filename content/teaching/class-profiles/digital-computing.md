@@ -36,4 +36,4 @@ Screenshots with explanation, short code conferences, debugging logs and a final
 
 ## Connected pages
 
-[TY scheme](/education/planning/schemes/transition-year-maths.html) · [Differentiation](/education/differentiation-accessibility.html) · [Assessment](/education/practice/assessment.html)
+[TY scheme](/education/planning/schemes/transition-year-maths.html) · [Differentiation](/education/differentiation-accessibility.html) · [Assessment](/education/assessment-reporting.html#how-do-you-assess-learning)

@@ -15,7 +15,7 @@ intro: Assessment → interpret evidence → feedback → respond → report.
 | Formative | Summative | Feedback | Criteria | Next step |
 
 
-## Types of assessment and use of that information?
+## How do you assess learning?
 
 I use a range of formative and summative assessment: **questioning ❓, observation 👁️, mini-whiteboards 🧾, discussion 🗣️, written work ✍️, retrieval quizzes 🔄, topic tests 📝 and formal assessments 📊**.
 
@@ -26,6 +26,40 @@ I also use digital tools 💻 where they add value. Immediate feedback ⚡ can s
 **evidence 📊 → interpret 🔎 → diagnose 🩺 → respond 🔧 → monitor 👁️**
 
 📊 → 🔎 → 🩺 → 🔧 → 👁️
+
+## How do you establish a real starting point?
+
+### I triangulate evidence rather than relying on one mark or report.
+
+I use transition and handover information, previous reports, prior assessment evidence, short retrieval or diagnostic tasks, questioning, observation and the student's explanation of their thinking.
+
+I do not assume that a previous mark tells me exactly what a student can do. Early diagnostic assessment helps me establish what the student knows, what they misunderstand and what may be preventing them from showing what they know.
+
+**handover → retrieve → question → observe → diagnose**
+
+## How do you use a hinge question to expose a misconception?
+
+### A useful hinge question is quick, discriminating and built around plausible wrong answers.
+
+For example, when solving \(3x+5=17\), answers such as \(x=6\), \(x=\frac{22}{3}\) or \(x=12\) point toward different errors. I design distractors around likely misconceptions, so the answer shows not simply whether the student is wrong but how they may be thinking.
+
+**question → response → misconception → teaching move → recheck**
+
+## How do you distinguish an access barrier from a misconception?
+
+### I change the access route while keeping the learning demand constant.
+
+I might read a question aloud, simplify unnecessary language, highlight key information, add a diagram or ask the student to explain the mathematics orally. If the student can then complete the mathematics, the original difficulty may have been literacy or access. If the mathematical error remains, I investigate the conceptual misconception.
+
+**Remove the possible barrier without removing the learning.**
+
+## What do you do after a mark is recorded?
+
+### The mark is the start of the response, not the end of assessment.
+
+I ask what the evidence shows, whether the pattern is class-wide or individual, who needs reteaching, scaffolding or extension, what should change in the next lesson, how students will act on feedback and how I will check that the gap has closed.
+
+**evidence → diagnosis → response → recheck**
 
 
 

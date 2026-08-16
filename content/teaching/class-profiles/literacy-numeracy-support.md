@@ -36,4 +36,4 @@ Curriculum-based measures, work samples from support and mainstream classes, stu
 
 ## Connected pages
 
-[AEN](/education/practice/aen.html) · [SEN](/education/practice/sen.html) · [Inclusion](/education/practice/inclusion.html) · [Reporting](/education/practice/reporting.html)
+[AEN](/education/practice/aen.html) · [SEN](/education/practice/sen.html) · [Inclusion](/education/practice/inclusion.html) · [Reporting](/education/assessment-reporting.html#how-do-you-report-progress)

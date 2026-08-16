@@ -37,7 +37,7 @@ Investigation journals, model critique, peer explanation and a final presentatio
 
 ## Connected pages
 
-[TY scheme](/education/planning/schemes/transition-year-maths.html) · [Inclusion](/education/practice/inclusion.html) · [Feedback](/education/practice/feedback.html)
+[TY scheme](/education/planning/schemes/transition-year-maths.html) · [Inclusion](/education/practice/inclusion.html) · [Feedback](/education/assessment-reporting.html#what-makes-feedback-useful)
 
 
 ## Students

@@ -37,7 +37,7 @@ Untimed reasoning first, then timed transfer; cumulative papers; individual gap 
 
 ## Connected pages
 
-[Third Year scheme](/education/planning/schemes/third-year-maths.html) · [Inclusion](/education/practice/inclusion.html) · [Reporting](/education/practice/reporting.html)
+[Third Year scheme](/education/planning/schemes/third-year-maths.html) · [Inclusion](/education/practice/inclusion.html) · [Reporting](/education/assessment-reporting.html#how-do-you-report-progress)
 
 
 ## Students

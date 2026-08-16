@@ -37,7 +37,7 @@ Project checkpoints, reflection, short individual conferences and a senior-cycle
 
 ## Connected pages
 
-[TY scheme](/education/planning/schemes/transition-year-maths.html) · [Assessment](/education/practice/assessment.html) · [Feedback](/education/practice/feedback.html)
+[TY scheme](/education/planning/schemes/transition-year-maths.html) · [Assessment](/education/assessment-reporting.html#how-do-you-assess-learning) · [Feedback](/education/assessment-reporting.html#what-makes-feedback-useful)
 
 
 ## Students

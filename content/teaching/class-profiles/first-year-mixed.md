@@ -37,7 +37,7 @@ Weekly retrieval; brief student explanations; misconception log; October and Chr
 
 ## Connected pages
 
-[First Year scheme](/education/planning/schemes/first-year-maths.html) · [SEN](/education/practice/sen.html) · [Differentiation](/education/differentiation-accessibility.html) · [Assessment](/education/practice/assessment.html)
+[First Year scheme](/education/planning/schemes/first-year-maths.html) · [SEN](/education/practice/sen.html) · [Differentiation](/education/differentiation-accessibility.html) · [Assessment](/education/assessment-reporting.html#how-do-you-assess-learning)
 
 
 ## Students

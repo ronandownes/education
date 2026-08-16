@@ -92,9 +92,6 @@ content:
       - { name: sen_detail, label: "SEN", type: file, path: content/practice/sen.md, format: yaml-frontmatter, fields: *docfields }
       - { name: aen_detail, label: "AEN", type: file, path: content/practice/aen.md, format: yaml-frontmatter, fields: *docfields }
       - { name: inclusion_detail, label: "Inclusion", type: file, path: content/practice/inclusion.md, format: yaml-frontmatter, fields: *docfields }
-      - { name: assessment_detail, label: "Assessment", type: file, path: content/practice/assessment.md, format: yaml-frontmatter, fields: *docfields }
-      - { name: feedback_detail, label: "Feedback", type: file, path: content/practice/feedback.md, format: yaml-frontmatter, fields: *docfields }
-      - { name: reporting_detail, label: "Reporting", type: file, path: content/practice/reporting.md, format: yaml-frontmatter, fields: *docfields }
 
   - name: notebooks
     label: "Notebooks"

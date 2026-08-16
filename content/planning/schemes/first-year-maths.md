@@ -36,7 +36,7 @@ First year should be common without becoming slow. The same mathematical idea ca
 - [Synthetic profile: First Year mixed-attainment Mathematics](/education/teaching/class-profiles/first-year-mixed.html)
 - [Synthetic profile: First Year learning-support Mathematics](/education/teaching/class-profiles/first-year-support.html)
 - [Differentiation & Accessibility](/education/differentiation-accessibility.html)
-- [Assessment](/education/practice/assessment.html)
+- [Assessment](/education/assessment-reporting.html#how-do-you-assess-learning)
 
 ## Review points
 

@@ -37,7 +37,7 @@ Rich tasks, hinge questions, cumulative mixed problems and occasional oral expla
 
 ## Connected pages
 
-[Second Year scheme](/education/planning/schemes/second-year-maths.html) · [Accessibility](/education/differentiation-accessibility.html) · [Assessment](/education/practice/assessment.html)
+[Second Year scheme](/education/planning/schemes/second-year-maths.html) · [Accessibility](/education/differentiation-accessibility.html) · [Assessment](/education/assessment-reporting.html#how-do-you-assess-learning)
 
 
 ## Students

@@ -37,7 +37,7 @@ Short exit checks, cumulative quizzes every two weeks, one common task per half-
 
 ## Connected pages
 
-[Second Year scheme](/education/planning/schemes/second-year-maths.html) · [Differentiation](/education/differentiation-accessibility.html) · [Reporting](/education/practice/reporting.html)
+[Second Year scheme](/education/planning/schemes/second-year-maths.html) · [Differentiation](/education/differentiation-accessibility.html) · [Reporting](/education/assessment-reporting.html#how-do-you-report-progress)
 
 
 ## Students
