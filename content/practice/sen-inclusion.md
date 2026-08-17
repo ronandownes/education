@@ -62,7 +62,9 @@ Support should enable meaningful participation while progressively transferring 
 
 ## ADHD — How do you support a student with ADHD?
 
-For a student with ADHD I make organisation and expectations visible. I use clear routines, chunking, concise explicit language, manageable steps, choice where useful, checking understanding and a movement break where it is part of an appropriate strategy. I consider executive function, attention, inhibition and working memory rather than interpreting every difficulty as deliberate non-compliance. Support is targeted while expectations remain clear.
+For a student with ADHD, I structure the environment to reduce unnecessary executive-function demands. I make routines, instructions and task sequences explicit, support organisation and task initiation, and use chunking, visual cues and regular checks for understanding. I reduce working-memory load, anticipate difficulties with sustained attention and inhibition, and build in appropriate opportunities for movement or re-engagement. I interpret behaviour in the context of the learner’s profile rather than assuming non-compliance, while maintaining clear expectations and progressively building self-management and independence.
+
+
 
 ## Dyslexia — How do you support dyslexia in Maths or Science?
 
