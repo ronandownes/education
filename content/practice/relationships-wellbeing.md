@@ -6,37 +6,6 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Build trust, notice changes, support regulation and re-engagement,
   coordinate pastoral support, and safeguard when required.
 ---
-## Relationships & Wellbeing Retrieval Table
-
-
-| Concept | Retrieval chain |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Relationships & learning | Relational safety → trust/consistency/respect/fairness → high expectations → belonging → participation/readiness to learn |
-| New class | Warmth + structure → learn names/greet/listen → predictable routines → fair follow-through → trust → boundaries/dignity/high expectations |
-| Pastoral role | Notice attendance/engagement/peers/work/mood/behaviour → private check-in → listen → record facts → tutor/year head/pastoral/AEN → not counsellor |
-| Classroom wellbeing | Safe/respected/connected → predictability/respect/challenge/success → psychological safety → emotional literacy/help-seeking → participation |
-| Student voice | Listen to experience → check-ins/feedback → appropriate choice → notice missing voices → widen participation → belonging/agency |
-| Wellbeing concern | Notice actual change → private check-in → listen, don't interrogate → record facts → communicate/refer → safeguard immediately if needed |
-| Change in presentation | Compare with usual pattern → attendance/engagement/confidence/peers/work/emotion/help-seeking → context/pattern → check in → monitor → pass observations |
-| Anxiety or distress | Calm + predictability + relational safety → reduce public pressure → clear language/processing → manageable re-entry/reset → monitor → coordinated support |
-| Regulation | Notice triggers early → calm/predictable response → co-regulation/reduced language/processing/sensory/movement/reset → recover/re-engage → self-regulation/resilience |
-| Dysregulation | Lower temperature → dignity/safety → brief language → reduce audience → processing/strategy/movement → reset/re-engage → follow up wider need |
-| Attendance | Notice patterns/change → don't assume → welcome back → re-engage → communicate persistent concern → coordinated support |
-| Peer dynamics | Notice exclusion/tension/changed friendships → avoid conclusions from one incident → listen → protect dignity → adjust classroom → record/communicate → procedure if bullying/safeguarding |
-| Bullying | Listen seriously → no secrecy promise → record facts → immediate safety → anti-bullying/pastoral procedure → appropriate staff → follow-up belonging/re-engagement |
-| Conflict | Stop escalation → safety → hear accounts → behaviour not person → restorative conversation when ready → accountability/harm/next step → repair/fresh start |
-| Restorative conversation | What happened → who affected → what next → listen → boundaries → accountability → acknowledge harm → realistic repair → re-engage |
-| Repair | Behaviour not person → listen → boundary → acknowledge harm → practical next step → fresh start → notice re-engagement → trust rebuilt over time |
-| Trusted adult | Reliable/respectful/approachable → relational safety → help-seeking/disclosure/recovery → professional boundaries → not counsellor/friend |
-| Safeguarding concern | Welfare concern crosses threshold → immediate safety → record facts → DLP/DDLP route → no independent investigation → no secrecy → duty of care |
-| Disclosure | Stay calm → listen in student's words → no leading/interrogation → explain confidentiality limits → accurate record → immediate referral → normal dignity afterwards |
-| Confidentiality | Respect privacy → need-to-know only → no informal discussion → safeguarding overrides secrecy → record/refer → professional boundaries |
-| Professional boundaries | Notice/listen/check-in/help-seeking → observations → don't diagnose/therapy → use structures → normal high expectations → coordinated support |
-| Parents / guardians | Factual respectful observations → no labels/diagnoses → listen to context → focus participation/readiness/support → procedures/confidentiality → safeguarding via designated route |
-| Coordinated support | Share observations → tutor/year head/pastoral/AEN → consistent supports → monitor attendance/participation/re-engagement → student voice → professional referral if beyond role |
-| Review wellbeing | Readiness/participation/attendance/help-seeking/regulation/re-engagement → check in/student voice → share observations → monitor pattern → adjust support → belonging/resilience/safe participation |
-
-
 ## Relationships & learning — What role do relationships play in learning?
 
 Relationships create the relational safety students need to take intellectual risks, ask for help, persist and recover from mistakes. I build trust through consistency, respect, fairness and positive regard while keeping high expectations clear. Trust is not an alternative to expectations; it makes expectations workable. When students feel a sense of belonging, participation and readiness to learn usually improve.
@@ -133,70 +102,6 @@ Student wellbeing is best supported through coordinated support. I contribute ob
 
 I look for change in readiness to learn, participation, attendance, help-seeking, emotional regulation and re-engagement rather than assuming a support worked. I check in appropriately, use student voice and share observations with the relevant team. We monitor the pattern and adjust coordinated support when needed. The aim is greater belonging, resilience and safe participation in learning.
 
-## Safeguard when required — what this means
-
-Safeguarding is broader than serious abuse or something criminal. In a school context, it means recognising when a student's welfare or safety may be at risk and following the school's procedures rather than trying to deal with it alone.
-
-That could include a significant change in behaviour, persistent distress, bullying, neglect, inappropriate relationships, online safety concerns, self-harm concerns, unexplained injuries, worrying disclosures, or circumstances at home affecting the student's safety or welfare.
-
-The progression is:
-
-**Build trust → notice changes → support regulation and re-engagement → coordinate pastoral support → safeguard when required.**
-
-If what I notice moves beyond ordinary pastoral support into a welfare or child-protection concern, I escalate it through the proper safeguarding procedures. I do not investigate or decide whether somebody has committed an offence. I notice, listen appropriately, record and report as required, and pass the concern to the appropriate person.
-
-
-
 ## Communicating with parents — What would you do if a parent was concerned about your teaching?
 
 I would listen carefully first and avoid becoming defensive, because the parent’s concern is ultimately about their daughter. I would clarify exactly what she is finding difficult — whether it is pace, explanations, workload, confidence or exam pressure — and then explain how I am monitoring her learning through classwork, questioning, homework and assessment. I would keep the conversation focused on evidence and on what will help the student, and if something in my approach is not working for her, I would be prepared to adapt it through clearer explanation, additional scaffolding, targeted practice or changes in pace. I would agree practical next steps with the parent and student, follow up to see whether they are working, and involve the year head, guidance or other relevant support if the concern extends beyond my classroom.
-
-
-
-
-| **Trust** | **Notice** | **Regulate** | **Support** | **Safeguard** |
-| ------------------------ | -------------------------- | ------------------------ | ------------------------- | ---------------------------- |
-| Trust (8) | Attendance (8) | Calm (5) | Check in (5) | Safeguarding (10) |
-| Consistency (5) | Engagement (7) | Predictability (4) | Listen (9) | Child protection (4) |
-| Respect (4) | Peer dynamics (4) | Emotional regulation (4) | Record (7) | DLP / DDLP (1) |
-| Belonging (6) | Change in presentation (3) | Co-regulation (1) | Communicate (7) | Confidentiality limits (3) |
-| Relational safety (4) | Student voice (4) | Processing time (3) | Coordinated support (5) | Duty of care (1) |
-| Psychological safety (1) | Help-seeking (4) | Movement break (2) | Year head (3) | Immediate safety (2) |
-| Positive regard (1) | Readiness to learn (4) | Reset (2) | Pastoral team (3) | Refer (6) |
-| High expectations (3) | School connectedness (2) | Re-engagement (7) | Professional referral (1) | Appropriate boundary (2) |
-| Dignity (4) | Anxiety / distress (3) | Self-regulation (2) | Parents / guardians (2) | Restorative conversation (2) |
-| Fairness (2) | Emotional literacy (1) | Resilience (2) | Trusted adult (2) | Repair (5) |
-| Connection (2) | Peer relationships (2) | Recovery (2) | Pastoral support (2) | Fresh start (2) |
-
-
-## Relationships & Wellbeing Concepts and Questions
-
-
-| **RW concept** | **Interview question** |
-| ---------------------------- | --------------------------------------------------------------------------- |
-| **Relationships & learning** | What role do relationships play in learning? |
-| **New class** | How do you establish positive relationships with a new class? |
-| **Pastoral role** | What is the subject teacher's pastoral role? |
-| **Classroom wellbeing** | What does wellbeing look like in your classroom? |
-| **Student voice** | How do you support student voice and belonging? |
-| **Wellbeing concern** | What would you do if you were concerned about a student's wellbeing? |
-| **Change in presentation** | What signs might tell you that a student's wellbeing has changed? |
-| **Anxiety or distress** | How do you support a student experiencing anxiety or distress? |
-| **Regulation** | How do you support emotional regulation in the classroom? |
-| **Dysregulation** | What would you do if a student became emotionally dysregulated? |
-| **Attendance** | How does attendance relate to your pastoral role? |
-| **Peer dynamics** | How do you respond when peer dynamics are affecting a student's wellbeing? |
-| **Bullying** | What would you do if a student reported bullying? |
-| **Conflict** | How do you handle conflict between students while protecting relationships? |
-| **Restorative conversation** | How do you use a restorative conversation? |
-| **Repair** | How do you repair a relationship after a difficult incident? |
-| **Trusted adult** | Why is having a trusted adult important in school? |
-| **Safeguarding concern** | What do you do if a wellbeing concern becomes a safeguarding concern? |
-| **Disclosure** | How would you respond if a student made a disclosure? |
-| **Confidentiality** | How do you handle confidentiality in a pastoral situation? |
-| **Professional boundaries** | How do you remain supportive without becoming the student's counsellor? |
-| **Parents / guardians** | How do you communicate with parents or guardians about wellbeing? |
-| **Coordinated support** | How do you work with colleagues to support student wellbeing? |
-| **Review wellbeing** | How do you know whether your wellbeing support is helping? |
-
-
