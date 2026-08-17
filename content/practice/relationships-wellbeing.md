@@ -39,7 +39,7 @@ intro: Build trust, notice changes, support regulation and re-engagement,
 
 ## Relationships & learning — What role do relationships play in learning?
 
-Relationships create the relational safety students need to take intellectual risks, ask for help, persist and recover from mistakes. I build trust through consistency, respect, fairness and positive regard while keeping high expectations clear. Trust is not an alternative to expectations; it makes expectations workable. When students feel a sense of belonging, participation and readiness to learn usually improve.
+Relationships create the pycholocial safety students need for intellectual risks, academic bouyancy and creativity during challenging problem solving tasks. Students ask for help well, persist and recover from mistakes. I build trust through consistency, respect, fairness and positive regard while keeping high expectations clear. trust is never confused with expectation. I have observed that when students feel a sense of belonging, participation and readiness to learn  improve.
 
 ## New class — How do you establish positive relationships with a new class?
 
