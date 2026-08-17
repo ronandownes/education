@@ -6,15 +6,15 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Act with integrity, collaborate well, contribute to school life, keep
   developing, and connect practice to the school's ethos and community.
 ---
-
 ## Interview details
 
 **Monday 17 August · 3:00 pm · St Patrick's Comprehensive School, Shannon · V14 Y434 · in person.**
 
 ## Professional Responsibility Retrieval Chains
 
+
 | Concept | Retrieval chain |
-| --- | --- |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | About me | Experienced post-primary Maths → JC/LC/TY/mixed ability/AEN → accessible without lowering expectations → plan/teach/scaffold/retrieve/think/adapt → exams + tech/modelling/data → teacher first |
 | School knowledge | Comprehensive tradition → equality/opportunity → breadth/inclusion/community → mixed ability/AEN/Inbhear/L2LP/LCA → individual potential → fit with my experience |
 | Professional responsibility | Reliable/prepared/accountable → integrity/fairness/respect → boundaries/confidentiality → policy/judgement → contribute beyond classroom |
@@ -42,11 +42,14 @@ intro: Act with integrity, collaborate well, contribute to school life, keep
 | Equality & inclusion | Genuine access to participation/support/opportunity → equality ≠ identical treatment → reasonable support → high expectations → policy/collaboration → barriers not ceilings |
 | Professional growth | Strengthen subject teaching + inclusion + evidence-informed practice → goals/CPD/reading/feedback/reflection → better learning + school contribution |
 
+
 ## About me — Tell us about yourself / tell us about your experience
 
 I am an experienced post-primary **Mathematics teacher** with substantial experience across Junior Cycle, Leaving Certificate, Transition Year, mixed-ability classes and AEN / learning-support settings. The strongest thread through my teaching is making demanding Mathematics accessible without lowering expectations. I **plan carefully, teach clearly, scaffold where needed, secure learning through retrieval and purposeful practice, engage student thinking, and respond to evidence of learning**. I also bring State Examinations experience and a strong background in technology, mathematical modelling and data analytics. Whatever the exact opening question, I want the board to hear first and clearly what I bring **as a teacher**.
 
 ## School knowledge — What do you know about St Patrick's Comprehensive — the Comp?
+
+The school was founded at a time when **Ireland was moving in a new social and educational direction**, just before free post-primary education was introduced. The comprehensive model was part of that change — **broadening opportunity and bringing academic and practical education together within one school**.
 
 What stands out to me is the school's **comprehensive tradition, equality of opportunity, breadth of provision, inclusion and strong community identity**. For this post I would connect that particularly to mixed-ability teaching, AEN provision, **Inbhear**, L2LP and LCA, and the emphasis on helping individual students reach their potential. That fits very closely with my own experience across **Mathematics, mixed-ability teaching and learning support / AEN**.
 
@@ -146,9 +149,10 @@ Professional responsibility requires me to notice whether students have genuine 
 
 My next professional step is to continue strengthening the connection between strong subject teaching, inclusion and evidence-informed practice. I use goal setting, CPD, professional reading, professional feedback and reflective practice to identify what to improve next. I want professional growth to be visible in better student learning and contribution to the school, not simply in another qualification or title.
 
-&nbsp;
+
 
 ## Professional Responsibility Word Wall
+
 
 | **Conduct** | **Collaborate** | **Contribute** | **Develop** | **Connect** |
 | --------------------------- | ----------------------------- | ---------------------------- | ------------------------------ | ----------------------- |
@@ -165,7 +169,9 @@ My next professional step is to continue strengthening the connection between st
 | Reliability (4) | Line management (1) | Resource development (3) | Review (5) | School community (2) |
 | Ethical practice (1) | Collective goals (2) | Sustainable contribution (1) | Adapt (4) | Professional growth (2) |
 
+
 ## Professional Responsibility Concepts and Questions
+
 
 | **PR concept** | **Interview question** |
 | ---------------------------------- | -------------------------------------------------------------------------- |
@@ -196,6 +202,7 @@ My next professional step is to continue strengthening the connection between st
 | **23 Equality & inclusion** | How does professional responsibility support equality and inclusion? |
 | **24 Professional growth** | What is your next professional step and how will you keep developing? |
 
-&nbsp;
+
+
 
 &nbsp;
