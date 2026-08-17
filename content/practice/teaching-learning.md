@@ -108,29 +108,6 @@ I look at **evidence of learning**, not just whether I felt a lesson went well. 
 
 I would start by establishing the student's real starting point and creating early success. I would keep the learning goal worthwhile, break the work into achievable steps, **scaffold** the first attempts and use clear modelling and **retrieval** of secure prior knowledge. I would give purposeful choice or relevant contexts where useful, notice genuine progress and use **formative assessment** to adapt support and challenge. The aim is to rebuild confidence through successful participation while keeping **high expectations** and gradually increasing independence.
 
-## Teaching & Learning Word Wall
-
-
-| **Plan** | **Teach** | **Secure** | **Engage** | **Adapt** |
-| ------------------------ | --------------------------- | -------------------- | ------------------------- | --------------------- |
-| Know the students | Scaffold | Retrieval | Student thinking | Evidence of learning |
-| Learning intention | Explanation | Fade support | Questioning | Formative assessment |
-| Activate prior knowledge | Model | Independent practice | Reasoning | Check understanding |
-| Clear goal | Multiple representations | Consolidation | Mini-whiteboards | Change representation |
-| Success criteria | Worked examples | Closure | Think-pair-share | Increase challenge |
-| Coherent sequence | Explicit instruction | Guided practice | Guided discovery | Re-teach |
-| Prerequisites | Think aloud | Gradual release | Collaborative learning | AfL evidence |
-| Misconceptions | Examples and non-examples | Rehearsal | Inclusive participation | Pause and diagnose |
-| Small steps | Remove redundancy | Spacing | Justification | Feedback loop |
-| High expectations | Subject vocabulary | Cumulative review | Application | Adapt teaching |
-| Learner need | Make thinking visible | Interleaving | Wait time | Adjust pace |
-|  | Sentence stems | Deliberate practice | Student explanations | Remove barriers |
-|  | Cognitive load | Transfer | Hinge questions | Evaluate impact |
-|  | Limit new information |  | Multiple-choice questions | Reflect and refine |
-|  |  |  | Student voice |  |
-|  | Integrate words and visuals |  | Learner engagement |  |
-
-
 ## Abbreviation Key
 
 **LI** = Learning intention  
@@ -151,10 +128,3 @@ I would start by establishing the student's real starting point and creating ear
 **Cum. review** = Cumulative review  
 **High exp.** = High expectations  
 **PL** = Professional learning
-
-
-
-## Word Wall
-
-hello world
-
