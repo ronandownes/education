@@ -190,61 +190,6 @@ Then, if they invite another:
 
 I would use those **two**. They are much stronger than generic questions about timetables, classes or CPD.
 
-
-
-## Professional Responsibility Word Wall
-
-
-| **Conduct** | **Collaborate** | **Contribute** | **Develop** | **Connect** |
-| --------------------------- | ----------------------------- | ---------------------------- | ------------------------------ | ----------------------- |
-| Integrity (4) | Collegiality (2) | School need (3) | CPD (4) | Ethos (4) |
-| Fairness (5) | Clear communication (4) | Beyond timetable (2) | Reflective practice (4) | Mission (3) |
-| Respect (5) | Shared planning (5) | Initiative (3) | Professional learning (4) | School context (3) |
-| Accountability (4) | Department planning (2) | Follow-through (3) | Evidence-informed practice (4) | Parents / guardians (3) |
-| Professional boundaries (5) | Co-teaching (2) | Committee work (2) | Professional feedback (4) | Community links (2) |
-| Confidentiality (5) | AEN colleagues (2) | Extracurricular (2) | Peer observation (2) | Student profile (2) |
-| Duty of care (2) | Shared resources (2) | STEM (1) | Goal setting (2) | Inclusion (5) |
-| School policy (4) | Assessment evidence (2) | Coding (1) | Professional reading (2) | Equality (3) |
-| Professional judgement (7) | Professional disagreement (1) | Digital resources (2) | Evaluate impact (5) | Student wellbeing (2) |
-| Record keeping (2) | Listen (4) | Examination work (2) | SSE (1) | Current priorities (2) |
-| Reliability (4) | Line management (1) | Resource development (3) | Review (5) | School community (2) |
-| Ethical practice (1) | Collective goals (2) | Sustainable contribution (1) | Adapt (4) | Professional growth (2) |
-
-
-## Professional Responsibility Concepts and Questions
-
-
-| **PR concept** | **Interview question** |
-| ---------------------------------- | -------------------------------------------------------------------------- |
-| **About me** | Tell us about yourself / tell us about your experience |
-| **School knowledge** | What do you know about St Patrick's Comprehensive — the Comp? |
-| **Autism-friendly direction** | What stands out about St Patrick's autism work? |
-| **1 Professional responsibility** | What does professional responsibility mean to you as a teacher? |
-| **2 Values & conduct** | What professional values guide your practice? |
-| **3 Accountability** | How do you demonstrate accountability in your work? |
-| **4 Boundaries & confidentiality** | How do you maintain professional boundaries and confidentiality? |
-| **5 Duty of care** | What does duty of care look like in everyday teaching? |
-| **6 Policy awareness** | How do school policies influence your professional practice? |
-| **7 Collegiality** | How do you work effectively with colleagues? |
-| **8 Department planning** | How do you contribute to a subject department? |
-| **9 Co-teaching & AEN** | How do you collaborate in co-teaching or AEN support? |
-| **10 Professional disagreement** | How would you handle a professional disagreement with a colleague? |
-| **11 Feedback** | How do you respond to professional feedback? |
-| **12 Beyond timetable** | How do you contribute beyond your timetable? |
-| **13 Initiative & committees** | How do you show initiative or contribute to committee work? |
-| **14 Extracurricular** | What extracurricular contribution could you bring? |
-| **15 Examination work** | How has State Examinations work contributed to your professional practice? |
-| **16 Digital contribution** | How can your digital or data skills contribute to a school? |
-| **17 CPD** | How do you approach continuing professional development? |
-| **18 Reflective practice** | How do you use reflection to improve your practice? |
-| **19 Evidence-informed practice** | What does evidence-informed practice mean to you? |
-| **20 School improvement** | How would you contribute to school improvement or SSE? |
-| **21 Ethos & mission** | How do school ethos and mission influence your work? |
-| **22 Parents & community** | How do you work with parents, guardians and the wider community? |
-| **23 Equality & inclusion** | How does professional responsibility support equality and inclusion? |
-| **24 Professional growth** | What is your next professional step and how will you keep developing? |
-
-
 ## Interview details
 
 **Monday 17 August · 3:00 pm · St Patrick's Comprehensive School, Shannon · V14 Y434 · in person.**
@@ -281,5 +226,3 @@ I would use those **two**. They are much stronger than generic questions about t
 | Parents & community | Respectful/factual student-focused communication → listen to context → boundaries/school channels → purposeful safe community links → mission aligned |
 | Equality & inclusion | Genuine access to participation/support/opportunity → equality ≠ identical treatment → reasonable support → high expectations → policy/collaboration → barriers not ceilings |
 | Professional growth | Strengthen subject teaching + inclusion + evidence-informed practice → goals/CPD/reading/feedback/reflection → better learning + school contribution |
-
-
