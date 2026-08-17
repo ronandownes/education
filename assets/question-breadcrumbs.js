@@ -23,6 +23,13 @@
     });
   };
 
+  const removeCountedWordWalls = () => {
+    body.querySelectorAll(':scope > table').forEach(table => {
+      const matches = table.textContent.match(/\(\d+\)/g) || [];
+      if (matches.length >= 3) table.remove();
+    });
+  };
+
   const pruneNavigation = () => {
     document.querySelectorAll('.dropmenu a').forEach(link => {
       if (removableHeading(link.textContent)) link.remove();
@@ -31,6 +38,7 @@
 
   const clean = () => {
     removeSections();
+    removeCountedWordWalls();
     pruneNavigation();
   };
 
