@@ -4,7 +4,7 @@
 
   if (!Array.from(document.scripts).some(script => /\/assets\/answer-focus\.js(?:\?|$)/.test(script.src || ''))) {
     const focusScript = document.createElement('script');
-    focusScript.src = new URL('answer-focus.js?v=20260817-1024', document.currentScript?.src || location.href).href;
+    focusScript.src = new URL('answer-focus.js?v=20260817-1049', document.currentScript?.src || location.href).href;
     focusScript.dataset.answerFocus = 'true';
     document.head.appendChild(focusScript);
   }
@@ -83,80 +83,25 @@
     });
   };
 
+  const removeLegacySectionEditLinks = () => {
+    body.querySelectorAll('.section-edit-nearby').forEach(link => link.remove());
+    document.getElementById('section-edit-position-style')?.remove();
+    body.querySelectorAll('[data-section-edit-prepared]').forEach(heading => {
+      delete heading.dataset.sectionEditPrepared;
+    });
+  };
+
   const clean = () => {
     removeSections();
     removeCountedWordWalls();
     stripManualAnswerBolding();
     pruneNavigation();
     removeRetrievalControls();
+    removeLegacySectionEditLinks();
   };
 
-  const ensureSectionEditStyle = () => {
-    if (document.getElementById('section-edit-position-style')) return;
-    const style = document.createElement('style');
-    style.id = 'section-edit-position-style';
-    style.textContent = `
-      .section-edit-nearby{
-        display:block;
-        width:max-content;
-        margin:3px 0 18px auto;
-        padding:4px 8px;
-        border:1px solid #dadce0;
-        border-radius:4px;
-        background:#fff;
-        color:#3c4043;
-        text-decoration:none;
-        font-size:.74rem;
-        line-height:1.15;
-        font-weight:500;
-      }
-      .section-edit-nearby:hover,.section-edit-nearby:focus-visible{
-        background:#f8f9fa;
-        border-color:#bdc1c6;
-        outline:none;
-      }
-      @media(max-width:700px){.section-edit-nearby{margin:4px 0 16px auto;font-size:.72rem}}
-      @media print{.section-edit-nearby{display:none!important}}
-    `;
-    document.head.appendChild(style);
-  };
+  clean();
 
-  const addSectionEditLinks = () => {
-    const pageEdit = document.querySelector('.doc-toolbar .edit-link[href]');
-    if (!pageEdit?.href) return;
-    const cmsBase = pageEdit.href.split('#')[0];
-
-    Array.from(body.querySelectorAll(':scope > h2')).forEach(heading => {
-      if (!isInterviewHeading(heading) || heading.dataset.sectionEditPrepared === 'true') return;
-
-      const sourceHeading = (heading.textContent || '').replace(/\s+/g, ' ').trim();
-      const link = document.createElement('a');
-      link.className = 'section-edit-nearby';
-      link.href = `${cmsBase}#:~:text=${encodeURIComponent(sourceHeading)}`;
-      link.target = '_blank';
-      link.rel = 'noopener';
-      link.textContent = 'Edit here';
-      link.title = `Open this section in Pages CMS near “${sourceHeading}”`;
-
-      let last = heading;
-      let node = heading.nextElementSibling;
-      while (node && node.tagName !== 'H2') {
-        if (!node.matches('.section-edit-nearby')) last = node;
-        node = node.nextElementSibling;
-      }
-      last.insertAdjacentElement('afterend', link);
-      heading.dataset.sectionEditPrepared = 'true';
-    });
-  };
-
-  const refresh = () => {
-    clean();
-    ensureSectionEditStyle();
-    addSectionEditLinks();
-  };
-
-  refresh();
-
-  const observer = new MutationObserver(refresh);
+  const observer = new MutationObserver(clean);
   observer.observe(document.body, { childList: true, subtree: true });
 })();
