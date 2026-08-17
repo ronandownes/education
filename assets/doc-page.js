@@ -171,8 +171,8 @@
   const starts = all.filter(el => el.tagName === 'H2');
 
   // A single site-wide focus layer is reused for every interview question.
-  // It deliberately clones only the question and answer, then strips retrieval
-  // aids/breadcrumbs so the enlarged view stays clean for oral rehearsal.
+  // It clones the question and answer, strips any old retrieval aids, and then
+  // derives a fresh lightweight key-phrase chain from the answer itself.
   const focusStyle = document.createElement('style');
   focusStyle.textContent = `
     .answer-focus-trigger{cursor:zoom-in;border-radius:6px;transition:background .12s ease,color .12s ease}
@@ -187,8 +187,11 @@
     .answer-focus-card table{font-size:.9em}
     .answer-focus-close{position:sticky;float:right;top:0;z-index:2;width:38px;height:38px;margin:-8px -8px 0 12px;border:1px solid #d7dce2;border-radius:50%;background:#fff;color:#3c4043;font:700 1.35rem/1 Arial,sans-serif;cursor:pointer;box-shadow:0 2px 8px rgba(60,64,67,.14)}
     .answer-focus-close:hover,.answer-focus-close:focus-visible{background:#f1f3f4;outline:2px solid #aecbfa;outline-offset:2px}
+    .answer-focus-breadcrumbs{display:flex;flex-wrap:wrap;align-items:center;gap:7px 10px;margin:-2px 0 20px;padding:0 0 16px;border-bottom:1px solid #e7eaee}
+    .answer-focus-crumb{display:inline-flex;align-items:center;gap:10px;color:#334155;font-size:.78em;font-weight:700;line-height:1.25;letter-spacing:.01em}
+    .answer-focus-crumb:not(:first-child)::before{content:"→";color:#9aa0a6;font-weight:800}
     .answer-focus-content>.section-content{padding-top:0}
-    @media(max-width:600px){.answer-focus-overlay{padding:8px}.answer-focus-card{width:100%;max-height:94vh;border-radius:13px;padding:22px 18px;font-size:1rem}.answer-focus-card h2{margin-right:36px;font-size:1.42rem}}
+    @media(max-width:600px){.answer-focus-overlay{padding:8px}.answer-focus-card{width:100%;max-height:94vh;border-radius:13px;padding:22px 18px;font-size:1rem}.answer-focus-card h2{margin-right:36px;font-size:1.42rem}.answer-focus-breadcrumbs{gap:6px 8px;margin-bottom:16px;padding-bottom:13px}.answer-focus-crumb{font-size:.76em;gap:8px}}
     @media print{.answer-focus-overlay{display:none!important}}
   `;
   document.head.appendChild(focusStyle);
@@ -220,6 +223,117 @@
     lastFocusTrigger = null;
   };
 
+  const focusStopWords = new Set(`
+    a an and are as at be because been being but by can could did do does doing
+    for from had has have having he her hers herself him himself his how i if in
+    into is it its itself just may me might more most my myself no nor not of off
+    on once only or other our ours ourselves out over own rather really she should
+    so some such than that the their theirs them themselves then there these they
+    this those through to too under until up very was we were what when where which
+    while who why will with would you your yours yourself yourselves also generally
+    typically particularly simply basically actually perhaps quite about according
+  `.trim().split(/\s+/));
+
+  const cleanFocusCue = value => value
+    .replace(/\s+/g, ' ')
+    .replace(/^[\s,.;:!?–—-]+|[\s,.;:!?–—-]+$/g, '')
+    .trim();
+
+  const cueFromText = value => {
+    const text = cleanFocusCue(value || '');
+    if (text.length < 8) return '';
+    const words = text.match(/[A-Za-zÀ-ÖØ-öø-ÿ0-9][A-Za-zÀ-ÖØ-öø-ÿ0-9'’\-]*/g) || [];
+    const runs = [];
+    let run = [];
+    const flush = () => {
+      if (run.length) runs.push(run);
+      run = [];
+    };
+
+    words.forEach(word => {
+      const normal = word.toLowerCase().replace(/’/g, "'");
+      const tiny = word.length <= 2 && !/^[A-Z0-9]{2,}$/.test(word);
+      if (focusStopWords.has(normal) || tiny) {
+        flush();
+        return;
+      }
+      run.push(word);
+      if (run.length === 4) flush();
+    });
+    flush();
+
+    const bestRun = runs.find(wordsInRun => wordsInRun.length >= 2)
+      || runs.find(wordsInRun => wordsInRun.length === 1);
+    if (!bestRun) return '';
+    return cleanFocusCue(bestRun.slice(0, 4).join(' '));
+  };
+
+  const cuesFromBlock = block => {
+    const cues = [];
+    const boldTexts = Array.from(block.querySelectorAll('strong,b'))
+      .map(el => cleanFocusCue(el.textContent || ''))
+      .filter(Boolean);
+
+    for (const boldText of boldTexts) {
+      const wordCount = boldText.split(/\s+/).length;
+      if (boldText.length <= 58 && wordCount <= 7) {
+        cues.push(boldText);
+        break;
+      }
+      const part = boldText.split(/[,;:]+/).map(cleanFocusCue).find(text => {
+        const count = text.split(/\s+/).length;
+        return text.length >= 8 && text.length <= 48 && count >= 2 && count <= 6;
+      });
+      if (part) {
+        cues.push(part);
+        break;
+      }
+    }
+
+    const text = cleanFocusCue(block.textContent || '');
+    text.split(/[.!?;]+\s*/).filter(Boolean).forEach(sentence => {
+      const cue = cueFromText(sentence);
+      if (cue) cues.push(cue);
+    });
+    return cues;
+  };
+
+  const buildFocusBreadcrumbs = content => {
+    const candidates = [];
+    const seen = new Set();
+    const blocks = Array.from(content.querySelectorAll('h3,p,li'))
+      .filter(block => !block.closest('.source-note,.policy-library,.digital-document'));
+
+    blocks.forEach(block => {
+      cuesFromBlock(block).forEach(cue => {
+        const key = cue.toLowerCase();
+        if (!cue || seen.has(key)) return;
+        seen.add(key);
+        candidates.push(cue);
+      });
+    });
+
+    if (!candidates.length) return null;
+    const maxCues = 8;
+    const selected = candidates.length <= maxCues
+      ? candidates
+      : Array.from({ length: maxCues }, (_, index) => {
+          const sourceIndex = Math.round(index * (candidates.length - 1) / (maxCues - 1));
+          return candidates[sourceIndex];
+        }).filter((cue, index, allCues) => allCues.indexOf(cue) === index);
+
+    const nav = document.createElement('nav');
+    nav.className = 'answer-focus-breadcrumbs';
+    nav.setAttribute('aria-label', 'Key phrase breadcrumbs');
+    selected.forEach(cue => {
+      const crumb = document.createElement('span');
+      crumb.className = 'answer-focus-crumb';
+      crumb.textContent = cue;
+      nav.appendChild(crumb);
+    });
+    return nav;
+  };
+
   const openFocus = (section, trigger) => {
     const sourceHeading = section.querySelector('.answer-heading-row h2');
     const sourceContent = section.querySelector('.section-content');
@@ -238,7 +352,8 @@
     contentClone.hidden = false;
     contentClone.querySelectorAll('.retrieval-chain-table,.retrieval-wall,[class*="breadcrumb"],[data-breadcrumb],a[href*="pagescms.org"]').forEach(el => el.remove());
 
-    focusContent.replaceChildren(headingClone, contentClone);
+    const breadcrumbs = buildFocusBreadcrumbs(contentClone);
+    focusContent.replaceChildren(...[headingClone, breadcrumbs, contentClone].filter(Boolean));
     lastFocusTrigger = trigger;
     focusOverlay.hidden = false;
     document.body.classList.add('answer-focus-open');
