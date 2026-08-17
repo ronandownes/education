@@ -6,6 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## Planning & Curriculum Retrieval Chains
 
+
 | Concept | Retrieval chain |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | General approach | Learner + evidence → curriculum → sequence → access/challenge → assessment → adapt from evidence |
@@ -33,9 +34,10 @@ eyebrow: PROFESSIONAL PRACTICE
 | Formative assessment | Plan evidence points → Q/hinge/MWB/observation/exit → link to misconceptions/SC → adjust pace/grouping/explanation/GP → next step |
 | Evaluate planning | Intended vs taught vs learned → evidence/misconceptions/pacing/resources/S/C → reflect explanations/reps/tasks → retain/move/remove/strengthen → next scheme |
 
+
 ## General approach — What is your general approach to planning and curriculum?
 
-My planning starts with the learner and the evidence, aligns with the curriculum, sequences the learning coherently, designs for access and challenge, builds in assessment, and adapts as evidence comes in. I want the plan to be clear enough to give direction but flexible enough to respond to the students in front of me.
+My planning starts with the learner and the evidence. I align, map and sequence learning with the curriculum, and use UDL and cognitive load theory to design for access and challenge. Assessment is built in from the outset, and I adapt continuously in response to formative evidence. The plan is clear and structured enough to provide direction, predictability and support student wellbeing, while remaining flexible enough to respond to emerging needs.
 
 ## Yearly plan — second-year Maths
 
@@ -131,6 +133,7 @@ I compare the intended sequence with what was actually taught and, more importan
 
 ## Planning & Curriculum Word Wall
 
+
 | **Start** | **Align** | **Sequence** | **Design** | **Assess** | **Adapt** |
 | ------------------------- | --------------------------- | -------------------------- | ---------------------------- | ------------------------- | ------------------------- |
 | Handover (5) | Curriculum (6) | Map across the year (3) | Achievable learning goal (2) | Formative assessment (6) | Adjust pace (3) |
@@ -149,7 +152,9 @@ I compare the intended sequence with what was actually taught and, more importan
 |  |  |  | Learner independence (2) |  |  |
 |  |  |  | Practical contexts (1) |  |  |
 
+
 ## Planning & Curriculum Concepts and Questions
+
 
 | **PC concept** | **Interview question** |
 | ------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -177,3 +182,5 @@ I compare the intended sequence with what was actually taught and, more importan
 | **Prior knowledge & misconceptions** | How do prior knowledge and likely misconceptions influence your planning? |
 | **Formative assessment** | How do you incorporate formative assessment into your planning? |
 | **Evaluate planning** | How do you evaluate and improve a scheme of work or future planning? |
+
+
