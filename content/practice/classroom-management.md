@@ -5,14 +5,14 @@ title: Classroom Management
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
-<script src="{{ '/assets/question-breadcrumbs.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
 
 ## Classroom Management Retrieval Chains
+
 
 | **Concept** | **Recall chain** |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Good classroom management** | Purposeful climate → clear routines → task clarity → active supervision → early response → positive relationships → high expectations → belonging |
-| **Establish expectations** | Few clear routines → explain → model → rehearse → reinforce consistently → predictable response → trust |
+| **Establish expectations** | Clear routines → explain → model → rehearse → reinforce consistently → predictable response → trust |
 | **Learning-support expectations** | Age-appropriate expectations → predictable routines → explicit language → model and rehearse → processing time → adapt the route → independence |
 | **Temporary cover class** | Greet and register → check assigned work → state a few expectations → task clarity → circulate → normal school procedures → factual handover |
 | **Prevent problems** | Immediate start → task clarity → appropriate challenge → smooth transitions → seating → scan and circulate → respond early |
@@ -37,6 +37,7 @@ eyebrow: PROFESSIONAL PRACTICE
 | **Transitions & seating** | Teach routines → predictable transitions → seating for learning → active supervision → adjust from evidence |
 | **Safeguarding** | Notice concern → immediate safety → do not investigate or promise secrecy → record facts → designated route → dignity |
 | **Review practice** | Evidence and patterns → student voice or colleague feedback → evaluate interventions → adjust routines, responses or support → monitor impact |
+
 
 ## Classroom Management Interview Questions
 
@@ -144,9 +145,10 @@ If behaviour suggests that a student may be at risk, I move from classroom-manag
 
 I **review** classroom management by looking for patterns: when disruption occurs, which routines are weak, whether tasks are accessible and whether my responses are proportionate and consistent. I use **student voice** and colleague feedback where useful, **monitor** the impact of changes, and review the seating, routines or supports. The aim is better prevention, stronger **re-engagement** and **trust rebuilt** over time.
 
-&nbsp;
+
 
 ## Classroom Management Word Wall
+
 
 | **Prevent** | **Respond** | **Regulate** | **Follow Up** | **Repair** |
 | -------------------------- | ----------------------------- | ------------------------ | --------------------- | ---------------------------- |
@@ -163,7 +165,9 @@ I **review** classroom management by looking for patterns: when disruption occur
 | Teacher presence (5) | Proportionate consequence (2) | Movement break (2) | Refer (3) | Student voice (1) |
 | Hope (1) | Code of Behaviour (2) | Reset (2) | Collaboration (1) | Review (2) |
 
+
 ## Classroom Management Concepts and Questions
+
 
 | **CM concept** | **Interview question** |
 | --------------------------------- | ----------------------------------------------------------------------------- |
@@ -193,3 +197,5 @@ I **review** classroom management by looking for patterns: when disruption occur
 | **Transitions & seating** | How do routines, transitions and seating support classroom management? |
 | **Safeguarding** | What do you do if behaviour raises a safeguarding concern? |
 | **Review practice** | How do you evaluate and improve your classroom-management practice? |
+
+
