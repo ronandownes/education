@@ -46,7 +46,7 @@ I start by building a picture of the student from the information already availa
 
 ## Learner profile — What do you look for in a learner profile?
 
-A learner profile brings together strengths, needs, aspirations, interests, prior attainment and the context in which the student learns. It can include a communication profile, sensory profile, attendance, preferred supports and current evidence. I use it to guide decisions rather than to create a fixed label, and I update my understanding as individual progress becomes visible.
+A learner profile brings together strengths, needs, aspirations, interests, prior attainment and the context in which the student learns. It can include a communication profile, sensory profile, attendance, preferred supports and current evidence. I use it to guide short term  and long term decisions while avoiding  fixed labels, and I update my understanding as individual progress becomes visible.
 
 ## Student Support File — How do you use a Student Support File?
 
