@@ -169,6 +169,90 @@
   // --- Answer sections / retrieval controls ----------------------------------
   const all = Array.from(body.children);
   const starts = all.filter(el => el.tagName === 'H2');
+
+  // A single site-wide focus layer is reused for every interview question.
+  // It deliberately clones only the question and answer, then strips retrieval
+  // aids/breadcrumbs so the enlarged view stays clean for oral rehearsal.
+  const focusStyle = document.createElement('style');
+  focusStyle.textContent = `
+    .answer-focus-trigger{cursor:zoom-in;border-radius:6px;transition:background .12s ease,color .12s ease}
+    .answer-focus-trigger:hover,.answer-focus-trigger:focus-visible{background:#f3f6fb;color:#174ea6;outline:none}
+    body.answer-focus-open{overflow:hidden}
+    .answer-focus-overlay[hidden]{display:none!important}
+    .answer-focus-overlay{position:fixed;inset:0;z-index:5000;display:flex;align-items:center;justify-content:center;padding:clamp(12px,3vw,36px);background:rgba(17,24,39,.68);backdrop-filter:blur(2px)}
+    .answer-focus-card{position:relative;width:min(980px,100%);max-height:min(88vh,900px);overflow:auto;background:#fff;border:1px solid rgba(255,255,255,.7);border-radius:18px;box-shadow:0 24px 80px rgba(0,0,0,.34);padding:clamp(24px,4vw,50px);font-size:clamp(1.03rem,.75vw + .82rem,1.24rem);line-height:1.72}
+    .answer-focus-card h2{margin:0 42px 18px 0;font-size:clamp(1.38rem,1.25vw + 1rem,2rem);line-height:1.25;cursor:zoom-out;color:#202124}
+    .answer-focus-card h3{font-size:1.08em;margin-top:1.35em}
+    .answer-focus-card p,.answer-focus-card li{font-size:1em;line-height:1.72}
+    .answer-focus-card table{font-size:.9em}
+    .answer-focus-close{position:sticky;float:right;top:0;z-index:2;width:38px;height:38px;margin:-8px -8px 0 12px;border:1px solid #d7dce2;border-radius:50%;background:#fff;color:#3c4043;font:700 1.35rem/1 Arial,sans-serif;cursor:pointer;box-shadow:0 2px 8px rgba(60,64,67,.14)}
+    .answer-focus-close:hover,.answer-focus-close:focus-visible{background:#f1f3f4;outline:2px solid #aecbfa;outline-offset:2px}
+    .answer-focus-content>.section-content{padding-top:0}
+    @media(max-width:600px){.answer-focus-overlay{padding:8px}.answer-focus-card{width:100%;max-height:94vh;border-radius:13px;padding:22px 18px;font-size:1rem}.answer-focus-card h2{margin-right:36px;font-size:1.42rem}}
+    @media print{.answer-focus-overlay{display:none!important}}
+  `;
+  document.head.appendChild(focusStyle);
+
+  const focusOverlay = document.createElement('div');
+  focusOverlay.className = 'answer-focus-overlay';
+  focusOverlay.hidden = true;
+  focusOverlay.setAttribute('role', 'dialog');
+  focusOverlay.setAttribute('aria-modal', 'true');
+  focusOverlay.setAttribute('aria-label', 'Focused interview answer');
+  focusOverlay.innerHTML = `
+    <article class="answer-focus-card" tabindex="-1">
+      <button class="answer-focus-close" type="button" data-focus-close aria-label="Close focused answer">×</button>
+      <div class="answer-focus-content" data-focus-content></div>
+    </article>
+  `;
+  document.body.appendChild(focusOverlay);
+
+  const focusCard = focusOverlay.querySelector('.answer-focus-card');
+  const focusContent = focusOverlay.querySelector('[data-focus-content]');
+  let lastFocusTrigger = null;
+
+  const closeFocus = () => {
+    if (focusOverlay.hidden) return;
+    focusOverlay.hidden = true;
+    focusContent.replaceChildren();
+    document.body.classList.remove('answer-focus-open');
+    if (lastFocusTrigger) lastFocusTrigger.focus({ preventScroll: true });
+    lastFocusTrigger = null;
+  };
+
+  const openFocus = (section, trigger) => {
+    const sourceHeading = section.querySelector('.answer-heading-row h2');
+    const sourceContent = section.querySelector('.section-content');
+    if (!sourceHeading || !sourceContent) return;
+
+    const headingClone = sourceHeading.cloneNode(true);
+    headingClone.removeAttribute('id');
+    headingClone.removeAttribute('tabindex');
+    headingClone.removeAttribute('role');
+    headingClone.removeAttribute('aria-haspopup');
+    headingClone.classList.remove('answer-focus-trigger');
+    headingClone.setAttribute('data-focus-close', '');
+    headingClone.title = 'Click the question to close';
+
+    const contentClone = sourceContent.cloneNode(true);
+    contentClone.hidden = false;
+    contentClone.querySelectorAll('.retrieval-chain-table,.retrieval-wall,[class*="breadcrumb"],[data-breadcrumb],a[href*="pagescms.org"]').forEach(el => el.remove());
+
+    focusContent.replaceChildren(headingClone, contentClone);
+    lastFocusTrigger = trigger;
+    focusOverlay.hidden = false;
+    document.body.classList.add('answer-focus-open');
+    focusCard.focus({ preventScroll: true });
+  };
+
+  focusOverlay.addEventListener('click', event => {
+    if (event.target === focusOverlay || event.target.closest('[data-focus-close]')) closeFocus();
+  });
+
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && !focusOverlay.hidden) closeFocus();
+  });
+
   starts.forEach(heading => {
     const section = document.createElement('section');
     section.className = 'answer-section';
@@ -203,6 +287,18 @@
       content.appendChild(node);
       node = next;
     }
+
+    heading.classList.add('answer-focus-trigger');
+    heading.tabIndex = 0;
+    heading.setAttribute('role', 'button');
+    heading.setAttribute('aria-haspopup', 'dialog');
+    heading.title = 'Click to focus this answer';
+    heading.addEventListener('click', () => openFocus(section, heading));
+    heading.addEventListener('keydown', event => {
+      if (event.key !== 'Enter' && event.key !== ' ') return;
+      event.preventDefault();
+      openFocus(section, heading);
+    });
 
     const stars = JSON.parse(localStorage.getItem('rd-education-stars') || '{}');
     if (stars[key]) {
