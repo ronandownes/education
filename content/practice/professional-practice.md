@@ -30,7 +30,7 @@ I see that breadth as a strength. I have had to **adapt quickly, learn from diff
 
 &nbsp;
 
-
+&nbsp;
 
 ## Closing Line
 
@@ -42,13 +42,53 @@ The school was founded at a time when Ireland was moving in a new social and edu
 
 What stands out to me is the school's comprehensive tradition, equality of opportunity, breadth of provision, inclusion and strong community identity. For this post I would connect that particularly to mixed-ability teaching, AEN provision, Inbhear, L2LP and LCA, and the emphasis on helping individual students reach their potential. That fits very closely with my own experience across Mathematics, mixed-ability teaching and learning support / AEN.
 
+
+
+# School Improvement Plan — Interview Version
+
+## Key Line
+
+“Bealach” basically means “the way” or “the path”. It is the name St Patrick’s gives to its School Improvement Plan. ([Teanglann](https://www.teanglann.ie/en/eid/bealach?utm_source=chatgpt.com "English–Irish Dictionary (de Bhaldraithe): bealach"))
+
+## What do you know about our School Improvement Plan?
+
+“I looked at Bealach, your School Improvement Plan. What struck me is the emphasis on improving teaching and learning through assessment and feedback, active learning, collaboration, inclusion, student voice and responding to learner needs. I also noticed that this builds on earlier priorities around learning intentions, AfL, differentiated teaching and group work.”
+
+That is enough. You do not need to recite the whole plan.
+
+## Has it moved forward?
+
+Yes. Your uploaded document is the older 2018–2020 Teaching and Learning plan. The school's website now presents Bealach 2023–2025, which broadens school improvement beyond classroom teaching into areas including digital learning, leadership, communication, infrastructure and wellbeing. ([ST. PATRICK'S COMPREHENSIVE SCHOOL](https://www.stpatrickscomprehensive.ie/school-improvement-plan.html?utm_source=chatgpt.com "School Improvement Plan - ST. PATRICK'S COMPREHENSIVE SCHOOL"))
+
+But the interesting thing is: **the website still shows 2023–2025 as the current published Bealach plan.** ([ST. PATRICK'S COMPREHENSIVE SCHOOL](https://www.stpatrickscomprehensive.ie/school-improvement-plan.html?utm_source=chatgpt.com "School Improvement Plan - ST. PATRICK'S COMPREHENSIVE SCHOOL"))
+
+That gives you an excellent question.
+
+## Have you any questions for us?
+
+Your strongest one could be:
+
+> “I was looking at Bealach and I noticed that the published plan runs to 2025. Has the school now moved into its next improvement cycle, and what would you say are the main priorities for the school going forward?”
+
+That is a very strong question because it proves you have researched the school **and** gets them talking about where the school is going.
+
+Then, if they invite another:
+
+> “For the person coming into this Mathematics and AEN role, where would you most like them to make a contribution in the first year?”
+
+I would use those **two**. They are much stronger than generic questions about timetables, classes or CPD.
+
+
+
+&nbsp;
+
 ## 1 Professional responsibility — What does professional responsibility mean to you as a teacher?
 
 Professional responsibility means being 
 
 - reliable, 
 - prepared 
-- and accountable 
+- and accountable
 
 for the quality and safety of my work. I act with integrity, fairness and respect, maintain professional boundaries and confidentiality, follow school policy and exercise professional judgement. It also means contributing to colleagues and school life rather than seeing responsibility as ending at my classroom door.
 
