@@ -6,10 +6,6 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Elicit evidence, interpret it, give actionable feedback, build student
   agency and report progress clearly.
 ---
-
-
-&nbsp;
-
 ## AfL Reporting — What would you write for students who got 44% and 77%?
 
 **44%:** You have shown some understanding of the main concepts, but there are gaps in applying them consistently and independently. Your next step is to revisit the areas identified in this assessment and complete targeted practice to strengthen your understanding.
@@ -173,8 +169,6 @@ I look at whether assessment is producing valid evidence and whether students ac
 
 
 
-
-&nbsp;
 
 &nbsp;
 
