@@ -362,27 +362,9 @@
 
       hideConceptPrefix(heading, remembered.concept);
 
-      const section = heading.closest('.answer-section');
-      const host = section || heading.parentElement;
-      if (!host) return;
-
-      const key = normalise(remembered.concept);
-      const existing = host.querySelector(`.question-breadcrumb-line[data-breadcrumb-key="${CSS.escape(key)}"]`);
-      if (existing) return;
-
-      const line = document.createElement('div');
-      line.className = 'question-breadcrumb-line';
-      line.dataset.breadcrumbKey = key;
-      line.textContent = abbreviate(chain);
-
-      if (section) {
-        section.appendChild(line);
-      } else {
-        let node = heading.nextElementSibling;
-        while (node && node.tagName !== 'H2') node = node.nextElementSibling;
-        if (node) body.insertBefore(line, node);
-        else body.appendChild(line);
-      }
+      // Inline breadcrumb strips under interview questions are intentionally disabled.
+      // The retrieval appendix remains available at the bottom of the page.
+      return;
     });
 
     compactMenuLinks();
