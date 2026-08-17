@@ -7,15 +7,15 @@ eyebrow: LCA MATHEMATICS
 intro: A populated fictional class used to connect planning, access, assessment and inclusive teaching decisions.
 ---
 
-> **Synthetic-data notice:** Every name, photograph and support indicator is invented for interview preparation.
+> **Synthetic-data notice:** Every name, portrait and support indicator is invented for interview preparation.
 
-<p class="class-map-note"><strong>10 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+<p class="class-map-note"><strong>9 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
 
-<div class="class-map" data-count="10" data-start="88"></div>
+<div class="class-map" data-count="9" data-start="88"></div>
 
 ## Class context
 
-This is a single-page working class profile. The photographs make the seating and support map easy to scan while the profile links each learner’s strengths, barriers and access arrangements to concrete teaching decisions.
+This is a single-page working class profile. The portraits make the seating and support map easy to scan while the profile links each learner’s strengths, barriers and access arrangements to concrete teaching decisions.
 
 ## Interview language
 
