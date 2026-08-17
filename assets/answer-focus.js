@@ -43,7 +43,7 @@
     .answer-focus-tools button,.answer-focus-tools a{border:1px solid #cfd5dc;border-radius:999px;background:#fff;color:#30343b;padding:7px 12px;font:inherit;font-size:.78em;font-weight:650;line-height:1.2;cursor:pointer;text-decoration:none}
     .answer-focus-tools button:hover,.answer-focus-tools button:focus-visible,.answer-focus-tools a:hover,.answer-focus-tools a:focus-visible{background:#f3f6fb;border-color:#aecbfa;outline:none}
     mark.answer-focus-key{background:#fff3bf;color:inherit;font-weight:inherit;border-radius:3px;padding:0 .08em}
-    .answer-focus-copy strong,.answer-focus-copy b{font-weight:inherit}
+    .answer-focus-copy strong,.answer-focus-copy b{font-weight:800;color:#202124}
     .answer-focus-copy[contenteditable="true"]{min-height:8rem;padding:14px 16px;border:2px solid #aecbfa;border-radius:10px;background:#fbfdff;outline:none;caret-color:#202124}
     .answer-focus-copy[contenteditable="true"]:focus{box-shadow:0 0 0 3px rgba(66,133,244,.12)}
     .answer-focus-copy button,.answer-focus-copy .cm-question-play,.answer-focus-copy .section-controls,.answer-focus-copy .section-edit-nearby,.answer-focus-copy .section-edit-link{display:none!important}
@@ -319,7 +319,19 @@
     const edit = document.createElement('button');
     edit.type = 'button';
     edit.textContent = 'Edit draft';
-    edit.title = 'Edit this pop-up copy. Use Open CMS to save the source permanently.';
+    edit.title = 'Edit this pop-up copy. Select text and press Ctrl+B (or Cmd+B) to bold it. Use Open CMS to save the source permanently.';
+
+    content.addEventListener('keydown', event => {
+      const boldShortcut = (event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'b';
+      if (!boldShortcut || content.getAttribute('contenteditable') !== 'true') return;
+      const selection = window.getSelection();
+      if (!selection || selection.rangeCount === 0) return;
+      const range = selection.getRangeAt(0);
+      if (!content.contains(range.commonAncestorContainer)) return;
+      event.preventDefault();
+      document.execCommand('bold', false, null);
+    });
+
     edit.addEventListener('click', event => {
       event.stopPropagation();
       const editing = content.getAttribute('contenteditable') === 'true';
