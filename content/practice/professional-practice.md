@@ -6,52 +6,15 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Act with integrity, collaborate well, contribute to school life, keep
   developing, and connect practice to the school's ethos and community.
 ---
-## Interview details
-
-**Monday 17 August · 3:00 pm · St Patrick's Comprehensive School, Shannon · V14 Y434 · in person.**
-
-## Professional Responsibility Retrieval Chains
-
-
-| Concept | Retrieval chain |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| About me | Experienced post-primary Maths → JC/LC/TY/mixed ability/AEN → accessible without lowering expectations → plan/teach/scaffold/retrieve/think/adapt → exams + tech/modelling/data → teacher first |
-| School knowledge | Comprehensive tradition → equality/opportunity → breadth/inclusion/community → mixed ability/AEN/Inbhear/L2LP/LCA → individual potential → fit with my experience |
-| Professional responsibility | Reliable/prepared/accountable → integrity/fairness/respect → boundaries/confidentiality → policy/judgement → contribute beyond classroom |
-| Values & conduct | Respect/fairness/equality/care/integrity → students/families/colleagues → defensible decisions → policy → learning/dignity/inclusion |
-| Accountability | Own decisions → plan/assess → records → follow-through/deadlines/communication → acknowledge what failed → adapt/evaluate impact |
-| Boundaries & confidentiality | Approachable/supportive → teacher role clear → need-to-know channels → no informal discussion → digital/personal boundaries → safeguarding limits |
-| Duty of care | Safe supervision → thoughtful planning → practical risk → boundaries → act on concerns → procedures/child protection/H&S → judgement |
-| Policy awareness | Behaviour/assessment/child protection/AEN/AUP/H&S/communication → agreed framework → understand purpose → judgement → clarify uncertainty |
-| Collegiality | Clear communication/reliability → share relevant info/resources/evidence → listen → follow through → disagree professionally → student/shared task focus |
-| Department planning | Planning/resources/common assessment/misconceptions/curriculum → classroom evidence → record decisions → coherence/reliability → autonomy, not identical teaching |
-| Co-teaching & AEN | Shared planning → goal/roles/barriers/evidence → AEN/SNA coordination → compare observations → adapt |
-| Professional disagreement | Direct/private/respectful → shared purpose → listen/evidence → preference vs policy/responsibility → line-management/consultation if needed |
-| Feedback | Treat as evidence → listen → ask specifics → compare with student work/evidence → practical goal → try → evaluate → seek feedback too |
-| Beyond timetable | Strengths + school need → exams/SEN/digital/subject/wider activities → Maths/Science/coding/data/tech → sustainable contribution → value, not list |
-| Initiative & committees | Identify useful need → consult → defined work → evidence/practical ideas/follow-through → resource/data/tech/AEN strengths → evaluate impact |
-| Extracurricular | Listen to existing provision → Maths/Science/coding/data/STEM → problem-solving/projects/competitions → complement, don't duplicate |
-| Examination work | Standards/reliability/evidence → criteria consistency → organisation/confidentiality/fairness/procedure → bring back to assessment → don't narrow teaching |
-| Digital contribution | Real need → resource/organisation/digital learning/data decisions → collaborate → data protection/systems → evaluate impact → no novelty |
-| CPD | Formal CPD/reading/collaboration/updates → connect to classroom evidence → try critically → evaluate impact → normal practice only if useful |
-| Reflective practice | Evidence of learning/participation/outcome → identify one practical change → feedback/work/peer observation → implement → review impact |
-| Evidence-informed practice | Research/guidance + subject knowledge + classroom evidence + judgement → problem fit/context → define impact evidence → revise if needed |
-| School improvement | Identified priority → gather evidence → translate goal to classroom action → manageable focus → student/staff evidence → shared plan → evaluate/adapt |
-| Ethos & mission | Mission/ethos/patronage/inclusion/profile/programmes/priorities → connect teaching/contribution → values visible in relationships/equality/opportunity |
-| Parents & community | Respectful/factual student-focused communication → listen to context → boundaries/school channels → purposeful safe community links → mission aligned |
-| Equality & inclusion | Genuine access to participation/support/opportunity → equality ≠ identical treatment → reasonable support → high expectations → policy/collaboration → barriers not ceilings |
-| Professional growth | Strengthen subject teaching + inclusion + evidence-informed practice → goals/CPD/reading/feedback/reflection → better learning + school contribution |
-
-
 
 
 ## Tell us about yourself
 
-I’m an experienced **Maths, additional-needs and learning-support teacher**, with a central focus on making Mathematics accessible while maintaining expectations.
+I’m an experienced Maths, additional-needs and learning-support teacher, with a central focus on making Mathematics accessible while maintaining expectations.
 
-I want students to **communicate Mathematics**, not simply reproduce procedures. I try to create a **dialogic Mathematics classroom** where students explain, question, justify, make connections and increasingly use mathematical language with confidence.
+I want students to communicate Mathematics, not simply reproduce procedures. I try to create a dialogic Mathematics classroom where students explain, question, justify, make connections and increasingly use mathematical thinging  and language with confidence.
 
-I use technology where it genuinely improves **access, visualisation or understanding**, rather than simply for its own sake.
+I use technology where it genuinely improves access, visualisation or understanding, rather than simply for its own sake.
 
 My approach is to **plan carefully, teach explicitly, scaffold intelligently, build purposeful practice into learning, and adapt in response to evidence of what students understand**.
 
@@ -251,5 +214,42 @@ My next professional step is to continue strengthening the connection between st
 | **22 Parents & community** | How do you work with parents, guardians and the wider community? |
 | **23 Equality & inclusion** | How does professional responsibility support equality and inclusion? |
 | **24 Professional growth** | What is your next professional step and how will you keep developing? |
+
+
+## Interview details
+
+**Monday 17 August · 3:00 pm · St Patrick's Comprehensive School, Shannon · V14 Y434 · in person.**
+
+## Professional Responsibility Retrieval Chains
+
+
+| Concept | Retrieval chain |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| About me | Experienced post-primary Maths → JC/LC/TY/mixed ability/AEN → accessible without lowering expectations → plan/teach/scaffold/retrieve/think/adapt → exams + tech/modelling/data → teacher first |
+| School knowledge | Comprehensive tradition → equality/opportunity → breadth/inclusion/community → mixed ability/AEN/Inbhear/L2LP/LCA → individual potential → fit with my experience |
+| Professional responsibility | Reliable/prepared/accountable → integrity/fairness/respect → boundaries/confidentiality → policy/judgement → contribute beyond classroom |
+| Values & conduct | Respect/fairness/equality/care/integrity → students/families/colleagues → defensible decisions → policy → learning/dignity/inclusion |
+| Accountability | Own decisions → plan/assess → records → follow-through/deadlines/communication → acknowledge what failed → adapt/evaluate impact |
+| Boundaries & confidentiality | Approachable/supportive → teacher role clear → need-to-know channels → no informal discussion → digital/personal boundaries → safeguarding limits |
+| Duty of care | Safe supervision → thoughtful planning → practical risk → boundaries → act on concerns → procedures/child protection/H&S → judgement |
+| Policy awareness | Behaviour/assessment/child protection/AEN/AUP/H&S/communication → agreed framework → understand purpose → judgement → clarify uncertainty |
+| Collegiality | Clear communication/reliability → share relevant info/resources/evidence → listen → follow through → disagree professionally → student/shared task focus |
+| Department planning | Planning/resources/common assessment/misconceptions/curriculum → classroom evidence → record decisions → coherence/reliability → autonomy, not identical teaching |
+| Co-teaching & AEN | Shared planning → goal/roles/barriers/evidence → AEN/SNA coordination → compare observations → adapt |
+| Professional disagreement | Direct/private/respectful → shared purpose → listen/evidence → preference vs policy/responsibility → line-management/consultation if needed |
+| Feedback | Treat as evidence → listen → ask specifics → compare with student work/evidence → practical goal → try → evaluate → seek feedback too |
+| Beyond timetable | Strengths + school need → exams/SEN/digital/subject/wider activities → Maths/Science/coding/data/tech → sustainable contribution → value, not list |
+| Initiative & committees | Identify useful need → consult → defined work → evidence/practical ideas/follow-through → resource/data/tech/AEN strengths → evaluate impact |
+| Extracurricular | Listen to existing provision → Maths/Science/coding/data/STEM → problem-solving/projects/competitions → complement, don't duplicate |
+| Examination work | Standards/reliability/evidence → criteria consistency → organisation/confidentiality/fairness/procedure → bring back to assessment → don't narrow teaching |
+| Digital contribution | Real need → resource/organisation/digital learning/data decisions → collaborate → data protection/systems → evaluate impact → no novelty |
+| CPD | Formal CPD/reading/collaboration/updates → connect to classroom evidence → try critically → evaluate impact → normal practice only if useful |
+| Reflective practice | Evidence of learning/participation/outcome → identify one practical change → feedback/work/peer observation → implement → review impact |
+| Evidence-informed practice | Research/guidance + subject knowledge + classroom evidence + judgement → problem fit/context → define impact evidence → revise if needed |
+| School improvement | Identified priority → gather evidence → translate goal to classroom action → manageable focus → student/staff evidence → shared plan → evaluate/adapt |
+| Ethos & mission | Mission/ethos/patronage/inclusion/profile/programmes/priorities → connect teaching/contribution → values visible in relationships/equality/opportunity |
+| Parents & community | Respectful/factual student-focused communication → listen to context → boundaries/school channels → purposeful safe community links → mission aligned |
+| Equality & inclusion | Genuine access to participation/support/opportunity → equality ≠ identical treatment → reasonable support → high expectations → policy/collaboration → barriers not ceilings |
+| Professional growth | Strengthen subject teaching + inclusion + evidence-informed practice → goals/CPD/reading/feedback/reflection → better learning + school contribution |
 
 
