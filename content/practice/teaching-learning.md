@@ -5,12 +5,12 @@ title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
-<script src="{{ '/assets/question-breadcrumbs.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
 
-## Teaching & Learning Retrieval Chains
+## TL Retrieval Chains
+
 
 | Concept | Retrieval chain |
-| --- | --- |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | General approach | Plan → LI + students → Teach/model → Scaffold → Retrieval/practice → Q/explain/problem-solve → Evidence → Adapt S/C → Consolidate/next |
 | Good teaching | Students → LI → Prior → Explain/model → GP → IP → Q/AfL → Check → Adapt S/C → Consolidate |
 | Effective lesson | Students → LI/goal → SC → Prior/retrieval → Sequence → Model → GP → IP → Check/adapt → Closure/next |
@@ -37,6 +37,7 @@ eyebrow: PROFESSIONAL PRACTICE
 | Consolidation | Closure → Summarise/explain/apply/retrieve → Spacing/cum. review/interleave → Transfer, not repetition |
 | Improving practice | Evidence → Reflect/refine → Q/work/assessment/misconceptions → Explanations/sequence → Colleagues/PL → Adapt → Evaluate impact |
 | Unmotivated student | Starting point → Early success → Worthwhile goal → Achievable steps → Scaffold/model/retrieval prior → Choice/relevance → Notice progress → AfL adapt S/C → High exp. → Independence |
+
 
 ## General approach — What is your general approach to teaching and learning?
 
@@ -144,8 +145,9 @@ I would start by establishing the student's real starting point and creating ear
 
 ## Teaching & Learning Word Wall
 
+
 | **Plan** | **Teach** | **Secure** | **Engage** | **Adapt** |
-| ---------------------------- | ------------------------------- | ------------------------ | ----------------------------- | ------------------------- |
+| ------------------------ | --------------------------- | -------------------- | ------------------------- | --------------------- |
 | Know the students | Scaffold | Retrieval | Student thinking | Evidence of learning |
 | Learning intention | Explanation | Fade support | Questioning | Formative assessment |
 | Activate prior knowledge | Model | Independent practice | Reasoning | Check understanding |
@@ -162,6 +164,7 @@ I would start by establishing the student's real starting point and creating ear
 |  | Limit new information |  | Multiple-choice questions | Reflect and refine |
 |  |  |  | Student voice |  |
 |  | Integrate words and visuals |  | Learner engagement |  |
+
 
 ## Abbreviation Key
 
