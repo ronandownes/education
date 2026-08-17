@@ -52,6 +52,30 @@ A learner profile brings together strengths, needs, aspirations, interests, prio
 
 I start with the Student Support File to build an individual picture of the learner — their strengths, identified needs, current targets, previous strategies and progress. I use that, alongside my own assessment and observation, to plan appropriate teaching and support and to review progress over time.
 
+## Continuum of Support — What are the three levels of support and how do they differ?
+
+The Continuum of Support has three levels: **Whole-school and Classroom Support for All**, **School Support for Some**, and **School Support Plus for a Few**. The difference is not three separate systems; it is the **intensity, individualisation and coordination of support**. Support for all is universal and preventative, support for some is targeted when ordinary classroom support is not enough, and support for a few is more individualised and coordinated for students with the most significant needs. The level should follow the evidence of need and response to intervention, not simply a diagnosis. 
+
+## Student Support File and levels — Is a Student Support File only for students at Support for a Few?
+
+No. A Student Support File is used to record and plan additional support across the Continuum of Support. Current Department guidance explicitly describes Student Support Plans at both **School Support — Some** and **School Support Plus — Few**, and advises that students on the continuum who receive additional support should have a Student Support File. At the universal **Support for All** level, the focus is normally whole-school and classroom planning; once support becomes targeted or individualised, the Student Support File becomes the key record of needs, targets, interventions and reviews.
+
+## Support for All — What should planning look like at Support for All?
+
+At Support for All I plan first for strong universal provision: clear routines, accessible teaching, formative assessment, appropriate differentiation, high expectations and early response to emerging barriers. I use ordinary classroom evidence to adjust teaching and remove access barriers before assuming a student needs a more intensive level of support. The emphasis is prevention, inclusion and responsiveness within the mainstream classroom.
+
+## Support for Some — How does planning change at School Support for Some?
+
+At Support for Some the planning becomes more **targeted and explicit**. I identify a small number of priority needs, agree meaningful short-term targets, select focused interventions or accommodations, identify who is involved, and decide how progress will be monitored and reviewed. The support may involve subject teachers, AEN staff, parents or guardians and the student, but the student should remain connected to the wider curriculum and ordinary class as much as possible.
+
+## Support for a Few — How does planning change at School Support Plus for a Few?
+
+At Support for a Few the process becomes more **individualised, intensive and coordinated** because the student has the most significant needs. I draw on a fuller range of evidence, including professional reports where relevant, student and parent voice, specialist advice and response to previous intervention. Targets must still be specific and meaningful, but the plan is likely to require closer coordination between staff, more carefully selected supports and accommodations, and more frequent monitoring and review. The goal is not simply to add more support; it is to provide the right level of support while protecting participation, dignity and independence.
+
+## Move between levels — How do you decide whether a student should move from All to Some, or Some to Few?
+
+I look at the student’s response to the support already provided. If well-chosen classroom support is not sufficiently reducing the barrier, I move towards more targeted planning at Support for Some. If targeted support remains insufficient and the evidence shows more significant or persistent needs, I consider Support for a Few with the relevant team. Equally, if the student becomes more secure and independent, support can be reduced. The continuum should be dynamic and evidence-led rather than a one-way ladder.
+
 ## Evaluate support — How do you know whether an AEN support is working?
 
 I look for evidence of smoother access, reduced barriers, participation, individual progress and learner independence. I compare student work, engagement, checking understanding and the level of prompting required, and I use student voice where appropriate. I monitor progress, evaluate impact and record and review with the AEN coordinator or relevant team. If support is not working, I adapt it rather than continuing it because it is written down.
@@ -172,6 +196,12 @@ I review support systematically rather than leaving it in place indefinitely. I 
 | **Identify needs** | How do you identify the educational needs of your students? |
 | **Learner profile** | What do you look for in a learner profile? |
 | **Student Support File** | How do you use a Student Support File? |
+| **Continuum of Support** | What are the three levels of support and how do they differ? |
+| **Student Support File and levels** | Is a Student Support File only for students at Support for a Few? |
+| **Support for All** | What should planning look like at Support for All? |
+| **Support for Some** | How does planning change at School Support for Some? |
+| **Support for a Few** | How does planning change at School Support Plus for a Few? |
+| **Move between levels** | How do you decide whether a student should move from All to Some, or Some to Few? |
 | **Evaluate support** | How do you know whether an AEN support is working? |
 | **Independence** | How do you make sure support builds participation and independence? |
 | **Autism** | How do you support an autistic student? |
@@ -193,126 +223,3 @@ I review support systematically rather than leaving it in place indefinitely. I 
 | **Collaboration** | How do you collaborate with the AEN team and parents or guardians? |
 | **High expectations** | How do you avoid additional needs becoming low expectations? |
 | **Review support** | How do you review AEN support over time? |
-
-
-## Blank Student Support File — Practice Form
-
-This is a **practice version based directly on the seven-page Student Support File example**. It is here so you can see the whole structure and practise completing it from empty. **Use synthetic or anonymised information only — do not enter identifiable student information on this public site.**
-
-
-
-Student Support File — Cover
-
-Student nameDate of birthSchoolClass / yearDate file openedDate file closed
-
-**Current level of support** Classroom Support / Support for All School Support / Support for Some School Support Plus / Support for a Few
-
-The file follows the Continuum of Support. A plan is built by identifying concerns, gathering information, planning support and reviewing the response.
-
-Log of Actions
-
-A running record of important actions: meetings, assessments, contacts, supports introduced, reviews and changes.
-
-
-| Date | Action |
-| ---- | ------ |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-
-Support Checklist
-
-NameAgeClass
-
-
-| General information | Date checked | Comments / evidence |
-| ---------------------------------------------------------------- | ------------ | ------------------- |
-| Parents / guardians consulted |  |  |
-| Information from previous school / preschool gathered |  |  |
-| Hearing |  |  |
-| Vision |  |  |
-| Medical needs |  |  |
-| Basic Needs Checklist completed |  |  |
-| Assessment of learning / screening |  |  |
-| Observation of learning style / approach to learning |  |  |
-| Observation of behaviour |  |  |
-| Interview / discussion with student |  |  |
-| Classroom work differentiated / adapted |  |  |
-| Learning environment adapted |  |  |
-| Yard / school environments adapted |  |  |
-| Consultation / advice with outside professionals |  |  |
-| Advice from learning support / AEN teacher or other school staff |  |  |
-| Other interventions put in place in school |  |  |
-
-
-Action needed
-
-Support Plan
-
-**Plan level** Classroom Support School Support / Some School Support Plus / Few
-
-Student's nameAgeLead teacherClass / yearStart date of planReview date of plan
-
-**Student's strengths and interests**
-What the student does well, enjoys, values or responds positively to. Include strengths that can be used to support learning.
-
-
-
-&nbsp;
-
-**Priority concerns**
-**Plain English:** the small number of important learning, access, participation or independence problems you are choosing to address *now*. This is not the diagnosis and not a list of everything the student finds difficult. Ask: **what is most getting in the way of learning or participation at the moment?**
-
-
-
-&nbsp;
-
-**Possible reasons for concerns**
-Your evidence-based working explanation of what may be contributing to the concern — not blame and not a new diagnosis. Draw on observation, assessment, student voice, prior information and response to previous support.
-
-
-
-&nbsp;
-
-**Targets for the student**
-Specific short-term outcomes. State what the student will do and, where useful, the context, level of independence, frequency or success criterion.
-
-
-
-&nbsp;
-
-**Strategies to help the student achieve the targets**
-What staff will actually do: teaching approaches, scaffolds, accommodations, routines, prompts, resources and opportunities for practice.
-
-
-
-&nbsp;
-
-**Staff involved and resources needed**
-
-
-
-&nbsp;
-
-Parent / guardian consultation or agreementTeacher / plan coordinator
-
-Support Review Record
-
-Student's nameClass / yearNames of those present at reviewDate of review
-
-**What areas of the plan have been most successful and why?**
-**Since the start of the plan, has anything changed in relation to the original concerns? What have we learned?**
-**Have the student's needs changed since the start of the plan? If so, how?**
-**Recommended future actions — what, how, who, when?**
-**Student comments / student voice**
-**Parent / guardian comments**
-
-Parent / guardian name or consultation recordTeacher(s) / reviewer
-
-**Outcome of review** Revert to previous level of support Continue at current level of support Progress to next level of support Request consultation with other professionals
-
-Clear practice form
