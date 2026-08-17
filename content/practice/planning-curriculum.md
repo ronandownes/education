@@ -6,7 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## General approach — What is your general approach to planning and curriculum?
 
-My planning starts with the learner and the evidence. I align, map and sequence learning with the curriculum, and use UDL and cognitive load theory to design for access and challenge. Assessment is built in from the outset, and I adapt continuously in response to formative evidence. The plan is clear and structured enough to provide direction, predictability and support student wellbeing, while remaining flexible enough to respond to emerging needs.
+I start with the learner and the evidence. I initiate, align, sequence and map learning with the curriculum, and use UDL and cognitive load theory to design for access and challenge. Assessment is built in from the outset, and I adapt continuously in response to AfL. A clear but flexiible plan support student success and  wellbeing.
 
 ## Yearly plan — second-year Maths
 
