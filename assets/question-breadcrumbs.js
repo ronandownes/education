@@ -1,7 +1,10 @@
 (() => {
+  if (window.__rdQuestionFocusSetup) return;
+  window.__rdQuestionFocusSetup = true;
+
   if (!Array.from(document.scripts).some(script => /\/assets\/answer-focus\.js(?:\?|$)/.test(script.src || ''))) {
     const focusScript = document.createElement('script');
-    focusScript.src = new URL('answer-focus.js?v=20260817-0955', document.currentScript?.src || location.href).href;
+    focusScript.src = new URL('answer-focus.js?v=20260817-1024', document.currentScript?.src || location.href).href;
     focusScript.dataset.answerFocus = 'true';
     document.head.appendChild(focusScript);
   }
@@ -18,7 +21,7 @@
     .trim();
 
   const isRetrievalHeading = heading =>
-    /retrieval\s+(chains|draft|map|table)/i.test(heading?.textContent || '');
+    /retrieval\s+(chains?|draft|map|table)/i.test(heading?.textContent || '');
 
   const rememberQuestion = heading => {
     if (heading.dataset.interviewConcept && heading.dataset.interviewQuestion) {
@@ -66,7 +69,11 @@
     body.querySelectorAll(':scope > h2').forEach(heading => {
       if (heading.dataset.sectionEditPrepared === 'true') return;
       if (isRetrievalHeading(heading)) return;
-      const sourceHeading = (heading.textContent || '').trim();
+      const remembered = rememberQuestion(heading);
+      const sourceHeading = remembered
+        ? `${remembered.concept} — ${remembered.question}`
+        : (heading.textContent || '').trim();
+      if (!sourceHeading) return;
       const cmsBase = pageEdit.href.split('#')[0];
       const link = document.createElement('a');
       link.className = 'section-edit-nearby';
@@ -91,7 +98,7 @@
       .retrieval-appendix-table,
       .retrieval-chain-table,
       .retrieval-wall,
-      [class*="breadcrumb"]:not(.answer-focus-breadcrumbs):not(.answer-focus-crumb),
+      [class*="breadcrumb"],
       [data-breadcrumb]{display:none!important}
       .interview-appendix-source{display:none!important}
       .section-edit-nearby{display:block;width:max-content;margin:-2px 0 7px auto;padding:4px 8px;border:1px solid #dadce0;border-radius:4px;background:#fff;color:#3c4043;text-decoration:none;font-size:.74rem;line-height:1.15;font-weight:500}
@@ -132,12 +139,46 @@
     });
   };
 
+  const unwrap = element => element.replaceWith(...element.childNodes);
+
+  const stripManualAnswerBolding = () => {
+    Array.from(body.querySelectorAll(':scope > h2')).forEach(heading => {
+      if (!rememberQuestion(heading) || isRetrievalHeading(heading)) return;
+      let node = heading.nextElementSibling;
+      while (node && node.tagName !== 'H2') {
+        if (!node.matches?.('.section-edit-nearby')) {
+          node.querySelectorAll?.('strong,b').forEach(unwrap);
+          if (node.matches?.('strong,b')) unwrap(node);
+        }
+        node = heading.nextElementSibling;
+        while (node && node.matches?.('.section-edit-nearby')) node = node.nextElementSibling;
+        if (node && node.tagName !== 'H2') {
+          let cursor = node.nextElementSibling;
+          while (cursor && cursor.matches?.('.section-edit-nearby')) cursor = cursor.nextElementSibling;
+          node = cursor;
+        }
+      }
+    });
+  };
+
+  const removeRetrievalControls = () => {
+    document.querySelectorAll('.cm-audio-launchers button').forEach(button => {
+      const label = [button.textContent, button.title, button.getAttribute('aria-label')].filter(Boolean).join(' ');
+      if (/breadcrumb|retrieval\s+(chain|map|draft|table)/i.test(label)) button.remove();
+    });
+    document.querySelectorAll('.cm-audio-launchers').forEach(group => {
+      if (group.querySelectorAll('button').length < 4) group.classList.remove('is-four-up');
+    });
+  };
+
   const run = () => {
     ensureStyle();
     hideOldRetrievalSections();
     prepareQuestions();
+    stripManualAnswerBolding();
     addNearbyEditLinks();
     compactMenuLinks();
+    removeRetrievalControls();
   };
 
   run();
@@ -145,4 +186,9 @@
   window.setTimeout(run, 250);
   window.setTimeout(run, 900);
   window.addEventListener('load', run, { once: true });
+
+  const observer = new MutationObserver(() => {
+    removeRetrievalControls();
+  });
+  observer.observe(document.body, { childList: true, subtree: true });
 })();
