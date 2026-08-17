@@ -12,10 +12,24 @@
   const body = document.getElementById('docBody');
   if (!body) return;
 
+  const interviewPaths = [
+    '/teaching-learning.html',
+    '/classroom-management.html',
+    '/sen-inclusion.html',
+    '/differentiation-accessibility.html',
+    '/assessment-reporting.html',
+    '/planning-curriculum.html',
+    '/relationships-wellbeing.html',
+    '/professional-practice.html'
+  ];
+  const isInterviewPage = interviewPaths.some(path => location.pathname.endsWith(path));
+
   const removableHeading = text => {
     const value = (text || '').replace(/\s+/g, ' ').trim();
     return /word wall/i.test(value)
+      || /question wall/i.test(value)
       || /concepts?\s+(?:&|and)\s+questions/i.test(value)
+      || /question bank/i.test(value)
       || /retrieval\s+(?:draft|chains?|map|table)/i.test(value);
   };
 
@@ -27,8 +41,7 @@
   };
 
   const removeSections = () => {
-    const headings = Array.from(body.querySelectorAll(':scope > h2'));
-    headings.forEach(heading => {
+    Array.from(body.querySelectorAll(':scope > h2')).forEach(heading => {
       if (!removableHeading(heading.textContent)) return;
       let node = heading.nextElementSibling;
       while (node && node.tagName !== 'H2') {
@@ -40,11 +53,9 @@
     });
   };
 
-  const removeCountedWordWalls = () => {
-    body.querySelectorAll(':scope > table').forEach(table => {
-      const matches = table.textContent.match(/\(\d+\)/g) || [];
-      if (matches.length >= 3) table.remove();
-    });
+  const removeTables = () => {
+    if (!isInterviewPage) return;
+    body.querySelectorAll(':scope > table, :scope > .retrieval-wall, :scope > .retrieval-chain-table').forEach(node => node.remove());
   };
 
   const unwrap = element => element.replaceWith(...element.childNodes);
@@ -62,46 +73,152 @@
     });
   };
 
+  const removeEditHereLinks = () => {
+    document.querySelectorAll('.section-edit-nearby').forEach(link => link.remove());
+    body.querySelectorAll('a').forEach(link => {
+      if (/^edit\s+here$/i.test((link.textContent || '').trim())) link.remove();
+    });
+  };
+
   const pruneNavigation = () => {
     document.querySelectorAll('.dropmenu a').forEach(link => {
       if (removableHeading(link.textContent)) link.remove();
     });
   };
 
-  const removeRetrievalControls = () => {
-    document.querySelectorAll('.cm-audio-launchers button').forEach(button => {
-      const label = [
-        button.textContent,
-        button.title,
-        button.getAttribute('aria-label')
-      ].filter(Boolean).join(' ');
-      if (/breadcrumb|retrieval\s+(chain|map|draft|table)/i.test(label)) button.remove();
-    });
-
-    document.querySelectorAll('.cm-audio-launchers').forEach(group => {
-      if (group.querySelectorAll('button').length < 4) group.classList.remove('is-four-up');
-    });
+  const cleanAudioLaunchers = () => {
+    document.querySelectorAll('.cm-audio-launchers').forEach(group => group.remove());
   };
 
-  const removeLegacySectionEditLinks = () => {
-    body.querySelectorAll('.section-edit-nearby').forEach(link => link.remove());
-    document.getElementById('section-edit-position-style')?.remove();
-    body.querySelectorAll('[data-section-edit-prepared]').forEach(heading => {
-      delete heading.dataset.sectionEditPrepared;
+  const ensureTitleToolbarStyle = () => {
+    if (document.getElementById('simple-title-toolbar-style')) return;
+    const style = document.createElement('style');
+    style.id = 'simple-title-toolbar-style';
+    style.textContent = `
+      .doc-title-row{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin:0 0 12px}
+      .doc-title-row>h1{margin:0!important;flex:1 1 420px}
+      .doc-title-row>.doc-toolbar{flex:0 0 auto;margin:0!important;padding:0!important;border:0!important;gap:7px}
+      .doc-title-row+.doc-intro{margin-top:0}
+      @media(max-width:600px){.doc-title-row{align-items:flex-start}.doc-title-row>h1{flex-basis:100%}.doc-title-row>.doc-toolbar{width:100%}}
+      @media print{.doc-title-row>.doc-toolbar{display:none!important}}
+    `;
+    document.head.appendChild(style);
+  };
+
+  const getSpeakableSections = () => Array.from(body.querySelectorAll(':scope > h2'))
+    .filter(isInterviewHeading)
+    .map(heading => {
+      const parts = (heading.textContent || '').replace(/\s+/g, ' ').trim().split(/\s+—\s+/);
+      const question = (parts.length > 1 ? parts.slice(1).join(' — ') : parts[0]).trim();
+      const answerParts = [];
+      let node = heading.nextElementSibling;
+      while (node && node.tagName !== 'H2') {
+        if (!node.matches('.section-edit-nearby, table, .retrieval-wall, .retrieval-chain-table')) {
+          const text = (node.textContent || '').replace(/\s+/g, ' ').trim();
+          if (text) answerParts.push(text);
+        }
+        node = node.nextElementSibling;
+      }
+      return `${question}. ${answerParts.join(' ')}`.trim();
+    })
+    .filter(Boolean);
+
+  const prepareSimpleToolbar = () => {
+    const paper = document.querySelector('.doc-paper');
+    const heading = paper?.querySelector(':scope > h1');
+    const toolbar = paper?.querySelector(':scope > .doc-toolbar');
+    if (!paper || !heading || !toolbar) return;
+
+    ensureTitleToolbarStyle();
+
+    let row = paper.querySelector(':scope > .doc-title-row');
+    if (!row) {
+      row = document.createElement('div');
+      row.className = 'doc-title-row';
+      paper.insertBefore(row, heading);
+      row.append(heading, toolbar);
+    }
+
+    const edit = toolbar.querySelector('.edit-link');
+    if (edit) edit.textContent = 'Edit';
+
+    let listen = toolbar.querySelector('[data-action="listen"]');
+    if (!listen) {
+      listen = document.createElement('button');
+      listen.type = 'button';
+      listen.dataset.action = 'listen';
+      listen.textContent = 'Listen';
+      toolbar.prepend(listen);
+    } else {
+      listen.textContent = 'Listen';
+    }
+
+    if (listen.dataset.bound === 'true') return;
+    listen.dataset.bound = 'true';
+
+    const synth = window.speechSynthesis;
+    if (!synth || typeof SpeechSynthesisUtterance === 'undefined') {
+      listen.disabled = true;
+      return;
+    }
+
+    let runId = 0;
+    const stop = () => {
+      runId += 1;
+      synth.cancel();
+      listen.setAttribute('aria-pressed', 'false');
+    };
+
+    const play = () => {
+      stop();
+      const segments = getSpeakableSections();
+      if (!segments.length) return;
+      const session = runId;
+      let index = 0;
+      listen.setAttribute('aria-pressed', 'true');
+
+      const speakNext = () => {
+        if (session !== runId || index >= segments.length) {
+          listen.setAttribute('aria-pressed', 'false');
+          return;
+        }
+        const utterance = new SpeechSynthesisUtterance(segments[index++]);
+        utterance.lang = 'en-IE';
+        utterance.rate = 0.95;
+        utterance.onend = speakNext;
+        utterance.onerror = event => {
+          if (!['canceled', 'interrupted'].includes(event.error)) speakNext();
+        };
+        synth.speak(utterance);
+      };
+      speakNext();
+    };
+
+    listen.addEventListener('click', () => {
+      if (synth.speaking || synth.pending || synth.paused) stop();
+      else play();
     });
+    window.addEventListener('beforeunload', stop, { once: true });
   };
 
   const clean = () => {
     removeSections();
-    removeCountedWordWalls();
+    removeTables();
     stripManualAnswerBolding();
+    removeEditHereLinks();
     pruneNavigation();
-    removeRetrievalControls();
-    removeLegacySectionEditLinks();
+    cleanAudioLaunchers();
+    prepareSimpleToolbar();
   };
 
   clean();
 
-  const observer = new MutationObserver(clean);
+  let cleaning = false;
+  const observer = new MutationObserver(() => {
+    if (cleaning) return;
+    cleaning = true;
+    clean();
+    cleaning = false;
+  });
   observer.observe(document.body, { childList: true, subtree: true });
 })();

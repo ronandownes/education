@@ -44,7 +44,6 @@ content:
   - { name: resources, label: "Resources", type: file, path: content/resources.md, format: yaml-frontmatter, fields: *docfields }
   - { name: glossary, label: "Glossary", type: file, path: content/reference/glossary.md, format: yaml-frontmatter, fields: *docfields }
   - { name: policies, label: "Policies", type: file, path: content/policies/policies.md, format: yaml-frontmatter, fields: *docfields }
-  - { name: wordwall, label: "Word Wall", type: file, path: content/reference/word-wall.md, format: yaml-frontmatter, fields: *docfields }
 
   - name: schemes
     label: "Plans"
