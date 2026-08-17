@@ -6,7 +6,19 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Elicit evidence, interpret it, give actionable feedback, build student
   agency and report progress clearly.
 ---
-## Respond  to parent said their daughter was struggling to understand your teaching?
+
+
+&nbsp;
+
+## AfL Reporting — What would you write for students who got 44% and 77%?
+
+**44%:** You have shown some understanding of the main concepts, but there are gaps in applying them consistently and independently. Your next step is to revisit the areas identified in this assessment and complete targeted practice to strengthen your understanding.
+
+**77%:** You have demonstrated a secure understanding of the main concepts and can apply them accurately in most situations. Your next step is to address the areas where marks were lost and develop your learning further through more challenging and unfamiliar problems.
+
+
+
+## Parent Concern — Respond  to parent said their daughter was struggling to understand your teaching?
 
 If a parent tells me their daughter is struggling to understand, I listen carefully, acknowledge the concern and avoid becoming defensive. I explain what I am seeing from assessment evidence, student work and classroom participation, and try to identify the specific barrier or misconception rather than simply focusing on a mark. I outline the supports I can put in place — for example re-teaching, changing representation, additional scaffolding or targeted practice — and agree a clear next step with the parent and student. I then monitor progress and follow up, so the communication becomes part of supporting improvement rather than simply reporting a problem.
 
@@ -14,7 +26,7 @@ If a parent tells me their daughter is struggling to understand, I listen carefu
 
 I use questioning, observation, mini-whiteboards, discussion, student work, retrieval, quizzes and performance tasks, as well as formal assessments. I look for **conceptual understanding, procedural fluency, strategic competence, adaptive reasoning and productive disposition**. I interpret that evidence for understanding, misconceptions, fluency and reasoning. The purpose is to decide the next step: re-teach, practise, change representation, adjust pace or increase challenge.
 
-## Starting point — How do you establish a real starting point?
+## Starting point  —How do you establish a real starting point?
 
 I triangulate evidence rather than relying on one previous mark. I use handover information, prior attainment, a short diagnostic task, retrieval, questioning, observation and student explanations. I look for strengths, gaps, misconceptions and possible access barriers. That gives me a defensible starting point and prevents a previous report from becoming a permanent judgement.
 
@@ -161,8 +173,6 @@ I look at whether assessment is producing valid evidence and whether students ac
 
 
 
-
-&nbsp;
 
 &nbsp;
 
