@@ -5,12 +5,12 @@ title: AEN & Inclusion
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
-<script src="{{ '/assets/question-breadcrumbs.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
 
 ## AEN & Inclusion Retrieval Chains
 
+
 | Concept | Retrieval chain |
-| --- | --- |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | General approach | Learner not label → strengths/needs/barriers → SSF + evidence + voice → adapt access/support → keep expectations → review participation/progress/independence → change/fade |
 | Identify needs | Handover/SSF/prior/attendance/accommodations → observe work/check understanding/voice → strengths + needs → access barriers → classroom picture |
 | Learner profile | Strengths/needs → aspirations/interests → prior attainment → communication/sensory/attendance/supports → current evidence → update understanding |
@@ -37,9 +37,10 @@ eyebrow: PROFESSIONAL PRACTICE
 | High expectations | Strengths/aspirations/interests → ambitious common learning → support access, don’t remove challenge → needs ≠ potential → evidence capability → adjust challenge |
 | Review support | Short-term target → work/checks/participation/voice → monitor progress → evaluate with team → continue/change/fade → record/review → access/progress/independence |
 
+
 ## General approach — What is your general approach to AEN and inclusion?
 
-I start with the learner, not the label. I identify strengths, needs and barriers using the Student Support File, classroom evidence and student voice, then adapt access and support without lowering worthwhile expectations. I review whether the support is increasing participation, individual progress and learner independence, and I change or fade it when the evidence says I should.
+I start with the learner, not the label. I identify strengths, needs and barriers using the Student Support File, classroom evidence and student voice, then adapt access and support without lowering expectations. I review whether the support is increasing participation, individual progress and learner independence, and I change or fade it when the evidence says I should.
 
 ## Identify needs — How do you identify the educational needs of your students?
 
@@ -137,9 +138,10 @@ I actively guard against additional needs becoming low expectations. I begin wit
 
 I review support systematically rather than leaving it in place indefinitely. I monitor progress against the short-term target, gather student work, checking understanding, participation data and student voice, and evaluate impact with the AEN coordinator and relevant team. We record and review what should continue, change or fade. The aim is coordinated support that increases access, individual progress and learner independence.
 
-&nbsp;
+
 
 ## AEN & Inclusion Word Wall
+
 
 | **Learner** | **Barrier** | **Access** | **Support** | **Impact** |
 | ------------------------- | -------------------------- | ---------------------------- | ---------------------------- | ------------------------ |
@@ -156,7 +158,9 @@ I review support systematically rather than leaving it in place indefinitely. I 
 | Sensory profile (3) | Sensory needs (1) | Multiple representations (2) | SNA support (2) | Shared planning (2) |
 | Individual progress (5) | General learning needs (1) | Retrieval (2) | L1LP / L2LP (1) | Parents / guardians (1) |
 
+
 ## AEN & Inclusion Concepts and Questions
+
 
 | **AEN concept** | **Interview question** |
 | ------------------------------ | --------------------------------------------------------------------------------- |
@@ -185,3 +189,5 @@ I review support systematically rather than leaving it in place indefinitely. I 
 | **Collaboration** | How do you collaborate with the AEN team and parents or guardians? |
 | **High expectations** | How do you avoid additional needs becoming low expectations? |
 | **Review support** | How do you review AEN support over time? |
+
+
