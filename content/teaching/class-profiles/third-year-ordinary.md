@@ -13,7 +13,7 @@ cms_key: profile_third_ordinary
 
 ## Class context
 
-22 students preparing for the Junior Cycle examination while completing remaining learning outcomes.
+12 students preparing for the Junior Cycle examination while completing remaining learning outcomes.
 
 ## Strengths and interests
 
@@ -42,6 +42,6 @@ Weekly mixed retrieval, half-term common assessments, error coding and reassessm
 
 ## Students
 
-<p class="class-map-note"><strong>16 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+<p class="class-map-note"><strong>12 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
 
-<div class="class-map" data-count="16" data-start="57"></div>
+<div class="class-map" data-count="12" data-start="5"></div>
