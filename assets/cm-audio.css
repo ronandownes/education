@@ -289,3 +289,13 @@
     font-weight:400!important;
   }
 }
+
+/* Desktop dropdowns size to their widest item instead of a fixed width.
+   This deliberately overrides the inline width applied to generated menus. */
+@media(min-width:1501px){
+  .dropmenu,.nav-right .dropmenu{
+    width:max-content!important;
+    min-width:100%;
+    max-width:min(360px,calc(100vw - 24px))!important;
+  }
+}
