@@ -5,12 +5,12 @@ title: Differentiation & Accessibility
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
-<script src="{{ '/assets/question-breadcrumbs.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
 
 ## Retrieval Chains
 
+
 | **Concept** | **Retrieval chain** |
-|---|---|
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **General approach** | Common ambitious learning → remove access barriers → vary entry, scaffold, representation, pace and challenge → check learning → adapt → fade support → independence |
 | **Mixed ability** | Common goal → diagnose starting point → vary route and depth → check learning → support or extend → adapt |
 | **Not separate lessons** | Common destination → varied route → low-floor task → flexible grouping → check-in points → targeted adaptation |
@@ -37,9 +37,10 @@ eyebrow: PROFESSIONAL PRACTICE
 | **Independence** | Create access → model and guide → fade prompts → independent practice → transfer → self-correction |
 | **Review differentiation** | Access and participation → success criteria → work and questioning evidence → independence → identify dependence → adapt and recheck |
 
+
 ## General approach — What is your general approach to differentiation and accessibility?
 
-I keep the important learning **common and ambitious**, then vary the **entry point**, **scaffolding**, **representation**, pace and **challenge** according to evidence. I remove an **access barrier** before lowering demand, use **formative assessment** to decide how to **adapt**, and fade support as students become more secure. The goal is meaningful participation, **productive struggle** and **learner independence**.
+Core learning common and ambitious, then vary the entry point, scaffolding, representation, pace and challenge according to evidence and student profile. I priortise removing   access barrier before lowering demand and expectation, use formative assessment to decide how to adapt, and fade support as students become more secure. The goal is meaningful participation, productive struggle and learner independence.
 
 ## Mixed ability — How do you differentiate in a mixed-ability class?
 
@@ -139,8 +140,9 @@ I look for evidence that more students can access the learning, meet the **succe
 
 ## Word Wall
 
+
 | **Entry** | **Scaffold** | **Represent** | **Adapt** | **Challenge** |
-|---|---|---|---|---|
+| ------------------------ | -------------------------- | ---------------------------- | ------------------------- | -------------------------- |
 | Entry point (4) | Scaffolding (3) | Multiple representations (2) | Formative assessment (3) | Challenge (5) |
 | Access barrier (3) | Modelling (5) | Concrete model (2) | Responsive adjustment (4) | Productive struggle (4) |
 | Common learning goal (2) | Worked example (6) | Visual model (4) | Check-in points (5) | Learner independence (3) |
@@ -153,3 +155,5 @@ I look for evidence that more students can access the learning, meet the **succe
 | Familiar context (1) | Gradual release (3) | Word bank (1) | Digital response (2) | High-attaining learner (1) |
 | Concrete example (4) | Independent practice (4) | Vocabulary pre-teach (1) | Flexible pacing (1) | High potential (1) |
 | Success criteria (5) | Faded support (2) | Assistive technology (3) | Wait time (1) | Transfer (2) |
+
+
