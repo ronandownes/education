@@ -13,7 +13,7 @@ cms_key: profile_first_mixed
 
 ## Class context
 
-28 students following the common introductory course; wide variation in primary-school experience and confidence.
+14 students following the common introductory course; wide variation in primary-school experience and confidence.
 
 ## Strengths and interests
 
@@ -42,6 +42,6 @@ Weekly retrieval; brief student explanations; misconception log; October and Chr
 
 ## Students
 
-<p class="class-map-note"><strong>21 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+<p class="class-map-note"><strong>14 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
 
-<div class="class-map" data-count="21" data-start="0"></div>
+<div class="class-map" data-count="14" data-start="0"></div>
