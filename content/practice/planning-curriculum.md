@@ -4,37 +4,6 @@ permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
 ---
-## Planning & Curriculum Retrieval Chains
-
-
-| Concept | Retrieval chain |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| General approach | Learner + evidence → curriculum → sequence → access/challenge → assessment → adapt from evidence |
-| Yearly plan — second-year Maths | Handover → scheme → learner profile → diagnostic starting point → map LOs/year → retrieval → AfL → consolidation → adapt |
-| Starting point | Handover + previous work + assessment + needs + retrieval → strengths/gaps → misconceptions/barriers → starting point |
-| Yearly plan — first-year intake | Transition/handover → primary evidence → retrieval/diagnostic → strengths/gaps/misconceptions → unpack LOs → sequence → consolidate → adapt pace/S/C |
-| Specification & learning outcomes | Specification → unpack LOs → action verbs/depth → connect outcomes → coherent sequence → SC/assessment → adapt from evidence |
-| Scheme of work | Specification/LOs → starting point/prereqs → map year → sequence → retrieval/consolidation/assessment → resources/time → flexible |
-| Subject plan vs scheme | Subject plan = department framework → curriculum/assessment/inclusion/resources/expectations → scheme = class/year sequence → individual planning within both |
-| Department planning | Share resources/evidence/misconceptions → agree LOs/sequence/terminology/expectations/assessment → professional judgement → record decisions |
-| Continuity & progression | Schemes + records + handover → what taught/secure → prerequisites → retrieval confirms gaps → revisit essentials → progression/next step |
-| Handover | Scheme point → assessment → learner profile/support → previous teacher → strengths/misconceptions/barriers/strategies → hypothesis → retrieval/observation confirm |
-| Assessment evidence | Beyond mark → patterns/misconceptions → move/re-teach/support/re-rep/challenge → flexible grouping/GP → next plan responds |
-| Not understood | Diagnose misconception/prereq → re-teach/change rep/example/explanation/task → GP → hinge/MWB/exit → reconnect sequence |
-| Coverage vs depth | Prioritise unlockers → AfL readiness → revisit prereqs → retrieval/cumulative/interleave → maintain pace without sacrificing foundations |
-| Retrieval & consolidation | Retrieval across year → homework/Q/cumulative review → interleave → consolidation after units/before dependencies → remembering designed in |
-| Mixed ability | Common worthwhile goal → multiple reps/routes → model/worked ex/scaffold → GP → IP → extension via reasoning/justify/generalise → AfL S/C |
-| AEN literacy numeracy | Learner profile/SSF/support staff → anticipate barriers → vocab/instructions/reps/steps/processing → AT/scaffolds → review impact → independence |
-| Support & challenge | Ambitious core → vary route/scaffold/depth → model/prompts/worked ex/GP → challenge justify/generalise/unfamiliar problems → AfL/observation match need |
-| Programmes & pathways | Programme outcomes + curriculum + assessment → adapt sequence/pace/context/resources/scaffold → practical context → ambitious/purposeful → responsive |
-| Junior vs Senior Cycle | JC outcomes/connections/investigate/reason/progress → SC syllabus/level/exam → both coherent sequence/retrieval/responsive → curriculum + learners, not textbook |
-| LCA | Programme outcomes/assessment → practical relevant contexts → achievable stages → essential numeracy/success → record evidence → key assignments |
-| Level 1 / Level 2 | Priority needs + L1/L2 outcomes → support team → meaningful targets → concrete/accessible → communication/numeracy/independence → record small progress → inclusion |
-| Prior knowledge & misconceptions | Identify prereqs + likely misconceptions → retrieval/diagnostic → reps/worked ex/varied tasks → expose thinking → revisit prereq/re-rep before build |
-| Formative assessment | Plan evidence points → Q/hinge/MWB/observation/exit → link to misconceptions/SC → adjust pace/grouping/explanation/GP → next step |
-| Evaluate planning | Intended vs taught vs learned → evidence/misconceptions/pacing/resources/S/C → reflect explanations/reps/tasks → retain/move/remove/strengthen → next scheme |
-
-
 ## General approach — What is your general approach to planning and curriculum?
 
 My planning starts with the learner and the evidence. I align, map and sequence learning with the curriculum, and use UDL and cognitive load theory to design for access and challenge. Assessment is built in from the outset, and I adapt continuously in response to formative evidence. The plan is clear and structured enough to provide direction, predictability and support student wellbeing, while remaining flexible enough to respond to emerging needs.
