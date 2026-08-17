@@ -59,7 +59,9 @@ The mark is the start of the response, not the end of assessment. I interpret ev
 
 ## AfL — What is Assessment for Learning?
 
-Assessment for Learning is the use of evidence during learning to decide what happens next. I make learning intentions and success criteria clear, elicit evidence through questioning, student work or an exit ticket, interpret evidence and use it for responsive teaching. The key is the action that follows: adjust pace, re-teach, change representation or increase challenge. That creates a feedback loop between evidence and teaching.
+
+
+Assessment for Learning is the use of evidence during learning to decide what happens next. It is particularly effective when learning intentions and success criteria are clear. I implement it by eliciting evidence through questioning, observation, student work, mini-whiteboards, exit tickets and other formative assessment strategies. I interpret that evidence in real time and use it to make my teaching responsive — adjusting representation, pace, entry points, support and challenge, and deciding whether students need re-teaching, targeted practice, consolidation or extension. Most importantly, Assessment for Learning creates a continuous feedback loop between evidence and teaching, allowing me to respond more precisely to what students need.
 
 ## Assessment as learning — What is Assessment as Learning?
 
@@ -188,8 +190,6 @@ I look at whether assessment is producing valid evidence and whether students ac
 
 
 
-
-&nbsp;
 
 &nbsp;
 
