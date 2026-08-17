@@ -11,8 +11,12 @@
   const roots = [...document.querySelectorAll('.class-map')];
   if (!roots.length) return;
 
-  const DESKTOP_COLUMNS = 6;
-  const MIN_SEAT_SLOTS = 18;
+  const DEFAULT_WIDTH = 6;
+  const DEFAULT_DEPTH = 3;
+  const MIN_WIDTH = 2;
+  const MAX_WIDTH = 10;
+  const MIN_DEPTH = 1;
+  const MAX_DEPTH = 8;
   const CLASS_PAGES = [
     ['first-year-mixed.html', '1st Year Maths — Mixed'],
     ['second-year-ordinary.html', '2nd Year Maths — Ordinary'],
@@ -100,6 +104,12 @@
   const hairTones = ['#2f211b','#4b3428','#6a4833','#8a5e3b','#b97a42','#d1a26b','#1f2937'];
   const topTones = ['#315f86','#3f6d5b','#765586','#9b5f56','#536b8f','#5f7350','#6b5d54'];
   const backdrops = ['#e8f0fe','#e6f4ea','#fce8e6','#f3e8fd','#fff3d6','#e6f4f1','#edf2f7'];
+
+  function clamp(value, min, max, fallback) {
+    const number = Number(value);
+    if (!Number.isFinite(number)) return fallback;
+    return Math.min(max, Math.max(min, Math.round(number)));
+  }
 
   function avatarSvg(seed, feminine = false) {
     const skin = skinTones[(seed * 5 + 1) % skinTones.length];
@@ -299,78 +309,210 @@
     next.textContent = '→';
 
     nav.append(previous, select, next);
-    root.prepend(nav);
+    return nav;
   }
 
-  document.addEventListener('keydown', (event) => {
-    if (!dialog.open) return;
-    if (event.key === 'ArrowLeft') {
-      event.preventDefault();
-      moveStudent(-1);
-    } else if (event.key === 'ArrowRight') {
-      event.preventDefault();
-      moveStudent(1);
-    }
-  });
-
-  roots.forEach((root) => {
-    const count = Number(root.dataset.count || 12);
+  function createStudentCard(root, index, hasSsf, allGirlGroup) {
     const start = Number(root.dataset.start || 0);
-    const ssfPositions = spreadPositions(count, desiredSsfCount(root, count));
-    const grid = document.createElement('div');
-    const allGirlGroup = root.dataset.group === 'girls' || /all[- ]girl/i.test(document.title);
-    grid.className = 'class-map-grid';
-    buildClassJump(root);
-    root.appendChild(grid);
+    const i = (start + index) % 121;
+    const first = allGirlGroup ? girls[i % girls.length] : mixed[i % mixed.length];
+    const feminine = girls.includes(first);
+    const last = surnames[(i * 7) % surnames.length];
+    const name = `${first} ${last}`;
+    const profile = profileFor(name, i);
 
-    for (let n = 0; n < count; n++) {
-      const i = (start + n) % 121;
-      const first = allGirlGroup ? girls[i % girls.length] : mixed[i % mixed.length];
-      const feminine = girls.includes(first);
-      const last = surnames[(i * 7) % surnames.length];
-      const name = `${first} ${last}`;
-      const hasSsf = ssfPositions.has(n);
-      const profile = profileFor(name, i);
+    const card = document.createElement('button');
+    card.type = 'button';
+    card.className = `class-map-card${hasSsf ? ' has-ssf' : ''}`;
+    card.draggable = true;
+    card._profile = profile;
+    card._hasSsf = hasSsf;
+    card.setAttribute('aria-label', `${name}. ${hasSsf ? 'Open fictional Student Support File.' : 'Open fictional learner profile.'}`);
+    card.innerHTML = `
+      ${hasSsf ? '<span class="class-map-ssf-badge">SSF</span>' : ''}
+      <span class="class-map-photo">${avatarSvg(i, feminine)}</span>
+      <strong>${name}</strong>
+      <small>${hasSsf ? 'Student Support File' : profile.support}</small>`;
+    card.addEventListener('click', () => openCard(card));
+    return card;
+  }
 
-      const card = document.createElement('button');
-      card.type = 'button';
-      card.className = `class-map-card${hasSsf ? ' has-ssf' : ''}`;
-      card.draggable = true;
-      card._profile = profile;
-      card._hasSsf = hasSsf;
-      card.setAttribute('aria-label', `${name}. ${hasSsf ? 'Open fictional Student Support File.' : 'Open fictional learner profile.'}`);
-      card.innerHTML = `
-        ${hasSsf ? '<span class="class-map-ssf-badge">SSF</span>' : ''}
-        <span class="class-map-photo">${avatarSvg(i, feminine)}</span>
-        <strong>${name}</strong>
-        <small>${hasSsf ? 'Student Support File' : profile.support}</small>`;
-      card.addEventListener('click', () => openCard(card));
-      grid.appendChild(card);
+  function createEmptySeat() {
+    const empty = document.createElement('div');
+    empty.className = 'class-map-empty';
+    empty.setAttribute('role', 'img');
+    empty.setAttribute('aria-label', 'Empty seat');
+    empty.innerHTML = '<span>Empty seat</span>';
+    return empty;
+  }
+
+  function edgeToCentreOrder(width) {
+    const order = [];
+    let left = 0;
+    let right = width - 1;
+    while (left <= right) {
+      order.push(left);
+      if (right !== left) order.push(right);
+      left += 1;
+      right -= 1;
+    }
+    return order;
+  }
+
+  function centreOutOrder(width) {
+    const order = [];
+    const leftMiddle = Math.floor((width - 1) / 2);
+    const rightMiddle = Math.ceil((width - 1) / 2);
+    for (let distance = 0; order.length < width; distance++) {
+      const left = leftMiddle - distance;
+      const right = rightMiddle + distance;
+      if (left >= 0 && !order.includes(left)) order.push(left);
+      if (right < width && !order.includes(right)) order.push(right);
+    }
+    return order;
+  }
+
+  function initialEmptyPositions(width, depth, emptyCount) {
+    const chosen = new Set();
+    if (emptyCount <= 0) return chosen;
+
+    // First use spare places on the front row, from the outer edges towards the centre.
+    for (const column of edgeToCentreOrder(width)) {
+      if (chosen.size >= emptyCount) return chosen;
+      chosen.add(column);
     }
 
-    const slotCount = Math.max(MIN_SEAT_SLOTS, Math.ceil(count / DESKTOP_COLUMNS) * DESKTOP_COLUMNS);
-    for (let n = count; n < slotCount; n++) {
-      const empty = document.createElement('div');
-      empty.className = 'class-map-empty';
-      empty.setAttribute('role', 'img');
-      empty.setAttribute('aria-label', 'Empty seat');
-      empty.innerHTML = '<span>Empty seat</span>';
-      grid.appendChild(empty);
+    // If the room still has spare places, leave balanced gaps through the remaining rows.
+    const columns = centreOutOrder(width);
+    const rows = Array.from({ length: Math.max(0, depth - 1) }, (_, index) => index + 1);
+    let columnIndex = 0;
+    let rowIndex = 0;
+    while (chosen.size < emptyCount && rows.length) {
+      const row = rows[rowIndex % rows.length];
+      const column = columns[columnIndex % columns.length];
+      chosen.add(row * width + column);
+      rowIndex += 1;
+      if (rowIndex % rows.length === 0) columnIndex += 1;
     }
+    return chosen;
+  }
 
+  function updateLayoutSummary(state, note = '') {
+    const capacity = state.width * state.depth;
+    const empty = Math.max(0, capacity - state.count);
+    state.summary.textContent = `${capacity} seats · ${empty} empty${note ? ` · ${note}` : ''}`;
+  }
+
+  function renderSeating(state, preserveCurrentOrder = false) {
+    const { grid, count } = state;
+    const capacity = state.width * state.depth;
+    const existingCards = preserveCurrentOrder ? [...grid.querySelectorAll('.class-map-card')] : state.cards;
+    const cards = existingCards.length === count ? existingCards : state.cards;
+    const emptyPositions = initialEmptyPositions(state.width, state.depth, capacity - count);
+
+    grid.style.setProperty('--class-map-columns', String(state.width));
+    grid.replaceChildren();
+
+    let cardIndex = 0;
+    for (let slot = 0; slot < capacity; slot++) {
+      if (emptyPositions.has(slot)) {
+        grid.appendChild(createEmptySeat());
+      } else if (cardIndex < cards.length) {
+        grid.appendChild(cards[cardIndex]);
+        cardIndex += 1;
+      } else {
+        grid.appendChild(createEmptySeat());
+      }
+    }
+    updateLayoutSummary(state);
+  }
+
+  function buildLayoutControls(state) {
+    const controls = document.createElement('div');
+    controls.className = 'class-map-layout-controls';
+
+    const label = document.createElement('span');
+    label.className = 'class-map-layout-label';
+    label.textContent = 'Classroom layout';
+
+    const widthLabel = document.createElement('label');
+    widthLabel.textContent = 'Width';
+    const widthInput = document.createElement('input');
+    widthInput.type = 'number';
+    widthInput.min = String(MIN_WIDTH);
+    widthInput.max = String(MAX_WIDTH);
+    widthInput.step = '1';
+    widthInput.value = String(state.width);
+    widthInput.inputMode = 'numeric';
+    widthInput.setAttribute('aria-label', 'Classroom width in seats');
+    widthLabel.appendChild(widthInput);
+
+    const depthLabel = document.createElement('label');
+    depthLabel.textContent = 'Depth';
+    const depthInput = document.createElement('input');
+    depthInput.type = 'number';
+    depthInput.min = String(MIN_DEPTH);
+    depthInput.max = String(MAX_DEPTH);
+    depthInput.step = '1';
+    depthInput.value = String(state.depth);
+    depthInput.inputMode = 'numeric';
+    depthInput.setAttribute('aria-label', 'Classroom depth in rows');
+    depthLabel.appendChild(depthInput);
+
+    const apply = document.createElement('button');
+    apply.type = 'button';
+    apply.className = 'class-map-layout-apply';
+    apply.textContent = 'Set layout';
+
+    const summary = document.createElement('span');
+    summary.className = 'class-map-layout-summary';
+    state.summary = summary;
+
+    const applyLayout = () => {
+      const width = clamp(widthInput.value, MIN_WIDTH, MAX_WIDTH, state.width);
+      let depth = clamp(depthInput.value, MIN_DEPTH, MAX_DEPTH, state.depth);
+      const requiredDepth = Math.ceil(state.count / width);
+      let note = '';
+      if (depth < requiredDepth) {
+        depth = requiredDepth;
+        note = `depth raised to ${depth} to fit the class`;
+      }
+      state.width = width;
+      state.depth = Math.min(MAX_DEPTH, depth);
+      widthInput.value = String(state.width);
+      depthInput.value = String(state.depth);
+      renderSeating(state, true);
+      updateLayoutSummary(state, note);
+    };
+
+    apply.addEventListener('click', applyLayout);
+    [widthInput, depthInput].forEach(input => input.addEventListener('keydown', event => {
+      if (event.key === 'Enter') {
+        event.preventDefault();
+        applyLayout();
+      }
+    }));
+
+    controls.append(label, widthLabel, depthLabel, apply, summary);
+    return controls;
+  }
+
+  function addDragAndDrop(state) {
+    const grid = state.grid;
     let drag = null;
     let over = null;
+
     const clearOver = () => {
       if (over) over.classList.remove('is-drop-target');
       over = null;
     };
 
-    grid.addEventListener('dragstart', (event) => {
+    grid.addEventListener('dragstart', event => {
       drag = event.target.closest('.class-map-card');
       if (drag) drag.classList.add('is-dragging');
     });
 
-    grid.addEventListener('dragover', (event) => {
+    grid.addEventListener('dragover', event => {
       if (!drag) return;
       event.preventDefault();
       const target = event.target.closest('.class-map-card, .class-map-empty');
@@ -382,11 +524,11 @@
       }
     });
 
-    grid.addEventListener('dragleave', (event) => {
+    grid.addEventListener('dragleave', event => {
       if (!grid.contains(event.relatedTarget)) clearOver();
     });
 
-    grid.addEventListener('drop', (event) => {
+    grid.addEventListener('drop', event => {
       event.preventDefault();
       const target = event.target.closest('.class-map-card, .class-map-empty');
       if (target && drag && target !== drag) {
@@ -406,5 +548,48 @@
       if (drag) drag.classList.remove('is-dragging');
       drag = null;
     });
+  }
+
+  document.addEventListener('keydown', event => {
+    if (!dialog.open) return;
+    if (event.key === 'ArrowLeft') {
+      event.preventDefault();
+      moveStudent(-1);
+    } else if (event.key === 'ArrowRight') {
+      event.preventDefault();
+      moveStudent(1);
+    }
+  });
+
+  roots.forEach(root => {
+    const count = Number(root.dataset.count || 12);
+    const width = clamp(root.dataset.width, MIN_WIDTH, MAX_WIDTH, DEFAULT_WIDTH);
+    let depth = clamp(root.dataset.depth, MIN_DEPTH, MAX_DEPTH, DEFAULT_DEPTH);
+    depth = Math.max(depth, Math.ceil(count / width));
+
+    const ssfPositions = spreadPositions(count, desiredSsfCount(root, count));
+    const allGirlGroup = root.dataset.group === 'girls' || /all[- ]girl/i.test(document.title);
+    const cards = Array.from({ length: count }, (_, index) => createStudentCard(root, index, ssfPositions.has(index), allGirlGroup));
+
+    const state = {
+      root,
+      count,
+      width,
+      depth,
+      cards,
+      grid: document.createElement('div'),
+      summary: null
+    };
+    state.grid.className = 'class-map-grid';
+
+    const toolbar = document.createElement('div');
+    toolbar.className = 'class-map-toolbar';
+    const classJump = buildClassJump(root);
+    if (classJump) toolbar.appendChild(classJump);
+    toolbar.appendChild(buildLayoutControls(state));
+
+    root.replaceChildren(toolbar, state.grid);
+    addDragAndDrop(state);
+    renderSeating(state);
   });
 })();
