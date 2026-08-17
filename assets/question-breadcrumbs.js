@@ -34,6 +34,9 @@
     .replace(/\s+/g, ' ')
     .trim();
 
+  const isRetrievalHeading = heading =>
+    /retrieval\s+(chains|draft|map|table)/i.test(heading?.textContent || '');
+
   const rememberQuestion = heading => {
     if (heading.dataset.interviewConcept && heading.dataset.interviewQuestion) {
       return {
@@ -121,105 +124,82 @@
     });
   };
 
-  const sourcePathsByPage = {
-    'teaching-learning.html': 'content/practice/teaching-learning.md',
-    'classroom-management.html': 'content/practice/classroom-management.md',
-    'sen-inclusion.html': 'content/practice/sen-inclusion.md',
-    'differentiation-accessibility.html': 'content/practice/differentiation-accessibility.md',
-    'assessment-reporting.html': 'content/practice/assessment-reporting.md',
-    'planning-curriculum.html': 'content/practice/planning-curriculum.md',
-    'relationships-wellbeing.html': 'content/practice/relationships-wellbeing.md',
-    'professional-practice.html': 'content/practice/professional-practice.md',
-    'timeline.html': 'content/timeline/teaching-experience.md',
-    'school-research.html': 'content/schools/st-patricks.md',
-    'glossary.html': 'content/reference/glossary.md',
-    'policies.html': 'content/policies/policies.md',
-    'word-wall.html': 'content/reference/word-wall.md'
-  };
+  const findRetrievalTable = heading => {
+    if (!heading) return null;
 
-  const cleanHeadingForEdit = value => (value || '')
-    .replace(/^\s{0,3}#{1,6}\s+/, '')
-    .replace(/\s+#+\s*$/, '')
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/[*_`~]/g, '')
-    .replace(/&amp;/gi, '&')
-    .replace(/&quot;/gi, '"')
-    .replace(/&#39;|&apos;/gi, "'")
-    .replace(/\s+/g, ' ')
-    .trim()
-    .toLowerCase();
+    const section = heading.closest('.answer-section');
+    const nested = section?.querySelector('table');
+    if (nested) return nested;
 
-  const sourcePathForCurrentPage = pageEdit => {
-    const explicit = pageEdit?.dataset?.sourcePath;
-    if (explicit) return explicit;
-    const pageName = decodeURIComponent(location.pathname.split('/').filter(Boolean).pop() || '');
-    return sourcePathsByPage[pageName] || null;
-  };
-
-  const resolveNearbyEditTargets = async (pageEdit, entries) => {
-    const sourcePath = sourcePathForCurrentPage(pageEdit);
-    if (!sourcePath || !entries.length) return;
-
-    const encodedPath = sourcePath.split('/').map(encodeURIComponent).join('/');
-    const rawUrl = `https://raw.githubusercontent.com/ronandownes/education/main/${encodedPath}`;
-
-    try {
-      const response = await fetch(rawUrl, { cache: 'no-store' });
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      const lines = (await response.text()).split(/\r?\n/);
-      const lineMap = new Map();
-
-      lines.forEach((line, index) => {
-        if (!/^\s{0,3}##\s+/.test(line)) return;
-        const key = cleanHeadingForEdit(line);
-        if (!key) return;
-        if (!lineMap.has(key)) lineMap.set(key, []);
-        lineMap.get(key).push(index + 1);
-      });
-
-      const used = new Map();
-      entries.forEach(({ link, sourceHeading }) => {
-        const key = cleanHeadingForEdit(sourceHeading);
-        const matches = lineMap.get(key);
-        if (!matches?.length) return;
-
-        const occurrence = used.get(key) || 0;
-        const lineNumber = matches[Math.min(occurrence, matches.length - 1)];
-        used.set(key, occurrence + 1);
-
-        link.href = `https://github.com/ronandownes/education/edit/main/${encodedPath}#L${lineNumber}`;
-        link.textContent = 'Edit here';
-        link.title = `Edit this section at source line ${lineNumber}`;
-      });
-    } catch (_) {
-      // The Pages CMS text-fragment fallback below is still useful if source lookup fails.
+    let node = heading.nextElementSibling;
+    while (node && node.tagName !== 'H2') {
+      if (node.tagName === 'TABLE') return node;
+      const table = node.querySelector?.('table');
+      if (table) return table;
+      node = node.nextElementSibling;
     }
+    return null;
+  };
+
+  const markRetrievalTable = table => {
+    if (!table) return;
+    const firstRow = table.querySelector('tr');
+    if (firstRow?.children.length === 2) table.classList.add('retrieval-appendix-table');
+  };
+
+  const moveRetrievalAppendicesToBottom = body => {
+    const headings = Array.from(body.querySelectorAll('h2')).filter(isRetrievalHeading);
+
+    headings.forEach(heading => {
+      const section = heading.closest('.answer-section');
+      if (section && section.parentElement === body) {
+        section.classList.add('retrieval-appendix-break');
+        markRetrievalTable(section.querySelector('table'));
+        body.appendChild(section);
+        return;
+      }
+
+      if (heading.parentElement !== body) {
+        heading.classList.add('retrieval-appendix-break');
+        markRetrievalTable(findRetrievalTable(heading));
+        return;
+      }
+
+      heading.classList.add('retrieval-appendix-break');
+      const nodes = [heading];
+      let node = heading.nextElementSibling;
+      while (node && node.tagName !== 'H2') {
+        nodes.push(node);
+        node = node.nextElementSibling;
+      }
+
+      const table = nodes.find(item => item.tagName === 'TABLE') ||
+        nodes.map(item => item.querySelector?.('table')).find(Boolean);
+      markRetrievalTable(table);
+      nodes.forEach(item => body.appendChild(item));
+    });
   };
 
   const addNearbyEditLinks = body => {
     const pageEdit = document.querySelector('.doc-toolbar .edit-link[href]');
     if (!pageEdit?.href) return;
 
-    const entries = [];
     body.querySelectorAll(':scope > h2').forEach(heading => {
       if (heading.dataset.sectionEditPrepared === 'true') return;
       if (heading.classList.contains('interview-appendix-source')) return;
 
       const sourceHeading = (heading.textContent || '').trim();
+      const cmsBase = pageEdit.href.split('#')[0];
       const link = document.createElement('a');
       link.className = 'section-edit-nearby';
-      link.href = `${pageEdit.href.split('#')[0]}#:~:text=${encodeURIComponent(sourceHeading)}`;
+      link.href = `${cmsBase}#:~:text=${encodeURIComponent(sourceHeading)}`;
       link.target = '_blank';
       link.rel = 'noopener';
       link.textContent = 'Edit here';
-      link.title = `Edit this page near “${sourceHeading}”`;
+      link.title = `Open this section in Pages CMS near “${sourceHeading}”`;
       heading.insertAdjacentElement('afterend', link);
       heading.dataset.sectionEditPrepared = 'true';
-      entries.push({ link, sourceHeading });
     });
-
-    if (entries.length) resolveNearbyEditTargets(pageEdit, entries);
   };
 
   const ensureStyle = () => {
@@ -265,6 +245,29 @@
         white-space:nowrap;
         overflow:hidden;
       }
+      .retrieval-appendix-break{
+        margin-top:44px!important;
+        padding-top:22px;
+        border-top:2px solid #d7dce2;
+      }
+      table.retrieval-appendix-table{
+        width:100%!important;
+        table-layout:fixed!important;
+      }
+      table.retrieval-appendix-table th,
+      table.retrieval-appendix-table td{
+        text-align:left!important;
+        vertical-align:top!important;
+      }
+      table.retrieval-appendix-table th:first-child,
+      table.retrieval-appendix-table td:first-child{
+        width:17%!important;
+        font-weight:700;
+      }
+      table.retrieval-appendix-table th:last-child,
+      table.retrieval-appendix-table td:last-child{
+        width:83%!important;
+      }
       @media(max-width:700px){
         .section-edit-nearby{
           margin:1px 0 7px auto;
@@ -276,9 +279,24 @@
           font-size:.82rem;
           overflow-x:auto;
         }
+        table.retrieval-appendix-table th:first-child,
+        table.retrieval-appendix-table td:first-child{width:25%!important}
+        table.retrieval-appendix-table th:last-child,
+        table.retrieval-appendix-table td:last-child{width:75%!important}
       }
       @media print{
         .interview-appendix-source,.section-edit-nearby{display:none!important}
+        .retrieval-appendix-break{
+          break-before:page!important;
+          page-break-before:always!important;
+          margin-top:0!important;
+          padding-top:0!important;
+          border-top:0!important;
+        }
+        table.retrieval-appendix-table th:first-child,
+        table.retrieval-appendix-table td:first-child{width:15%!important}
+        table.retrieval-appendix-table th:last-child,
+        table.retrieval-appendix-table td:last-child{width:85%!important}
         .question-breadcrumb-line{
           margin:2.8mm 0 2mm;
           padding:1.7mm 2mm;
@@ -300,25 +318,24 @@
     if (!body) return;
 
     ensureStyle();
+    moveRetrievalAppendicesToBottom(body);
     hideAppendixSources(body);
     addNearbyEditLinks(body);
 
     const headings = Array.from(body.querySelectorAll('h2'));
-    const retrievalHeading = headings.find(heading =>
-      /retrieval\s+(chains|draft|map|table)/i.test(heading.textContent || '')
-    );
-    if (!retrievalHeading) return;
-
-    let table = retrievalHeading.nextElementSibling;
-    while (table && table.tagName !== 'H2' && table.tagName !== 'TABLE') {
-      const nested = table.querySelector?.('table');
-      if (nested) {
-        table = nested;
-        break;
-      }
-      table = table.nextElementSibling;
+    const retrievalHeading = headings.find(isRetrievalHeading);
+    if (!retrievalHeading) {
+      compactMenuLinks();
+      return;
     }
-    if (!table || table.tagName !== 'TABLE') return;
+
+    const table = findRetrievalTable(retrievalHeading);
+    if (!table) {
+      compactMenuLinks();
+      return;
+    }
+
+    markRetrievalTable(table);
 
     const chains = new Map();
     Array.from(table.querySelectorAll('tbody tr')).forEach(row => {
@@ -330,9 +347,13 @@
       const chain = chainCell.textContent.trim();
       if (concept && chain) chains.set(normalise(concept), chain);
     });
-    if (!chains.size) return;
+    if (!chains.size) {
+      compactMenuLinks();
+      return;
+    }
 
     headings.forEach(heading => {
+      if (isRetrievalHeading(heading)) return;
       const remembered = rememberQuestion(heading);
       if (!remembered) return;
 
@@ -345,12 +366,13 @@
       const host = section || heading.parentElement;
       if (!host) return;
 
-      const existing = host.querySelector(`.question-breadcrumb-line[data-breadcrumb-key="${CSS.escape(normalise(remembered.concept))}"]`);
+      const key = normalise(remembered.concept);
+      const existing = host.querySelector(`.question-breadcrumb-line[data-breadcrumb-key="${CSS.escape(key)}"]`);
       if (existing) return;
 
       const line = document.createElement('div');
       line.className = 'question-breadcrumb-line';
-      line.dataset.breadcrumbKey = normalise(remembered.concept);
+      line.dataset.breadcrumbKey = key;
       line.textContent = abbreviate(chain);
 
       if (section) {
