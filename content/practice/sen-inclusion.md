@@ -16,7 +16,7 @@ eyebrow: PROFESSIONAL PRACTICE
 | Evaluate support | Access + participation + progress + independence → work/engagement/checks/prompting → student voice → monitor/evaluate with team → adapt if needed |
 | Independence | Meaningful participation → scaffold/prompt/reduced first step → fade support → check understanding → transfer to ordinary tasks → independence |
 | Autism | Learner profile → predictability/routines → explicit language/visuals → processing + sensory + communication → reduce public pressure → maintain challenge |
-| ADHD | Make organisation/expectations visible → routines/chunk/concise language → manageable steps/choice → check → movement if appropriate → consider executive function → clear expectations |
+| ADHD | Student not label → reduce executive-function demands → clear routines/instructions/transitions → chunk + scaffold + visual cues → regular checks → movement/re-engagement → clear expectations → independence |
 | Dyslexia | Remove literacy barrier, keep subject demand → accessible layout/visuals/explicit language → word bank/worked example/chunk → AT/accommodation → check concept vs language |
 | Numeracy | Make number/structure visible → concrete + multiple reps + visuals → worked example → manageable stages → retrieve number relationships → monitor → keep worthwhile maths goal |
 | Communication | Reduce language load, keep thinking → explicit language/visuals/chunk → communication profile → prompt/alternative response → processing time → check without spotlighting → same learning |
@@ -62,7 +62,7 @@ Support should enable meaningful participation while progressively transferring 
 
 ## ADHD — How do you support a student with ADHD?
 
-For a student with ADHD, I structure the environment to reduce unnecessary executive-function demands. I make routines, instructions and task sequences explicit, support organisation and task initiation, and use chunking, visual cues and regular checks for understanding. I reduce working-memory load, anticipate difficulties with sustained attention and inhibition, and build in appropriate opportunities for movement or re-engagement. I interpret behaviour in the context of the learner’s profile rather than assuming non-compliance, while maintaining clear expectations and progressively building self-management and independence.
+I start with the student, not the label, and identify the actual barriers affecting learning. I reduce unnecessary executive-function demands by making routines, instructions, transitions and task sequences clear and predictable. I chunk and scaffold tasks, use visual cues and regular checks, and build in appropriate opportunities for movement or re-engagement. I maintain clear expectations and use positive teaching strategies and reinforcement while progressively building self-management and independence.
 
 
 
@@ -117,7 +117,6 @@ In team-teaching, shared planning comes first. We agree the learning goal, likel
 ## Small-group / withdrawal — When is small-group or withdrawal support appropriate?
 
 Small-group or withdrawal support should have a clear purpose that cannot be met as effectively in the mainstream lesson at that time. I link it to an identified short-term target, teach the priority skill explicitly and plan how the learning will transfer back. I monitor progress and review the balance between targeted support and inclusion, because withdrawal should not unnecessarily reduce participation in the wider curriculum.
-
 ## SNA — How do you work effectively with an SNA?
 
 The SNA supports access, care needs and participation in line with the student's plan and the school's arrangements; the teacher retains responsibility for teaching and learning. I plan clearly with SNA support, avoid creating unnecessary adult dependence and use faded support where appropriate. We share relevant observations through the agreed team so support contributes to learner independence.
@@ -316,4 +315,3 @@ Parent / guardian name or consultation recordTeacher(s) / reviewer
 **Outcome of review** Revert to previous level of support Continue at current level of support Progress to next level of support Request consultation with other professionals
 
 Clear practice form
-
