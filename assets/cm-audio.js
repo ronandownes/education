@@ -95,6 +95,7 @@ const audioHighlightStyle = document.createElement('style');
 audioHighlightStyle.textContent = `
 .cm-audio-speaking{background:#fff3bf!important;box-shadow:0 0 0 4px #fff3bf!important;border-radius:4px;transition:background .12s ease,box-shadow .12s ease}
 .doc-body h2.cm-audio-speaking{color:inherit!important}
+.cm-question-play.is-active:not(.is-paused)::before{content:"❚❚";width:auto;height:auto;border:0;left:50%;font-size:12px;font-weight:700;line-height:1;transform:translate(-50%,-52%)}
 @media print{.cm-audio-speaking{background:transparent!important;box-shadow:none!important}}
 `;
 document.head.appendChild(audioHighlightStyle);
@@ -321,6 +322,7 @@ stopButton.className = 'cm-audio-control cm-audio-stop';
 stopButton.innerHTML = '<span aria-hidden="true">■</span><span class="visually-hidden">Stop</span>';
 stopButton.setAttribute('aria-label', 'Stop audio');
 stopButton.title = 'Stop';
+stopButton.hidden = true;
 playerControls.append(pauseButton, stopButton);
 player.append(status, playerControls);
 toolbar.prepend(launchers);
@@ -368,6 +370,12 @@ if (activeTarget && activeSource?.classList.contains('cm-question-play')) {
 activeTarget.scrollIntoView({ behavior: 'smooth', block: 'center' });
 }
 };
+const updateActiveSourceButton = () => {
+if (!activeSource?.classList.contains('cm-question-play')) return;
+activeSource.classList.toggle('is-paused', paused);
+activeSource.setAttribute('aria-label', paused ? 'Resume question and answer' : 'Pause question and answer');
+activeSource.title = paused ? 'Resume · double-click to restart' : 'Pause · double-click to restart';
+};
 const updatePauseButton = () => {
 pauseButton.innerHTML = paused
 ? '<span aria-hidden="true">▶</span><span class="visually-hidden">Resume</span>'
@@ -375,10 +383,15 @@ pauseButton.innerHTML = paused
 pauseButton.setAttribute('aria-label', paused ? 'Resume audio' : 'Pause audio');
 pauseButton.title = paused ? 'Resume' : 'Pause';
 player.classList.toggle('is-paused', paused);
+updateActiveSourceButton();
 };
 const resetSources = () => {
 Object.values(launcherButtons).forEach(button => button.classList.remove('is-active'));
-body.querySelectorAll('.cm-question-play').forEach(button => button.classList.remove('is-active'));
+body.querySelectorAll('.cm-question-play').forEach(button => {
+button.classList.remove('is-active', 'is-paused');
+if (button.dataset.playLabel) button.setAttribute('aria-label', button.dataset.playLabel);
+if (button.dataset.playTitle) button.title = button.dataset.playTitle;
+});
 };
 const finish = () => {
 window.clearTimeout(delayTimer);
@@ -393,7 +406,7 @@ resetSources();
 clearActiveHeading();
 clearActiveTarget();
 updatePauseButton();
-stopButton.hidden = false;
+stopButton.hidden = true;
 player.hidden = true;
 };
 const stop = () => {
@@ -447,8 +460,8 @@ activeSource?.classList.add('is-active');
 status.textContent = title;
 updatePauseButton();
 const isQuestionButton = source?.classList.contains('cm-question-play');
-stopButton.hidden = isQuestionButton;
-player.hidden = false;
+stopButton.hidden = true;
+player.hidden = isQuestionButton;
 delayTimer = window.setTimeout(() => speakNext(sessionId), 60);
 };
 const pause = () => {
@@ -468,8 +481,7 @@ else speakNext(runId);
 };
 const toggleSource = (key, title, segments, source) => {
 if (activeKey === key && activeSource === source) {
-if (source?.classList.contains('cm-question-play')) stop();
-else if (paused) resume();
+if (paused) resume();
 else pause();
 return;
 }
@@ -491,12 +503,21 @@ interviewItems.forEach((item, index) => {
 const button = document.createElement('button');
 button.type = 'button';
 button.className = 'cm-question-play';
-button.setAttribute('aria-label', `Play question and answer: ${item.question}`);
-button.title = 'Play question and answer · tap again to stop';
+const playLabel = `Play question and answer: ${item.question}`;
+const playTitle = 'Play question and answer · double-click to restart';
+button.dataset.playLabel = playLabel;
+button.dataset.playTitle = playTitle;
+button.setAttribute('aria-label', playLabel);
+button.title = playTitle;
 const key = `question-${index}`;
 button.addEventListener('click', event => {
 event.stopPropagation();
 toggleSource(key, item.concept, interviewSegments(item, false), button);
+});
+button.addEventListener('dblclick', event => {
+event.preventDefault();
+event.stopPropagation();
+start(key, item.concept, interviewSegments(item, false), button);
 });
 item.heading.prepend(button);
 });
