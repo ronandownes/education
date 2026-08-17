@@ -30,7 +30,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .nav-menu-only{grid-template-columns:1fr}
 .nav-menu-only .navlabel{gap:4px;padding:0 6px}
 .inline-caret{font-size:.62rem;color:#70757a}
-.dropmenu{display:none;position:absolute;z-index:20;top:76px;left:0;width:330px;max-width:calc(100vw - 24px);background:#fff;border:1px solid var(--line);box-shadow:0 4px 12px rgba(60,64,67,.18);padding:6px 0}
+.dropmenu{display:none;position:absolute;z-index:20;top:76px;left:0;width:110px;max-width:calc(100vw - 24px);background:#fff;border:1px solid var(--line);box-shadow:0 4px 12px rgba(60,64,67,.18);padding:6px 0}
 .navitem.is-open>.dropmenu{display:block}
 @media(min-width:1501px){
   .navitem:hover>.dropmenu,.navitem:focus-within>.dropmenu{display:block}
