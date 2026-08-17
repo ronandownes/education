@@ -74,7 +74,7 @@ Then I check the student has started successfully and gradually reduce the suppo
 
 
 
-## Dyslexia — How do you support dyslexia in Maths or Science?
+## Dyslexia — How do you support students with dyslexia?
 
 With dyslexia I remove unnecessary literacy barriers without removing the mathematical or scientific demand. I use an accessible layout, visual supports, explicit language, a word bank where useful, a worked example and chunking of reading-heavy tasks. Assistive technology or a reasonable accommodation may also be appropriate. I check whether an incorrect response reflects the concept or difficulty with language access.
 
