@@ -6,11 +6,11 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Elicit evidence, interpret it, give actionable feedback, build student
   agency and report progress clearly.
 ---
-
 ## Assessment, Feedback & Reporting Retrieval Chains
 
+
 | Concept | Retrieval chain |
-| --- | --- |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Assess learning | Elicit evidence → questioning/observation/MWB/work/retrieval/formal → interpret thinking → understanding/misconceptions/fluency/reasoning → next step |
 | Starting point | Handover/prior attainment → diagnostic/retrieval/Q/observation/explanations → strengths/gaps/misconceptions/barriers → defensible starting point |
 | Hinge question | Plausible distractors → likely misconceptions → whole-class response → see pattern quickly → infer thinking → respond → recheck |
@@ -35,6 +35,7 @@ intro: Elicit evidence, interpret it, give actionable feedback, build student
 | Parent communication | Clear evidence → attainment + progress + strengths + development + next step → distinguish mark from pattern → avoid labels/ceilings |
 | Reporting | Accurate + evidence-informed + useful → attainment/progress/strengths/development → clear language → procedures → where now + next step |
 | Review assessment | Valid evidence? → students act on feedback? → review Q/tasks/feedback/redrafting/follow-up → compare with work/common evidence → adjust |
+
 
 ## Assess learning — How do you assess learning in your classroom?
 
@@ -132,11 +133,12 @@ A good report is accurate, evidence-informed and useful. I use an evidence-infor
 
 I look at whether assessment is producing valid evidence and whether students actually act on feedback. I review the quality of questions, tasks, feedback, redrafting and follow-up, and compare my judgement with student work and common evidence where available. I use professional judgement to adjust the approach, because assessment should improve learning rather than simply generate marks.
 
-&nbsp;
+
 
 &nbsp;
 
 ## Assessment, Feedback & Reporting Word Wall
+
 
 | **Elicit** | **Interpret** | **Feedback** | **Agency** | **Report** |
 | -------------------- | -------------------------- | ------------------------ | --------------------------- | ---------------------------- |
@@ -153,7 +155,9 @@ I look at whether assessment is producing valid evidence and whether students ac
 | Hinge question (1) | Error analysis (3) | Written feedback (1) | Learner independence (1) | Parent communication (2) |
 | Exit ticket (1) | Retention (1) | Whole-class feedback (1) | Assessment conversation (1) | Evidence-informed report (1) |
 
+
 ## Assessment, Feedback & Reporting Concepts and Questions
+
 
 | **AFR concept** | **Interview question** |
 | ---------------------------------- | ------------------------------------------------------------------------------- |
@@ -182,7 +186,8 @@ I look at whether assessment is producing valid evidence and whether students ac
 | **Reporting** | What makes a good student report? |
 | **Review assessment** | How do you evaluate whether your assessment and feedback practices are working? |
 
-&nbsp;
+
+
 
 &nbsp;
 
