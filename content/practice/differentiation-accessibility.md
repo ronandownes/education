@@ -135,23 +135,3 @@ Good differentiation should make itself less necessary over time. I use **modell
 ## Review differentiation — How do you evaluate whether differentiation is working?
 
 I look for evidence that more students can access the learning, meet the **success criteria** and work with increasing **independence**. I compare student work, participation, **questioning** and assessment evidence, and use **check-in points** to identify where a support helped or created dependence. I then make **responsive adjustments** to **entry point**, **scaffolding**, **representation**, pace or **challenge** rather than repeating the same approach automatically.
-
-## Word Wall
-
-
-| **Entry** | **Scaffold** | **Represent** | **Adapt** | **Challenge** |
-| ------------------------ | -------------------------- | ---------------------------- | ------------------------- | -------------------------- |
-| Entry point (4) | Scaffolding (3) | Multiple representations (2) | Formative assessment (3) | Challenge (5) |
-| Access barrier (3) | Modelling (5) | Concrete model (2) | Responsive adjustment (4) | Productive struggle (4) |
-| Common learning goal (2) | Worked example (6) | Visual model (4) | Check-in points (5) | Learner independence (3) |
-| Starting point (3) | Guided prompt (4) | Symbolic form (2) | Flexible grouping (4) | Complexity (7) |
-| Prior knowledge (3) | Sentence stem (4) | Accessible layout (4) | Choice of format (2) | Extension (4) |
-| Diagnostic task (2) | Checklist (2) | Explicit language (2) | Processing time (4) | Reasoning (4) |
-| Low-floor task (1) | Part-completed example (2) | Visual cue (2) | Alternative response (3) | Rich questioning (2) |
-| Prerequisite skill (4) | Guided practice (7) | Universal design (1) | Oral response (1) | Generalisation (2) |
-| Early success (1) | Prompt hierarchy (2) | Multiple means (1) | Written response (1) | Open-ended task (2) |
-| Familiar context (1) | Gradual release (3) | Word bank (1) | Digital response (2) | High-attaining learner (1) |
-| Concrete example (4) | Independent practice (4) | Vocabulary pre-teach (1) | Flexible pacing (1) | High potential (1) |
-| Success criteria (5) | Faded support (2) | Assistive technology (3) | Wait time (1) | Transfer (2) |
-
-
