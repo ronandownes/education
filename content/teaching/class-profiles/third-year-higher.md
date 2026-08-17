@@ -13,7 +13,7 @@ cms_key: profile_third_higher
 
 ## Class context
 
-30 students with strong overall attainment and pressure to maintain Higher Level through the examination year.
+14 students with strong overall attainment and pressure to maintain Higher Level through the examination year.
 
 ## Strengths and interests
 
@@ -42,6 +42,6 @@ Untimed reasoning first, then timed transfer; cumulative papers; individual gap 
 
 ## Students
 
-<p class="class-map-note"><strong>16 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+<p class="class-map-note"><strong>14 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
 
-<div class="class-map" data-count="16" data-start="73"></div>
+<div class="class-map" data-count="14" data-start="6"></div>
