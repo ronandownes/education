@@ -7,11 +7,11 @@ intro: My planning starts with the learner and the evidence, aligns with the
   curriculum, sequences the learning, designs for access and challenge, builds
   in assessment, and adapts as evidence comes in.
 ---
-
 ## Planning & Curriculum Retrieval Chains
 
+
 | Concept | Retrieval chain |
-| --- | --- |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | General approach | Learner + evidence → curriculum → sequence → access/challenge → assessment → adapt from evidence |
 | Yearly plan — second Maths | Handover → scheme → learner profile → diagnostic starting point → map LOs/year → retrieval → AfL → consolidation → adapt |
 | Short-notice lesson | Where are they? → scheme/LO → achievable goal → retrieval/prior → key vocab → Q/AfL → next step |
@@ -37,6 +37,7 @@ intro: My planning starts with the learner and the evidence, aligns with the
 | Prior knowledge & misconceptions | Identify prereqs + likely misconceptions → retrieval/diagnostic → reps/worked ex/varied tasks → expose thinking → revisit prereq/re-rep before build |
 | Formative assessment | Plan evidence points → Q/hinge/MWB/observation/exit → link to misconceptions/SC → adjust pace/grouping/explanation/GP → next step |
 | Evaluate planning | Intended vs taught vs learned → evidence/misconceptions/pacing/resources/S/C → reflect explanations/reps/tasks → retain/move/remove/strengthen → next scheme |
+
 
 ## General approach — What is your general approach to planning and curriculum?
 
@@ -138,9 +139,10 @@ I plan the evidence I need before the lesson, not merely the activity I will del
 
 I compare the intended sequence with what was actually taught and, more importantly, what students learned. I review **assessment evidence**, **misconceptions**, pacing, resources, **support and challenge**, and I **reflect** on which explanations, representations and tasks worked best. I record what should be retained, moved, removed or strengthened. That reflection and evidence become the **starting point** for the next **scheme of work** rather than relying on memory.
 
-&nbsp;
+
 
 ## Planning & Curriculum Word Wall
+
 
 | **Start** | **Align** | **Sequence** | **Design** | **Assess** | **Adapt** |
 | ------------------------- | --------------------------- | -------------------------- | ---------------------------- | ------------------------- | ------------------------- |
@@ -160,7 +162,9 @@ I compare the intended sequence with what was actually taught and, more importan
 |  |  |  | Learner independence (2) |  |  |
 |  |  |  | Practical contexts (1) |  |  |
 
+
 ## Planning & Curriculum Concepts and Questions
+
 
 | **PC concept** | **Interview question** |
 | ------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -189,3 +193,5 @@ I compare the intended sequence with what was actually taught and, more importan
 | **Prior knowledge & misconceptions** | How do prior knowledge and likely misconceptions influence your planning? |
 | **Formative assessment** | How do you incorporate formative assessment into your planning? |
 | **Evaluate planning** | How do you evaluate and improve a scheme of work or future planning? |
+
+
