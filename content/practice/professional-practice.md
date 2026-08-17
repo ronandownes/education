@@ -6,8 +6,6 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Act with integrity, collaborate well, contribute to school life, keep
   developing, and connect practice to the school's ethos and community.
 ---
-
-
 ## Tell us about yourself
 
 I’m an experienced Maths, additional-needs and learning-support teacher, with a central focus on making Mathematics accessible while maintaining expectations.
@@ -33,28 +31,6 @@ I see that breadth as a strength. I have had to **adapt quickly, learn from diff
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-## Tell us about yourself / tell us about your experience
-
-I’m an experienced Maths, additional-needs and learning-support teacher. with a central focus on making Mathematics accessible while maintaining expectations.
-
-I have taught across all main programmes, and particularly I bring that approach into my work in mixed-ability, AEN and learning-support settings, where adapting teaching while maintaining ambition is essential.
-
-I want students to **to communicate Mathematics**, not simply reproduce procedures. I try to create a **dialogic Mathematics classroom** where students explain, question, justify, make connections and increasingly use mathematical language with confidence. I use technology where it genuinely improves access, visualisation or understanding, rather than simply for its own sake.
-
-My approach is to **plan carefully, teach explicitly, scaffold intelligently, build purposeful practice into learning, and adapt in response to evidence of what students understand**.
 
 ## Closing Line
 
