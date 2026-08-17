@@ -43,6 +43,46 @@ intro: Act with integrity, collaborate well, contribute to school life, keep
 | Professional growth | Strengthen subject teaching + inclusion + evidence-informed practice → goals/CPD/reading/feedback/reflection → better learning + school contribution |
 
 
+
+
+## Tell us about yourself
+
+I’m an experienced **Maths, additional-needs and learning-support teacher**, with a central focus on making Mathematics accessible while maintaining expectations.
+
+I want students to **communicate Mathematics**, not simply reproduce procedures. I try to create a **dialogic Mathematics classroom** where students explain, question, justify, make connections and increasingly use mathematical language with confidence.
+
+I use technology where it genuinely improves **access, visualisation or understanding**, rather than simply for its own sake.
+
+My approach is to **plan carefully, teach explicitly, scaffold intelligently, build purposeful practice into learning, and adapt in response to evidence of what students understand**.
+
+## Tell us about your experience
+
+I have taught in **a number of different post-primary schools**, including Presentation Secondary School Thurles, Thomond Community College, Scoil Mhuire & Íde, John the Baptist Community School and Nenagh College.
+
+I have taught Mathematics across **Junior Cycle, Leaving Certificate and Transition Year**, including mixed-ability classes, and I have substantial experience in **additional-needs and learning-support settings**.
+
+Working across several schools has given me experience of **different school cultures, student populations, departments, support structures and ways of working**.
+
+I see that breadth as a strength. I have had to **adapt quickly, learn from different colleagues, work effectively within different systems and establish relationships with new groups of students**.
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ## Tell us about yourself / tell us about your experience
 
 I’m an experienced Maths, additional-needs and learning-support teacher. with a central focus on making Mathematics accessible while maintaining expectations.
