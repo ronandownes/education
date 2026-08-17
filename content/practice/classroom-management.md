@@ -39,7 +39,7 @@ eyebrow: PROFESSIONAL PRACTICE
 | **Review practice** | Evidence and patterns → student voice or colleague feedback → evaluate interventions → adjust routines, responses or support → monitor impact |
 
 
-## Classroom Management Interview Questions
+
 
 ## Good classroom management — What would good classroom management look like in your classroom?
 
