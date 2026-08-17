@@ -54,7 +54,7 @@ I start with the Student Support File to build an individual picture of the lear
 
 ## Evaluate support — How do you know whether an AEN support is working?
 
-I look for evidence of greater access, participation, individual progress and learner independence. I compare student work, engagement, checking understanding and the level of prompting required, and I use student voice where appropriate. I monitor progress, evaluate impact and record and review with the AEN coordinator or relevant team. If support is not working, I adapt it rather than continuing it because it is written down.
+I look for evidence of smoother access, reduced barriers, participation, individual progress and learner independence. I compare student work, engagement, checking understanding and the level of prompting required, and I use student voice where appropriate. I monitor progress, evaluate impact and record and review with the AEN coordinator or relevant team. If support is not working, I adapt it rather than continuing it because it is written down.
 
 ## Independence — How do you make sure support builds participation and independence?
 
