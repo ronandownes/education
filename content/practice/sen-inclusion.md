@@ -8,7 +8,7 @@ eyebrow: PROFESSIONAL PRACTICE
 
 
 | Concept | Retrieval chain |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | General approach | Learner not label → strengths/needs/barriers → SSF + evidence + voice → adapt access/support → keep expectations → review participation/progress/independence → change/fade |
 | Identify needs | Handover/SSF/prior/attendance/accommodations → observe work/check understanding/voice → strengths + needs → access barriers → classroom picture |
 | Learner profile | Strengths/needs → aspirations/interests → prior attainment → communication/sensory/attendance/supports → current evidence → update understanding |
@@ -38,7 +38,7 @@ eyebrow: PROFESSIONAL PRACTICE
 
 ## General approach — What is your general approach to AEN and inclusion?
 
-I start with the learner, not the label. I identify strengths, needs and barriers using the Student Support File, classroom evidence and student voice, then adapt access and support without lowering expectations. I review whether the support is increasing participation, individual progress and learner independence, and I change or fade it when the evidence says I should.
+I start with the learner, not the label. I identify strengths, needs and barriers using the Student Support File, classroom evidence and student voice, then adapt access and support without lowering expectations. I review whether the support is increasing participation, individual progress and learner independence, and I adapt or reduce or remove the support as the learner becomes more secure indepentant and confident. Always based on evidence!
 
 ## Identify needs — How do you identify the educational needs of your students?
 
@@ -117,6 +117,7 @@ In team-teaching, shared planning comes first. We agree the learning goal, likel
 ## Small-group / withdrawal — When is small-group or withdrawal support appropriate?
 
 Small-group or withdrawal support should have a clear purpose that cannot be met as effectively in the mainstream lesson at that time. I link it to an identified short-term target, teach the priority skill explicitly and plan how the learning will transfer back. I monitor progress and review the balance between targeted support and inclusion, because withdrawal should not unnecessarily reduce participation in the wider curriculum.
+
 ## SNA — How do you work effectively with an SNA?
 
 The SNA supports access, care needs and participation in line with the student's plan and the school's arrangements; the teacher retains responsibility for teaching and learning. I plan clearly with SNA support, avoid creating unnecessary adult dependence and use faded support where appropriate. We share relevant observations through the agreed team so support contributes to learner independence.
