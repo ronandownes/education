@@ -4,8 +4,6 @@ permalink: /sen-inclusion.html
 title: AEN & Inclusion
 eyebrow: PROFESSIONAL PRACTICE
 ---
-
-
 ## AEN & Inclusion Retrieval Chains
 
 
@@ -44,7 +42,7 @@ I start with the learner, not the label. I identify strengths, needs and barrier
 
 ## Identify needs — How do you identify the educational needs of your students?
 
-I begin with the information legitimately available to me: handover, the Student Support File, prior attainment, attendance, agreed accommodations and advice from relevant staff. I compare that with classroom observation, student work, checking understanding and student voice. I identify strengths as well as needs and access barriers, because a diagnosis alone does not tell me how that learner will present in my classroom.
+I begin with the relevant  information i have access to : handover notes, the Student Support File, prior attainment evidence, attendance records,  documented supports and accommodations along with advice from relevant staff. I compare that with classroom observation, student work, checking understanding and student voice. I identify strengths as well as needs and access barriers, because a diagnosis alone does not tell me how that learner will present in my classroom.  
 
 ## Learner profile — What do you look for in a learner profile?
 
