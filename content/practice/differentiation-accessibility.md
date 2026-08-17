@@ -4,8 +4,6 @@ permalink: /differentiation-accessibility.html
 title: Differentiation & Accessibility
 eyebrow: PROFESSIONAL PRACTICE
 ---
-
-
 ## Retrieval Chains
 
 
@@ -52,7 +50,7 @@ I differentiate the route before differentiating the destination. I keep a **com
 
 ## Entry point — How do you choose an appropriate entry point?
 
-I identify the **prerequisite skill** and use **prior knowledge**, **questioning** or a **diagnostic task** to find the real **starting point**. I then choose an **entry point** that gives students **early success** without making the task trivial. That might mean a **familiar context**, **concrete example** or reduced first step, followed by increasing **complexity** as understanding becomes visible.
+I identify the prerequisite skill and use prior knowledge, questioning or a diagnostic task to find the real starting point. I then choose an entry point that gives students early success without making the task trivial. That might mean a familiar context, concrete example or reduced first step, followed by increasing complexity as understanding becomes visible.
 
 ## Scaffolding — How do you scaffold learning while still building independence?
 
