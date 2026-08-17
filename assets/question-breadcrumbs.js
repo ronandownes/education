@@ -1,4 +1,11 @@
 (() => {
+  if (!Array.from(document.scripts).some(script => /\/assets\/answer-focus\.js(?:\?|$)/.test(script.src || ''))) {
+    const focusScript = document.createElement('script');
+    focusScript.src = new URL('answer-focus.js?v=20260817-0955', document.currentScript?.src || location.href).href;
+    focusScript.dataset.answerFocus = 'true';
+    document.head.appendChild(focusScript);
+  }
+
   const body = document.getElementById('docBody');
   if (!body) return;
 
