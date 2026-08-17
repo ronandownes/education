@@ -42,48 +42,6 @@ The school was founded at a time when Ireland was moving in a new social and edu
 
 What stands out to me is the school's comprehensive tradition, equality of opportunity, breadth of provision, inclusion and strong community identity. For this post I would connect that particularly to mixed-ability teaching, AEN provision, Inbhear, L2LP and LCA, and the emphasis on helping individual students reach their potential. That fits very closely with my own experience across Mathematics, mixed-ability teaching and learning support / AEN.
 
-## Autism-friendly direction — What stands out about St Patrick's autism work?
-
-What stands out is that the direction is broader than specialist provision alone. **Inbhear** remains the school's ASD area, but St Patrick's is also taking part in the **AsIAm Autism Friendly Schools Programme**, looking at teaching and learning, inclusive school culture, leadership and management, and staff professional development. I also noticed named strands such as **L2LP and Senior Cycle L2, Bláth sensory garden, Farm Safe Schools work with Inbhear students, and the 2026 Home-Based Summer Programme**.
-
-The Inbhear name is particularly meaningful to me. An estuary is a transition space where the familiar river meets the wider sea. For autistic students, I see the educational role in the same way: create enough safety and predictability for learning, while deliberately building regulation, resilience, independence, coping strategies and confidence for increasingly complex environments. **Inbhear is not a shelter from the ocean; it is a place where we prepare students for it.**
-
-
-
-# School Improvement Plan — Interview Version
-
-## Key Line
-
-“Bealach” basically means “the way” or “the path”. It is the name St Patrick’s gives to its School Improvement Plan. ([Teanglann](https://www.teanglann.ie/en/eid/bealach?utm_source=chatgpt.com "English–Irish Dictionary (de Bhaldraithe): bealach"))
-
-## What do you know about our School Improvement Plan?
-
-“I looked at Bealach, your School Improvement Plan. What struck me is the emphasis on improving teaching and learning through assessment and feedback, active learning, collaboration, inclusion, student voice and responding to learner needs. I also noticed that this builds on earlier priorities around learning intentions, AfL, differentiated teaching and group work.”
-
-That is enough. You do not need to recite the whole plan.
-
-## Has it moved forward?
-
-Yes. Your uploaded document is the older 2018–2020 Teaching and Learning plan. The school's website now presents Bealach 2023–2025, which broadens school improvement beyond classroom teaching into areas including digital learning, leadership, communication, infrastructure and wellbeing. ([ST. PATRICK'S COMPREHENSIVE SCHOOL](https://www.stpatrickscomprehensive.ie/school-improvement-plan.html?utm_source=chatgpt.com "School Improvement Plan - ST. PATRICK'S COMPREHENSIVE SCHOOL"))
-
-But the interesting thing is: **the website still shows 2023–2025 as the current published Bealach plan.** ([ST. PATRICK'S COMPREHENSIVE SCHOOL](https://www.stpatrickscomprehensive.ie/school-improvement-plan.html?utm_source=chatgpt.com "School Improvement Plan - ST. PATRICK'S COMPREHENSIVE SCHOOL"))
-
-That gives you an excellent question.
-
-## Have you any questions for us?
-
-Your strongest one could be:
-
-> “I was looking at Bealach and I noticed that the published plan runs to 2025. Has the school now moved into its next improvement cycle, and what would you say are the main priorities for the school going forward?”
-
-That is a very strong question because it proves you have researched the school **and** gets them talking about where the school is going.
-
-Then, if they invite another:
-
-> “For the person coming into this Mathematics and AEN role, where would you most like them to make a contribution in the first year?”
-
-I would use those **two**. They are much stronger than generic questions about timetables, classes or CPD.
-
 
 
 &nbsp;
@@ -190,6 +148,48 @@ Professional responsibility requires me to notice whether students have genuine 
 
 My next professional step is to continue strengthening the connection between strong subject teaching, inclusion and evidence-informed practice. I use goal setting, CPD, professional reading, professional feedback and reflective practice to identify what to improve next. I want professional growth to be visible in better student learning and contribution to the school, not simply in another qualification or title.
 
+## Autism-friendly direction — What stands out about St Patrick's autism work?
+
+What stands out is that the direction is broader than specialist provision alone. **Inbhear** remains the school's ASD area, but St Patrick's is also taking part in the **AsIAm Autism Friendly Schools Programme**, looking at teaching and learning, inclusive school culture, leadership and management, and staff professional development. I also noticed named strands such as **L2LP and Senior Cycle L2, Bláth sensory garden, Farm Safe Schools work with Inbhear students, and the 2026 Home-Based Summer Programme**.
+
+The Inbhear name is particularly meaningful to me. An estuary is a transition space where the familiar river meets the wider sea. For autistic students, I see the educational role in the same way: create enough safety and predictability for learning, while deliberately building regulation, resilience, independence, coping strategies and confidence for increasingly complex environments. **Inbhear is not a shelter from the ocean; it is a place where we prepare students for it.**
+
+
+
+# School Improvement Plan — Interview Version
+
+## Key Line
+
+“Bealach” basically means “the way” or “the path”. It is the name St Patrick’s gives to its School Improvement Plan. ([Teanglann](https://www.teanglann.ie/en/eid/bealach?utm_source=chatgpt.com "English–Irish Dictionary (de Bhaldraithe): bealach"))
+
+## What do you know about our School Improvement Plan?
+
+“I looked at Bealach, your School Improvement Plan. What struck me is the emphasis on improving teaching and learning through assessment and feedback, active learning, collaboration, inclusion, student voice and responding to learner needs. I also noticed that this builds on earlier priorities around learning intentions, AfL, differentiated teaching and group work.”
+
+That is enough. You do not need to recite the whole plan.
+
+## Has it moved forward?
+
+Yes. Your uploaded document is the older 2018–2020 Teaching and Learning plan. The school's website now presents Bealach 2023–2025, which broadens school improvement beyond classroom teaching into areas including digital learning, leadership, communication, infrastructure and wellbeing. ([ST. PATRICK'S COMPREHENSIVE SCHOOL](https://www.stpatrickscomprehensive.ie/school-improvement-plan.html?utm_source=chatgpt.com "School Improvement Plan - ST. PATRICK'S COMPREHENSIVE SCHOOL"))
+
+But the interesting thing is: **the website still shows 2023–2025 as the current published Bealach plan.** ([ST. PATRICK'S COMPREHENSIVE SCHOOL](https://www.stpatrickscomprehensive.ie/school-improvement-plan.html?utm_source=chatgpt.com "School Improvement Plan - ST. PATRICK'S COMPREHENSIVE SCHOOL"))
+
+That gives you an excellent question.
+
+## Have you any questions for us?
+
+Your strongest one could be:
+
+> “I was looking at Bealach and I noticed that the published plan runs to 2025. Has the school now moved into its next improvement cycle, and what would you say are the main priorities for the school going forward?”
+
+That is a very strong question because it proves you have researched the school **and** gets them talking about where the school is going.
+
+Then, if they invite another:
+
+> “For the person coming into this Mathematics and AEN role, where would you most like them to make a contribution in the first year?”
+
+I would use those **two**. They are much stronger than generic questions about timetables, classes or CPD.
+
 
 
 ## Professional Responsibility Word Wall
@@ -281,4 +281,5 @@ My next professional step is to continue strengthening the connection between st
 | Parents & community | Respectful/factual student-focused communication → listen to context → boundaries/school channels → purposeful safe community links → mission aligned |
 | Equality & inclusion | Genuine access to participation/support/opportunity → equality ≠ identical treatment → reasonable support → high expectations → policy/collaboration → barriers not ceilings |
 | Professional growth | Strengthen subject teaching + inclusion + evidence-informed practice → goals/CPD/reading/feedback/reflection → better learning + school contribution |
+
 
