@@ -4,41 +4,6 @@ permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
-
-
-## TL Retrieval Chains
-
-
-| Concept | Retrieval chain |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| General approach | Plan → LI + students → Teach/model → Scaffold → Retrieval/practice → Q/explain/problem-solve → Evidence → Adapt S/C → Consolidate/next |
-| Good teaching | Students → LI → Prior → Explain/model → GP → IP → Q/AfL → Check → Adapt S/C → Consolidate |
-| Effective lesson | Students → LI/goal → SC → Prior/retrieval → Sequence → Model → GP → IP → Check/adapt → Closure/next |
-| Difficult concept | Prereqs/misconceptions → Small steps/chunk → Explain → Multi-reps/worked ex → Scaffold → Q/check/practise → Fade → High exp. |
-| Clear explanation | Prior → Explicit → Focus → Think aloud/reasoning → Ex/non-ex → Remove redundancy → Students do → Check → Re-rep |
-| Modelling | Thinking visible → Worked ex → Decisions/vocab → Gradual release → Watch/contribute → GP → IP → Q/check → Step back |
-| Scaffolding | Learner need → Prompts/stems/visual/vocab/small steps → High exp. → Check → Gradual release/fade → Independence |
-| Cognitive load | Prereqs → Limit new → Chunk → Words + visuals → Worked ex/reps → Remove redundancy → Reduce guidance → Access ≠ lower demand |
-| Active learning | LI → MWB/TPS/GD/collab/practical/tech → Thinking visible → Inclusive participation → Bring back → Learning explicit |
-| Student thinking | Less teacher talk → Predict/reason/justify/apply → Wait → Explain/multiple methods → Don’t supply → Responses → Scaffold/revisit/challenge |
-| Questioning | Prior/current → Recall → Reason/explain/justify/apply → Wait + whole class → Hinge/MCQ → Move/re-teach/misconception/re-rep |
-| Check understanding | Throughout → Q/MWB/observe/explain/work/checks → AfL → Weak? pause/diagnose → Re-teach/re-rep/GP → Feedback loop |
-| Misconceptions | Retrieval/Q/ex + non-ex → Expose wrong reasoning → Contrast correct → Re-teach/re-rep → Rehearse → Check later |
-| Retrieval practice | Strengthen over time → Spacing → Cum. review → Interleave/select method → Evidence → Rehearse/deliberate/re-teach |
-| Formative assessment | Q/MWB/observe/discuss/hinge/work → AfL/check → Respond → Adapt pace/S/C/re-rep → Re-teach/challenge → Feedback loop |
-| Independence | Gradual release → Model/scaffold → Reduce prompts/fade → More responsibility → GP → IP → Explain/self-correct → Transfer |
-| Challenge | High exp. → Depth not volume → Core secure → Unfamiliar apps/methods/justify/generalise/connect → Deliberate practice if needed → Reason/transfer/independence |
-| Vocabulary | Barrier/pre-teach → Explicit vocab → Ex/non-ex/reps → Hear/read/say/use → Retrieval/rehearsal → Working language |
-| Engagement | Accessible + purposeful + challenging → Active/inclusive/collab/student voice → Discuss/practise/solve/explain → Watch participation → Adjust pace/S/C |
-| Digital learning | LI + learner → Tech adds explain/reps/practice/collab/feedback/AfL → Thinking visible → Check access/participation/learning → Earns place |
-| Digital inclusion | Remove barriers/learner need → Access tools/reps/diff practice/feedback/ways to respond → Common LI → Widen access, not lower exp. |
-| Choosing tools | LI → Learner need → What does it add? → Understanding/participation/access/assessment/feedback → Evaluate impact → Evidence, not novelty |
-| Lesson not working | Pause/diagnose Q + observation → Adapt → Pace/chunk/re-rep → Re-teach/model/GP → Keep LI → Flexible route |
-| Consolidation | Closure → Summarise/explain/apply/retrieve → Spacing/cum. review/interleave → Transfer, not repetition |
-| Improving practice | Evidence → Reflect/refine → Q/work/assessment/misconceptions → Explanations/sequence → Colleagues/PL → Adapt → Evaluate impact |
-| Unmotivated student | Starting point → Early success → Worthwhile goal → Achievable steps → Scaffold/model/retrieval prior → Choice/relevance → Notice progress → AfL adapt S/C → High exp. → Independence |
-
-
 ## General approach — What is your general approach to teaching and learning?
 
 I **plan carefully** around a clear **learning intention** and the students in front of me. I **teach and model clearly**, **scaffold where needed**, then secure learning through **retrieval** and purposeful **practice**. I keep students thinking through questioning, explanation and problem-solving, use evidence to **adapt** support or challenge, and **consolidate** the learning before deciding the next step.
