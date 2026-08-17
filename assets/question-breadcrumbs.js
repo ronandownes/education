@@ -146,17 +146,12 @@
       if (!rememberQuestion(heading) || isRetrievalHeading(heading)) return;
       let node = heading.nextElementSibling;
       while (node && node.tagName !== 'H2') {
+        const next = node.nextElementSibling;
         if (!node.matches?.('.section-edit-nearby')) {
           node.querySelectorAll?.('strong,b').forEach(unwrap);
           if (node.matches?.('strong,b')) unwrap(node);
         }
-        node = heading.nextElementSibling;
-        while (node && node.matches?.('.section-edit-nearby')) node = node.nextElementSibling;
-        if (node && node.tagName !== 'H2') {
-          let cursor = node.nextElementSibling;
-          while (cursor && cursor.matches?.('.section-edit-nearby')) cursor = cursor.nextElementSibling;
-          node = cursor;
-        }
+        node = next;
       }
     });
   };
