@@ -50,7 +50,7 @@ A learner profile brings together strengths, needs, aspirations, interests, prio
 
 ## Student Support File — How do you use a Student Support File?
 
-The Student Support File is not the support; it informs the support. I identify the student's strengths, priority needs, agreed short-term target, reasonable accommodation and strategies that have worked. I translate that into classroom decisions about clear routines, instructions, questioning, scaffolding, processing time and checking understanding. I also contribute evidence so the plan can be recorded and reviewed rather than remain static.
+I start with the Student Support File to build an individual picture of the learner — their strengths, identified needs, current targets, previous strategies and progress. I use that, alongside my own assessment and observation, to plan appropriate teaching and support and to review progress over time.
 
 ## Evaluate support — How do you know whether an AEN support is working?
 
