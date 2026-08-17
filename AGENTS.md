@@ -6,7 +6,7 @@ This repository is Ronan Downes's working education and interview-preparation si
 
 ## Information Architecture
 
-The main navigation is built around **eight interview areas**, plus dedicated **Profiles** and **Plans** shelves:
+The main navigation is built around **eight interview areas**, followed by **Up Next**, **Resources**, and dedicated **Profiles** and **Plans** shelves:
 
 1. Teaching & Learning
 2. Classroom Management
@@ -16,8 +16,10 @@ The main navigation is built around **eight interview areas**, plus dedicated **
 6. Planning & Curriculum
 7. Relationships & Wellbeing
 8. Professional Responsibility & School Community
-9. Profiles
-10. Plans
+9. Up Next
+10. Resources
+11. Profiles
+12. Plans
 
 Do not restore **Subjects** as permanent top-level navigation unless Ronan explicitly asks for it. Subject pages can remain in the repository and may be reached from homepage launchpads or contextual links.
 
@@ -26,6 +28,9 @@ Do not add separate top-level **Home**, **Practice**, **Schools**, **Timeline**,
 ## Navigation Rules
 
 - Each of the eight interview-area titles is a direct link to the full notes page for that area.
+- **Up Next** is the short working queue for the next things to build, read or prepare. Keep it brief.
+- **Resources** is the document library for primary documents that Ronan wants close at hand. Prefer an in-page viewer and concise working summaries over sending the reader away from the site.
+- Where a resource benefits from variable depth, use a fast pre-built summary scale rather than requiring live processing on each change.
 - **Profiles** is a top-level shelf containing both **Class Profiles** and **School Profiles**.
 - **Plans** is a top-level shelf containing actual plans, schemes of work and curriculum specifications—not Planning & Curriculum interview questions.
 - Keep **Profiles** and then **Plans** as the final two top-level shelves.
@@ -60,6 +65,17 @@ Use the eight areas as the default filing system.
 - interview opener and closer
 - questions to ask the school
 - links to school profiles where relevant
+
+**Up Next** is for:
+- the current build/read/preparation priority
+- a very short queue of what comes immediately after it
+- links into the relevant working page or resource
+
+**Resources** is for:
+- authoritative or high-value source documents
+- embedded document viewing where practical
+- adjustable summaries for rapid recall and deeper study
+- source links and brief metadata
 
 **Profiles** is the home for:
 - class profiles
@@ -103,4 +119,4 @@ Keep Word Walls compact enough to print cleanly. Avoid wrapping a usage count on
 
 ## Change Discipline
 
-When reorganising navigation, do not delete useful content merely because a top-level tab disappears. Re-link it from the appropriate interview area, Profiles shelf or homepage launchpad. Prefer a small number of durable categories over creating new categories for individual interview questions or schools.
+When reorganising navigation, do not delete useful content merely because a top-level tab disappears. Re-link it from the appropriate interview area, Up Next, Resources, Profiles shelf or homepage launchpad. Prefer a small number of durable categories over creating new categories for individual interview questions or schools.
