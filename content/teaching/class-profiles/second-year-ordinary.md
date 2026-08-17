@@ -13,7 +13,7 @@ cms_key: profile_second_ordinary
 
 ## Class context
 
-24 students in a newly formed Ordinary Level group. Several moved from a common first-year arrangement and confidence is uneven.
+13 students in a newly formed Ordinary Level group. Several moved from a common first-year arrangement and confidence is uneven.
 
 ## Strengths and interests
 
@@ -42,6 +42,6 @@ Short exit checks, cumulative quizzes every two weeks, one common task per half-
 
 ## Students
 
-<p class="class-map-note"><strong>18 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+<p class="class-map-note"><strong>13 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
 
-<div class="class-map" data-count="18" data-start="21"></div>
+<div class="class-map" data-count="13" data-start="2"></div>
