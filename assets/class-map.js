@@ -11,6 +11,7 @@
   const roots = [...document.querySelectorAll('.class-map')];
   if (!roots.length) return;
 
+  const DESKTOP_COLUMNS = 6;
   const mixed = ['Aidan','Maya','Luca','Niamh','Eoin','Zara','Tomasz','Aoife','Noah','Sofia','Cian','Amara','Ben','Leila','Oisín','Elena','Rory','Grace','Dylan','Katie','Patrick','John','Darren','Samir','Millie','Maeve','Jack','Hannah','Adam','Sarah','Daniel','Chloe','Conor','Layla','Finn','Eva','Alex','Lucy','Jamie','Erin','Seán','Ruth','Liam','Aisha'];
   const girls = ['Aoife','Niamh','Katie','Maeve','Grace','Millie','Sarah','Hannah','Chloe','Eva','Ruth','Aisha','Leila','Zara','Lucy','Erin','Sofia','Amara','Maya','Elena'];
   const surnames = ['Byrne','Murphy','O’Sullivan','Doyle','Flynn','Nolan','Kavanagh','Ryan','Walsh','Kelly','O’Donnell','Brennan','Fitzgerald','McCarthy','Keane','Moran','Quinn','Roche','Power','Gallagher','Casey','Connolly','Dunne'];
@@ -280,13 +281,47 @@
       grid.appendChild(card);
     }
 
+    const slotCount = Math.max(DESKTOP_COLUMNS, Math.ceil(count / DESKTOP_COLUMNS) * DESKTOP_COLUMNS);
+    for (let n = count; n < slotCount; n++) {
+      const empty = document.createElement('div');
+      empty.className = 'class-map-empty';
+      empty.setAttribute('role', 'img');
+      empty.setAttribute('aria-label', 'Empty seat');
+      empty.innerHTML = '<span>Empty seat</span>';
+      grid.appendChild(empty);
+    }
+
     let drag = null;
+    let over = null;
+    const clearOver = () => {
+      if (over) over.classList.remove('is-drop-target');
+      over = null;
+    };
+
     grid.addEventListener('dragstart', (event) => {
       drag = event.target.closest('.class-map-card');
+      if (drag) drag.classList.add('is-dragging');
     });
-    grid.addEventListener('dragover', (event) => event.preventDefault());
+
+    grid.addEventListener('dragover', (event) => {
+      if (!drag) return;
+      event.preventDefault();
+      const target = event.target.closest('.class-map-card, .class-map-empty');
+      if (target === drag) return;
+      if (target !== over) {
+        clearOver();
+        over = target;
+        if (over) over.classList.add('is-drop-target');
+      }
+    });
+
+    grid.addEventListener('dragleave', (event) => {
+      if (!grid.contains(event.relatedTarget)) clearOver();
+    });
+
     grid.addEventListener('drop', (event) => {
-      const target = event.target.closest('.class-map-card');
+      event.preventDefault();
+      const target = event.target.closest('.class-map-card, .class-map-empty');
       if (target && drag && target !== drag) {
         const placeholder = document.createElement('i');
         drag.before(placeholder);
@@ -294,6 +329,14 @@
         placeholder.before(target);
         placeholder.remove();
       }
+      clearOver();
+      if (drag) drag.classList.remove('is-dragging');
+      drag = null;
+    });
+
+    grid.addEventListener('dragend', () => {
+      clearOver();
+      if (drag) drag.classList.remove('is-dragging');
       drag = null;
     });
   });
