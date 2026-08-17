@@ -62,7 +62,14 @@ Support should enable meaningful participation while progressively transferring 
 
 ## ADHD — How do you support a student with ADHD?
 
-For a student with ADHD, I support the executive functions that may be affected, including attention, working memory, organisation and task initiation. I use clear routines, chunked instructions, visual cues and regular checks for understanding. I reduce unnecessary cognitive load and allow appropriate opportunities for movement and re-engagement. I maintain clear expectations while progressively building self-management and independence.
+For a student with ADHD, I support the executive functions that may be affected, including 
+
+- attention, 
+- working memory, 
+- organisation and 
+- task initiation. 
+
+I use clear routines, chunked instructions, visual cues and regular checks for understanding. I reduce unnecessary cognitive load and allow appropriate opportunities for movement and re-engagement. I maintain clear expectations while progressively building self-management and independence.
 
 
 
