@@ -13,7 +13,7 @@ cms_key: profile_second_higher
 
 ## Class context
 
-27 students; generally secure first-year attainment, but with a substantial spread between procedural speed and conceptual depth.
+14 students; generally secure first-year attainment, but with a substantial spread between procedural speed and conceptual depth.
 
 ## Strengths and interests
 
@@ -42,6 +42,6 @@ Rich tasks, hinge questions, cumulative mixed problems and occasional oral expla
 
 ## Students
 
-<p class="class-map-note"><strong>18 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+<p class="class-map-note"><strong>14 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
 
-<div class="class-map" data-count="18" data-start="39"></div>
+<div class="class-map" data-count="14" data-start="4"></div>
