@@ -13,7 +13,7 @@ cms_key: profile_ty_mixed
 
 ## Class context
 
-25 students together for a TY module; future senior-cycle intentions range from Ordinary to Higher Level.
+13 students together for a TY module; future senior-cycle intentions range from Ordinary to Higher Level.
 
 ## Strengths and interests
 
@@ -42,6 +42,6 @@ Project checkpoints, reflection, short individual conferences and a senior-cycle
 
 ## Students
 
-<p class="class-map-note"><strong>21 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
+<p class="class-map-note"><strong>13 students</strong> · Drag cards to test seating arrangements · Select a student to open the working profile.</p>
 
-<div class="class-map" data-count="21" data-start="0"></div>
+<div class="class-map" data-count="13" data-start="8"></div>
