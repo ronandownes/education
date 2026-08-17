@@ -59,9 +59,9 @@ My approach is to **plan carefully, teach explicitly, scaffold intelligently, bu
 
 ## School knowledge — What do you know about St Patrick's Comprehensive — the Comp?
 
-The school was founded at a time when **Ireland was moving in a new social and educational direction**, just before free post-primary education was introduced. The comprehensive model was part of that change — **broadening opportunity and bringing academic and practical education together within one school**.
+The school was founded at a time when Ireland was moving in a new social and educational direction, just before free post-primary education was introduced. The comprehensive model was part of that change — broadening opportunity and bringing academic and practical education together within one school.
 
-What stands out to me is the school's **comprehensive tradition, equality of opportunity, breadth of provision, inclusion and strong community identity**. For this post I would connect that particularly to mixed-ability teaching, AEN provision, **Inbhear**, L2LP and LCA, and the emphasis on helping individual students reach their potential. That fits very closely with my own experience across **Mathematics, mixed-ability teaching and learning support / AEN**.
+What stands out to me is the school's comprehensive tradition, equality of opportunity, breadth of provision, inclusion and strong community identity. For this post I would connect that particularly to mixed-ability teaching, AEN provision, Inbhear, L2LP and LCA, and the emphasis on helping individual students reach their potential. That fits very closely with my own experience across Mathematics, mixed-ability teaching and learning support / AEN.
 
 ## 1 Professional responsibility — What does professional responsibility mean to you as a teacher?
 
