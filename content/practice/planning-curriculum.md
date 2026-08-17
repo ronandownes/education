@@ -3,20 +3,15 @@ layout: doc
 permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
-intro: My planning starts with the learner and the evidence, aligns with the
-  curriculum, sequences the learning, designs for access and challenge, builds
-  in assessment, and adapts as evidence comes in.
 ---
 ## Planning & Curriculum Retrieval Chains
-
 
 | Concept | Retrieval chain |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | General approach | Learner + evidence → curriculum → sequence → access/challenge → assessment → adapt from evidence |
-| Yearly plan — second Maths | Handover → scheme → learner profile → diagnostic starting point → map LOs/year → retrieval → AfL → consolidation → adapt |
-| Short-notice lesson | Where are they? → scheme/LO → achievable goal → retrieval/prior → key vocab → Q/AfL → next step |
+| Yearly plan — second-year Maths | Handover → scheme → learner profile → diagnostic starting point → map LOs/year → retrieval → AfL → consolidation → adapt |
 | Starting point | Handover + previous work + assessment + needs + retrieval → strengths/gaps → misconceptions/barriers → starting point |
-| Yearly plan — first Maths | Transition/handover → primary evidence → retrieval/diagnostic → strengths/gaps/misconceptions → unpack LOs → sequence → consolidate → adapt pace/S/C |
+| Yearly plan — first-year intake | Transition/handover → primary evidence → retrieval/diagnostic → strengths/gaps/misconceptions → unpack LOs → sequence → consolidate → adapt pace/S/C |
 | Specification & learning outcomes | Specification → unpack LOs → action verbs/depth → connect outcomes → coherent sequence → SC/assessment → adapt from evidence |
 | Scheme of work | Specification/LOs → starting point/prereqs → map year → sequence → retrieval/consolidation/assessment → resources/time → flexible |
 | Subject plan vs scheme | Subject plan = department framework → curriculum/assessment/inclusion/resources/expectations → scheme = class/year sequence → individual planning within both |
@@ -38,24 +33,19 @@ intro: My planning starts with the learner and the evidence, aligns with the
 | Formative assessment | Plan evidence points → Q/hinge/MWB/observation/exit → link to misconceptions/SC → adjust pace/grouping/explanation/GP → next step |
 | Evaluate planning | Intended vs taught vs learned → evidence/misconceptions/pacing/resources/S/C → reflect explanations/reps/tasks → retain/move/remove/strengthen → next scheme |
 
-
 ## General approach — What is your general approach to planning and curriculum?
 
 My planning starts with the learner and the evidence, aligns with the curriculum, sequences the learning coherently, designs for access and challenge, builds in assessment, and adapts as evidence comes in. I want the plan to be clear enough to give direction but flexible enough to respond to the students in front of me.
 
-## Yearly plan — second Maths — If you were given a second-year Maths class in September, how would you plan the year?
+## Yearly plan — second-year Maths
 
 I start with the **handover**, **scheme of work** and **learner profile** to establish where the class actually is. I use an early **low-stakes diagnostic** to confirm the **starting point**, then **map the relevant learning outcomes across the year**. I build in **retrieval points**, **formative assessment** and **consolidation**, and **adapt** the plan as evidence comes in.
-
-## Short-notice lesson — How would you plan a lesson on short notice?
-
-I establish where the class is in their learning, check the **scheme of work** and relevant **learning outcome**, and unpack it to an **achievable lesson goal**. I use **retrieval** to activate prior learning and identify or pre-teach **key vocabulary**. I then let **formative assessment** and **effective questioning** guide the lesson and finish by identifying the **natural next step**.
 
 ## Starting point — How do you establish a real starting point for a class?
 
 I use several sources rather than relying on one test: **handover information**, **previous work**, **assessment evidence**, learner needs and short **retrieval** tasks. I want to know both what pupils can do and where the **misconceptions** or **access barriers** are. That gives me a defensible **starting point** for planning.
 
-## Yearly plan — first Maths — How would you plan the year for a first-year Maths class?
+## Yearly plan — first-year intake
 
 I begin with class profiles, transition and **handover information**, primary-school reports and available **assessment evidence**. Because students come from different schools, early **retrieval** and diagnostic assessment establish their actual **strengths, gaps and misconceptions**. I unpack the Junior Cycle Mathematics **learning outcomes** and connect them in a **coherent sequence**, prioritising essential foundations, retrieval and **consolidation**. Throughout the year, **formative assessment** helps me **adjust the pace, support and challenge** to the students in front of me.
 
@@ -139,10 +129,7 @@ I plan the evidence I need before the lesson, not merely the activity I will del
 
 I compare the intended sequence with what was actually taught and, more importantly, what students learned. I review **assessment evidence**, **misconceptions**, pacing, resources, **support and challenge**, and I **reflect** on which explanations, representations and tasks worked best. I record what should be retained, moved, removed or strengthened. That reflection and evidence become the **starting point** for the next **scheme of work** rather than relying on memory.
 
-
-
 ## Planning & Curriculum Word Wall
-
 
 | **Start** | **Align** | **Sequence** | **Design** | **Assess** | **Adapt** |
 | ------------------------- | --------------------------- | -------------------------- | ---------------------------- | ------------------------- | ------------------------- |
@@ -162,17 +149,14 @@ I compare the intended sequence with what was actually taught and, more importan
 |  |  |  | Learner independence (2) |  |  |
 |  |  |  | Practical contexts (1) |  |  |
 
-
 ## Planning & Curriculum Concepts and Questions
-
 
 | **PC concept** | **Interview question** |
 | ------------------------------------- | -------------------------------------------------------------------------------------------- |
 | **General approach** | What is your general approach to planning and curriculum? |
-| **Yearly plan — second Maths** | If you were given a second-year Maths class in September, how would you plan the year? |
-| **Short-notice lesson** | How would you plan a lesson on short notice? |
+| **Yearly plan — second-year Maths** | If you were given a second-year Maths class in September, how would you plan the year? |
 | **Starting point** | How do you establish a real starting point for a class? |
-| **Yearly plan — first Maths** | How would you plan the year for a first-year Maths class? |
+| **Yearly plan — first-year intake** | How would you plan the year for a first-year Maths class? |
 | **Specification & learning outcomes** | How do the specification and learning outcomes influence your planning? |
 | **Scheme of work** | How would you develop a scheme of work for a class? |
 | **Subject plan vs scheme** | What is the difference between a subject plan and a scheme of work? |
@@ -193,5 +177,3 @@ I compare the intended sequence with what was actually taught and, more importan
 | **Prior knowledge & misconceptions** | How do prior knowledge and likely misconceptions influence your planning? |
 | **Formative assessment** | How do you incorporate formative assessment into your planning? |
 | **Evaluate planning** | How do you evaluate and improve a scheme of work or future planning? |
-
-
