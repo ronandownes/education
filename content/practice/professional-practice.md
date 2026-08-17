@@ -30,11 +30,11 @@ I see that breadth as a strength. I have had to **adapt quickly, learn from diff
 
 &nbsp;
 
-&nbsp;
+
 
 ## Closing Line
 
-**I would hope the impression I leave with you is that I bring strong Mathematics subject knowledge, substantial AEN experience, high expectations, careful preparation and the ability to adapt my teaching so that individual students can succeed.**
+**The impression I leave with you is that I bring strong Mathematics subject knowledge, substantial AEN experience, high expectations, careful preparation and the ability to adapt my teaching so that individual students can succeed.**
 
 ## School knowledge — What do you know about St Patrick's Comprehensive — the Comp?
 
@@ -44,7 +44,13 @@ What stands out to me is the school's comprehensive tradition, equality of oppor
 
 ## 1 Professional responsibility — What does professional responsibility mean to you as a teacher?
 
-Professional responsibility means being reliable, prepared and accountable for the quality and safety of my work. I act with integrity, fairness and respect, maintain professional boundaries and confidentiality, follow school policy and exercise professional judgement. It also means contributing to colleagues and school life rather than seeing responsibility as ending at my classroom door.
+Professional responsibility means being 
+
+- reliable, 
+- prepared 
+- and accountable 
+
+for the quality and safety of my work. I act with integrity, fairness and respect, maintain professional boundaries and confidentiality, follow school policy and exercise professional judgement. It also means contributing to colleagues and school life rather than seeing responsibility as ending at my classroom door.
 
 ## 2 Values & conduct — What professional values guide your practice?
 
