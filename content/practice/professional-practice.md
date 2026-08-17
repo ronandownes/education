@@ -43,9 +43,19 @@ intro: Act with integrity, collaborate well, contribute to school life, keep
 | Professional growth | Strengthen subject teaching + inclusion + evidence-informed practice → goals/CPD/reading/feedback/reflection → better learning + school contribution |
 
 
-## About me — Tell us about yourself / tell us about your experience
+## Tell us about yourself / tell us about your experience
 
-I am an experienced post-primary **Mathematics teacher** with substantial experience across Junior Cycle, Leaving Certificate, Transition Year, mixed-ability classes and AEN / learning-support settings. The strongest thread through my teaching is making demanding Mathematics accessible without lowering expectations. I **plan carefully, teach clearly, scaffold where needed, secure learning through retrieval and purposeful practice, engage student thinking, and respond to evidence of learning**. I also bring State Examinations experience and a strong background in technology, mathematical modelling and data analytics. Whatever the exact opening question, I want the board to hear first and clearly what I bring **as a teacher**.
+**I am an experienced Mathematics and AEN teacher with a central focus on making Mathematics accessible while maintaining expectations.**
+
+I have taught across programmes, but particularly in **mixed-ability, AEN and learning-support settings**, where adapting teaching while maintaining ambition is essential.
+
+I want students to **do and communicate Mathematics**, not simply reproduce procedures. I try to create a **dialogic Mathematics classroom** where students explain, question, justify, make connections and increasingly use mathematical language with confidence. I use technology where it genuinely improves access, visualisation or understanding, rather than simply for its own sake.
+
+My approach is to **plan carefully, teach explicitly, scaffold intelligently, build purposeful practice into learning, and adapt in response to evidence of what students understand**.
+
+## Closing Line
+
+**I would hope the impression I leave with you is that I bring strong Mathematics subject knowledge, substantial AEN experience, high expectations, careful preparation and the ability to adapt my teaching so that individual students can succeed.**
 
 ## School knowledge — What do you know about St Patrick's Comprehensive — the Comp?
 
@@ -203,6 +213,3 @@ My next professional step is to continue strengthening the connection between st
 | **24 Professional growth** | What is your next professional step and how will you keep developing? |
 
 
-
-
-&nbsp;
