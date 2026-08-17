@@ -121,6 +121,26 @@
     });
   };
 
+  const addNearbyEditLinks = body => {
+    const pageEdit = document.querySelector('.doc-toolbar .edit-link[href]');
+    if (!pageEdit?.href) return;
+
+    body.querySelectorAll(':scope > h2').forEach(heading => {
+      if (heading.dataset.sectionEditPrepared === 'true') return;
+      if (heading.classList.contains('interview-appendix-source')) return;
+
+      const link = document.createElement('a');
+      link.className = 'section-edit-nearby';
+      link.href = pageEdit.href;
+      link.target = '_blank';
+      link.rel = 'noopener';
+      link.textContent = 'Edit';
+      link.title = `Edit this page near “${(heading.textContent || '').trim()}”`;
+      heading.insertAdjacentElement('afterend', link);
+      heading.dataset.sectionEditPrepared = 'true';
+    });
+  };
+
   const ensureStyle = () => {
     let style = document.getElementById('question-breadcrumb-style');
     if (style) return;
@@ -129,6 +149,25 @@
     style.id = 'question-breadcrumb-style';
     style.textContent = `
       .interview-appendix-source{display:none!important}
+      .section-edit-nearby{
+        display:block;
+        width:max-content;
+        margin:-2px 0 7px auto;
+        padding:4px 8px;
+        border:1px solid #dadce0;
+        border-radius:4px;
+        background:#fff;
+        color:#3c4043;
+        text-decoration:none;
+        font-size:.74rem;
+        line-height:1.15;
+        font-weight:500;
+      }
+      .section-edit-nearby:hover,.section-edit-nearby:focus-visible{
+        background:#f8f9fa;
+        border-color:#bdc1c6;
+        outline:none;
+      }
       .question-breadcrumb-line{
         display:block;
         width:100%;
@@ -146,6 +185,10 @@
         overflow:hidden;
       }
       @media(max-width:700px){
+        .section-edit-nearby{
+          margin:1px 0 7px auto;
+          font-size:.72rem;
+        }
         .question-breadcrumb-line{
           margin:16px 0 8px;
           padding:9px 10px 10px;
@@ -154,7 +197,7 @@
         }
       }
       @media print{
-        .interview-appendix-source{display:none!important}
+        .interview-appendix-source,.section-edit-nearby{display:none!important}
         .question-breadcrumb-line{
           margin:2.8mm 0 2mm;
           padding:1.7mm 2mm;
@@ -177,6 +220,7 @@
 
     ensureStyle();
     hideAppendixSources(body);
+    addNearbyEditLinks(body);
 
     const headings = Array.from(body.querySelectorAll('h2'));
     const retrievalHeading = headings.find(heading =>
