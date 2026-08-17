@@ -91,6 +91,13 @@ body.append(heading, table);
 const toolbar = document.querySelector('.doc-toolbar');
 const synth = window.speechSynthesis;
 if (!toolbar || !synth || typeof SpeechSynthesisUtterance === 'undefined') return;
+const audioHighlightStyle = document.createElement('style');
+audioHighlightStyle.textContent = `
+.cm-audio-speaking{background:#fff3bf!important;box-shadow:0 0 0 4px #fff3bf!important;border-radius:4px;transition:background .12s ease,box-shadow .12s ease}
+.doc-body h2.cm-audio-speaking{color:inherit!important}
+@media print{.cm-audio-speaking{background:transparent!important;box-shadow:none!important}}
+`;
+document.head.appendChild(audioHighlightStyle);
 if (domain.splitAudio) {
 const style = document.createElement('style');
 style.textContent = `
@@ -165,16 +172,17 @@ const normaliseConcept = value => cleanNumber(value)
 .replace(/[^a-z0-9]+/g, ' ')
 .replace(/\s+/g, ' ')
 .trim();
-const answerAfter = heading => {
+const answerElementAfter = heading => {
 let node = heading.nextElementSibling;
 while (node && node.tagName !== 'H2') {
-if (node.matches('p, ul, ol, blockquote')) {
-const text = forSpeech(node.textContent);
-if (text) return text;
-}
+if (node.matches('p, ul, ol, blockquote') && forSpeech(node.textContent)) return node;
 node = node.nextElementSibling;
 }
-return '';
+return null;
+};
+const answerAfter = heading => {
+const node = answerElementAfter(heading);
+return node ? forSpeech(node.textContent) : '';
 };
 const wordWallSegments = [];
 if (wall?.tagName === 'TABLE') {
@@ -208,9 +216,10 @@ if (!fullHeading.includes('—')) return null;
 const parts = fullHeading.split(/\s+—\s+/);
 const question = forSpeech(parts.pop());
 const concept = forSpeech(parts.join(' — '));
-const answer = answerAfter(heading);
+const answerElement = answerElementAfter(heading);
+const answer = answerElement ? forSpeech(answerElement.textContent) : '';
 if (!concept || !question || !answer) return null;
-return { heading, concept, question, answer };
+return { heading, answerElement, concept, question, answer };
 }).filter(Boolean);
 const questionRows = sourceConceptRows.length
 ? sourceConceptRows
@@ -222,17 +231,24 @@ const interviewItems = candidateItems.map(item => {
 const row = findQuestionRow(item.concept);
 return { ...item, question: row?.question || item.question };
 });
-const questionSegments = questionRows.map(row => ({
+const findInterviewItem = concept => interviewItems.find(item => normaliseConcept(item.concept) === normaliseConcept(concept));
+const questionSegments = questionRows.map(row => {
+const item = findInterviewItem(row.concept);
+return {
 text: row.question ? `${row.concept}. ${row.question}` : row.concept,
 rate: 0.89,
 delayAfter: 900,
+heading: item?.heading,
+target: item?.heading,
 status: row.concept
-}));
+};
+});
 const answerSegments = interviewItems.map(item => ({
 text: `${item.concept}. ${item.answer}`,
 rate: 0.92,
 delayAfter: 850,
 heading: item.heading,
+target: item.answerElement,
 status: item.concept
 }));
 const breadcrumbSegments = breadcrumbRows.map(row => ({
@@ -242,8 +258,8 @@ delayAfter: 700,
 status: row.concept
 }));
 const interviewSegments = (item, showConcept) => [
-{ text: item.question, rate: 0.89, delayAfter: 500, heading: item.heading, status: showConcept ? `Question · ${item.concept}` : 'Question' },
-{ text: item.answer, rate: 0.92, delayAfter: 800, heading: item.heading, status: showConcept ? `Answer · ${item.concept}` : 'Answer' }
+{ text: item.question, rate: 0.89, delayAfter: 500, heading: item.heading, target: item.heading, status: showConcept ? `Question · ${item.concept}` : 'Question' },
+{ text: item.answer, rate: 0.92, delayAfter: 800, heading: item.heading, target: item.answerElement, status: showConcept ? `Answer · ${item.concept}` : 'Answer' }
 ];
 const conceptSegments = questionRows.map(row => ({
 text: row.question ? `${row.concept}. ${row.question}` : row.concept,
@@ -325,6 +341,7 @@ let queueIndex = 0;
 let activeKey = null;
 let activeSource = null;
 let activeHeading = null;
+let activeTarget = null;
 let paused = false;
 let delayTimer = null;
 let currentTitle = '';
@@ -337,6 +354,19 @@ if (activeHeading === heading) return;
 clearActiveHeading();
 activeHeading = heading || null;
 activeHeading?.classList.add('cm-audio-active-question');
+};
+const clearActiveTarget = () => {
+activeTarget?.classList.remove('cm-audio-speaking');
+activeTarget = null;
+};
+const setActiveTarget = target => {
+if (activeTarget === target) return;
+clearActiveTarget();
+activeTarget = target || null;
+activeTarget?.classList.add('cm-audio-speaking');
+if (activeTarget && activeSource?.classList.contains('cm-question-play')) {
+activeTarget.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
 };
 const updatePauseButton = () => {
 pauseButton.innerHTML = paused
@@ -361,6 +391,7 @@ paused = false;
 currentTitle = '';
 resetSources();
 clearActiveHeading();
+clearActiveTarget();
 updatePauseButton();
 player.hidden = true;
 };
@@ -380,6 +411,7 @@ return;
 const segment = queue[queueIndex];
 queueIndex += 1;
 setActiveHeading(segment.heading);
+setActiveTarget(segment.target || segment.heading);
 status.textContent = segment.status ? `${currentTitle} · ${segment.status}` : currentTitle;
 const utterance = new SpeechSynthesisUtterance(segment.text);
 utterance.lang = 'en-IE';
@@ -388,10 +420,12 @@ utterance.pitch = 1;
 if (preferredVoice) utterance.voice = preferredVoice;
 utterance.onend = () => {
 if (sessionId !== runId || !activeKey) return;
+clearActiveTarget();
 delayTimer = window.setTimeout(() => speakNext(sessionId), segment.delayAfter || 350);
 };
 utterance.onerror = event => {
 if (sessionId !== runId || event.error === 'canceled' || event.error === 'interrupted') return;
+clearActiveTarget();
 delayTimer = window.setTimeout(() => speakNext(sessionId), 100);
 };
 synth.speak(utterance);
@@ -411,7 +445,8 @@ resetSources();
 activeSource?.classList.add('is-active');
 status.textContent = title;
 updatePauseButton();
-player.hidden = false;
+const isQuestionButton = source?.classList.contains('cm-question-play');
+player.hidden = isQuestionButton;
 delayTimer = window.setTimeout(() => speakNext(sessionId), 60);
 };
 const pause = () => {
@@ -431,7 +466,8 @@ else speakNext(runId);
 };
 const toggleSource = (key, title, segments, source) => {
 if (activeKey === key && activeSource === source) {
-if (paused) resume();
+if (source?.classList.contains('cm-question-play')) stop();
+else if (paused) resume();
 else pause();
 return;
 }
@@ -454,7 +490,7 @@ const button = document.createElement('button');
 button.type = 'button';
 button.className = 'cm-question-play';
 button.setAttribute('aria-label', `Play question and answer: ${item.question}`);
-button.title = 'Play question and answer';
+button.title = 'Play question and answer · tap again to stop';
 const key = `question-${index}`;
 button.addEventListener('click', event => {
 event.stopPropagation();
