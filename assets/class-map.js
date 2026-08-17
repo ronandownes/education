@@ -12,6 +12,30 @@
   if (!roots.length) return;
 
   const DESKTOP_COLUMNS = 6;
+  const MIN_SEAT_SLOTS = 18;
+  const CLASS_PAGES = [
+    ['first-year-mixed.html', '1st Year Maths — Mixed'],
+    ['second-year-ordinary.html', '2nd Year Maths — Ordinary'],
+    ['second-year-higher.html', '2nd Year Maths — Higher'],
+    ['third-year-ordinary.html', '3rd Year Maths — Ordinary'],
+    ['third-year-higher.html', '3rd Year Maths — Higher'],
+    ['ty-mixed.html', 'TY Maths — Mixed'],
+    ['ty-streamed.html', 'TY Maths — Streamed'],
+    ['fifth-year-maths.html', '5th Year Maths'],
+    ['sixth-year-maths.html', '6th Year Maths'],
+    ['fifth-year-lca.html', '5th Year LCA Maths'],
+    ['sixth-year-lca.html', '6th Year LCA Maths'],
+    ['first-year-support.html', '1st Year Learning Support'],
+    ['second-year-support.html', '2nd Year Learning Support'],
+    ['third-year-support.html', '3rd Year Learning Support'],
+    ['ty-support.html', 'TY Learning Support'],
+    ['fifth-year-support.html', '5th Year Learning Support'],
+    ['sixth-year-support.html', '6th Year Learning Support'],
+    ['literacy-numeracy-support.html', 'Literacy & Numeracy Support'],
+    ['emotional-regulation.html', 'AEN — Emotional Regulation'],
+    ['digital-computing.html', 'Digital & Computer Studies']
+  ];
+
   const mixed = ['Aidan','Maya','Luca','Niamh','Eoin','Zara','Tomasz','Aoife','Noah','Sofia','Cian','Amara','Ben','Leila','Oisín','Elena','Rory','Grace','Dylan','Katie','Patrick','John','Darren','Samir','Millie','Maeve','Jack','Hannah','Adam','Sarah','Daniel','Chloe','Conor','Layla','Finn','Eva','Alex','Lucy','Jamie','Erin','Seán','Ruth','Liam','Aisha'];
   const girls = ['Aoife','Niamh','Katie','Maeve','Grace','Millie','Sarah','Hannah','Chloe','Eva','Ruth','Aisha','Leila','Zara','Lucy','Erin','Sofia','Amara','Maya','Elena'];
   const surnames = ['Byrne','Murphy','O’Sullivan','Doyle','Flynn','Nolan','Kavanagh','Ryan','Walsh','Kelly','O’Donnell','Brennan','Fitzgerald','McCarthy','Keane','Moran','Quinn','Roche','Power','Gallagher','Casey','Connolly','Dunne'];
@@ -236,6 +260,48 @@
     show(card._profile, card._hasSsf);
   }
 
+  function buildClassJump(root) {
+    const currentFile = location.pathname.split('/').filter(Boolean).pop() || '';
+    const currentIndex = CLASS_PAGES.findIndex(([file]) => file === currentFile);
+    if (currentIndex < 0) return;
+
+    const nav = document.createElement('nav');
+    nav.className = 'class-map-jump';
+    nav.setAttribute('aria-label', 'Jump between class profiles');
+
+    const previousIndex = (currentIndex - 1 + CLASS_PAGES.length) % CLASS_PAGES.length;
+    const nextIndex = (currentIndex + 1) % CLASS_PAGES.length;
+
+    const previous = document.createElement('a');
+    previous.className = 'class-map-jump-arrow';
+    previous.href = new URL(CLASS_PAGES[previousIndex][0], location.href).href;
+    previous.setAttribute('aria-label', `Previous class: ${CLASS_PAGES[previousIndex][1]}`);
+    previous.textContent = '←';
+
+    const select = document.createElement('select');
+    select.className = 'class-map-jump-select';
+    select.setAttribute('aria-label', 'Choose class profile');
+    CLASS_PAGES.forEach(([file, label], index) => {
+      const option = document.createElement('option');
+      option.value = new URL(file, location.href).href;
+      option.textContent = label;
+      option.selected = index === currentIndex;
+      select.appendChild(option);
+    });
+    select.addEventListener('change', () => {
+      if (select.value) location.href = select.value;
+    });
+
+    const next = document.createElement('a');
+    next.className = 'class-map-jump-arrow';
+    next.href = new URL(CLASS_PAGES[nextIndex][0], location.href).href;
+    next.setAttribute('aria-label', `Next class: ${CLASS_PAGES[nextIndex][1]}`);
+    next.textContent = '→';
+
+    nav.append(previous, select, next);
+    root.prepend(nav);
+  }
+
   document.addEventListener('keydown', (event) => {
     if (!dialog.open) return;
     if (event.key === 'ArrowLeft') {
@@ -254,6 +320,7 @@
     const grid = document.createElement('div');
     const allGirlGroup = root.dataset.group === 'girls' || /all[- ]girl/i.test(document.title);
     grid.className = 'class-map-grid';
+    buildClassJump(root);
     root.appendChild(grid);
 
     for (let n = 0; n < count; n++) {
@@ -281,7 +348,7 @@
       grid.appendChild(card);
     }
 
-    const slotCount = Math.max(DESKTOP_COLUMNS, Math.ceil(count / DESKTOP_COLUMNS) * DESKTOP_COLUMNS);
+    const slotCount = Math.max(MIN_SEAT_SLOTS, Math.ceil(count / DESKTOP_COLUMNS) * DESKTOP_COLUMNS);
     for (let n = count; n < slotCount; n++) {
       const empty = document.createElement('div');
       empty.className = 'class-map-empty';
