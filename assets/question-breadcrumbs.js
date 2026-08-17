@@ -121,24 +121,105 @@
     });
   };
 
+  const sourcePathsByPage = {
+    'teaching-learning.html': 'content/practice/teaching-learning.md',
+    'classroom-management.html': 'content/practice/classroom-management.md',
+    'sen-inclusion.html': 'content/practice/sen-inclusion.md',
+    'differentiation-accessibility.html': 'content/practice/differentiation-accessibility.md',
+    'assessment-reporting.html': 'content/practice/assessment-reporting.md',
+    'planning-curriculum.html': 'content/practice/planning-curriculum.md',
+    'relationships-wellbeing.html': 'content/practice/relationships-wellbeing.md',
+    'professional-practice.html': 'content/practice/professional-practice.md',
+    'timeline.html': 'content/timeline/teaching-experience.md',
+    'school-research.html': 'content/schools/st-patricks.md',
+    'glossary.html': 'content/reference/glossary.md',
+    'policies.html': 'content/policies/policies.md',
+    'word-wall.html': 'content/reference/word-wall.md'
+  };
+
+  const cleanHeadingForEdit = value => (value || '')
+    .replace(/^\s{0,3}#{1,6}\s+/, '')
+    .replace(/\s+#+\s*$/, '')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/[*_`~]/g, '')
+    .replace(/&amp;/gi, '&')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;|&apos;/gi, "'")
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toLowerCase();
+
+  const sourcePathForCurrentPage = pageEdit => {
+    const explicit = pageEdit?.dataset?.sourcePath;
+    if (explicit) return explicit;
+    const pageName = decodeURIComponent(location.pathname.split('/').filter(Boolean).pop() || '');
+    return sourcePathsByPage[pageName] || null;
+  };
+
+  const resolveNearbyEditTargets = async (pageEdit, entries) => {
+    const sourcePath = sourcePathForCurrentPage(pageEdit);
+    if (!sourcePath || !entries.length) return;
+
+    const encodedPath = sourcePath.split('/').map(encodeURIComponent).join('/');
+    const rawUrl = `https://raw.githubusercontent.com/ronandownes/education/main/${encodedPath}`;
+
+    try {
+      const response = await fetch(rawUrl, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const lines = (await response.text()).split(/\r?\n/);
+      const lineMap = new Map();
+
+      lines.forEach((line, index) => {
+        if (!/^\s{0,3}##\s+/.test(line)) return;
+        const key = cleanHeadingForEdit(line);
+        if (!key) return;
+        if (!lineMap.has(key)) lineMap.set(key, []);
+        lineMap.get(key).push(index + 1);
+      });
+
+      const used = new Map();
+      entries.forEach(({ link, sourceHeading }) => {
+        const key = cleanHeadingForEdit(sourceHeading);
+        const matches = lineMap.get(key);
+        if (!matches?.length) return;
+
+        const occurrence = used.get(key) || 0;
+        const lineNumber = matches[Math.min(occurrence, matches.length - 1)];
+        used.set(key, occurrence + 1);
+
+        link.href = `https://github.com/ronandownes/education/edit/main/${encodedPath}#L${lineNumber}`;
+        link.textContent = 'Edit here';
+        link.title = `Edit this section at source line ${lineNumber}`;
+      });
+    } catch (_) {
+      // The Pages CMS text-fragment fallback below is still useful if source lookup fails.
+    }
+  };
+
   const addNearbyEditLinks = body => {
     const pageEdit = document.querySelector('.doc-toolbar .edit-link[href]');
     if (!pageEdit?.href) return;
 
+    const entries = [];
     body.querySelectorAll(':scope > h2').forEach(heading => {
       if (heading.dataset.sectionEditPrepared === 'true') return;
       if (heading.classList.contains('interview-appendix-source')) return;
 
+      const sourceHeading = (heading.textContent || '').trim();
       const link = document.createElement('a');
       link.className = 'section-edit-nearby';
-      link.href = pageEdit.href;
+      link.href = `${pageEdit.href.split('#')[0]}#:~:text=${encodeURIComponent(sourceHeading)}`;
       link.target = '_blank';
       link.rel = 'noopener';
-      link.textContent = 'Edit';
-      link.title = `Edit this page near “${(heading.textContent || '').trim()}”`;
+      link.textContent = 'Edit here';
+      link.title = `Edit this page near “${sourceHeading}”`;
       heading.insertAdjacentElement('afterend', link);
       heading.dataset.sectionEditPrepared = 'true';
+      entries.push({ link, sourceHeading });
     });
+
+    if (entries.length) resolveNearbyEditTargets(pageEdit, entries);
   };
 
   const ensureStyle = () => {
