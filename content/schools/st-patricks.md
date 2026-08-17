@@ -16,6 +16,7 @@ intro: Learn the school through short interview answers, retrieval chains and au
 | Mission | What is the mission in memorable language? |
 | Maths and SEN fit | Why is this post a strong fit for me? |
 | AEN and inclusion | What do I know about additional educational needs? |
+| Autism-friendly direction | What stands out about the school's autism work? |
 | Inbhear | What does Inbhear mean? |
 | Inspection evidence | What did the 2025 AEN evaluation highlight? |
 | Curriculum pathways | What pathways does the school provide? |
@@ -56,9 +57,21 @@ intro: Learn the school through short interview answers, retrieval chains and au
 
 **Key line: AEN is visible in the school's mainstream operating model, not treated as a separate add-on.** The school highlights Inbhear, L2LP and Senior Cycle Level 2 learning, autism-friendly work, team teaching, support teaching, SNA support, small-group or individual support, and curricular adjustment where identified need requires it.
 
+## Autism-friendly direction — What stands out about the school's autism work?
+
+**Key line: The direction is wider than specialist provision alone — the school is trying to make the whole school more autism-friendly.** Inbhear remains the school's dedicated ASD area, but St Patrick's is also participating in the **AsIAm Autism Friendly Schools Programme**, which explicitly looks at **teaching and learning, inclusive school culture, leadership and management, and staff professional development**. That is significant because it shifts the question from “what support exists in the autism area?” to “how accessible is the whole school?”
+
+There are several named strands worth remembering: **Inbhear**, **L2LP and Senior Cycle L2**, **Bláth** — the planned sensory garden, **Farm Safe Schools** work involving Inbhear/L2LP students, and the **2026 Home-Based Summer Programme**. The school also has a history of bringing autism expertise into the community, including Middletown Centre for Autism training for parents and educators.
+
+The interview connection I would make is that inclusion is not simply placing an autistic student in a mainstream building. It is deliberately improving the environment, communication, teaching, transitions, regulation support, participation and staff understanding so that the student can belong and become increasingly independent.
+
 ## Inbhear — What does Inbhear mean?
 
-**Key line: Inbhear means estuary, linking the Shannon Estuary with each student's individual educational journey.** The metaphor helps me remember that progress is not always linear: students meet different currents, transitions and barriers, so the teacher needs patience, regulation support, a safe route back into learning and consistently high expectations.
+**Key line: Inbhear means estuary — a transition space where the familiar river meets the wider sea.** The school's own explanation links the Shannon Estuary with the student's educational journey. I would take the metaphor one step further: an estuary is not the destination and it is not simply movement of water. It is a protected transition between two environments, where conditions become more complex.
+
+For autistic students that is a powerful image. Our role is not to shelter students permanently from the wider world, but to help them develop **regulation, resilience, independence, coping strategies and confidence** so they can participate, belong and succeed as the environment becomes less predictable.
+
+**Recall line: Inbhear is not a shelter from the ocean; it is a place where we prepare students for it.**
 
 ## Inspection evidence — What did the 2025 AEN evaluation highlight?
 
@@ -106,16 +119,22 @@ intro: Learn the school through short interview answers, retrieval chains and au
 |---|---|---|---|---|
 | 1966 | excellence | Inbhear | relationships | Mathematics |
 | first comprehensive | equality of opportunity | estuary | high expectations | SEN / AEN |
-| Shannon | disciplined and caring | L2LP | restorative | mixed ability |
-| 765 students | potential | regulation | evidence | learning support |
-| co-educational | community | access | collaboration | LCA |
-| roll 81007U | joint trusteeship | identified need | proportionality | contribution |
+| Shannon | disciplined and caring | AsIAm | restorative | mixed ability |
+| 765 students | potential | L2LP | evidence | learning support |
+| co-educational | community | regulation | collaboration | LCA |
+| roll 81007U | joint trusteeship | access | proportionality | contribution |
+| comprehensive | belonging | Bláth | transition | inclusive practice |
 
 ## Sources
 
 - [Official school overview, history, mission and ethos](https://www.stpatrickscomprehensive.ie/about-us.html)
 - [Official AEN and Inbhear area](https://www.stpatrickscomprehensive.ie/aen.html)
+- [Official Autism Friendly Schools page](https://www.stpatrickscomprehensive.ie/autism-friendly-schools.html)
+- [Official News from Inbhear](https://www.stpatrickscomprehensive.ie/news-from-inbhear.html)
 - [Official L2LP information](https://www.stpatrickscomprehensive.ie/l2lps.html)
+- [Official Farm Safe Schools page](https://www.stpatrickscomprehensive.ie/farm-safe-schools.html)
+- [Official Bláth sensory garden page](https://www.stpatrickscomprehensive.ie/blaacuteth-garden.html)
+- [Official 2026 Home-Based Summer Programme page](https://www.stpatrickscomprehensive.ie/home-based-summer-programme-2026.html)
 - [Department of Education school and inspection reports](https://www.gov.ie/en/department-of-education/school-inspection-reports/st-patricks-comprehensive-school-2/)
 - [Current 2026 vacancy evidence for school type and enrolment](https://www.educationposts.ie/post/view/249892)
 
