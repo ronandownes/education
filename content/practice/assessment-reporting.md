@@ -6,36 +6,9 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Elicit evidence, interpret it, give actionable feedback, build student
   agency and report progress clearly.
 ---
-## Assessment, Feedback & Reporting Retrieval Chains
+## Respond  to parent said their daughter was struggling to understand your teaching?
 
-
-| Concept | Retrieval chain |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Assess learning | Elicit evidence → questioning/observation/MWB/work/retrieval/formal → interpret thinking → understanding/misconceptions/fluency/reasoning → next step |
-| Starting point | Handover/prior attainment → diagnostic/retrieval/Q/observation/explanations → strengths/gaps/misconceptions/barriers → defensible starting point |
-| Hinge question | Plausible distractors → likely misconceptions → whole-class response → see pattern quickly → infer thinking → respond → recheck |
-| Barrier vs misconception | Keep demand → change access route → simplify irrelevant language/represent/read aloud/oral response → concept appears? barrier → error remains? misconception |
-| After the mark | Mark → interpret evidence → error analysis → class/individual pattern → re-teach/practise/re-rep/challenge → check again → close loop |
-| AfL | LI + SC → elicit evidence during learning → interpret → responsive action → pace/re-teach/re-rep/challenge → feedback loop |
-| Assessment as learning | SC + exemplars → self/peer assessment → reflection → identify strength + development → metacognition/ownership/self-regulation → independence |
-| Assessment of learning | Summative snapshot → test/common assessment/exam/performance → record attainment → professional judgement → validity/reliability |
-| Effective feedback | Timely → focused → specific → linked to SC → strength + manageable development → actionable prompt → student acts → reattempt |
-| Live feedback | Circulate → Q/assessment conversation/prompt → misconception/reasoning/SC → immediate correction/redirection → check again |
-| Written & whole-class feedback | Durable specific need? written → common pattern? whole-class → examples/exemplars → time to correct/redraft → avoid low-impact marking |
-| Self-assessment | Clear SC → enough subject knowledge → exemplars/checklist/prompts → strength + development + next step → metacognition/self-regulation |
-| Peer assessment | Structure + respectful culture → SC + exemplars → focused prompt → evidence of success + one improvement → teacher judgement retained |
-| Success criteria | Derive from LI → clear language/examples/exemplars → visible quality → guide Q/self/peer/feedback → focus on important learning |
-| Retrieval as assessment | Low-stakes retrieval → retention without prompts → misconceptions returning → evidence over time → revisit/re-teach/practise/challenge |
-| Common assessments | Shared expectations/reliability/comparison → align with taught content → beware access/starting point/sequence → error analysis + wider evidence |
-| Validity & reliability | Validity = right construct → reliability = consistent enough → clear SC/suitable tasks/enough evidence → remove irrelevant barriers |
-| Accessible assessment | Intended learning first → preserve demand/SC → clear language/layout/accommodation/alternative response → processing needs → barrier removed, construct unchanged |
-| Digital assessment | Use if better/faster evidence → whole-class response/immediate feedback/retry → check validity → combine with Q/discussion/work for reasoning |
-| Progress vs attainment | Attainment = standard reached → progress = movement from start → evidence/work/records → strengths + development → clear next step |
-| Record keeping | Required formal results + useful formative patterns → progress/attainment/misconceptions → proportionate → planning/parents/reporting/judgement |
-| Parent communication | Clear evidence → attainment + progress + strengths + development + next step → distinguish mark from pattern → avoid labels/ceilings |
-| Reporting | Accurate + evidence-informed + useful → attainment/progress/strengths/development → clear language → procedures → where now + next step |
-| Review assessment | Valid evidence? → students act on feedback? → review Q/tasks/feedback/redrafting/follow-up → compare with work/common evidence → adjust |
-
+If a parent tells me their daughter is struggling to understand, I listen carefully, acknowledge the concern and avoid becoming defensive. I explain what I am seeing from assessment evidence, student work and classroom participation, and try to identify the specific barrier or misconception rather than simply focusing on a mark. I outline the supports I can put in place — for example re-teaching, changing representation, additional scaffolding or targeted practice — and agree a clear next step with the parent and student. I then monitor progress and follow up, so the communication becomes part of supporting improvement rather than simply reporting a problem.
 
 ## Assess learning — How do you assess learning in your classroom?
 
@@ -58,8 +31,6 @@ I change the access route while keeping the learning demand constant. I might re
 The mark is the start of the response, not the end of assessment. I interpret evidence, use error analysis to identify class-wide and individual patterns, and decide the next step. That may mean re-teach, targeted practice, change representation or increase challenge. I then check again to see whether the gap has closed; that is closing the loop.
 
 ## AfL — What is Assessment for Learning?
-
-
 
 Assessment for Learning is the use of evidence during learning to decide what happens next. It is particularly effective when learning intentions and success criteria are clear. I implement it by eliciting evidence through questioning, observation, student work, mini-whiteboards, exit tickets and other formative assessment strategies. I interpret that evidence in real time and use it to make my teaching responsive — adjusting representation, pace, entry points, support and challenge, and deciding whether students need re-teaching, targeted practice, consolidation or extension. Most importantly, Assessment for Learning creates a continuous feedback loop between evidence and teaching, allowing me to respond more precisely to what students need.
 
@@ -190,8 +161,6 @@ I look at whether assessment is producing valid evidence and whether students ac
 
 
 
-
-&nbsp;
 
 &nbsp;
 
