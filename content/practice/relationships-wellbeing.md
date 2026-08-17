@@ -147,9 +147,11 @@ If what I notice moves beyond ordinary pastoral support into a welfare or child-
 
 
 
-&nbsp;
+## Communicating with parents — What would you do if a parent was concerned about your teaching?
 
-&nbsp;
+I would listen carefully first and avoid becoming defensive, because the parent’s concern is ultimately about their daughter. I would clarify exactly what she is finding difficult — whether it is pace, explanations, workload, confidence or exam pressure — and then explain how I am monitoring her learning through classwork, questioning, homework and assessment. I would keep the conversation focused on evidence and on what will help the student, and if something in my approach is not working for her, I would be prepared to adapt it through clearer explanation, additional scaffolding, targeted practice or changes in pace. I would agree practical next steps with the parent and student, follow up to see whether they are working, and involve the year head, guidance or other relevant support if the concern extends beyond my classroom.
+
+
 
 
 | **Trust** | **Notice** | **Regulate** | **Support** | **Safeguard** |
