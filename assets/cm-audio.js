@@ -393,6 +393,7 @@ resetSources();
 clearActiveHeading();
 clearActiveTarget();
 updatePauseButton();
+stopButton.hidden = false;
 player.hidden = true;
 };
 const stop = () => {
@@ -446,7 +447,8 @@ activeSource?.classList.add('is-active');
 status.textContent = title;
 updatePauseButton();
 const isQuestionButton = source?.classList.contains('cm-question-play');
-player.hidden = isQuestionButton;
+stopButton.hidden = isQuestionButton;
+player.hidden = false;
 delayTimer = window.setTimeout(() => speakNext(sessionId), 60);
 };
 const pause = () => {
