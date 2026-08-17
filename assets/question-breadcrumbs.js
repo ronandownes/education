@@ -12,18 +12,18 @@
   const body = document.getElementById('docBody');
   if (!body) return;
 
-  const generalAnswers = {
-    '/teaching-learning.html': 'I plan carefully around a clear learning intention and the students in front of me. I teach and model clearly, scaffold where needed, then secure learning through retrieval and purposeful practice. I keep students thinking through questioning, explanation and problem-solving, use evidence to adapt support or challenge, and consolidate the learning before deciding the next step.',
-    '/classroom-management.html': 'Good classroom management creates a purposeful, predictable climate where students know the expectations and can learn. I use clear routines, task clarity, active supervision and positive relationships, and I intervene early rather than allowing small issues to grow. I aim to be calm, fair and consistent, with high expectations and a strong sense of belonging.',
-    '/sen-inclusion.html': 'I start with the learner, not the label. I identify strengths, needs and barriers using the Student Support File, classroom evidence and student voice, then adapt access and support without lowering expectations. I review whether the support is increasing participation, individual progress and learner independence, and I change or fade it when the evidence says I should.',
-    '/differentiation-accessibility.html': 'I keep the core learning common and ambitious, then vary the entry point, scaffolding, representation, pace and challenge according to evidence and student profile. I prioritise removing access barriers before lowering demand or expectations, use formative assessment to decide how to adapt, and fade support as students become more secure. The goal is meaningful participation, productive struggle and learner independence.',
-    '/assessment-reporting.html': 'I use assessment to gather evidence of what students understand, where misconceptions or barriers remain, and what should happen next. I combine questioning, observation, student work, retrieval, mini-whiteboards, quizzes and formal assessment, then use the evidence to adapt teaching, give actionable feedback and report progress clearly. The purpose is not simply to record a mark, but to improve learning.',
-    '/planning-curriculum.html': 'My planning starts with the learner and the evidence. I align, map and sequence learning with the curriculum, and use UDL and cognitive load theory to design for access and challenge. Assessment is built in from the outset, and I adapt continuously in response to formative evidence. The plan is clear and structured enough to provide direction, predictability and support student wellbeing, while remaining flexible enough to respond to emerging needs.',
-    '/relationships-wellbeing.html': 'Relationships create the relational safety students need to take intellectual risks, ask for help, persist and recover from mistakes. I build trust through consistency, respect, fairness and positive regard while keeping high expectations clear. I notice changes in participation, attendance or presentation, respond calmly and use the school’s pastoral and safeguarding structures when support needs to go beyond my classroom role.',
-    '/professional-practice.html': 'Professional responsibility means being reliable, prepared and accountable for the quality and safety of my work. I act with integrity, fairness and respect, maintain professional boundaries and confidentiality, follow school policy and exercise professional judgement. It also means contributing to colleagues and school life rather than seeing responsibility as ending at my classroom door.'
+  const generalAnswerHeadings = {
+    '/teaching-learning.html': 'General approach',
+    '/classroom-management.html': 'Good classroom management',
+    '/sen-inclusion.html': 'General approach',
+    '/differentiation-accessibility.html': 'General approach',
+    '/assessment-reporting.html': 'Assess learning',
+    '/planning-curriculum.html': 'General approach',
+    '/relationships-wellbeing.html': 'Relationships & learning',
+    '/professional-practice.html': 'Professional responsibility'
   };
 
-  const currentDomainPath = Object.keys(generalAnswers).find(path => location.pathname.endsWith(path));
+  const currentDomainPath = Object.keys(generalAnswerHeadings).find(path => location.pathname.endsWith(path));
 
   const removableHeading = text => {
     const value = (text || '').replace(/\s+/g, ' ').trim();
@@ -32,8 +32,13 @@
       || /retrieval\s+(?:draft|chains?|map|table)/i.test(value);
   };
 
+  const normaliseHeading = value => (value || '')
+    .replace(/^\s*\d+[.)]?\s+/, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
   const isInterviewHeading = heading => {
-    const value = (heading?.textContent || '').replace(/\s+/g, ' ').trim();
+    const value = normaliseHeading(heading?.textContent);
     return heading?.tagName === 'H2'
       && /\s+—\s+/.test(value)
       && !removableHeading(value);
@@ -117,9 +122,25 @@
     });
   };
 
+  const answerAfter = heading => {
+    let node = heading?.nextElementSibling;
+    while (node && node.tagName !== 'H2') {
+      if (node.matches?.('p, ul, ol, blockquote') && node.textContent.trim()) return node.textContent.replace(/\s+/g, ' ').trim();
+      node = node.nextElementSibling;
+    }
+    return '';
+  };
+
   const putGeneralAnswerInIntroduction = () => {
     if (!currentDomainPath) return;
-    const answer = generalAnswers[currentDomainPath];
+    const wanted = generalAnswerHeadings[currentDomainPath].toLowerCase();
+    const heading = Array.from(body.querySelectorAll(':scope > h2')).find(item => {
+      const text = normaliseHeading(item.textContent).toLowerCase();
+      return text === wanted || text.startsWith(`${wanted} —`) || text.startsWith(`${wanted} -`);
+    });
+    const answer = answerAfter(heading);
+    if (!answer) return;
+
     const paper = document.querySelector('.doc-paper');
     const toolbar = paper?.querySelector('.doc-toolbar');
     if (!paper || !toolbar) return;
@@ -133,11 +154,6 @@
 
     if (intro.textContent.trim() !== answer) intro.textContent = answer;
   };
-
-  const sectionLabel = heading => (heading?.textContent || '')
-    .replace(/^\s*\d+[.)]?\s+/, '')
-    .replace(/\s+/g, ' ')
-    .trim();
 
   const setupFloatingEdit = () => {
     let floating = document.getElementById('floating-section-edit');
@@ -205,7 +221,7 @@
         if (heading.getBoundingClientRect().top <= marker) active = heading;
       });
 
-      const label = sectionLabel(active);
+      const label = normaliseHeading(active?.textContent);
       const base = floating.dataset.cmsBase;
       floating.href = label ? `${base}#:~:text=${encodeURIComponent(label)}` : base;
       floating.title = label ? `Edit near “${label}”` : 'Edit this page';
