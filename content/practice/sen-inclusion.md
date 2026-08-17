@@ -67,9 +67,17 @@ For a student with ADHD, I support the executive functions that may be affected,
 - attention, 
 - working memory, 
 - organisation and 
-- task initiation. 
+- task initiation.
 
 I use clear routines, chunked instructions, visual cues and regular checks for understanding. I reduce unnecessary cognitive load and allow appropriate opportunities for movement and re-engagement. I maintain clear expectations while progressively building self-management and independence.
+
+
+
+## How do you promote task initiation?
+
+I make the starting point clear, manageable and predictable.  
+I chunk the task, model the first step and use a visual prompt or worked example where helpful.  
+Then I check the student has started successfully and gradually reduce the support.
 
 
 
