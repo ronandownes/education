@@ -1,13 +1,9 @@
 ---
 layout: doc
-title: Appendix
+title: Home Page
 eyebrow: INTERVIEW MASTER RESOURCES
 ---
-- Yes — I’ve changed the class-profile system in that direction.
-
-  The **Second Year Ordinary class is now 13 students**, rather than the oversized 18/24 it had before. I’ve also varied the other synthetic classes deliberately: **8, 9, 11, 12, 13 and 14** now occur across the different profiles, so they won’t all feel like artificially large classes.
-
-  I also changed the visual system. Rather than relying on that portrait sheet — including the student who looked noticeably too old — **every card now gets its own synthetic illustrated, school-age portrait**. The grid is also more compact: **7 students across on a wide screen**, falling responsively to 6, 5, 3 and 2 depending on screen width. So a 13- or 14-person class should essentially be **two neat rows of faces**, which is much closer to what you were describing.
+- 
   # Team Teaching
   ## Key Line
 
