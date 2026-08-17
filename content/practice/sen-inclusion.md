@@ -6,13 +6,12 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## AEN & Inclusion Retrieval Chains
 
-
 | Concept | Retrieval chain |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | General approach | Learner not label → strengths/needs/barriers → SSF + evidence + voice → adapt access/support → keep expectations → review participation/progress/independence → change/fade |
 | Identify needs | Handover/SSF/prior/attendance/accommodations → observe work/check understanding/voice → strengths + needs → access barriers → classroom picture |
 | Learner profile | Strengths/needs → aspirations/interests → prior attainment → communication/sensory/attendance/supports → current evidence → update understanding |
-| Student Support File | Strengths + priority need → short-term target → accommodation/strategies → classroom decisions → contribute evidence → record/review |
+| Student Support File | Cover + support level → log of actions → checklist/evidence → action needed → support plan → review record → outcome/next level |
 | Evaluate support | Access + participation + progress + independence → work/engagement/checks/prompting → student voice → monitor/evaluate with team → adapt if needed |
 | Independence | Meaningful participation → scaffold/prompt/reduced first step → fade support → check understanding → transfer to ordinary tasks → independence |
 | Autism | Learner profile → predictability/routines → explicit language/visuals → processing + sensory + communication → reduce public pressure → maintain challenge |
@@ -35,7 +34,6 @@ eyebrow: PROFESSIONAL PRACTICE
 | High expectations | Strengths/aspirations/interests → ambitious common learning → support access, don’t remove challenge → needs ≠ potential → evidence capability → adjust challenge |
 | Review support | Short-term target → work/checks/participation/voice → monitor progress → evaluate with team → continue/change/fade → record/review → access/progress/independence |
 
-
 ## General approach — What is your general approach to AEN and inclusion?
 
 I start with the learner, not the label. I identify strengths, needs and barriers using the Student Support File, classroom evidence and student voice, then adapt access and support without lowering expectations. I review whether the support is increasing participation, individual progress and learner independence, and I change or fade it when the evidence says I should.
@@ -46,11 +44,11 @@ I start by building a picture of the student from the information already availa
 
 ## Learner profile — What do you look for in a learner profile?
 
-A learner profile brings together strengths, needs, aspirations, interests, prior attainment and the context in which the student learns. It can include a communication profile, sensory profile, attendance, preferred supports and current evidence. I use it to guide short term  and long term decisions while avoiding  fixed labels, and I update my understanding as individual progress becomes visible.
+A learner profile brings together strengths, needs, aspirations, interests, prior attainment and the context in which the student learns. It can include a communication profile, sensory profile, attendance, preferred supports and current evidence. I use it to guide short term and long term decisions while avoiding fixed labels, and I update my understanding as individual progress becomes visible.
 
-## Student Support File — How do you use a Student Support File?
+## Student Support File — Can you describe the structure of a Student Support File from start to finish, and explain how you use it?
 
-I start with the Student Support File to build an individual picture of the learner — their strengths, identified needs, current targets, previous strategies and progress. I use that, alongside my own assessment and observation, to plan appropriate teaching and support and to review progress over time.
+I think of the Student Support File from top to bottom. It begins with the **cover and current level of support**, followed by a **log of actions** recording important meetings, assessments, contacts, supports and changes. The **support checklist** then gathers relevant evidence — including prior information, assessment, observation, student discussion, parent or guardian consultation, adaptations already tried and advice from relevant staff or professionals — before identifying the **action needed**. The **Support Plan** sets out the student's strengths and interests, priority concerns, possible reasons for those concerns, specific short-term targets, the strategies, staff and resources needed, and consultation or agreement around the plan. The **Support Review Record** then asks what has worked, what has changed, whether needs have changed, what should happen next, and includes student and parent or guardian voice before deciding whether support should reduce, continue, increase or involve consultation with other professionals. It is a working record for planning and reviewing support; it is **not a diagnosis, not an exhaustive list of everything the student finds difficult, and not a static document**.
 
 ## Evaluate support — How do you know whether an AEN support is working?
 
@@ -63,8 +61,6 @@ Support should enable meaningful participation while progressively transferring 
 ## ADHD — How do you support a student with ADHD?
 
 For a student with ADHD, I structure the environment to reduce unnecessary executive-function demands. I make routines, instructions and task sequences explicit, support organisation and task initiation, and use chunking, visual cues and regular checks for understanding. I reduce working-memory load, anticipate difficulties with sustained attention and inhibition, and build in appropriate opportunities for movement or re-engagement. I interpret behaviour in the context of the learner’s profile rather than assuming non-compliance, while maintaining clear expectations and progressively building self-management and independence.
-
-
 
 ## Dyslexia — How do you support dyslexia in Maths or Science?
 
@@ -134,10 +130,7 @@ I actively guard against additional needs becoming low expectations. I begin wit
 
 I review support systematically rather than leaving it in place indefinitely. I monitor progress against the short-term target, gather student work, checking understanding, participation data and student voice, and evaluate impact with the AEN coordinator and relevant team. We record and review what should continue, change or fade. The aim is coordinated support that increases access, individual progress and learner independence.
 
-
-
 ## AEN & Inclusion Word Wall
-
 
 | **Learner** | **Barrier** | **Access** | **Support** | **Impact** |
 | ------------------------- | -------------------------- | ---------------------------- | ---------------------------- | ------------------------ |
@@ -154,16 +147,14 @@ I review support systematically rather than leaving it in place indefinitely. I 
 | Sensory profile (3) | Sensory needs (1) | Multiple representations (2) | SNA support (2) | Shared planning (2) |
 | Individual progress (5) | General learning needs (1) | Retrieval (2) | L1LP / L2LP (1) | Parents / guardians (1) |
 
-
 ## AEN & Inclusion Concepts and Questions
-
 
 | **AEN concept** | **Interview question** |
 | ------------------------------ | --------------------------------------------------------------------------------- |
 | **General approach** | What is your general approach to AEN and inclusion? |
 | **Identify needs** | How do you identify the educational needs of your students? |
 | **Learner profile** | What do you look for in a learner profile? |
-| **Student Support File** | How do you use a Student Support File? |
+| **Student Support File** | Can you describe the structure of a Student Support File from start to finish, and explain how you use it? |
 | **Evaluate support** | How do you know whether an AEN support is working? |
 | **Independence** | How do you make sure support builds participation and independence? |
 | **Autism** | How do you support an autistic student? |
@@ -186,12 +177,9 @@ I review support systematically rather than leaving it in place indefinitely. I 
 | **High expectations** | How do you avoid additional needs becoming low expectations? |
 | **Review support** | How do you review AEN support over time? |
 
-
 ## Blank Student Support File — Practice Form
 
 This is a **practice version based directly on the seven-page Student Support File example**. It is here so you can see the whole structure and practise completing it from empty. **Use synthetic or anonymised information only — do not enter identifiable student information on this public site.**
-
-
 
 Student Support File — Cover
 
@@ -205,7 +193,6 @@ Log of Actions
 
 A running record of important actions: meetings, assessments, contacts, supports introduced, reviews and changes.
 
-
 | Date | Action |
 | ---- | ------ |
 |  |  |
@@ -215,11 +202,9 @@ A running record of important actions: meetings, assessments, contacts, supports
 |  |  |
 |  |  |
 
-
 Support Checklist
 
 NameAgeClass
-
 
 | General information | Date checked | Comments / evidence |
 | ---------------------------------------------------------------- | ------------ | ------------------- |
@@ -240,7 +225,6 @@ NameAgeClass
 | Advice from learning support / AEN teacher or other school staff |  |  |
 | Other interventions put in place in school |  |  |
 
-
 Action needed
 
 Support Plan
@@ -252,41 +236,29 @@ Student's nameAgeLead teacherClass / yearStart date of planReview date of plan
 **Student's strengths and interests**
 What the student does well, enjoys, values or responds positively to. Include strengths that can be used to support learning.
 
-
-
 &nbsp;
 
 **Priority concerns**
 **Plain English:** the small number of important learning, access, participation or independence problems you are choosing to address *now*. This is not the diagnosis and not a list of everything the student finds difficult. Ask: **what is most getting in the way of learning or participation at the moment?**
-
-
 
 &nbsp;
 
 **Possible reasons for concerns**
 Your evidence-based working explanation of what may be contributing to the concern — not blame and not a new diagnosis. Draw on observation, assessment, student voice, prior information and response to previous support.
 
-
-
 &nbsp;
 
 **Targets for the student**
 Specific short-term outcomes. State what the student will do and, where useful, the context, level of independence, frequency or success criterion.
-
-
 
 &nbsp;
 
 **Strategies to help the student achieve the targets**
 What staff will actually do: teaching approaches, scaffolds, accommodations, routines, prompts, resources and opportunities for practice.
 
-
-
 &nbsp;
 
 **Staff involved and resources needed**
-
-
 
 &nbsp;
 
@@ -308,4 +280,3 @@ Parent / guardian name or consultation recordTeacher(s) / reviewer
 **Outcome of review** Revert to previous level of support Continue at current level of support Progress to next level of support Request consultation with other professionals
 
 Clear practice form
-
