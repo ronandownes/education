@@ -1,4 +1,14 @@
 (() => {
+  if (window.__rdQuestionFocusSetup) return;
+  window.__rdQuestionFocusSetup = true;
+
+  if (!Array.from(document.scripts).some(script => /\/assets\/answer-focus\.js(?:\?|$)/.test(script.src || ''))) {
+    const focusScript = document.createElement('script');
+    focusScript.src = new URL('answer-focus.js?v=20260817-1024', document.currentScript?.src || location.href).href;
+    focusScript.dataset.answerFocus = 'true';
+    document.head.appendChild(focusScript);
+  }
+
   const body = document.getElementById('docBody');
   if (!body) return;
 
@@ -6,7 +16,14 @@
     const value = (text || '').replace(/\s+/g, ' ').trim();
     return /word wall/i.test(value)
       || /concepts?\s+(?:&|and)\s+questions/i.test(value)
-      || /retrieval draft/i.test(value);
+      || /retrieval\s+(?:draft|chains?|map|table)/i.test(value);
+  };
+
+  const isInterviewHeading = heading => {
+    const value = (heading?.textContent || '').replace(/\s+/g, ' ').trim();
+    return heading?.tagName === 'H2'
+      && /\s+—\s+/.test(value)
+      && !removableHeading(value);
   };
 
   const removeSections = () => {
@@ -30,16 +47,48 @@
     });
   };
 
+  const unwrap = element => element.replaceWith(...element.childNodes);
+
+  const stripManualAnswerBolding = () => {
+    Array.from(body.querySelectorAll(':scope > h2')).forEach(heading => {
+      if (!isInterviewHeading(heading)) return;
+      let node = heading.nextElementSibling;
+      while (node && node.tagName !== 'H2') {
+        const next = node.nextElementSibling;
+        node.querySelectorAll?.('strong,b').forEach(unwrap);
+        if (node.matches?.('strong,b')) unwrap(node);
+        node = next;
+      }
+    });
+  };
+
   const pruneNavigation = () => {
     document.querySelectorAll('.dropmenu a').forEach(link => {
       if (removableHeading(link.textContent)) link.remove();
     });
   };
 
+  const removeRetrievalControls = () => {
+    document.querySelectorAll('.cm-audio-launchers button').forEach(button => {
+      const label = [
+        button.textContent,
+        button.title,
+        button.getAttribute('aria-label')
+      ].filter(Boolean).join(' ');
+      if (/breadcrumb|retrieval\s+(chain|map|draft|table)/i.test(label)) button.remove();
+    });
+
+    document.querySelectorAll('.cm-audio-launchers').forEach(group => {
+      if (group.querySelectorAll('button').length < 4) group.classList.remove('is-four-up');
+    });
+  };
+
   const clean = () => {
     removeSections();
     removeCountedWordWalls();
+    stripManualAnswerBolding();
     pruneNavigation();
+    removeRetrievalControls();
   };
 
   clean();
