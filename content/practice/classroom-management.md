@@ -4,43 +4,6 @@ permalink: /classroom-management.html
 title: Classroom Management
 eyebrow: PROFESSIONAL PRACTICE
 ---
-
-
-## Classroom Management Retrieval Chains
-
-
-| **Concept** | **Recall chain** |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Good classroom management** | Purposeful climate → clear routines → task clarity → active supervision → early response → positive relationships → high expectations → belonging |
-| **Establish expectations** | Clear routines → explain → model → rehearse → reinforce consistently → predictable response → trust |
-| **Learning-support expectations** | Age-appropriate expectations → predictable routines → explicit language → model and rehearse → processing time → adapt the route → independence |
-| **Temporary cover class** | Greet and register → check assigned work → state a few expectations → task clarity → circulate → normal school procedures → factual handover |
-| **Prevent problems** | Immediate start → task clarity → appropriate challenge → smooth transitions → seating → scan and circulate → respond early |
-| **Low-level disruption** | Presence → proximity → name or cue → reminder → redirect → choice → take-up time → follow-through |
-| **Persistent behaviour** | Notice pattern → restate boundary → seating or proportionate consequence → Code of Behaviour → factual record → monitor → refer if needed |
-| **Refusal** | Calm instruction → private correction → limited choice → take-up time → follow-through → keep the class learning → school procedure |
-| **Consequences** | Clear boundary → take-up time → predictable and proportionate consequence → follow-through → accountability → return to learning |
-| **Active supervision** | Circulate → scan → check learning and behaviour → proximity → support seating and transitions → prevent escalation |
-| **De-escalation** | Lower tone → pause → reduce audience → brief language → space and time → safety and boundary → revisit later |
-| **Dysregulation** | Regulate first → co-regulate → reduce language → processing or sensory support → dignity and safety → re-engage |
-| **AEN & behaviour** | Identify communication, sensory or regulation need → use the plan → adapt language, routine or processing → maintain boundary → dignity |
-| **Serious unsafe behaviour** | Safety → calm directions → reduce audience → school procedure → senior support → factual record → safeguarding if required |
-| **Practical safety** | Pre-teach routines → active supervision → stop unsafe behaviour → restate boundary → follow procedure → resume only when safe |
-| **Student leaves class** | Supervise the class → alert designated support → factual record → follow up the trigger → monitor → reintegrate safely |
-| **Student conflict** | Stop and separate → reduce audience → establish facts → follow procedure → restorative work when ready → accountability and repair |
-| **Restorative practice** | What happened → who was affected → acknowledge harm → accountability → what happens next → repair → reintegrate |
-| **Repair relationship** | Listen → behaviour not person → revisit expectation → problem-solve → acknowledge harm → fresh start → rebuild trust |
-| **Parent communication** | Factual early contact → behaviour and impact → steps already taken → listen → joint problem-solving → record actions |
-| **Record & follow up** | Factual record → identify pattern → monitor → refer through agreed support → confidentiality |
-| **Teamwork & referral** | Persistent pattern → share facts → tutor, year head, pastoral or AEN support → consistent response → parent where appropriate → safeguard immediately |
-| **Relationships & expectations** | Warmth and clear boundaries → fair consistency → listen → follow through → hope → trust |
-| **Transitions & seating** | Teach routines → predictable transitions → seating for learning → active supervision → adjust from evidence |
-| **Safeguarding** | Notice concern → immediate safety → do not investigate or promise secrecy → record facts → designated route → dignity |
-| **Review practice** | Evidence and patterns → student voice or colleague feedback → evaluate interventions → adjust routines, responses or support → monitor impact |
-
-
-
-
 ## Good classroom management — What would good classroom management look like in your classroom?
 
 Good classroom management creates a purposeful, predictable climate where students know the expectations and can learn. I use **clear routines**, **task clarity**, **active supervision** and **positive relationships**, and I intervene early rather than allowing small issues to grow. I aim to be calm, fair and consistent, with **high expectations** and a strong sense of **belonging**.
