@@ -39,7 +39,7 @@ intro: Elicit evidence, interpret it, give actionable feedback, build student
 
 ## Assess learning — How do you assess learning in your classroom?
 
-I use questioning, observation, mini-whiteboards, discussion, student work, retrieval, quizzes and performance tasks as well as formal assessments. I look at the quality of thinking, not only the final answer, and interpret evidence for understanding, misconceptions, fluency and reasoning. The purpose is to decide the next step: re-teach, practise, change representation, adjust pace or increase challenge.
+I use questioning, observation, mini-whiteboards, discussion, student work, retrieval, quizzes and performance tasks, as well as formal assessments. I look for **conceptual understanding, procedural fluency, strategic competence, adaptive reasoning and productive disposition**. I interpret that evidence for understanding, misconceptions, fluency and reasoning. The purpose is to decide the next step: re-teach, practise, change representation, adjust pace or increase challenge.
 
 ## Starting point — How do you establish a real starting point?
 
@@ -188,8 +188,6 @@ I look at whether assessment is producing valid evidence and whether students ac
 
 
 
-
-&nbsp;
 
 &nbsp;
 
