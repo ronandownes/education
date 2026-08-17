@@ -45,9 +45,9 @@ intro: Act with integrity, collaborate well, contribute to school life, keep
 
 ## Tell us about yourself / tell us about your experience
 
-**I am an experienced Mathematics and AEN teacher with a central focus on making Mathematics accessible while maintaining expectations.**
+I’m an experienced Maths, additional-needs and learning-support teacher. with a central focus on making Mathematics accessible while maintaining expectations.
 
-I have taught across programmes, but particularly in **mixed-ability, AEN and learning-support settings**, where adapting teaching while maintaining ambition is essential.
+I have taught across all main programmes, and **particularly I bring that approach into my work in mixed-ability, AEN and learning-support settings**, where adapting teaching while maintaining ambition is essential.
 
 I want students to **do and communicate Mathematics**, not simply reproduce procedures. I try to create a **dialogic Mathematics classroom** where students explain, question, justify, make connections and increasingly use mathematical language with confidence. I use technology where it genuinely improves access, visualisation or understanding, rather than simply for its own sake.
 
