@@ -3,6 +3,17 @@
   window.__rdQuestionBreadcrumbWrapper = true;
 
   const sourceUrl = document.currentScript?.src || location.href;
+  const interviewPaths = [
+    '/teaching-learning.html',
+    '/classroom-management.html',
+    '/sen-inclusion.html',
+    '/differentiation-accessibility.html',
+    '/assessment-reporting.html',
+    '/planning-curriculum.html',
+    '/relationships-wellbeing.html',
+    '/professional-practice.html'
+  ];
+  const isInterviewPage = interviewPaths.some(path => location.pathname.endsWith(path));
 
   // Interview heading convention:
   //   Short handle - Concise interview question?
@@ -21,6 +32,7 @@
   const localHandles = new Map();
 
   const applyQuestionHeadingSyntax = () => {
+    if (!isInterviewPage) return;
     const body = document.getElementById('docBody');
     if (!body) return;
 
