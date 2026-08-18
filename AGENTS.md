@@ -109,21 +109,21 @@ Keep Word Walls compact enough to print cleanly. Avoid wrapping a usage count on
 
 Use one simple editable convention for interview questions:
 
-`## Short handle - Concise interview question?`
+`## Short handle | Concise interview question?`
 
 Rules:
 
-- Use the ordinary keyboard **hyphen/minus** with one space on each side: ` - `.
+- Use the ordinary keyboard **pipe** as the structural separator: ` | `.
 - Keep the short handle brief, normally **one to four words**. It is the dropdown label.
 - Keep the question on the right concise and natural enough to be asked aloud in an interview.
 - The live page displays the question; the dropdown displays the short handle.
 - Do not use a comma, full stop or colon as the structural separator.
-- Legacy headings using an em dash are still supported by the site, but new and edited headings should use ` - `.
-- Do not use the separator inside the short handle itself. Ordinary hyphens inside words such as `low-level` are fine because they are not surrounded by spaces.
+- Legacy headings using an em dash or spaced hyphen may still be interpreted during migration, but new and edited interview questions should use ` | `.
+- Do not use `|` inside the short handle itself. Ordinary hyphens inside words such as `low-level` are fine.
 
 Example:
 
-`## Positive relationship - When has a positive relationship helped with classroom management?`
+`## Positive relationship | When has a positive relationship helped with classroom management?`
 
 ## Editing and Publishing
 

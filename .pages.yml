@@ -24,7 +24,7 @@ components:
       - { name: title, type: string, label: Title }
       - { name: eyebrow, type: string, label: Eyebrow }
       - { name: intro, type: text, label: Introduction }
-      - { name: body, type: rich-text, label: Answers }
+      - { name: body, type: rich-text, label: "Answers (handle | question)" }
 
 # ==============================================================
 # SIDEBAR ORDER

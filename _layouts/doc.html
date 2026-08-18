@@ -216,6 +216,24 @@
         <a class="edit-link" href="{{ cms_url }}" target="_blank" rel="noopener">Edit this page</a>
       </div>
       <div class="doc-body" id="docBody">{{ content }}</div>
+      <script>
+        (() => {
+          const body = document.getElementById('docBody');
+          if (!body) return;
+          body.querySelectorAll(':scope > h2, :scope > h3').forEach(heading => {
+            const raw = heading.textContent.replace(/\s+/g, ' ').trim();
+            const pipeIndex = raw.indexOf('|');
+            if (pipeIndex < 0) return;
+            const menuLabel = raw.slice(0, pipeIndex).trim();
+            const questionText = raw.slice(pipeIndex + 1).trim();
+            if (!menuLabel || !questionText) return;
+            heading.dataset.menuLabel = menuLabel;
+            heading.dataset.questionText = questionText;
+            heading.textContent = questionText;
+            heading.classList.add('interview-question-heading');
+          });
+        })();
+      </script>
     </article>
   </main>
   <script src="{{ '/assets/navigation.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
@@ -259,7 +277,9 @@
           const id = heading.id || `section-${index + 1}`;
           const link = document.createElement('a');
           link.href = `${pageUrl}#${id}`;
-          link.textContent = heading.textContent.trim();
+          const rawHeadingText = heading.textContent.trim();
+          const pipeIndex = rawHeadingText.indexOf('|');
+          link.textContent = heading.dataset.menuLabel || (pipeIndex >= 0 ? rawHeadingText.slice(0, pipeIndex).trim() : rawHeadingText);
           link.addEventListener('click', () => item.classList.remove('is-open'));
           menu.appendChild(link);
         });

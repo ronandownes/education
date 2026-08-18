@@ -36,83 +36,83 @@ eyebrow: PROFESSIONAL PRACTICE
 | **Review differentiation** | Access and participation → success criteria → work and questioning evidence → independence → identify dependence → adapt and recheck |
 
 
-## General approach — What is your general approach to differentiation and accessibility?
+## General approach | What is your general approach to differentiation and accessibility?
 
 Core learning common and ambitious, then vary the entry point, scaffolding, representation, pace and challenge according to evidence and student profile. I priortise removing   access barrier before lowering demand and expectation, use formative assessment to decide how to adapt, and fade support as students become more secure. The goal is meaningful participation, productive struggle and learner independence.
 
-## Mixed ability — How do you differentiate in a mixed-ability class?
+## Mixed ability | How do you differentiate in a mixed-ability class?
 
 I begin with a **common learning goal** and establish the **starting point** through **prior knowledge** and a short **diagnostic task**. I vary the **entry point**, **scaffolding**, **representation** and **complexity** while keeping students in the same learning conversation where possible. **Formative assessment** tells me who needs more support, who is ready for **extension** and when a **responsive adjustment** is needed.
 
-## Not separate lessons — How do you differentiate without creating several different lessons?
+## Not separate lessons | How do you differentiate without creating several different lessons?
 
 I differentiate the route before differentiating the destination. I keep a **common learning goal** and vary prompts, examples, vocabulary, **representation**, **pacing** and **challenge** around it. A **low-floor task**, **flexible grouping** and targeted **check-in points** let me respond to different needs without planning five unrelated lessons. Separate work is used only when there is a genuine identified need.
 
-## Entry point — How do you choose an appropriate entry point?
+## Entry point | How do you choose an appropriate entry point?
 
 I identify the prerequisite skill and use prior knowledge, questioning or a diagnostic task to find the real starting point. I then choose an entry point that gives students early success without making the task trivial. That might mean a familiar context, concrete example or reduced first step, followed by increasing complexity as understanding becomes visible.
 
-## Scaffolding — How do you scaffold learning while still building independence?
+## Scaffolding | How do you scaffold learning while still building independence?
 
 I **scaffold** enough to give access without removing the thinking. I may use **modelling**, a **worked example**, **guided prompt**, **sentence stem**, checklist or **part-completed example**, then move through **guided practice** towards **independent practice**. I use a **prompt hierarchy** and **gradual release** so support is faded deliberately and **learner independence** increases.
 
-## Modelling — How do you use modelling as a differentiation strategy?
+## Modelling | How do you use modelling as a differentiation strategy?
 
 **Modelling** can provide a common access point without reducing the learning goal. I use a **worked example** or think-aloud to make the decisions visible, highlight the **prerequisite skill** and model subject language. Students then move into **guided practice** with fewer prompts. I avoid over-modelling: the **scaffold** should lead towards **independent practice** rather than replace student thinking.
 
-## Representations — How do you use multiple representations to improve access?
+## Representations | How do you use multiple representations to improve access?
 
 I choose **multiple representations** that make the structure visible and connect them deliberately. In Mathematics that may mean a **concrete model**, **visual model**, numerical form and **symbolic form**; in Science it may mean a diagram, demonstration and technical language. I check that students can move between **representations** rather than merely recognise them, because the connection is where much of the understanding sits.
 
-## UDL — What role does universal design play in your teaching?
+## UDL | What role does universal design play in your teaching?
 
 **Universal design** means removing predictable barriers in the initial lesson design rather than waiting for individual students to fail. I use an **accessible layout**, **explicit language**, **visual cues**, **multiple means** of representation and, where appropriate, **choice of format** for response. Universal access does not mean one method suits everyone; it creates a stronger **starting point** before targeted differentiation is added.
 
-## Cognitive load — How do you reduce cognitive load without reducing challenge?
+## Cognitive load | How do you reduce cognitive load without reducing challenge?
 
 I reduce extraneous load rather than the intellectual demand. I use **chunking**, clear sequencing, **worked examples** and an **accessible layout**, integrate words and visuals, and remove redundancy or irrelevant information. I allow **processing time** where needed. Once the student can access the idea, I increase **complexity** and **productive struggle** rather than leaving the work permanently simplified.
 
-## Vocabulary — How do you differentiate for language and vocabulary needs?
+## Vocabulary | How do you differentiate for language and vocabulary needs?
 
 I use **vocabulary pre-teach** where a small number of terms are essential to access the task, then connect the words to a **visual model**, **concrete example** or **worked example**. **Explicit language**, a **word bank** or **sentence stem** can support participation and reasoning. I then fade those supports as the language becomes more secure so vocabulary support does not become permanent dependence.
 
-## Response formats — How can students demonstrate learning in different ways?
+## Response formats | How can students demonstrate learning in different ways?
 
 Where the learning outcome allows it, I can vary the response without varying the intellectual demand. A student might use an **oral response**, **written response**, **digital response** or another **choice of format** while working towards the same **success criteria**. An **alternative response** is useful when the usual format creates an **access barrier**, but I still need valid evidence of the intended learning.
 
-## Assistive technology — How do you use assistive technology for accessibility?
+## Assistive technology | How do you use assistive technology for accessibility?
 
 I use **assistive technology** when it removes a genuine barrier and gives the student better access to the same worthwhile learning. It might support reading, writing, organisation, **representation** or a **digital response**. I teach the student how to use it, check that it is not adding unnecessary **complexity**, and evaluate whether it increases participation and **independence** rather than assuming technology is automatically helpful.
 
-## Pace — How do you differentiate by pace without holding back the class?
+## Pace | How do you differentiate by pace without holding back the class?
 
 I use **flexible pacing** rather than one fixed speed for every student. **Check-in points** and **formative assessment** show who needs **processing time**, **guided practice** or another example and who can move into greater **complexity**. **Flexible grouping** can let me provide targeted support without slowing everyone. Pace changes should respond to evidence, not become a permanent label about who is fast or slow.
 
-## Questioning — How do you use questioning to differentiate?
+## Questioning | How do you use questioning to differentiate?
 
 I use **questioning** to adjust the level of support and **challenge** in real time. **Wait time**, **guided prompts** and **sentence stems** can open access; **rich questioning** can push **reasoning**, comparison and **generalisation**. I listen to the quality of the response and make a **responsive adjustment** rather than deciding in advance which students are capable of which questions.
 
-## Flexible grouping — How do you use flexible grouping effectively?
+## Flexible grouping | How do you use flexible grouping effectively?
 
 **Flexible grouping** is temporary and purpose-driven. I might group students for a targeted **prerequisite skill**, **guided practice**, peer explanation or an **open-ended task**, then regroup as the evidence changes. I avoid fixed ability identities. The group should serve the current learning need and return students to the wider learning conversation with greater **independence**.
 
-## High attainers — How do you challenge high-attaining or high-potential students?
+## High attainers | How do you challenge high-attaining or high-potential students?
 
 For a **high-attaining learner** or a student with **high potential**, I increase depth and **complexity** rather than simply adding more questions. I use **rich questioning**, **open-ended tasks**, multiple methods, **reasoning**, justification and **generalisation**. **Extension** should create **productive struggle** and connections between ideas while preserving the core learning, not become unrelated busywork.
 
-## Support and challenge — How do you provide support and challenge in the same lesson?
+## Support and challenge | How do you provide support and challenge in the same lesson?
 
 I keep common **success criteria** where appropriate and vary the route and depth. One student may need a **concrete example**, **worked example** or **guided prompt**; another may move into greater **complexity**, **reasoning** or **extension**. **Check-in points** help me adjust both directions. Support is not low expectation, and **challenge** is not simply more volume.
 
-## Productive struggle — How do you know when to support and when to allow productive struggle?
+## Productive struggle | How do you know when to support and when to allow productive struggle?
 
 I distinguish **productive struggle** from an **access barrier**. If a student has the **prerequisite skill** and understands the task, I may allow time, **questioning** and persistence rather than intervene immediately. If language, **representation** or missing **prior knowledge** is blocking access, I **scaffold**. I use checking for understanding to decide when struggle is mathematically useful and when support is needed.
 
-## Fade support — How do you know when to fade a scaffold?
+## Fade support | How do you know when to fade a scaffold?
 
 I **fade support** when evidence shows the student can carry more of the thinking independently. I move from **modelling** to **guided practice**, reduce prompts through a **prompt hierarchy**, and then check **independent practice** and **transfer**. If performance collapses, I restore only the support that is needed. Faded support is planned **gradual release**, not simply removing help abruptly.
 
-## Accessibility vs standards — How do you make learning accessible without lowering standards?
+## Accessibility vs standards | How do you make learning accessible without lowering standards?
 
 **Accessibility** means removing barriers to the intended learning, not removing the intended learning itself. I may use an **accessible layout**, **assistive technology**, **processing time**, **multiple representations** or an **alternative response** while retaining the same worthwhile **success criteria**. I judge the student on evidence of the learning outcome rather than on a barrier that is incidental to it.
 
@@ -124,14 +124,14 @@ In a Maths lesson on equations I might begin with a **concrete model** or **visu
 
 In Science I might pre-teach essential vocabulary, use a **concrete example** or demonstration and an accessible **visual model** before students interpret the technical explanation. During practical work I can use a **checklist**, **guided prompt** or **choice of response format**. Students ready for **extension** can explain variables, justify a method or evaluate evidence rather than simply complete extra questions.
 
-## Assessment access — How do you make assessment accessible while preserving validity?
+## Assessment access | How do you make assessment accessible while preserving validity?
 
 I start with what the assessment is supposed to measure. If reading, handwriting or response format is not the target, an **alternative response**, **assistive technology**, **accessible layout** or extra **processing time** may remove an irrelevant barrier. I keep the **success criteria** and cognitive demand intact and make sure the accommodation does not give away the learning being assessed.
 
-## Independence — How does differentiation build learner independence?
+## Independence | How does differentiation build learner independence?
 
 Good differentiation should make itself less necessary over time. I use **modelling**, **guided practice**, prompts and **visual cues** to create access, then **faded support** and **gradual release** move responsibility to the learner. I look for **independent practice**, **transfer** and self-correction. **Learner independence** is therefore one of the outcomes of differentiation, not an optional extra.
 
-## Review differentiation — How do you evaluate whether differentiation is working?
+## Review differentiation | How do you evaluate whether differentiation is working?
 
 I look for evidence that more students can access the learning, meet the **success criteria** and work with increasing **independence**. I compare student work, participation, **questioning** and assessment evidence, and use **check-in points** to identify where a support helped or created dependence. I then make **responsive adjustments** to **entry point**, **scaffolding**, **representation**, pace or **challenge** rather than repeating the same approach automatically.
