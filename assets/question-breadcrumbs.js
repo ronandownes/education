@@ -44,7 +44,7 @@
     document.querySelectorAll('.topnav .dropmenu a:not([data-menu-page])').forEach(link => {
       const parsed = splitQuestionHeading(link.textContent);
       if (parsed) {
-        link.textContent = parsed.handle;
+        if (link.textContent.trim() !== parsed.handle) link.textContent = parsed.handle;
         return;
       }
 
@@ -54,7 +54,8 @@
         const targetPath = url.pathname.replace(/\/+$/, '') || '/';
         const id = decodeURIComponent((url.hash || '').replace(/^#/, ''));
         if (targetPath === currentPath && id && localHandles.has(id)) {
-          link.textContent = localHandles.get(id);
+          const wanted = localHandles.get(id);
+          if (link.textContent.trim() !== wanted) link.textContent = wanted;
         }
       } catch (_) {
         // Leave non-standard links alone.
