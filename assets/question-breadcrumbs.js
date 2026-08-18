@@ -3,8 +3,89 @@
   window.__rdQuestionBreadcrumbWrapper = true;
 
   const sourceUrl = document.currentScript?.src || location.href;
+
+  // Interview heading convention:
+  //   Short handle - Concise interview question?
+  // The ordinary keyboard hyphen is the preferred separator. Legacy em dashes
+  // are still accepted so older notes keep working while they are edited over time.
+  const splitQuestionHeading = value => {
+    const text = (value || '').replace(/\s+/g, ' ').trim();
+    const match = text.match(/^(.+?)\s(?:-|—)\s*(.+)$/);
+    if (!match) return null;
+    const handle = match[1].trim();
+    const question = match[2].trim();
+    if (!handle || !question) return null;
+    return { handle, question };
+  };
+
+  const localHandles = new Map();
+
+  const applyQuestionHeadingSyntax = () => {
+    const body = document.getElementById('docBody');
+    if (!body) return;
+
+    body.querySelectorAll(':scope > h2').forEach(heading => {
+      if (heading.dataset.shortQuestionSyntax === 'true') return;
+      const parsed = splitQuestionHeading(heading.textContent);
+      if (!parsed) return;
+
+      heading.dataset.shortQuestionSyntax = 'true';
+      heading.dataset.interviewConcept = parsed.handle;
+      heading.dataset.interviewQuestion = parsed.question;
+      if (heading.id) localHandles.set(heading.id, parsed.handle);
+
+      // Keep the short handle as metadata for menus, but show only the actual
+      // interview question on the page.
+      heading.textContent = parsed.question;
+    });
+  };
+
+  const shortenDropdownLinks = () => {
+    document.querySelectorAll('.topnav .dropmenu a:not([data-menu-page])').forEach(link => {
+      const parsed = splitQuestionHeading(link.textContent);
+      if (parsed) {
+        link.textContent = parsed.handle;
+        return;
+      }
+
+      try {
+        const url = new URL(link.href, location.href);
+        const currentPath = location.pathname.replace(/\/+$/, '') || '/';
+        const targetPath = url.pathname.replace(/\/+$/, '') || '/';
+        const id = decodeURIComponent((url.hash || '').replace(/^#/, ''));
+        if (targetPath === currentPath && id && localHandles.has(id)) {
+          link.textContent = localHandles.get(id);
+        }
+      } catch (_) {
+        // Leave non-standard links alone.
+      }
+    });
+  };
+
+  applyQuestionHeadingSyntax();
+  shortenDropdownLinks();
+
+  const nav = document.querySelector('.topnav');
+  if (nav) {
+    let menuFixQueued = false;
+    const queueMenuFix = () => {
+      if (menuFixQueued) return;
+      menuFixQueued = true;
+      requestAnimationFrame(() => {
+        menuFixQueued = false;
+        applyQuestionHeadingSyntax();
+        shortenDropdownLinks();
+      });
+    };
+    const menuObserver = new MutationObserver(queueMenuFix);
+    menuObserver.observe(nav, { childList: true, subtree: true, characterData: true });
+    window.setTimeout(queueMenuFix, 120);
+    window.setTimeout(queueMenuFix, 500);
+    window.setTimeout(queueMenuFix, 1200);
+  }
+
   const coreScript = document.createElement('script');
-  coreScript.src = new URL('question-breadcrumbs-core.js?v=20260818-0200', sourceUrl).href;
+  coreScript.src = new URL('question-breadcrumbs-core.js?v=20260818-0818', sourceUrl).href;
   coreScript.dataset.questionBreadcrumbsCore = 'true';
 
   const buttonLabel = button => [
