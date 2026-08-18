@@ -4,6 +4,26 @@ permalink: /classroom-management.html
 title: Classroom Management
 eyebrow: PROFESSIONAL PRACTICE
 ---
+
+
+## positive relationship helped -Tell us about a time a positive relationship helped with classroom management
+
+### Result
+
+**The relationship gave me leverage: because the student knew I respected her and saw her strengths, correction became easier and less confrontational.**
+
+
+
+I had a student who was regularly off-task, making comments and drawing other students into side conversations. Rather than allowing it to become a cycle of public correction, I spoke to her privately and kept the relationship positive.
+
+At a parent-teacher meeting I also learned that she was very strong at Gaelic football. That gave me another way of connecting with her and showing that I saw more than just the behaviour in the classroom.
+
+I then made a practical change by moving her closer to me and away from peers who were reinforcing the behaviour. Because the relationship was already positive, she accepted the change without it becoming a confrontation.
+
+Her engagement improved considerably and the disruption reduced. It reinforced for me that **relationships do not replace boundaries — they make boundaries easier to maintain.**
+
+
+
 ## Good classroom management — What would good classroom management look like in your classroom?
 
 Good classroom management creates a purposeful, predictable climate where students know the expectations and can learn. I use **clear routines**, **task clarity**, **active supervision** and **positive relationships**, and I intervene early rather than allowing small issues to grow. I aim to be calm, fair and consistent, with **high expectations** and a strong sense of **belonging**.
