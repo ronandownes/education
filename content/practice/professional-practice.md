@@ -44,7 +44,7 @@ What stands out to me is the school's comprehensive tradition, equality of oppor
 
 &nbsp;
 
-## 1 Professional responsibility | What does professional responsibility mean to you as a teacher?
+## Professional responsibility | What does professional responsibility mean to you as a teacher?
 
 Professional responsibility means being 
 
@@ -54,31 +54,31 @@ Professional responsibility means being
 
 for the quality and safety of my work. I act with integrity, fairness and respect, maintain professional boundaries and confidentiality, follow school policy and exercise professional judgement. It also means contributing to colleagues and school life rather than seeing responsibility as ending at my classroom door.
 
-## 2 Values & conduct | What professional values guide your practice?
+## Values & conduct | What professional values guide your practice?
 
 The values I return to are respect, fairness, equality, care and integrity. They influence how I speak to students, apply expectations, communicate with families and work with colleagues. Ethical practice means that my decisions should be defensible, consistent with policy and focused on students' learning, dignity and inclusion rather than convenience.
 
-## 3 Accountability | How do you demonstrate accountability in your work?
+## Accountability | How do you demonstrate accountability in your work?
 
 I take ownership of the decisions that sit within my role. That means planning and assessing carefully, keeping appropriate records, following through on agreed actions, meeting deadlines and communicating when a problem affects others. If something has not worked, I use professional judgement, acknowledge it, adapt and evaluate impact rather than becoming defensive.
 
-## 4 Boundaries & confidentiality | How do you maintain professional boundaries and confidentiality?
+## Boundaries & confidentiality | How do you maintain professional boundaries and confidentiality?
 
 I am approachable and supportive while keeping the teacher role clear. I share confidential information only through appropriate professional channels and only with people who need it for their role. I avoid informal discussion of students, maintain appropriate digital and personal boundaries, and follow policy where confidentiality has limits, particularly in safeguarding situations.
 
-## 5 Duty of care | What does duty of care look like in everyday teaching?
+## Duty of care | What does duty of care look like in everyday teaching?
 
 Duty of care is visible in ordinary professional habits: safe supervision, thoughtful planning, attention to practical risk, appropriate boundaries and acting on concerns rather than ignoring them. I follow school procedures, child-protection requirements and health-and-safety expectations, and I use professional judgement when something unexpected occurs. Student safety is part of teaching, not separate from it.
 
-## 6 Policy awareness | How do school policies influence your professional practice?
+## Policy awareness | How do school policies influence your professional practice?
 
 Policies provide the agreed framework for consistent and defensible practice. I need policy awareness around areas such as behaviour, assessment, child protection, AEN, acceptable use, health and safety and communication. I do not treat policy compliance as box-ticking; I understand the purpose, apply professional judgement within the framework and seek clarification when a situation is unclear.
 
-## 7 Collegiality | How do you work effectively with colleagues?
+## Collegiality | How do you work effectively with colleagues?
 
 I value collegiality, clear communication and reliability. I share relevant information appropriately, contribute resources and assessment evidence, listen to colleagues' experience and follow through on agreed work. I try to disagree professionally when necessary and keep the focus on the student or shared task. A student experiences a school, not a collection of isolated classrooms.
 
-## 8 Department planning | How do you contribute to a subject department?
+## Department planning | How do you contribute to a subject department?
 
 I contribute through department planning, shared resources, common assessment work, discussion of misconceptions and curriculum planning. I bring classroom evidence rather than preference alone, and I record useful decisions where consistency matters. I also respect professional autonomy: shared planning should improve coherence and reliability without requiring identical teaching in every room.
 
