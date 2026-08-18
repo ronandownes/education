@@ -8,6 +8,22 @@ eyebrow: PROFESSIONAL PRACTICE
 
 I start with the learner and the evidence. I initiate, align, sequence and map learning with the curriculum, and use UDL and cognitive load theory to design for access and challenge. Assessment is built in from the outset, and I adapt continuously in response to AfL. A clear but flexiible plan support student success and  wellbeing.
 
+## TY Maths Curriculum - How would you design a TY Maths curriculum for the school?
+
+I would begin by deciding **what we want students to gain from TY Maths that they may not get from an examination-driven year**. I would consult the existing school programme, students, the Maths department and the TY coordinator, then build a flexible programme around mathematical thinking, problem-solving and real-world application.
+
+I would include areas such as **financial mathematics, data and statistics, mathematical modelling, coding, probability, puzzles and strategy, measurement and practical projects**. I would also create opportunities to use tools such as **Desmos, GeoGebra, spreadsheets and Python**, where appropriate.
+
+The emphasis would be on **investigation and projects rather than simply moving ahead into Leaving Certificate content**. Students might analyse real datasets, design and cost a project, investigate patterns, carry out surveys or solve open-ended problems.
+
+I would still maintain important mathematical skills through **retrieval and regular problem-solving**, but TY gives us the freedom to let students experience Mathematics as something they can **explore, apply and create with**. I would review the programme using student feedback and assessment evidence and refine it each year.
+
+
+
+&nbsp;
+
+&nbsp;
+
 ## Yearly plan — second-year Maths
 
 I start with the **handover**, **scheme of work** and **learner profile** to establish where the class actually is. I use an early **low-stakes diagnostic** to confirm the **starting point**, then **map the relevant learning outcomes across the year**. I build in **retrieval points**, **formative assessment** and **consolidation**, and **adapt** the plan as evidence comes in.
