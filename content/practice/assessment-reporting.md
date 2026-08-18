@@ -13,7 +13,6 @@ intro: Elicit evidence, interpret it, give actionable feedback, build student
 **77%:** You have demonstrated a secure understanding of the main concepts and can apply them accurately in most situations. Your next step is to address the areas where marks were lost and develop your learning further through more challenging and unfamiliar problems.
 
 
-
 ## Parent Concern | Parent concern about daughter struggling with my teaching?
 
 If a parent tells me their daughter is struggling to understand, I listen carefully, acknowledge the concern and avoid becoming defensive. I explain what I am seeing from assessment evidence, student work and classroom participation, and try to identify the specific barrier or misconception rather than simply focusing on a mark. I outline the supports I can put in place — for example re-teaching, changing representation, additional scaffolding or targeted practice — and agree a clear next step with the parent and student. I then monitor progress and follow up, so the communication becomes part of supporting improvement rather than simply reporting a problem.

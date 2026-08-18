@@ -19,7 +19,6 @@ The emphasis would be on **investigation and projects rather than simply moving 
 I would still maintain important mathematical skills through **retrieval and regular problem-solving**, but TY gives us the freedom to let students experience Mathematics as something they can **explore, apply and create with**. I would review the programme using student feedback and assessment evidence and refine it each year.
 
 
-
 &nbsp;
 
 &nbsp;
@@ -115,7 +114,6 @@ I plan the evidence I need before the lesson, not merely the activity I will del
 ## Evaluate planning | How do you evaluate and improve a scheme of work or future planning?
 
 I compare the intended sequence with what was actually taught and, more importantly, what students learned. I review **assessment evidence**, **misconceptions**, pacing, resources, **support and challenge**, and I **reflect** on which explanations, representations and tasks worked best. I record what should be retained, moved, removed or strengthened. That reflection and evidence become the **starting point** for the next **scheme of work** rather than relying on memory.
-
 
 
 &nbsp;

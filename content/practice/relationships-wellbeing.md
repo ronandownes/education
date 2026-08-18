@@ -6,35 +6,6 @@ eyebrow: PROFESSIONAL PRACTICE
 intro: Build trust, notice changes, support regulation and re-engagement,
   coordinate pastoral support, and safeguard when required.
 ---
-## Relationships & Wellbeing Retrieval Table
-
-
-| Concept | Retrieval chain |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Relationships & learning | Relational safety → trust/consistency/respect/fairness → high expectations → belonging → participation/readiness to learn |
-| New class | Warmth + structure → learn names/greet/listen → predictable routines → fair follow-through → trust → boundaries/dignity/high expectations |
-| Pastoral role | Notice attendance/engagement/peers/work/mood/behaviour → private check-in → listen → record facts → tutor/year head/pastoral/AEN → not counsellor |
-| Classroom wellbeing | Safe/respected/connected → predictability/respect/challenge/success → psychological safety → emotional literacy/help-seeking → participation |
-| Student voice | Listen to experience → check-ins/feedback → appropriate choice → notice missing voices → widen participation → belonging/agency |
-| Wellbeing concern | Notice actual change → private check-in → listen, don't interrogate → record facts → communicate/refer → safeguard immediately if needed |
-| Change in presentation | Compare with usual pattern → attendance/engagement/confidence/peers/work/emotion/help-seeking → context/pattern → check in → monitor → pass observations |
-| Anxiety or distress | Calm + predictability + relational safety → reduce public pressure → clear language/processing → manageable re-entry/reset → monitor → coordinated support |
-| Regulation | Notice triggers early → calm/predictable response → co-regulation/reduced language/processing/sensory/movement/reset → recover/re-engage → self-regulation/resilience |
-| Dysregulation | Lower temperature → dignity/safety → brief language → reduce audience → processing/strategy/movement → reset/re-engage → follow up wider need |
-| Attendance | Notice patterns/change → don't assume → welcome back → re-engage → communicate persistent concern → coordinated support |
-| Peer dynamics | Notice exclusion/tension/changed friendships → avoid conclusions from one incident → listen → protect dignity → adjust classroom → record/communicate → procedure if bullying/safeguarding |
-| Bullying | Listen seriously → no secrecy promise → record facts → immediate safety → anti-bullying/pastoral procedure → appropriate staff → follow-up belonging/re-engagement |
-| Conflict | Stop escalation → safety → hear accounts → behaviour not person → restorative conversation when ready → accountability/harm/next step → repair/fresh start |
-| Restorative conversation | What happened → who affected → what next → listen → boundaries → accountability → acknowledge harm → realistic repair → re-engage |
-| Repair | Behaviour not person → listen → boundary → acknowledge harm → practical next step → fresh start → notice re-engagement → trust rebuilt over time |
-| Trusted adult | Reliable/respectful/approachable → relational safety → help-seeking/disclosure/recovery → professional boundaries → not counsellor/friend |
-| Safeguarding concern | Welfare concern crosses threshold → immediate safety → record facts → DLP/DDLP route → no independent investigation → no secrecy → duty of care |
-| Disclosure | Stay calm → listen in student's words → no leading/interrogation → explain confidentiality limits → accurate record → immediate referral → normal dignity afterwards |
-| Confidentiality | Respect privacy → need-to-know only → no informal discussion → safeguarding overrides secrecy → record/refer → professional boundaries |
-| Professional boundaries | Notice/listen/check-in/help-seeking → observations → don't diagnose/therapy → use structures → normal high expectations → coordinated support |
-| Parents / guardians | Factual respectful observations → no labels/diagnoses → listen to context → focus participation/readiness/support → procedures/confidentiality → safeguarding via designated route |
-| Coordinated support | Share observations → tutor/year head/pastoral/AEN → consistent supports → monitor attendance/participation/re-engagement → student voice → professional referral if beyond role |
-| Review wellbeing | Readiness/participation/attendance/help-seeking/regulation/re-engagement → check in/student voice → share observations → monitor pattern → adjust support → belonging/resilience/safe participation |
 
 
 ## Relationships & learning | What role do relationships play in learning?
@@ -144,7 +115,6 @@ The progression is:
 **Build trust → notice changes → support regulation and re-engagement → coordinate pastoral support → safeguard when required.**
 
 If what I notice moves beyond ordinary pastoral support into a welfare or child-protection concern, I escalate it through the proper safeguarding procedures. I do not investigate or decide whether somebody has committed an offence. I notice, listen appropriately, record and report as required, and pass the concern to the appropriate person.
-
 
 
 ## Communicating with parents | What would you do if a parent was concerned about your teaching?

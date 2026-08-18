@@ -4,36 +4,6 @@ permalink: /sen-inclusion.html
 title: AEN & Inclusion
 eyebrow: PROFESSIONAL PRACTICE
 ---
-## AEN & Inclusion Retrieval Chains
-
-
-| Concept | Retrieval chain |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| General approach | Learner not label → strengths/needs/barriers → SSF + evidence + voice → adapt access/support → keep expectations → review participation/progress/independence → change/fade |
-| Identify needs | Handover/SSF/prior/attendance/accommodations → observe work/check understanding/voice → strengths + needs → access barriers → classroom picture |
-| Learner profile | Strengths/needs → aspirations/interests → prior attainment → communication/sensory/attendance/supports → current evidence → update understanding |
-| Student Support File | Strengths + priority need → short-term target → accommodation/strategies → classroom decisions → contribute evidence → record/review |
-| Evaluate support | Access + participation + progress + independence → work/engagement/checks/prompting → student voice → monitor/evaluate with team → adapt if needed |
-| Independence | Meaningful participation → scaffold/prompt/reduced first step → fade support → check understanding → transfer to ordinary tasks → independence |
-| Autism | Learner profile → predictability/routines → explicit language/visuals → processing + sensory + communication → reduce public pressure → maintain challenge |
-| ADHD | Student not label → reduce executive-function demands → clear routines/instructions/transitions → chunk + scaffold + visual cues → regular checks → movement/re-engagement → clear expectations → independence |
-| Dyslexia | Remove literacy barrier, keep subject demand → accessible layout/visuals/explicit language → word bank/worked example/chunk → AT/accommodation → check concept vs language |
-| Numeracy | Make number/structure visible → concrete + multiple reps + visuals → worked example → manageable stages → retrieve number relationships → monitor → keep worthwhile maths goal |
-| Communication | Reduce language load, keep thinking → explicit language/visuals/chunk → communication profile → prompt/alternative response → processing time → check without spotlighting → same learning |
-| Cognitive load | Activate prior → limit new information → chunk/sequence → worked example → useful multiple reps → integrate words/visuals → remove distraction → scaffold then fade |
-| Executive function | Make organisation visible → routines/sequence/chunk → reduced first step → intermediate goals → check → timer/movement/prompt if useful → build independence |
-| Sensory & regulation | Sensory profile → identify specific barrier → predictability/layout → reduce stimulation → choice/processing/movement → collaborate → dignity/participation → review impact |
-| Anxiety & distress | Relational safety → predictability → manageable re-entry → reduced first step/processing/choice → calm checking → don’t lower expectations → monitor + coordinate support |
-| Attendance | Establish missed vs retained → prior/current work + low-stakes retrieval → priority gaps → short-term target → coordinated support → monitor attendance/progress → re-engage |
-| Learning support | Mainstream/LS/small-group/withdrawal experience → concrete/visual/AT → model/worked examples/scaffold → targeted support → reconnect to wider curriculum → participation/independence |
-| Team-teaching | Shared planning → goal/barriers/roles/checks → flexible grouping + targeted prompts/alternative response → avoid permanent attachment → compare evidence → evaluate impact |
-| Small-group / withdrawal | Clear purpose → identified short-term target → explicit priority skill → plan transfer back → monitor progress → review support vs inclusion |
-| SNA | Teacher retains teaching responsibility → plan SNA support → access/care/participation → avoid adult dependence → fade where appropriate → share observations → independence |
-| L1LP / L2LP | Priority learning outcomes + current needs → coordinate team → concrete/accessible/explicit/visual → achievable short-term targets → gather evidence of progress → keep class connection |
-| Accommodation & technology | Genuine access barrier → agreed accommodation/tool → teach use → keep learning expectation → check access/independence → evaluate impact → adjust |
-| Collaboration | Shared planning → AEN coordinator/teachers/SNA/parents → classroom evidence + student voice → agree priorities → monitor progress → record/review → common outcomes |
-| High expectations | Strengths/aspirations/interests → ambitious common learning → support access, don’t remove challenge → needs ≠ potential → evidence capability → adjust challenge |
-| Review support | Short-term target → work/checks/participation/voice → monitor progress → evaluate with team → continue/change/fade → record/review → access/progress/independence |
 
 
 ## General approach | What is your general approach to AEN and inclusion?
@@ -89,13 +59,11 @@ Support should enable meaningful participation while progressively transferring 
 I start with the student, not the label, and identify the actual barriers affecting learning. I reduce unnecessary executive-function demands by making routines, instructions, transitions and task sequences clear and predictable. I chunk and scaffold tasks, use visual cues and regular checks, and build in appropriate opportunities for movement or re-engagement. I maintain clear expectations and use positive teaching strategies and reinforcement while progressively building self-management and independence.
 
 
-
 ## How do you promote task initiation?
 
 I make the starting point clear, manageable and predictable.  
 I chunk the task, model the first step and use a visual prompt or worked example where helpful.  
 Then I check the student has started successfully and gradually reduce the support.
-
 
 
 ## Dyslexia | How do you support students with dyslexia?

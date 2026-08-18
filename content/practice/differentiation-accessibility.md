@@ -4,36 +4,6 @@ permalink: /differentiation-accessibility.html
 title: Differentiation & Accessibility
 eyebrow: PROFESSIONAL PRACTICE
 ---
-## Retrieval Chains
-
-
-| **Concept** | **Retrieval chain** |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **General approach** | Common ambitious learning → remove access barriers → vary entry, scaffold, representation, pace and challenge → check learning → adapt → fade support → independence |
-| **Mixed ability** | Common goal → diagnose starting point → vary route and depth → check learning → support or extend → adapt |
-| **Not separate lessons** | Common destination → varied route → low-floor task → flexible grouping → check-in points → targeted adaptation |
-| **Entry point** | Prerequisite skill → prior knowledge → diagnostic task → real starting point → early success → increase complexity |
-| **Scaffolding** | Model → worked example → guided prompt → guided practice → reduce prompts → independent practice |
-| **Modelling** | Common access point → think aloud → make decisions visible → guided practice → fewer prompts → independence |
-| **Representations** | Concrete → visual → numerical or verbal → symbolic → connect representations → check transfer |
-| **UDL** | Predict barriers → accessible layout and language → multiple representations → response choice → targeted support if needed |
-| **Cognitive load** | Remove extraneous load → chunk and sequence → worked example → processing time → restore complexity → productive struggle |
-| **Vocabulary** | Pre-teach essentials → visual or concrete example → explicit language → word bank or stem → use → fade support |
-| **Response formats** | Same learning and criteria → remove format barrier → oral, written or digital response → collect valid evidence |
-| **Assistive technology** | Identify barrier → choose tool → teach its use → check access and participation → evaluate independence |
-| **Pace** | Check-in points → processing time or guided practice → flexible grouping → greater complexity when ready → avoid fixed labels |
-| **Questioning** | Wait time → prompts or stems → listen → adjust support → rich questions → reasoning and generalisation |
-| **Flexible grouping** | Current learning need → temporary group → targeted teaching or peer explanation → recheck → regroup → return to class conversation |
-| **High attainers** | Increase depth and complexity → rich questions → multiple methods → justify → generalise → productive struggle |
-| **Support and challenge** | Common criteria → concrete example or prompt → check-in → adjust support → deepen reasoning → extend |
-| **Productive struggle** | Check prerequisite and task access → allow persistence if secure → scaffold barrier if blocked → recheck understanding |
-| **Fade support** | Evidence of readiness → modelling to guided practice → reduce prompt hierarchy → independent practice → transfer → restore only what is needed |
-| **Accessibility vs standards** | Keep intended learning → remove incidental barrier → preserve criteria and demand → vary access or response → judge valid evidence |
-| **Maths example** | Concrete balance → visual model → symbolic equation → worked example or prompt → compare methods → flexible check-ins |
-| **Science example** | Essential vocabulary → demonstration and visual → guided practical support → varied response → justify method or evaluate evidence |
-| **Assessment access** | Define construct → identify irrelevant barrier → choose accommodation → retain criteria and demand → collect valid evidence |
-| **Independence** | Create access → model and guide → fade prompts → independent practice → transfer → self-correction |
-| **Review differentiation** | Access and participation → success criteria → work and questioning evidence → independence → identify dependence → adapt and recheck |
 
 
 ## General approach | What is your general approach to differentiation and accessibility?
