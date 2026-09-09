@@ -6,9 +6,10 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## General approach | What is your general approach to teaching and learning?
 
-I **plan carefully** around a clear **learning intention** 
+I **plan carefully** 
 
-and the students in front of me.
+- around a clear **learning intention** 
+- and the students in front of me.
 
 
 
