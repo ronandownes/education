@@ -6,7 +6,21 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## General approach | What is your general approach to teaching and learning?
 
-I **plan carefully** around a clear **learning intention** and the students in front of me. I **teach and model clearly**, **scaffold where needed**, then secure learning through **retrieval** and purposeful **practice**. I keep students thinking through questioning, explanation and problem-solving, use evidence to **adapt** support or challenge, and **consolidate** the learning before deciding the next step.
+I **plan carefully** around a clear **learning intention** 
+
+and the students in front of me.
+
+
+
+ I **teach and model clearly**, 
+
+**scaffold where needed**, 
+
+then secure learning through **retrieval** and purposeful **practice**. 
+
+
+
+I keep students thinking through questioning, explanation and problem-solving, use evidence to **adapt** support or challenge, and **consolidate** the learning before deciding the next step.
 
 ## Good teaching | What are the key features of good teaching?
 
