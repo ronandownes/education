@@ -13,23 +13,21 @@ I **plan carefully**
 
 
 
-1.  I **teach and model clearly**, 
-2. **scaffold where needed**, 
-3. then secure learning through **retrieval** and purposeful **practice**. 
+1. I **teach and model clearly**,
+2. **Always Scaffold** 
+3. Secure learning through **retrieval** and structured practice
 
+I keep students **thinking** through 
 
-
-I keep students thinking through 
-
-1. questioning, 
-2. explanation and 
-3. problem-solving, 
+1. questioning,
+2. explanation and
+3. problem-solving,
 
 use evidence to **adapt** 
 
 1. support
-2. or challenge, and 
-3. **consolidate** the learning 
+2. or challenge, and
+3. **consolidate** the learning
 4. before deciding the next step.
 
 ## Good teaching | What are the key features of good teaching?
