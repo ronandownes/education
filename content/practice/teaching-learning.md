@@ -14,7 +14,7 @@ I **plan carefully**
 
 
 1. I **teach and model clearly**,
-2. **Always Scaffold** 
+2. **Always Scaffold**
 3. Secure learning through **retrieval** and structured practice
 
 I keep students **thinking** through 
@@ -29,6 +29,17 @@ use evidence to **adapt**
 2. or challenge, and
 3. **consolidate** the learning
 4. before deciding the next step.
+
+## What to Tell the GP
+
+I was rear-ended on 11 November 2025 at about 6 p.m. I was shocked immediately after the accident, but during the night and when I woke the following day I realised I had developed neck pain and stiffness. I came to the GP and was given painkillers and anti-inflammatories. I hoped it would settle, but it persisted, especially with longer driving for work. I started physiotherapy on 1 April, attended again on 13 May and 15 September, and I am due back on 27 October. I am still having intermittent neck pain and stiffness and today it is particularly sore. I need an interim medical report confirming the history, treatment, present symptoms and that I have not yet fully recovered.
+
+  
+
+
+
+
+&nbsp;
 
 ## Good teaching | What are the key features of good teaching?
 
