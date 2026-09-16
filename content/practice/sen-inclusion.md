@@ -4,15 +4,23 @@ permalink: /sen-inclusion.html
 title: AEN & Inclusion
 eyebrow: PROFESSIONAL PRACTICE
 ---
-
-
 ## General approach | What is your general approach to AEN and inclusion?
 
 I start with the learner, not the label. I identify strengths, needs and barriers using the Student Support File, classroom evidence and student voice, then adapt access and support without lowering expectations. I review whether the support is increasing participation, individual progress and learner independence, and I adapt or reduce or remove the support as the learner becomes more secure indepentant and confident. Always based on evidence!
 
 ## Identify needs | How do you identify the educational needs of your students?
 
-I start by building a picture of the student from the information already available: handover notes, the Student Support File, previous assessment data, attendance, documented supports and accommodations, and discussion with relevant staff. I then compare that with what I see in the classroom — observation, student work, checks for understanding and student voice. I identify strengths as well as needs and barriers to learning, because a diagnosis alone does not tell me how that student will present in my classroom.
+I start by building a picture of the student from the information already available: 
+
+1. handover notes, 
+2. the Student Support File, 
+3. previous assessment data, 
+4. attendance, 
+5. documented supports 
+6.  accommodations, 
+7. and discussion with relevant staff. 
+
+I then compare that with what I see in the classroom — observation, student work, checks for understanding and student voice. I identify strengths as well as needs and barriers to learning, because a diagnosis alone does not tell me how that student will present in my classroom.
 
 ## Learner profile | What do you look for in a learner profile?
 
@@ -58,13 +66,11 @@ Support should enable meaningful participation while progressively transferring 
 
 I start with the student, not the label, and identify the actual barriers affecting learning. I reduce unnecessary executive-function demands by making routines, instructions, transitions and task sequences clear and predictable. I chunk and scaffold tasks, use visual cues and regular checks, and build in appropriate opportunities for movement or re-engagement. I maintain clear expectations and use positive teaching strategies and reinforcement while progressively building self-management and independence.
 
-
 ## How do you promote task initiation?
 
 I make the starting point clear, manageable and predictable.  
 I chunk the task, model the first step and use a visual prompt or worked example where helpful.  
 Then I check the student has started successfully and gradually reduce the support.
-
 
 ## Dyslexia | How do you support students with dyslexia?
 
