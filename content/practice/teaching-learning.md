@@ -22,7 +22,7 @@ I use **success criteria** where they help students understand what quality look
 
 The plan matters, but it is not fixed. A lesson plan is a route towards learning, not something that must be followed regardless of what the students are showing me.
 
-## Explanation, Modelling and Scaffolding
+## Explain model scaffold | Explanation, Modelling and Scaffolding
 
 When introducing something difficult, I first identify the **prerequisites** and break the new learning into manageable steps.
 
