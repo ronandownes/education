@@ -14,8 +14,6 @@ eyebrow: PROFESSIONAL PRACTICE
   
 Pairing | Pairing
 
-
-
 **explain clearly** → clarity of explanation  
 **model explicitly** → make the process/reasoning visible  
 **scaffold where needed** → support  
