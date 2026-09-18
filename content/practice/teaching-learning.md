@@ -4,8 +4,6 @@ permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
-# Teaching and Learning
-
 ## Opener
 
 *For me, effective teaching starts with a **clear learning intention and the students in front of me**. I **teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt and move them towards independence**.*
