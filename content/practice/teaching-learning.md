@@ -8,8 +8,8 @@ eyebrow: PROFESSIONAL PRACTICE
 
 *For me, effective teaching starts with a **clear learning intention and the students in front of me**. I **teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt and move them towards independence**.*
 
-##   
-  
+
+
 Pairing | Pairing
 
 **explain clearly** → clarity of explanation  
@@ -20,7 +20,14 @@ Pairing | Pairing
 **adapt** → responsive teaching  
 **independence** → ultimate goal
 
-## Planning 
+
+
+## Students
+
+  
+Effective teaching starts with understanding the students in front of me — their starting points, prior knowledge, strengths, learning needs and level of confidence — and being clear about what I want them to learn.
+
+## Planning
 
 Effective teaching begins with 
 
