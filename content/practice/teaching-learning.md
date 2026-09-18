@@ -6,7 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## Opener
 
-*For me, effective teaching starts with a **clear learning intention and the students in front of me**. I **teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt and move them towards independence**.*
+Effective teaching starts with a **clear learning intention and the students in front of me**. I **teach clearly and model explicitly, scaffold where needed,  support and challege, keep students thinking, and use evidence of learning to adapt and iterate and move them forwrds towards independence**.
 
 
 
