@@ -4,6 +4,134 @@ permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
+Yes. That is the better architecture. Your existing bank contains the right material, but the same core ideas—learning intention, modelling, scaffolding, questioning, checking understanding, adaptation and consolidation—keep recurring under different question headings.
+
+So instead of learning 20–25 answers, learn **one coherent model of teaching and learning**. In the interview, the question simply tells you **which part of the model to foreground**.
+
+# Teaching and Learning
+
+## Key Line
+
+My approach is to **plan carefully, teach clearly, scaffold where necessary, keep students thinking, check whether learning is actually happening, adapt to the evidence, and gradually move students towards independence**.
+
+## Planning for Learning
+
+For me, effective teaching begins with the **students in front of me** and with clarity about what I want them to learn.
+
+I start with a clear **learning intention** and consider the prior knowledge and prerequisite skills students will need. I also think in advance about likely misconceptions, possible barriers to learning and what successful learning should look like.
+
+I want lessons to have a coherent sequence rather than simply being a collection of activities. I normally move from activating prior knowledge into explanation or modelling, then guided practice, increasingly independent practice and finally consolidation.
+
+I use **success criteria** where they help students understand what quality looks like and what they are working towards.
+
+The plan matters, but it is not fixed. A lesson plan is a route towards learning, not something that must be followed regardless of what the students are showing me.
+
+## Explanation, Modelling and Scaffolding
+
+When introducing something difficult, I first identify the **prerequisites** and break the new learning into manageable steps.
+
+I use clear explanation and **explicit instruction** where appropriate. I try to remove unnecessary information and make the important mathematical structure visible.
+
+In Mathematics especially, I use **multiple representations**. A concept might be represented numerically, algebraically, graphically, geometrically or visually. Moving between representations can help students see relationships that may not be obvious in symbolic form alone.
+
+I use **worked examples** and teacher modelling to make mathematical thinking visible. Rather than merely demonstrating procedures, I explain the decisions I am making and the reasoning behind them.
+
+I also use examples and non-examples so students understand not only what works but why.
+
+Scaffolding is temporary support. Depending on the learner, that could mean breaking a problem into smaller steps, using prompts, visual representations, sentence stems, vocabulary support or partially completed examples.
+
+The important point is that I do not want students permanently dependent on scaffolds. I use **gradual release**: model where necessary, practise together, reduce the prompts and progressively transfer responsibility to the student.
+
+The aim is always **independence**.
+
+## Thinking, Questioning and Active Learning
+
+Students have to do the intellectual work.
+
+I therefore try to keep students thinking through **questioning, explanation, reasoning, justification and problem-solving** rather than allowing them to become passive recipients.
+
+Questioning is central to this. I use questions to activate prior knowledge, expose misconceptions and assess understanding. I vary the level of questioning from recall through to explanation, reasoning, justification, application and generalisation.
+
+I use **wait time** because good mathematical thinking does not always produce an immediate answer. I also want participation to extend beyond the students who put their hands up first.
+
+Strategies such as mini-whiteboards, think-pair-share, short collaborative tasks, guided discovery and carefully designed problems can make student thinking visible to me and to other students.
+
+Active learning, however, has to serve the learning intention. I would not use an activity simply because it is engaging. It has to contribute to understanding.
+
+I also resist giving answers too quickly. If a student is thinking productively, a carefully chosen prompt or question is often more valuable than immediately explaining the solution.
+
+## Checking Understanding and Adapting Teaching
+
+One of the most important aspects of teaching is knowing whether students have actually understood.
+
+I use **formative assessment throughout the lesson**, not simply at the end. That evidence can come from questioning, mini-whiteboards, observation, student explanations, written work, hinge questions, short quizzes or discussion.
+
+The important part of formative assessment is what I do with the information.
+
+If students demonstrate secure understanding, I can reduce support, move towards independent work or increase the level of challenge.
+
+If the evidence shows uncertainty, I may slow down, re-teach, provide another worked example, change the representation, return to a prerequisite or provide additional guided practice.
+
+That creates a continuous **feedback loop**:
+
+**teach → check → diagnose → adapt → check again.**
+
+Misconceptions are particularly important in Mathematics. I try to expose them rather than allow them to remain hidden. Once a misconception appears, I make the incorrect reasoning visible, contrast it with the correct reasoning and then give students an opportunity to practise the corrected idea.
+
+I do not assume that correcting something once means it has disappeared. I revisit important ideas later through retrieval and cumulative review.
+
+## Practice, Challenge and Consolidation
+
+Students need practice, but the quality and sequencing of that practice matter.
+
+Early practice may be highly structured while students are developing fluency. As confidence and understanding improve, I gradually vary the questions and introduce less familiar applications.
+
+I use **retrieval practice** to strengthen previous learning and identify material that needs to be revisited. Over time I use spacing, cumulative review and appropriate interleaving so students have to recognise which mathematical idea or method is required rather than simply repeating the method from the previous question.
+
+Challenge should mean **greater depth**, not merely more work.
+
+Students who are ready to move further can compare methods, justify solutions, identify patterns, generalise, make connections or solve unfamiliar problems.
+
+At the same time, high expectations remain important for students who require additional support. Inclusion should improve access to the learning rather than automatically reducing the intellectual demand.
+
+I finish lessons by consolidating the important learning. Students might explain the main idea, complete a short problem, retrieve a key concept or demonstrate what they can now do.
+
+That closure also gives me evidence about what the next lesson should contain.
+
+Ultimately I am looking for **transfer**. I want students to be able to use their learning in a situation that is not identical to the one in which it was taught.
+
+## Inclusion, Technology and Reflective Practice
+
+Inclusive teaching begins with knowing the learner and anticipating barriers.
+
+Students may need different levels of scaffolding, different representations, additional vocabulary support, assistive technology or different ways of demonstrating understanding.
+
+I try to keep the central learning intention common where appropriate while varying the support that allows students to access it.
+
+My approach to digital technology is similar. I start with the **learning**, not the device.
+
+I use technology where it genuinely improves explanation, visualisation, accessibility, practice, collaboration, feedback or formative assessment. In Mathematics, tools such as dynamic geometry, graphing software or interactive representations can allow students to investigate relationships that are difficult to communicate through static diagrams alone.
+
+But technology has to earn its place. I evaluate it according to whether it improves understanding, participation or learning rather than whether it is novel.
+
+The same principle applies to my own professional practice.
+
+I evaluate teaching using **evidence of student learning**, not simply whether I felt a lesson went well. I reflect on student work, assessment evidence, misconceptions, questioning, explanations, sequencing and participation.
+
+I learn from colleagues, professional development and educational research, but any change I introduce has to be evaluated in the classroom.
+
+So my overall approach is consistent:
+
+**plan carefully, teach and model clearly, scaffold access, keep students thinking, gather evidence of learning, adapt teaching, consolidate important ideas and progressively move students towards greater independence.**
+
+That now becomes the **master document**. “What does a good lesson look like?”, “How do you scaffold?”, “How do you challenge students?”, “What if the lesson is not working?”, “How do you use assessment?” etc. no longer require separate memorised answers—you simply enter this framework at the relevant point.
+
+
+
+&nbsp;
+
+&nbsp;
+
 ## General approach | What is your general approach to teaching and learning?
 
 I **plan carefully** 
@@ -34,10 +162,9 @@ use evidence to **adapt**
 
 I was rear-ended on 11 November 2025 at about 6 p.m. I was shocked immediately after the accident, but during the night and when I woke the following day I realised I had developed neck pain and stiffness. I came to the GP and was given painkillers and anti-inflammatories. I hoped it would settle, but it persisted, especially with longer driving for work. I started physiotherapy on 1 April, attended again on 13 May and 15 September, and I am due back on 27 October. I am still having intermittent neck pain and stiffness and today it is particularly sore. I need an interim medical report confirming the history, treatment, present symptoms and that I have not yet fully recovered.
 
-  
 
 
-
+&nbsp;
 
 &nbsp;
 
