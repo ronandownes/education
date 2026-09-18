@@ -4,15 +4,11 @@ permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
-Yes. That is the better architecture. Your existing bank contains the right material, but the same core ideas—learning intention, modelling, scaffolding, questioning, checking understanding, adaptation and consolidation—keep recurring under different question headings.
-
-So instead of learning 20–25 answers, learn **one coherent model of teaching and learning**. In the interview, the question simply tells you **which part of the model to foreground**.
-
 # Teaching and Learning
 
-## Key Line
+## Opener | Opener
 
-My approach is to **plan carefully, teach clearly, scaffold where necessary, keep students thinking, check whether learning is actually happening, adapt to the evidence, and gradually move students towards independence**.
+For me, effective teaching starts with a **clear learning intention and the students in front of me**. I **teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt and move them towards independence**.
 
 ## Planning for Learning
 
