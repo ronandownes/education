@@ -36,11 +36,16 @@ Effective teaching starts with understanding the students in front of me:
 
 Effective teaching begins with 
 
-the **students in front of me** and o i develop from op
+the **students in front of me** 
 
-with clarity about what I want them to learn.
+I start with a 
 
-I start with a clear **learning intention** and consider the prior knowledge and prerequisite skills students will need. I also think in advance about likely misconceptions, possible barriers to learning and what successful learning should look like.
+1. clear **learning intention** and 
+2. consider the prior knowledge and 
+3. prerequisite skills students will need.
+4. misconceptions, 
+5. barriers to learning and 
+6. what successful learning should look like.
 
 I want lessons to have a coherent sequence rather than simply being a collection of activities. I normally move from activating prior knowledge into explanation or modelling, then guided practice, increasingly independent practice and finally consolidation.
 
