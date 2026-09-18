@@ -10,7 +10,7 @@ eyebrow: PROFESSIONAL PRACTICE
 
 For me, effective teaching starts with a **clear learning intention and the students in front of me**. I **teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt and move them towards independence**.
 
-## Planning for Learning
+## Planning | Planning for Learning
 
 For me, effective teaching begins with the **students in front of me** and with clarity about what I want them to learn.
 
