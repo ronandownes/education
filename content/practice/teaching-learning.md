@@ -6,7 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 # Teaching and Learning
 
-## Opener | Opener
+## Opener
 
 *For me, effective teaching starts with a **clear learning intention and the students in front of me**. I **teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt and move them towards independence**.*
 
@@ -24,7 +24,7 @@ Pairing
 **adapt** → responsive teaching  
 **independence** → ultimate goal
 
-## Planning | Planning for Learning
+## Planning 
 
 Effective teaching begins with 
 
