@@ -27,12 +27,12 @@ Pairing | Pairing
   
 Effective teaching starts with understanding the students in front of me:
 
-1. their starting points, 
-2. prior knowledge, 
-3. strengths, 
+1. their starting points
+2. prior knowledge
+3. strengths
 4. learning needs 
-5. and level of confidence —
-6. and being clear about what I want them to learn.
+5. and level of confidence 
+6. and being clear about what I want them to learn
 
 ## Planning
 
