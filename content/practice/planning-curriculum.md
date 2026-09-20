@@ -4,6 +4,140 @@ permalink: /planning-curriculum.html
 title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
 ---
+
+
+# Planning Questionnaire
+
+## Key Line
+
+**You should not learn a different answer for every planning question. Learn one planning framework, then answer at the scale the interviewer asks about: programme → year/unit → week → lesson → individual learners.**
+
+The questions can be made almost **MECE**: each one probes a different planning decision rather than asking the same thing with different wording.
+
+## General Teaching → Planning
+
+These are the broadest questions. They establish your overall philosophy before drilling into planning.
+
+- **What is your general approach to teaching and learning?**
+- **What does effective Mathematics teaching look like in your classroom?**
+- **How does planning support your approach to teaching and learning?**
+- **What are the main considerations when you begin planning for a class?**
+
+The first two are essentially **one answer family**. The third is the bridge into planning.
+
+Your planning answer should begin from something like:
+
+> **I start with the students in front of me, the intended learning, and the evidence I will need to know whether that learning has taken place.**
+
+Then everything else becomes a refinement of that.
+
+## Planning at Different Scales
+
+These are genuinely different questions because the **time horizon changes**.
+
+- **How do you plan for a programme or school year?**
+- **How do you plan a unit or topic?**
+- **How do you plan for a week of Mathematics lessons?**
+- **How do you plan an individual lesson?**
+- **How do you adapt your planning as the week or unit progresses?**
+
+That gives you a very clean hierarchy:
+
+**Year → Unit → Week → Lesson → Adaptation**
+
+You should be able to move up or down that hierarchy without inventing a new philosophy.
+
+For example, **weekly planning** is not merely writing five lesson plans. It involves:
+
+- where the class currently is;
+- what should be achieved by the end of the week;
+- sequencing and progression;
+- prerequisite knowledge and retrieval;
+- where explanation/modelling/practice will occur;
+- likely misconceptions;
+- assessment opportunities;
+- flexibility if students move faster or slower than expected.
+
+## Curriculum and Programme Planning
+
+This is a separate branch. Here the interviewer is asking **how the programme changes your planning**, not whether you can plan generally.
+
+- **How would you plan for Junior Cycle Mathematics?**
+- **How would your planning differ for Leaving Certificate Higher and Ordinary Level?**
+- **How would you plan for Transition Year?**
+- **How would you approach planning for LCA or another alternative programme?**
+- **How do you ensure your planning aligns with the specification, learning outcomes and assessment requirements?**
+- **How do you balance curriculum coverage with depth of understanding?**
+
+These should not require four memorised answers.
+
+You need one underlying contrast:
+
+**The planning principles remain consistent, but the curriculum purposes, learning outcomes, level of abstraction, assessment demands, pacing and appropriate learning experiences change with the programme.**
+
+Then you plug in the programme-specific details.
+
+## Planning for the Students
+
+This branch is about **who you are planning for**, rather than what or when.
+
+- **How do you plan for a mixed-ability Mathematics class?**
+- **How do you plan for students with additional educational needs?**
+- **How do you plan appropriate challenge for stronger students?**
+- **How do you use student profiles, prior attainment and previous assessment when planning?**
+- **How do you plan when students have significant gaps in prerequisite knowledge?**
+- **How do you work with an SET or team teacher when planning?**
+
+This is where your language about **knowing the students in front of you** belongs.
+
+It should not become another general teaching answer. The specific issue here is:
+
+**What information about learners changes the plan?**
+
+## Planning the Mathematics
+
+Then there is a specifically **subject-pedagogical** branch.
+
+- **How do you decide how to sequence a mathematical concept?**
+- **How do you identify prerequisite knowledge?**
+- **How do you anticipate misconceptions when planning?**
+- **How do you decide what to model explicitly and what students should discover or investigate?**
+- **How do you plan examples and questions?**
+- **How do you move students from concrete or visual representations towards abstraction?**
+- **How do you decide when technology such as GeoGebra or Desmos adds value?**
+- **How do you plan purposeful practice rather than simply assigning exercises?**
+
+This is probably where a lot of your current answers are duplicating one another.
+
+**Modelling, questioning, examples, scaffolding, technology, retrieval and practice are not six separate philosophies. They are planning decisions within the same teaching architecture.**
+
+## The Questionnaire I Would Actually Learn
+
+If we strip away duplicates, I think your **planning interview bank** can ultimately come down to these eight prompts:
+
+1. **What is your general approach to teaching and learning?**
+2. **How do you approach planning for a class?**
+3. **How do you plan across a year, unit, week and individual lesson?**
+4. **How does your planning differ across Junior Cycle, Leaving Certificate, TY and other programmes?**
+5. **How do you plan for mixed ability and additional educational needs?**
+6. **How do you sequence mathematical learning and anticipate misconceptions?**
+7. **How do assessment evidence and student responses cause you to adapt your plans?**
+8. **Can you give a concrete example of planning a topic from beginning to end?**
+
+That is much closer to what you are after: **eight questions that open eight distinguishable doors**, rather than twenty interview questions causing you to continually reshuffle the same answer.
+
+And I think **No. 8 is critical**. If you can walk them through, say, planning *quadratic functions*, *trigonometry*, *probability* or a Junior Cycle geometry unit from specification → prior knowledge → sequence → modelling → practice → assessment → adaptation, you demonstrate nearly the entire planning framework without reciting theory.
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ## General approach | What is your general approach to planning and curriculum?
 
 I start with the learner and the evidence. I initiate, align, sequence and map learning with the curriculum, and use UDL and cognitive load theory to design for access and challenge. Assessment is built in from the outset, and I adapt continuously in response to AfL. A clear but flexiible plan support student success and  wellbeing.
@@ -19,7 +153,6 @@ The emphasis would be on **investigation and projects rather than simply moving 
 I would still maintain important mathematical skills through **retrieval and regular problem-solving**, but TY gives us the freedom to let students experience Mathematics as something they can **explore, apply and create with**. I would review the programme using student feedback and assessment evidence and refine it each year.
 
 
-&nbsp;
 
 &nbsp;
 
@@ -115,5 +248,3 @@ I plan the evidence I need before the lesson, not merely the activity I will del
 
 I compare the intended sequence with what was actually taught and, more importantly, what students learned. I review **assessment evidence**, **misconceptions**, pacing, resources, **support and challenge**, and I **reflect** on which explanations, representations and tasks worked best. I record what should be retained, moved, removed or strengthened. That reflection and evidence become the **starting point** for the next **scheme of work** rather than relying on memory.
 
-
-&nbsp;
