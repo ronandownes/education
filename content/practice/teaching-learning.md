@@ -17,8 +17,6 @@ I conside rfirst the **students in front of me and our clear learning intention*
 
 
 
-&nbsp;
-
 I then **consolidate** the important learning and progressively move students towards **independence**.
 
 **Core sequence:** **students → learning intention → model → scaffold → think → check → adapt → consolidate → independence**
