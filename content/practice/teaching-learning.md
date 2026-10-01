@@ -8,14 +8,12 @@ eyebrow: PROFESSIONAL PRACTICE
 
 I conside rfirst the **students in front of me and our clear learning intention**. 
 
-1. I **plan carefully,** 
-2. **teach clearly,** 
-3. **model explicitly,** 
-4. **scaffold where needed,** 
-5. **keep students thinking,** 
-6. **and use evidence of learning to adapt support or challenge**. 
-
-
+1. I **plan** carefully,
+2. **teach** clearly,
+3. **model** explicitly,
+4. **scaffold** where needed,
+5. keep students **thinking**,
+6. and **use evidence of learning** to adapt support or challenge.
 
 I then **consolidate** the important learning and progressively move students towards **independence**.
 
