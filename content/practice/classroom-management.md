@@ -147,3 +147,25 @@ Once behaviour suggests a safeguarding concern, ordinary behaviour management is
 | **Do not investigate** | **No promise of secrecy** | **Follow procedure** |
 
 **recognise → protect → record → refer**
+
+## STAR examples | What examples could you use to show effective classroom management?
+
+These are **rehearsal composites**: keep the competency structure and use the closest real incident from your own teaching.
+
+**STAR 1 — persistent low-level disruption**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | A student was repeatedly off-task and drawing others into side conversations. |
+| **Task** | Restore learning without creating a public confrontation. |
+| **Action** | I used private correction, adjusted seating, reinforced the routine and followed through consistently while keeping the relationship positive. |
+| **Result** | Disruption reduced and the student re-engaged more successfully with the work. |
+
+**STAR 2 — escalating behaviour**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | A student became visibly frustrated and was beginning to escalate. |
+| **Task** | Keep the class safe and reduce the emotional temperature. |
+| **Action** | I lowered my voice, reduced language, gave space and processing time, kept the rest of the class working and followed up later. |
+| **Result** | The student settled without a public power struggle and was able to re-enter the lesson. |
