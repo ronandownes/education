@@ -169,3 +169,25 @@ I look for evidence of improved **participation, attainment, regulation and inde
 | **Student voice** | **Independence** | **Adapt** |
 
 **target → evidence → impact → decide**
+
+## STAR examples | What examples could you use to show effective AEN and inclusion practice?
+
+These are **rehearsal composites**: use the version that matches a real learner or support context you have taught.
+
+**STAR 1 — scaffold to independence**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | A student could begin Maths only with frequent adult prompting. |
+| **Task** | Improve access while reducing dependence. |
+| **Action** | I made the first step explicit, chunked the task, used a visual prompt and gradually reduced prompts as the student became more secure. |
+| **Result** | The student began more tasks independently and needed less adult support. |
+
+**STAR 2 — barrier versus ability**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | A student appeared weak on written tasks but showed stronger understanding orally. |
+| **Task** | Work out whether the main difficulty was conceptual or an access barrier. |
+| **Action** | I simplified unnecessary language, used visual support and allowed an oral explanation while keeping the mathematical demand unchanged. |
+| **Result** | The student demonstrated stronger conceptual understanding and I could target the actual literacy barrier more precisely. |
