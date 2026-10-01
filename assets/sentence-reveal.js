@@ -193,7 +193,7 @@
   stopButton.title = 'Stop reading aloud';
   stopButton.hidden = true;
 
-  const editLink = toolbar.querySelector('.edit-link');
+  const editLink = toolbar.querySelector('.cms-edit-link') || toolbar.querySelector('.edit-link');
   if (editLink) {
     toolbar.insertBefore(readButton, editLink);
     toolbar.insertBefore(stopButton, editLink);
