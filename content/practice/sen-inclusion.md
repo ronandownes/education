@@ -174,7 +174,7 @@ I look for evidence of improved **participation, attainment, regulation and inde
 
 These are **rehearsal composites**: use the version that matches a real learner or support context you have taught.
 
-**STAR 1 — scaffold to independence**
+## STAR 1 — scaffold to independence
 
 | STAR | Recall |
 | --- | --- |
@@ -183,7 +183,7 @@ These are **rehearsal composites**: use the version that matches a real learner 
 | **Action** | I made the first step explicit, chunked the task, used a visual prompt and gradually reduced prompts as the student became more secure. |
 | **Result** | The student began more tasks independently and needed less adult support. |
 
-**STAR 2 — barrier versus ability**
+## STAR 2 — barrier versus ability
 
 | STAR | Recall |
 | --- | --- |
