@@ -393,8 +393,7 @@
         const save = document.createElement('a');
         save.className = 'answer-focus-take-save';
         save.href = take.url;
-        save.target = '_blank';
-        save.rel = 'noopener';
+        save.download = `interview-take-${index + 1}.webm`;
         save.textContent = 'Save';
 
         row.append(label, player, save);
