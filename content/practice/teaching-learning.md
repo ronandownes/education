@@ -16,11 +16,13 @@ I start with the **students in front of me** and a clear **learning intention**.
 
 **Students → learning intention → prior knowledge → prerequisites → misconceptions → barriers → success → sequence → adapt**
 
+
 | Understand the learner | Design the route |
-| --- | --- |
+| ----------------------------- | -------------------------------- |
 | **Consider prior knowledge** | **Anticipate barriers** |
 | **Identify prerequisites** | **Define success criteria** |
 | **Anticipate misconceptions** | **Sequence learning coherently** |
+
 
 ## Explain, model, scaffold | How do you explain, model and scaffold new learning?
 
