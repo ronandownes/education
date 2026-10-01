@@ -460,6 +460,57 @@
 
     controls.append(edit, saveWriting);
 
+    const table = content.querySelector('table');
+    if (table) {
+      const addRow = document.createElement('button');
+      addRow.type = 'button';
+      addRow.textContent = 'Add row';
+      addRow.title = 'Add a blank row to the table';
+      addRow.disabled = true;
+
+      const addColumn = document.createElement('button');
+      addColumn.type = 'button';
+      addColumn.textContent = 'Add column';
+      addColumn.title = 'Add a blank column to the table';
+      addColumn.disabled = true;
+
+      const setTableEditState = enabled => {
+        addRow.disabled = !enabled;
+        addColumn.disabled = !enabled;
+      };
+
+      edit.addEventListener('click', () => setTableEditState(true));
+
+      saveWriting.addEventListener('click', () => setTableEditState(false));
+
+      addRow.addEventListener('click', event => {
+        event.stopPropagation();
+        const liveTable = content.querySelector('table');
+        if (!liveTable) return;
+        const columnCount = liveTable.rows[0]?.cells.length || 1;
+        const row = liveTable.insertRow(-1);
+        for (let i = 0; i < columnCount; i += 1) {
+          const cell = row.insertCell(-1);
+          cell.innerHTML = '&nbsp;';
+        }
+      });
+
+      addColumn.addEventListener('click', event => {
+        event.stopPropagation();
+        const liveTable = content.querySelector('table');
+        if (!liveTable) return;
+        Array.from(liveTable.rows).forEach(row => {
+          const headerRow = row.parentElement?.tagName === 'THEAD' ||
+            Array.from(row.cells).every(cell => cell.tagName === 'TH');
+          const cell = document.createElement(headerRow ? 'th' : 'td');
+          cell.innerHTML = '&nbsp;';
+          row.appendChild(cell);
+        });
+      });
+
+      controls.append(addRow, addColumn);
+    }
+
     if (navigator.mediaDevices?.getUserMedia && window.MediaRecorder) {
       const record = document.createElement('button');
       record.type = 'button';
