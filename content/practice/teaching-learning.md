@@ -6,30 +6,16 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## General | What is your general approach to effective teaching and learning?
 
-I conside rfirst the **students in front of me and our clear learning intention**. 
+I start with the **students in front of me** and a clear **learning intention**.
 
-1. I **plan** carefully,
-2. **teach** and explain clearly,
-3. **model** explicitly,
-4. **scaffold** where needed,
-5. keep students **thinking**,
-6. and **use evidence of learning** to adapt the additional supports and challenges provided.
+1. **Plan** carefully.
+2. **Teach and explain** clearly.
+3. **Model** explicitly.
+4. **Scaffold** where needed.
+5. Keep students **thinking**.
+6. Use **evidence of learning** to adapt **support and challenge**.
 
 I then **consolidate** the important learning and progressively move students towards **independence**.
-
-## In front of me | Effective teaching starts with understanding the students in front of you. How do you gain this understanding?
-
-
-
-
-
-Effective teaching starts with understanding the students in front of me:
-
-1. starting points
-2. prior knowledge
-3. strengths
-4. needs
-5. confidence
 
 ## Planning | How do you plan effectively for the students in front of you?
 
