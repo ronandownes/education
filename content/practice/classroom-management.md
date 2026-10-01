@@ -2,7 +2,7 @@
 layout: doc
 permalink: /classroom-management.html
 title: Classroom Management
-eyebrow: Prevention Responce Restore
+eyebrow: Prevent Respond Restore
 ---
 ## General approach | What does good classroom management look like?
 
