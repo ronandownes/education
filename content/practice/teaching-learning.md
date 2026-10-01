@@ -6,7 +6,7 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## General | What is your general approach to teaching and learning for Effective teaching ?
 
-Two principle inputs are a  **clear learning intention and the students in front of me**. I **plan carefully, teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt support or challenge**. I then **consolidate** the important learning and progressively move students towards **independence**.
+My first two elements are the **students in front of me and a clear learning intention**. I **plan carefully, teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt support or challenge**. I then **consolidate** the important learning and progressively move students towards **independence**.
 
 **Core sequence:** **students → learning intention → model → scaffold → think → check → adapt → consolidate → independence**
 
@@ -21,7 +21,6 @@ Two principle inputs are a  **clear learning intention and the students in front
 **use evidence of learning** → assessment, questioning, feedback and retrieval evidence  
 **adapt** → responsive teaching  
 **independence** → ultimate goal
-
 
 #### Students
 
@@ -41,11 +40,11 @@ the **students in front of me**
 
 I start with a 
 
-1. clear **learning intention** and 
-2. consider the prior knowledge and 
+1. clear **learning intention** and
+2. consider the prior knowledge and
 3. prerequisite skills students will need.
-4. misconceptions, 
-5. barriers to learning and 
+4. misconceptions,
+5. barriers to learning and
 6. what successful learning should look like.
 
 I want lessons to have a coherent sequence rather than simply being a collection of activities. I normally move from activating prior knowledge into explanation or modelling, then guided practice, increasingly independent practice and finally consolidation.
