@@ -16,6 +16,26 @@ eyebrow: Common | Access | Extend | Aim
 
 I approach this through **Keep common, Access, Extend and Aim**. I keep the **important learning common** while varying the route into it. I begin with a common learning intention and design a task with a **clear entry point and room for depth**. I use scaffolding and representation for access, while extending through **reasoning, connections and unfamiliar application**. The aim is high expectations, participation and growing independence.
 
+## STAR 1 — mixed-attainment Maths
+
+
+| STAR | Recall |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Situation** | A mixed-attainment class needed the same core concept but very different levels of support. |
+| **Task** | Keep one worthwhile learning goal while giving appropriate access and challenge. |
+| **Action** | I used a common core task, visual and worked-example scaffolds for access, and deeper reasoning and unfamiliar application for students ready to extend. |
+| **Result** | More students participated in the same mathematical conversation while challenge remained high. |
+
+## STAR 2 — fading a scaffold
+
+
+| STAR | Recall |
+| ------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Situation** | A student was completing work accurately but only when a step-by-step scaffold was present. |
+| **Task** | Test whether the support could be reduced. |
+| **Action** | I removed one prompt at a time, checked the student's reasoning and restored only the minimum cue when needed. |
+| **Result** | The student completed similar work with less support and greater confidence. |
+
 ## Entry point | How do you choose an appropriate entry point?
 
 
@@ -147,30 +167,4 @@ I approach this through **Target, Adjust and Protect**. I ask what the assessmen
 
 
 I approach this through **Evidence, Judge and Adapt**. I look for changes in **access, participation, understanding and independence**. If a scaffold is permanent, a high attainer is only doing more work or a group remains passive, I adapt the approach rather than assuming differentiation has happened.
-
-## STAR examples | What examples could you use to show differentiation without lowering standards?
-
-These are **rehearsal composites**: use the structure with a real lesson you have taught.
-
-## STAR 1 — mixed-attainment Maths
-
-
-| STAR | Recall |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | A mixed-attainment class needed the same core concept but very different levels of support. |
-| **Task** | Keep one worthwhile learning goal while giving appropriate access and challenge. |
-| **Action** | I used a common core task, visual and worked-example scaffolds for access, and deeper reasoning and unfamiliar application for students ready to extend. |
-| **Result** | More students participated in the same mathematical conversation while challenge remained high. |
-
-
-## STAR 2 — fading a scaffold
-
-
-| STAR | Recall |
-| ------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Situation** | A student was completing work accurately but only when a step-by-step scaffold was present. |
-| **Task** | Test whether the support could be reduced. |
-| **Action** | I removed one prompt at a time, checked the student's reasoning and restored only the minimum cue when needed. |
-| **Result** | The student completed similar work with less support and greater confidence. |
-
 
