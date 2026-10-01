@@ -2,7 +2,7 @@
 /* Site-wide interview rehearsal audio. The three launchers stay compact;
    pause/resume and stop become deliberately larger only while audio is active. */
 .visually-hidden{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
-.cm-audio-launchers{display:flex;flex:1 1 100%;flex-wrap:wrap;gap:7px;margin-bottom:2px}
+.cm-audio-launchers{display:flex;flex:0 0 auto;flex-wrap:wrap;gap:7px;margin:0}
 .doc-toolbar .cm-audio-launch{display:inline-flex;align-items:center;gap:7px;border-color:#b9c9df;background:#f8fbff;color:#24518a;font-weight:700}
 .doc-toolbar .cm-audio-launch::before{content:"";width:0;height:0;border-top:5px solid transparent;border-bottom:5px solid transparent;border-left:8px solid currentColor}
 .doc-toolbar .cm-audio-launch:hover,.doc-toolbar .cm-audio-launch:focus-visible{background:#edf4ff;border-color:#7ea4d6;outline:none}
@@ -28,9 +28,8 @@
 }
 
 @media(max-width:600px){
-  .cm-audio-launchers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));width:100%}
-  .doc-toolbar .cm-audio-launch{justify-content:center;min-height:40px;padding:7px 8px;font-size:.77rem}
-  .doc-toolbar .cm-audio-launch:last-child{grid-column:1/-1}
+  .cm-audio-launchers{display:flex;flex:1 1 100%;flex-wrap:wrap;gap:7px}
+  .doc-toolbar .cm-audio-launch{justify-content:center;min-height:38px;padding:6px 8px;font-size:.77rem}
   .cm-audio-player{top:70px;margin:-18px 0 22px;gap:10px;padding:10px}
   .cm-audio-status{font-size:.78rem}
   .cm-audio-control{width:44px;height:42px}
