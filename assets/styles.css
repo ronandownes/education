@@ -63,6 +63,12 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .answer-heading-row h2{flex:1}
 .section-controls{display:flex;gap:5px;flex:0 0 auto}
 .section-content{padding-top:10px}
+
+/* Recall answers: spoken paragraph -> visual table -> breadcrumb chain. */
+.answer-section .section-content>p:first-child{margin:0 0 28px;padding:0 0 18px;border-bottom:1px solid #edf0f3}
+.answer-section .section-content>table{margin-top:0;margin-bottom:28px}
+.answer-section .section-content>table+p{margin:0 0 8px;padding:11px 14px;border-left:3px solid #dfe6ee;border-radius:6px;background:#fbfcfd}
+
 .star-button.is-starred{color:#b26a00;background:#fff8e1;border-color:#f2c96d}
 .answer-section.star-filter-hidden{display:none}
 .source-note{font-size:.85rem;color:var(--muted);border-left:3px solid var(--line);padding-left:12px}
