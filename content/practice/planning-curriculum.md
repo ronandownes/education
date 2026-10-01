@@ -179,7 +179,7 @@ I compare what I intended with **what students actually learned**. I review paci
 
 These are **rehearsal composites**: use the structure and replace details with the closest real example from your own teaching.
 
-**STAR 1 — taking over a class**
+## STAR 1 — taking over a class
 
 | STAR | Recall |
 | --- | --- |
@@ -188,7 +188,7 @@ These are **rehearsal composites**: use the structure and replace details with t
 | **Action** | I reviewed the handover, used retrieval and student work to confirm what was secure, then adjusted sequence and pace around the gaps. |
 | **Result** | The class continued the programme without unnecessary repetition and the plan became more closely matched to actual learning. |
 
-**STAR 2 — TY planning**
+## STAR 2 — TY planning
 
 | STAR | Recall |
 | --- | --- |
