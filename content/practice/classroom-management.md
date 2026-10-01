@@ -152,7 +152,7 @@ Once behaviour suggests a safeguarding concern, ordinary behaviour management is
 
 These are **rehearsal composites**: keep the competency structure and use the closest real incident from your own teaching. The three examples deliberately show different thresholds: **ordinary disorder → challenging behaviour → safety**.
 
-**STAR 1 — ordinary disorder / persistent low-level disruption**
+## STAR 1 — Ordinary Disorder / Low-Level Disruption
 
 | STAR | Recall |
 | --- | --- |
@@ -161,7 +161,7 @@ These are **rehearsal composites**: keep the competency structure and use the cl
 | **Action** | I first used proximity and a non-verbal cue, then a brief private reminder. When the pattern continued, I adjusted the seating, made the next task very clear and achievable, and followed through consistently while continuing to notice the student's successful engagement. |
 | **Result** | The disruption reduced, the student completed the work and the class returned to a settled routine without the issue becoming personal or public. |
 
-**STAR 2 — challenging / escalating behaviour**
+## STAR 2 — Challenging / Escalating Behaviour
 
 | STAR | Recall |
 | --- | --- |
@@ -170,7 +170,7 @@ These are **rehearsal composites**: keep the competency structure and use the cl
 | **Action** | I reduced my language and volume, moved the conversation away from the audience where possible, gave a clear limited choice and allowed processing time. I kept the remainder of the class working, followed the school's agreed procedure and returned to the student later when they were regulated enough for a brief restorative conversation. |
 | **Result** | The situation de-escalated without a public confrontation. The student was able to re-enter learning, and the follow-up clarified both the expectation and any support needed to prevent a repeat. |
 
-**STAR 3 — serious / unsafe behaviour**
+## STAR 3 — Serious / Unsafe Behaviour
 
 | STAR | Recall |
 | --- | --- |
