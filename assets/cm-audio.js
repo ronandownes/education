@@ -50,7 +50,8 @@ questionBank: [
 { path: '/planning-curriculum.html', name: 'Planning & Curriculum', short: 'PC', wall: 'Planning & Curriculum Word Wall', concepts: 'Planning & Curriculum Concepts and Questions' },
 { path: '/relationships-wellbeing.html', name: 'Relationships & Wellbeing', short: 'RW', wall: 'Relationships & Wellbeing Word Wall', concepts: 'Relationships & Wellbeing Concepts and Questions' },
 { path: '/professional-practice.html', name: 'Professional Responsibility', short: 'PR', wall: 'Professional Responsibility Word Wall', concepts: 'Professional Responsibility Concepts and Questions' },
-{ path: '/school-research.html', name: "St Patrick's Comprehensive", short: 'SPC', wall: "St Patrick's Word Wall", concepts: "St Patrick's Retrieval Map", pageAudio: true }
+{ path: '/school-research.html', name: "St Patrick's Comprehensive", short: 'SPC', wall: "St Patrick's Word Wall", concepts: "St Patrick's Retrieval Map", pageAudio: true },
+{ path: '/st-marys-newport.html', name: "St Mary's Newport", short: 'SMN', wall: "St Mary's Newport Word Wall", concepts: "St Mary's Newport Retrieval Map", pageAudio: true }
 ];
 const domain = domains.find(item => location.pathname.endsWith(item.path));
 if (!domain) return;
