@@ -153,7 +153,7 @@ I look for changes in **access, participation, understanding and independence**.
 
 These are **rehearsal composites**: use the structure with a real lesson you have taught.
 
-**STAR 1 — mixed-attainment Maths**
+## STAR 1 — mixed-attainment Maths
 
 | STAR | Recall |
 | --- | --- |
@@ -162,7 +162,7 @@ These are **rehearsal composites**: use the structure with a real lesson you hav
 | **Action** | I used a common core task, visual and worked-example scaffolds for access, and deeper reasoning and unfamiliar application for students ready to extend. |
 | **Result** | More students participated in the same mathematical conversation while challenge remained high. |
 
-**STAR 2 — fading a scaffold**
+## STAR 2 — fading a scaffold
 
 | STAR | Recall |
 | --- | --- |
