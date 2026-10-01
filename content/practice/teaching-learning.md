@@ -19,24 +19,16 @@ I then **consolidate** the important learning and progressively move students to
 
 ## Planning | How do you plan effectively for the students in front of you?
 
-Effective teaching begins with 
+I plan from the **students in front of me** and a clear **learning intention**.
 
-the **students in front of me** 
+1. **Consider prior knowledge**
+2. **Identify prerequisites**
+3. **Anticipate misconceptions**
+4. **Anticipate barriers**
+5. **Define success criteria**
+6. **Sequence learning coherently**
 
-I start with a 
-
-1. clear **learning intention** and
-2. consider the prior knowledge and
-3. prerequisite skills students will need.
-4. misconceptions,
-5. barriers to learning and
-6. what successful learning should look like.
-
-I want lessons to have a coherent sequence rather than simply being a collection of activities. I normally move from activating prior knowledge into explanation or modelling, then guided practice, increasingly independent practice and finally consolidation.
-
-I use **success criteria** where they help students understand what quality looks like and what they are working towards.
-
-The plan matters, but it is not fixed. A lesson plan is a route towards learning, not something that must be followed regardless of what the students are showing me.
+The plan is a **route, not a script**. I adapt it to the **evidence of learning** students give me.
 
 ## Explain, model, scaffold | How do you explain, model and scaffold new learning?
 
