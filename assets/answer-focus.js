@@ -36,8 +36,11 @@
     .answer-focus-tools{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:0 0 18px;padding:0 0 14px;border-bottom:1px solid #e7eaee}
     .answer-focus-tools button,.answer-focus-tools a{border:1px solid #cfd5dc;border-radius:999px;background:#fff;color:#30343b;padding:7px 12px;font:inherit;font-size:.78em;font-weight:650;line-height:1.2;cursor:pointer;text-decoration:none}
     .answer-focus-tools button:hover,.answer-focus-tools button:focus-visible,.answer-focus-tools a:hover,.answer-focus-tools a:focus-visible{background:#f3f6fb;border-color:#aecbfa;outline:none}
-    .answer-focus-tools .answer-focus-save{background:#1a73e8;border-color:#1a73e8;color:#fff}
-    .answer-focus-tools .answer-focus-save:hover,.answer-focus-tools .answer-focus-save:focus-visible{background:#1765cc;border-color:#1765cc;color:#fff}
+    .answer-focus-record{background:#fff!important;color:#30343b!important;border-color:#cfd5dc!important}
+    .answer-focus-record.is-recording{background:#eef2f6!important;border-color:#9aa8b8!important;color:#1f2937!important}
+    .answer-focus-recording{display:flex;align-items:center;gap:10px;margin:0 0 16px}
+    .answer-focus-recording[hidden]{display:none!important}
+    .answer-focus-recording audio{width:min(420px,100%);height:34px}
     .answer-focus-copy strong,.answer-focus-copy b{font-weight:800;color:#202124}
     .answer-focus-copy[contenteditable="true"]{min-height:8rem;padding:14px 16px;border:2px solid #aecbfa;border-radius:10px;background:#fbfdff;outline:none;caret-color:#202124}
     .answer-focus-copy[contenteditable="true"]:focus{box-shadow:0 0 0 3px rgba(66,133,244,.12)}
@@ -77,6 +80,10 @@
   let lastTrigger = null;
   let utterance = null;
   let audioButton = null;
+  let mediaRecorder = null;
+  let mediaStream = null;
+  let recordedChunks = [];
+  let recordingUrl = null;
 
   const cleanText = value => (value || '')
     .replace(/\s+/g, ' ')
@@ -230,6 +237,19 @@
     if (audioButton) audioButton.textContent = '▶ Play';
   };
 
+  const resetRecorder = () => {
+    if (mediaRecorder && mediaRecorder.state !== 'inactive') {
+      try { mediaRecorder.stop(); } catch (_) {}
+    }
+    mediaRecorder = null;
+    if (mediaStream) {
+      mediaStream.getTracks().forEach(track => track.stop());
+      mediaStream = null;
+    }
+    recordedChunks = [];
+  };
+
+
   const selectContent = content => {
     const selection = window.getSelection();
     if (!selection) return;
@@ -307,9 +327,11 @@
       play.type = 'button';
       play.textContent = '▶ Play';
       play.setAttribute('aria-label', 'Play or pause focused answer');
+
       const stop = document.createElement('button');
       stop.type = 'button';
       stop.textContent = '■ Stop';
+
       controls.append(play, stop);
       audioButton = play;
 
@@ -343,149 +365,75 @@
       });
     }
 
-    const select = document.createElement('button');
-    select.type = 'button';
-    select.textContent = 'Select';
-    select.title = 'Select the full answer for copying';
-    select.addEventListener('click', event => {
-      event.stopPropagation();
-      selectContent(content);
-      const original = select.textContent;
-      select.textContent = 'Selected';
-      window.setTimeout(() => { select.textContent = original; }, 900);
-    });
-    controls.appendChild(select);
+    const recording = document.createElement('div');
+    recording.className = 'answer-focus-recording';
+    recording.hidden = true;
 
-    const edit = document.createElement('button');
-    edit.type = 'button';
-    edit.textContent = 'Edit';
-    edit.title = 'Edit this answer. Select language and use Bold; your bold language appears red while editing.';
+    if (navigator.mediaDevices?.getUserMedia && window.MediaRecorder) {
+      const record = document.createElement('button');
+      record.type = 'button';
+      record.className = 'answer-focus-record';
+      record.textContent = 'Record';
+      record.title = 'Record a private practice answer using your microphone';
+      controls.appendChild(record);
 
-    const save = document.createElement('button');
-    save.type = 'button';
-    save.className = 'answer-focus-save';
-    save.textContent = 'Save';
-    save.hidden = true;
+      record.addEventListener('click', async event => {
+        event.stopPropagation();
 
-    const bold = document.createElement('button');
-    bold.type = 'button';
-    bold.textContent = 'B';
-    bold.title = 'Bold or unbold the selected language';
-    bold.hidden = true;
-
-    const bankButton = document.createElement('button');
-    bankButton.type = 'button';
-    bankButton.textContent = 'Language bank';
-
-    const hint = document.createElement('div');
-    hint.className = 'answer-focus-hint';
-    hint.hidden = true;
-    hint.textContent = 'Select the words or phrase you want to retrieve, then press B (or Ctrl/Cmd+B). Your selected language is red while editing.';
-
-    const bank = document.createElement('div');
-    bank.className = 'answer-focus-bank';
-    bank.hidden = true;
-
-    let chain = makeChain(content, null);
-
-    const setEditing = on => {
-      resetAudio();
-      if (on) {
-        chain?.remove();
-        chain = null;
-        content.setAttribute('contenteditable', 'true');
-        content.setAttribute('spellcheck', 'true');
-        edit.textContent = 'Cancel';
-        save.hidden = false;
-        bold.hidden = false;
-        hint.hidden = false;
-        content.focus({ preventScroll: true });
-      } else {
-        content.removeAttribute('contenteditable');
-        content.removeAttribute('spellcheck');
-        edit.textContent = 'Edit';
-        save.hidden = true;
-        bold.hidden = true;
-        hint.hidden = true;
-        chain = makeChain(content, chain);
-      }
-    };
-
-    const toggleBold = () => {
-      if (content.getAttribute('contenteditable') !== 'true') return;
-      const selection = window.getSelection();
-      if (!selection || selection.rangeCount === 0 || selection.isCollapsed) return;
-      const range = selection.getRangeAt(0);
-      if (!content.contains(range.commonAncestorContainer)) return;
-      document.execCommand('bold', false, null);
-    };
-
-    content.addEventListener('keydown', event => {
-      const boldShortcut = (event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'b';
-      if (!boldShortcut || content.getAttribute('contenteditable') !== 'true') return;
-      event.preventDefault();
-      toggleBold();
-    });
-
-    bold.addEventListener('click', event => {
-      event.stopPropagation();
-      toggleBold();
-    });
-
-    edit.addEventListener('click', event => {
-      event.stopPropagation();
-      const editing = content.getAttribute('contenteditable') === 'true';
-      if (editing) {
-        const saved = localStorage.getItem(editableKeyFor(heading));
-        if (saved) content.innerHTML = saved;
-        else {
-          const fresh = cloneAnswer(heading);
-          content.innerHTML = fresh.innerHTML;
+        if (mediaRecorder && mediaRecorder.state === 'recording') {
+          record.textContent = 'Record';
+          record.classList.remove('is-recording');
+          mediaRecorder.stop();
+          return;
         }
-        setEditing(false);
-      } else {
-        setEditing(true);
-      }
-    });
 
-    save.addEventListener('click', event => {
-      event.stopPropagation();
-      const html = content.innerHTML;
-      const phrases = boldPhrases(content);
-      localStorage.setItem(editableKeyFor(heading), html);
-      writeBankForAnswer(heading, phrases);
-      applySavedToSource(heading, html);
-      setEditing(false);
-      renderBank(bank);
-      save.textContent = 'Saved';
-      window.setTimeout(() => { save.textContent = 'Save'; }, 1000);
-    });
+        try {
+          if (recordingUrl) {
+            URL.revokeObjectURL(recordingUrl);
+            recordingUrl = null;
+          }
+          recording.replaceChildren();
+          recording.hidden = true;
+          recordedChunks = [];
+          mediaStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+          mediaRecorder = new MediaRecorder(mediaStream);
 
-    bankButton.addEventListener('click', event => {
-      event.stopPropagation();
-      bank.hidden = !bank.hidden;
-      if (!bank.hidden) renderBank(bank);
-    });
+          mediaRecorder.addEventListener('dataavailable', e => {
+            if (e.data?.size) recordedChunks.push(e.data);
+          });
 
-    controls.append(edit, bold, save, bankButton);
+          mediaRecorder.addEventListener('stop', () => {
+            if (mediaStream) {
+              mediaStream.getTracks().forEach(track => track.stop());
+              mediaStream = null;
+            }
+            if (!recordedChunks.length) return;
+            const blob = new Blob(recordedChunks, { type: mediaRecorder?.mimeType || 'audio/webm' });
+            recordingUrl = URL.createObjectURL(blob);
+            const player = document.createElement('audio');
+            player.controls = true;
+            player.src = recordingUrl;
+            recording.replaceChildren(player);
+            recording.hidden = false;
+          });
 
-    const cmsUrl = sourceEditUrlFor(heading);
-    if (cmsUrl) {
-      const cms = document.createElement('a');
-      cms.href = cmsUrl;
-      cms.target = '_blank';
-      cms.rel = 'noopener';
-      cms.textContent = 'Open CMS';
-      cms.title = 'Open the source in Pages CMS if you want to commit the wording permanently to GitHub';
-      controls.appendChild(cms);
+          mediaRecorder.start();
+          record.textContent = 'Stop recording';
+          record.classList.add('is-recording');
+        } catch (_) {
+          record.textContent = 'Mic unavailable';
+          window.setTimeout(() => { record.textContent = 'Record'; }, 1400);
+        }
+      });
     }
 
-    return { controls, hint, bank };
+    return { controls, recording };
   };
 
   const closeFocus = () => {
     if (overlay.hidden) return;
     resetAudio();
+    resetRecorder();
     overlay.hidden = true;
     focusContent.replaceChildren();
     document.body.classList.remove('answer-focus-open');
@@ -503,8 +451,8 @@
     title.setAttribute('data-focus-close', '');
     title.title = 'Click the question to close';
 
-    const { controls, hint, bank } = toolsFor(heading, copy);
-    focusContent.replaceChildren(title, controls, hint, copy, bank);
+    const { controls, recording } = toolsFor(heading, copy);
+    focusContent.replaceChildren(title, controls, copy, recording);
     lastTrigger = heading;
     overlay.hidden = false;
     document.body.classList.add('answer-focus-open');
@@ -541,8 +489,8 @@
   document.addEventListener('keydown', event => {
     if (event.key === 'Escape' && !overlay.hidden) closeFocus();
   });
-  window.addEventListener('pagehide', resetAudio);
-  window.addEventListener('beforeunload', resetAudio);
+  window.addEventListener('pagehide', () => { resetAudio(); resetRecorder(); if (recordingUrl) URL.revokeObjectURL(recordingUrl); });
+  window.addEventListener('beforeunload', () => { resetAudio(); resetRecorder(); if (recordingUrl) URL.revokeObjectURL(recordingUrl); });
 
   const observer = new MutationObserver(prepare);
   observer.observe(body, { childList: true, subtree: true, attributes: true, attributeFilter: ['data-interview-question', 'data-question-text'] });
