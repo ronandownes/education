@@ -4,7 +4,7 @@
 
   const synth = window.speechSynthesis;
   const hasSpeech = Boolean(synth && typeof SpeechSynthesisUtterance !== 'undefined');
-  const pageEdit = document.querySelector('.doc-toolbar .edit-link[href]');
+  const pageEdit = document.querySelector('.doc-toolbar .cms-edit-link[href]') || document.querySelector('.doc-toolbar .edit-link[href]');
   const BANK_KEY = 'education-language-bank:v1';
   const EDIT_PREFIX = 'education-answer-edit:v1:';
 
