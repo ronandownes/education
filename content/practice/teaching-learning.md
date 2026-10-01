@@ -12,10 +12,11 @@ For me, I start with the **students in front of me** and a clear **learning inte
 
 
 | Start — 2 | Teach — 3 | Teach — 3 | Finish — 2 |
-| --- | --- | --- | --- |
+| ---------------------- | ----------- | ------------------- | ---------------- |
 | **Students** | **Plan** | **Scaffold** | **Consolidate** |
 | **Learning intention** | **Explain** | **Think** | **Independence** |
 |  | **Model** | **Check and adapt** |  |
+
 
 ## Planning | How do you plan effectively for the students in front of you?
 
@@ -257,4 +258,3 @@ That now becomes the **master document**. “What does a good lesson look like?�
 **Cum. review** = Cumulative review  
 **High exp.** = High expectations  
 **PL** = Professional learning  
-  
