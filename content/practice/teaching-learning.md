@@ -36,104 +36,64 @@ I start with the **students in front of me** and a clear **learning intention**.
 
 ## Explain, model, scaffold | How do you explain, model and scaffold new learning?
 
-When introducing something difficult, I first identify the **prerequisites** and break the new learning into manageable steps.
+If something is difficult, I first **check the prerequisites** and break it into **manageable steps**. I **explain clearly**, **model the thinking**, and use **different representations** where they help. I **scaffold the first attempts**, check how students are getting on, then **reduce the support** as they become more secure. The aim is **independence**.
 
-I use clear explanation and **explicit instruction** where appropriate. I try to remove unnecessary information and make the important mathematical structure visible.
+**Prerequisites → small steps → explain → model → represent → scaffold → check → fade support → independence**
 
-In Mathematics especially, I use **multiple representations**. A concept might be represented numerically, algebraically, graphically, geometrically or visually. Moving between representations can help students see relationships that may not be obvious in symbolic form alone.
-
-I use **worked examples** and teacher modelling to make mathematical thinking visible. Rather than merely demonstrating procedures, I explain the decisions I am making and the reasoning behind them.
-
-I also use examples and non-examples so students understand not only what works but why.
-
-Scaffolding is temporary support. Depending on the learner, that could mean breaking a problem into smaller steps, using prompts, visual representations, sentence stems, vocabulary support or partially completed examples.
-
-The important point is that I do not want students permanently dependent on scaffolds. I use **gradual release**: model where necessary, practise together, reduce the prompts and progressively transfer responsibility to the student.
-
-The aim is always **independence**.
+| Prepare | Make it visible | Release |
+| --- | --- | --- |
+| **Prerequisites** | **Model thinking** | **Scaffold first attempts** |
+| **Small steps** | **Multiple representations** | **Check understanding** |
+| **Clear explanation** | **Worked examples** | **Fade support → independence** |
 
 ## Keep them thinking | How do you keep students thinking and actively involved in learning?
 
-Students have to do the intellectual work.
+Students have to **do the thinking**. I use **questioning, wait time, explanation and problem-solving** to make that thinking visible, and I try to involve the whole class, not just the quickest hands up. I use activities when they serve the **learning intention**, and I try not to give the answer too quickly when a prompt or question will move the student on.
 
-I therefore try to keep students thinking through **questioning, explanation, reasoning, justification and problem-solving** rather than allowing them to become passive recipients.
+**Question → wait → involve → explain → reason → solve → prompt → think**
 
-Questioning is central to this. I use questions to activate prior knowledge, expose misconceptions and assess understanding. I vary the level of questioning from recall through to explanation, reasoning, justification, application and generalisation.
-
-I use **wait time** because good mathematical thinking does not always produce an immediate answer. I also want participation to extend beyond the students who put their hands up first.
-
-Strategies such as mini-whiteboards, think-pair-share, short collaborative tasks, guided discovery and carefully designed problems can make student thinking visible to me and to other students.
-
-Active learning, however, has to serve the learning intention. I would not use an activity simply because it is engaging. It has to contribute to understanding.
-
-I also resist giving answers too quickly. If a student is thinking productively, a carefully chosen prompt or question is often more valuable than immediately explaining the solution.
+| Question | Make thinking visible | Keep it going |
+| --- | --- | --- |
+| **Ask well** | **Student explanations** | **Problems worth thinking about** |
+| **Wait time** | **Reasoning and justification** | **Prompt before telling** |
+| **Whole-class participation** | **Mini-whiteboards / discussion** | **Activity serves the learning** |
 
 ## Check and adapt | How do you check understanding and adapt your teaching?
 
-One of the most important aspects of teaching is knowing whether students have actually understood.
+I **check understanding throughout the lesson** through questioning, mini-whiteboards, observation, student explanations and written work. The important part is what I do with that evidence. If students are secure, I **reduce support or increase challenge**. If they are not, I **slow down, re-teach, change the representation or return to a prerequisite**. Then I **check again**.
 
-I use **formative assessment throughout the lesson**, not simply at the end. That evidence can come from questioning, mini-whiteboards, observation, student explanations, written work, hinge questions, short quizzes or discussion.
+**Check → gather evidence → diagnose → adapt → check again**
 
-The important part of formative assessment is what I do with the information.
-
-If students demonstrate secure understanding, I can reduce support, move towards independent work or increase the level of challenge.
-
-If the evidence shows uncertainty, I may slow down, re-teach, provide another worked example, change the representation, return to a prerequisite or provide additional guided practice.
-
-That creates a continuous **feedback loop**:
-
-**teach → check → diagnose → adapt → check again.**
-
-Misconceptions are particularly important in Mathematics. I try to expose them rather than allow them to remain hidden. Once a misconception appears, I make the incorrect reasoning visible, contrast it with the correct reasoning and then give students an opportunity to practise the corrected idea.
-
-I do not assume that correcting something once means it has disappeared. I revisit important ideas later through retrieval and cumulative review.
+| Evidence | Response |
+| --- | --- |
+| **Question / observe / listen** | **Move on or increase challenge** |
+| **Mini-whiteboards / explanations** | **Slow down or re-teach** |
+| **Written work / short checks** | **Change representation or revisit a prerequisite** |
 
 ## Practice and challenge | How do you use practice, challenge and consolidation to secure learning?
 
-Students need practice, but the quality and sequencing of that practice matter.
+I move from **structured practice** towards more varied and unfamiliar problems as students become secure. I use **retrieval and cumulative review** to strengthen earlier learning. For me, challenge means **greater depth, not simply more work**. I finish by **consolidating** the key idea and looking for **transfer** to a less familiar situation.
 
-Early practice may be highly structured while students are developing fluency. As confidence and understanding improve, I gradually vary the questions and introduce less familiar applications.
+**Practise → vary → retrieve → review → deepen → consolidate → transfer**
 
-I use **retrieval practice** to strengthen previous learning and identify material that needs to be revisited. Over time I use spacing, cumulative review and appropriate interleaving so students have to recognise which mathematical idea or method is required rather than simply repeating the method from the previous question.
-
-Challenge should mean **greater depth**, not merely more work.
-
-Students who are ready to move further can compare methods, justify solutions, identify patterns, generalise, make connections or solve unfamiliar problems.
-
-At the same time, high expectations remain important for students who require additional support. Inclusion should improve access to the learning rather than automatically reducing the intellectual demand.
-
-I finish lessons by consolidating the important learning. Students might explain the main idea, complete a short problem, retrieve a key concept or demonstrate what they can now do.
-
-That closure also gives me evidence about what the next lesson should contain.
-
-Ultimately I am looking for **transfer**. I want students to be able to use their learning in a situation that is not identical to the one in which it was taught.
+| Secure | Deepen | Transfer |
+| --- | --- | --- |
+| **Structured practice** | **Compare methods** | **Consolidate the key idea** |
+| **Retrieval and review** | **Reason and justify** | **Apply in an unfamiliar context** |
 
 ## Inclusion and reflection | How do inclusion, technology and reflective practice shape your teaching?
 
-Inclusive teaching begins with knowing the learner and anticipating barriers.
+I start with the **learner and the barrier**. I vary the **support and representation** while keeping the learning intention common where I can. With technology, I start with the **learning, not the device** — it has to improve access, understanding or feedback. Afterwards, I look at the **evidence of learning**, reflect on what worked and **refine** what I do.
 
-Students may need different levels of scaffolding, different representations, additional vocabulary support, assistive technology or different ways of demonstrating understanding.
+**Learner → barrier → support → representation → learning → technology → evidence → reflect → refine**
 
-I try to keep the central learning intention common where appropriate while varying the support that allows students to access it.
+| Access | Technology | Reflect |
+| --- | --- | --- |
+| **Know the learner** | **Start with the learning** | **Look at evidence** |
+| **Anticipate barriers** | **Improve access or understanding** | **Reflect on impact** |
+| **Vary support and representation** | **Improve practice or feedback** | **Refine teaching** |
 
-My approach to digital technology is similar. I start with the **learning**, not the device.
-
-I use technology where it genuinely improves explanation, visualisation, accessibility, practice, collaboration, feedback or formative assessment. In Mathematics, tools such as dynamic geometry, graphing software or interactive representations can allow students to investigate relationships that are difficult to communicate through static diagrams alone.
-
-But technology has to earn its place. I evaluate it according to whether it improves understanding, participation or learning rather than whether it is novel.
-
-The same principle applies to my own professional practice.
-
-I evaluate teaching using **evidence of student learning**, not simply whether I felt a lesson went well. I reflect on student work, assessment evidence, misconceptions, questioning, explanations, sequencing and participation.
-
-I learn from colleagues, professional development and educational research, but any change I introduce has to be evaluated in the classroom.
-
-So my overall approach is consistent:
-
-**plan carefully, teach and model clearly, scaffold access, keep students thinking, gather evidence of learning, adapt teaching, consolidate important ideas and progressively move students towards greater independence.**
-
-That now becomes the **master document**. “What does a good lesson look like?”, “How do you scaffold?”, “How do you challenge students?”, “What if the lesson is not working?”, “How do you use assessment?” etc. no longer require separate memorised answers—you simply enter this framework at the relevant point.
-
+So my overall approach stays consistent: **know the students, be clear about the learning, teach responsively, and keep moving them towards greater independence.**
 
 
 &nbsp;
