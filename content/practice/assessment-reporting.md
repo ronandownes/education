@@ -3,112 +3,169 @@ layout: doc
 permalink: /assessment-reporting.html
 title: Assessment, Feedback & Reporting
 eyebrow: PROFESSIONAL PRACTICE
-intro: Elicit evidence, interpret it, give actionable feedback, build student
-  agency and report progress clearly.
 ---
-## AfL Reporting | What would you write for students who got 44% and 77%?
 
-**44%:** You have shown some understanding of the main concepts, but there are gaps in applying them consistently and independently. Your next step is to revisit the areas identified in this assessment and complete targeted practice to strengthen your understanding.
+## General approach | How do you assess learning in your classroom?
 
-**77%:** You have demonstrated a secure understanding of the main concepts and can apply them accurately in most situations. Your next step is to address the areas where marks were lost and develop your learning further through more challenging and unfamiliar problems.
+I use assessment to **make learning visible and decide what happens next**. I combine questioning, observation, student work and short checks, then interpret the evidence for understanding, misconceptions and progress before adapting teaching.
 
+| Elicit | Interpret | Respond |
+| --- | --- | --- |
+| **Questioning** | **Understanding** | **Move on** |
+| **Student work** | **Misconception** | **Re-teach** |
 
-## Parent Concern | Parent concern about daughter struggling with my teaching?
+**elicit → interpret → respond → check again**
 
-If a parent tells me their daughter is struggling to understand, I listen carefully, acknowledge the concern and avoid becoming defensive. I explain what I am seeing from assessment evidence, student work and classroom participation, and try to identify the specific barrier or misconception rather than simply focusing on a mark. I outline the supports I can put in place — for example re-teaching, changing representation, additional scaffolding or targeted practice — and agree a clear next step with the parent and student. I then monitor progress and follow up, so the communication becomes part of supporting improvement rather than simply reporting a problem.
+## Starting point | How do you establish a reliable starting point?
 
-## Assess learning | How do you assess learning in your classroom?
+I triangulate evidence rather than relying on one previous mark. I use handover information, prior work, a short diagnostic, retrieval and observation to identify strengths, gaps and barriers before deciding the next learning step.
 
-I use questioning, observation, mini-whiteboards, discussion, student work, retrieval, quizzes and performance tasks, as well as formal assessments. I look for **conceptual understanding, procedural fluency, strategic competence, adaptive reasoning and productive disposition**. I interpret that evidence for understanding, misconceptions, fluency and reasoning. The purpose is to decide the next step: re-teach, practise, change representation, adjust pace or increase challenge.
+| Before | Check | Decide |
+| --- | --- | --- |
+| **Handover** | **Diagnostic task** | **Starting point** |
+| **Prior work** | **Observation** | **Next step** |
 
-## Starting point | How do you establish a real starting point?
+**evidence → diagnose → starting point → plan**
 
-I triangulate evidence rather than relying on one previous mark. I use handover information, prior attainment, a short diagnostic task, retrieval, questioning, observation and student explanations. I look for strengths, gaps, misconceptions and possible access barriers. That gives me a defensible starting point and prevents a previous report from becoming a permanent judgement.
+## Formative assessment | What is Assessment for Learning?
 
-## Hinge question | How do you use a hinge question to expose a misconception?
+Assessment for Learning is the use of **evidence during learning to decide what happens next**. I make the learning clear, elicit evidence from all learners, interpret it and adapt pace, representation, support or challenge.
 
-A hinge question is quick, discriminating and built around plausible wrong answers. I design distractors that represent likely misconceptions, give students enough response time, then use mini-whiteboards or another whole-class response so I can see the pattern quickly. The answer should tell me not only who is wrong but how they may be thinking, so I can respond and check again.
+| Clarify | Elicit | Adapt |
+| --- | --- | --- |
+| **Learning intention** | **Questioning** | **Pace** |
+| **Success criteria** | **Student response** | **Support or challenge** |
 
-## Barrier vs misconception | How do you distinguish an access barrier from a misconception?
+**clarify → elicit → interpret → adapt**
 
-I change the access route while keeping the learning demand constant. I might read the question aloud, simplify unnecessary language, highlight key information, add a representation or allow an oral response. If the student can then demonstrate the concept, the original problem may have been access. If the error remains, I use error analysis to investigate the misconception.
+## Hinge question | How do you use a hinge question?
 
-## After the mark | What do you do after a mark is recorded?
+A hinge question is designed to expose whether students are ready to move on. I build plausible distractors around likely misconceptions, gather a whole-class response quickly and use the pattern to decide whether to proceed, re-teach or change representation.
 
-The mark is the start of the response, not the end of assessment. I interpret evidence, use error analysis to identify class-wide and individual patterns, and decide the next step. That may mean re-teach, targeted practice, change representation or increase challenge. I then check again to see whether the gap has closed; that is closing the loop.
+| Design | Gather | Decide |
+| --- | --- | --- |
+| **Likely misconception** | **Whole-class response** | **Move on** |
+| **Plausible distractor** | **Quick evidence** | **Re-teach** |
 
-## AfL | What is Assessment for Learning?
+**misconception → question → evidence → decision**
 
-Assessment for Learning is the use of evidence during learning to decide what happens next. It is particularly effective when learning intentions and success criteria are clear. I implement it by eliciting evidence through questioning, observation, student work, mini-whiteboards, exit tickets and other formative assessment strategies. I interpret that evidence in real time and use it to make my teaching responsive — adjusting representation, pace, entry points, support and challenge, and deciding whether students need re-teaching, targeted practice, consolidation or extension. Most importantly, Assessment for Learning creates a continuous feedback loop between evidence and teaching, allowing me to respond more precisely to what students need.
+## Success criteria | How do success criteria support learning?
 
-## Assessment as learning | What is Assessment as Learning?
+Success criteria make **quality visible**. I connect them to the learning intention, use clear examples or exemplars where useful and return to them during questioning, self-assessment and feedback so students know what improvement looks like.
 
-Assessment as Learning develops the student's ability to judge and improve their own learning. Students use success criteria, exemplars, self-assessment, peer assessment and reflection to identify strengths and an area for development. The aim is metacognition, ownership, self-regulation and learner independence, so students increasingly know what quality looks like and what to do next.
+| Clarify | Use | Review |
+| --- | --- | --- |
+| **Expected quality** | **Exemplar** | **Self-check** |
+| **Key features** | **Questioning** | **Improve work** |
 
-## Assessment of learning | What is Assessment of Learning?
+**quality → evidence → self-check → improve**
 
-Assessment of learning is primarily summative: it records attainment at a particular point and may contribute to reporting or certification. Examples include a topic test, common assessment, formal exam or performance task. I still interpret the evidence afterwards, but its main purpose is to summarise achievement. I use professional judgement and consider validity and reliability when drawing conclusions.
+## Feedback | What makes feedback effective?
 
-## Effective feedback | What makes feedback effective?
+Effective feedback is **specific, manageable and actionable**. I identify what is secure, name the next improvement and give students time to act on it, because feedback only becomes formative when it changes subsequent work.
 
-Effective feedback is timely, focused, specific and actionable. I connect it to the success criteria, identify a strength and a manageable area for development, and give an improvement prompt or next step the student can act on. Feedback is only useful if students have time to respond, so I build in redrafting, correction or another attempt rather than treating comments as an endpoint.
+| Identify | Direct | Act |
+| --- | --- | --- |
+| **Strength** | **Next step** | **Correction** |
+| **Gap** | **Improvement prompt** | **Second attempt** |
 
-## Live feedback | How do you use live feedback during a lesson?
+**strength → gap → next step → action**
 
-Live feedback lets me close the gap while the learning is still happening. As I circulate I use questioning, a brief assessment conversation or an improvement prompt to correct a misconception, ask for reasoning or redirect attention to the success criteria. It is timely and specific, and I can check again immediately.
+## Live and written feedback | When do you use live, written or whole-class feedback?
 
-## Written & whole-class feedback | When do you use written feedback or whole-class feedback?
+I choose the form that gives the best return for learning. Live feedback is immediate, written feedback is useful for durable next steps, and whole-class feedback is efficient when the same pattern appears across many students.
 
-Written feedback is useful when a student needs a durable, specific next step or improvement prompt. Whole-class feedback is efficient when student work shows common strengths, misconceptions or errors. I use anonymised examples and exemplars where helpful, then give students time to correct or redraft. I avoid excessive marking that produces little student action.
+| Live | Written | Whole class |
+| --- | --- | --- |
+| **Immediate correction** | **Durable next step** | **Common pattern** |
+| **Check again** | **Student response** | **Shared improvement** |
 
-## Self-assessment | How do you use self-assessment effectively?
+**choose form → feedback → student action**
 
-Self-assessment works when students have clear success criteria and enough subject knowledge to judge their work. I may use exemplars, checklists or reflection prompts so students identify strengths, an area for development and a next step. Over time this builds metacognition, ownership and self-regulation rather than students waiting for me to tell them whether every answer is correct.
+## Self and peer assessment | How do you use self-assessment and peer assessment?
 
-## Peer assessment | How do you use peer assessment safely and effectively?
+I use them when students have **clear criteria and enough subject knowledge to judge quality**. Exemplars and focused prompts help students identify evidence of success and one improvement without turning peer assessment into public comparison.
 
-Peer assessment needs structure, clear success criteria and a respectful classroom culture. I use exemplars first and give a focused prompt rather than asking students to mark each other. Students identify evidence of success and suggest one improvement. I retain professional judgement over formal assessment, and the purpose is learning and feedback rather than public comparison.
+| Prepare | Judge | Improve |
+| --- | --- | --- |
+| **Criteria** | **Evidence of success** | **One next step** |
+| **Exemplar** | **Focused reflection** | **Revise** |
 
-## Success criteria | How do success criteria support assessment?
+**criteria → judge → reflect → improve**
 
-Success criteria make the expected quality visible. I derive them from the learning intentions and use clear language, examples and exemplars so students know what evidence will demonstrate success. They guide questioning, self-assessment, peer assessment and feedback. I keep them focused on the important learning rather than turning them into a long compliance checklist.
+## Summative assessment | What is Assessment of Learning and how do you use it well?
 
-## Retrieval as assessment | How do you use retrieval as assessment evidence?
+Assessment of Learning summarises attainment at a point in time. I use valid tasks, consistent criteria and professional judgement, then still analyse the evidence afterwards so the result can inform future teaching rather than becoming just a mark.
 
-Retrieval gives me evidence about retention as well as immediate understanding. Short low-stakes retrieval can show which knowledge is accessible without prompts and which misconceptions have returned. I interpret evidence over time rather than overreacting to one item, and use it to decide whether to revisit, re-teach, practise or increase challenge. It therefore feeds responsive teaching as well as memory.
+| Measure | Judge | Use |
+| --- | --- | --- |
+| **Valid task** | **Consistent criteria** | **Record attainment** |
+| **Sufficient evidence** | **Professional judgement** | **Analyse gaps** |
 
-## Common assessments | When are common assessments useful and what can they conceal?
+**measure → judge → record → learn from evidence**
 
-A common assessment can support shared expectations, reliability and useful comparison across classes when it is aligned with what was actually taught. It can also conceal differences in access, starting point or teaching sequence if the mark is treated as the whole story. I use professional judgement, error analysis and other classroom evidence alongside the common result before drawing conclusions.
+## Accessible assessment | How do you make assessment accessible without lowering standards?
 
-## Validity & reliability | How do you think about validity and reliability in classroom assessment?
+I protect the **construct being assessed** and remove barriers that are irrelevant to it. Clear language, accessible layout, extra processing time or an appropriate response mode may improve validity without changing the intended standard.
 
-Validity asks whether the assessment is actually measuring the learning I intend to assess; reliability asks whether the result is sufficiently consistent to support the judgement. I use clear success criteria, suitable tasks, enough evidence and consistent approaches. If reading difficulty or response format is irrelevant to the target, I remove that barrier so the assessment remains valid.
+| Protect | Adjust | Check |
+| --- | --- | --- |
+| **Assessment target** | **Access feature** | **Validity** |
+| **Success criteria** | **Response mode** | **Same standard** |
 
-## Accessible assessment | How do you make assessment accessible without compromising standards?
+**identify target → remove barrier → preserve standard**
 
-I begin with the intended learning and preserve that demand. Where appropriate I use clear language, an accessible layout, reasonable accommodations or an alternative response while keeping the success criteria intact. I consider response time and processing needs. Accessibility should remove an irrelevant barrier, not provide the answer or change what the assessment is meant to measure.
+## Progress and attainment | How do you report progress as well as attainment?
 
-## Digital assessment | How do you use digital assessment tools?
+Attainment describes the standard reached; progress describes movement from the student's starting point. I report both, using evidence to identify strengths, improvement and a focused next step rather than relying on a single mark.
 
-I use digital assessment when it improves the quality or speed of evidence. It can elicit evidence from the whole class, give immediate feedback and help students try again independently. I still check validity: a fast digital response is not automatically deep understanding. I combine it with questioning, discussion or student work when I need evidence of reasoning.
+| Attainment | Progress | Next step |
+| --- | --- | --- |
+| **Current standard** | **Change over time** | **Priority improvement** |
+| **Evidence** | **Strength developed** | **Action** |
 
-## Progress vs attainment | How do you report progress as well as attainment?
-
-Attainment describes the standard reached; progress describes movement from the student's starting point over time. A good report can communicate both. I use assessment evidence, student work and record keeping to identify strengths, progress and a realistic area for development. I avoid vague praise and use clear language so the report tells the student and parent what has improved and what the next step is.
-
-## Record keeping | What assessment records do you keep and why?
-
-My record keeping should be proportionate and useful. I keep the formal results required by the school and enough formative evidence to notice patterns in progress, attainment and misconceptions. I do not try to record every classroom interaction. Reliable records support planning, parent communication, reporting and professional judgement when I need to explain a decision.
+**attainment → progress → next step**
 
 ## Parent communication | How do you communicate assessment information to parents or guardians?
 
-In parent communication I explain the evidence in clear language: current attainment, progress, strengths, an area for development and the next step. I distinguish a single mark from a wider pattern and avoid labels or predictions that put a ceiling on the student. Where useful I refer to student work or assessment evidence and explain how home and school can support improvement.
+I use clear, factual language about **current attainment, progress, strengths and next steps**. I distinguish a single result from a wider pattern, listen to relevant context and explain how school and home can support improvement.
 
-## Reporting | What makes a good student report?
+| Explain | Listen | Agree |
+| --- | --- | --- |
+| **Evidence** | **Parent context** | **Next step** |
+| **Strength** | **Concern** | **Follow-up** |
 
-A good report is accurate, evidence-informed and useful. I use an evidence-informed report to communicate attainment, progress, strengths and a focused area for development in clear language. Comments should be consistent with the available evidence and school reporting procedures. The report should help the reader understand both where the student is now and what the next step is.
+**evidence → explain → listen → agree → follow up**
 
-## Review assessment | How do you evaluate whether your assessment and feedback practices are working?
+## After the mark | What do you do after a test or assessment?
 
-I look at whether assessment is producing valid evidence and whether students actually act on feedback. I review the quality of questions, tasks, feedback, redrafting and follow-up, and compare my judgement with student work and common evidence where available. I use professional judgement to adjust the approach, because assessment should improve learning rather than simply generate marks.
+The mark is the start of the response, not the end. I analyse patterns, identify misconceptions, decide what needs re-teaching or further challenge, give students an opportunity to act and then check whether the gap has closed.
+
+| Analyse | Respond | Recheck |
+| --- | --- | --- |
+| **Error pattern** | **Re-teach** | **Second attempt** |
+| **Class trend** | **Challenge** | **Check closure** |
+
+**mark → analyse → respond → recheck**
+
+## Record keeping | What assessment records do you keep?
+
+I keep records that are **proportionate and useful**: formal results, significant patterns in progress and enough formative evidence to support planning, reporting and professional judgement. I do not try to record every classroom interaction.
+
+| Record | Use | Limit |
+| --- | --- | --- |
+| **Formal results** | **Planning** | **Proportionate** |
+| **Significant patterns** | **Reporting** | **Purposeful** |
+
+**record what matters → use it well**
+
+## Review assessment | How do you know whether your assessment practices are working?
+
+I ask whether the assessment is producing **valid evidence** and whether students are acting on feedback. I review the quality of questions, tasks, feedback and follow-up, then change the approach if it is generating marks without improving learning.
+
+| Evidence | Impact | Improve |
+| --- | --- | --- |
+| **Valid task** | **Student action** | **Refine question** |
+| **Useful feedback** | **Improved work** | **Refine follow-up** |
+
+**validity → action → impact → refine**
