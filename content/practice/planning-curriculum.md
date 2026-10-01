@@ -99,9 +99,12 @@ I build **formative assessment into the plan**, not onto the end of it. If learn
 
 | Evidence | Diagnose | Respond |
 | --- | --- | --- |
-| **Question / observe** | **Secure** | **Move on / challenge** |
-| **Work / mini-whiteboards** | **Uncertain** | **Re-teach / practise** |
-| **Short check** | **Gap** | **Revisit / re-represent** |
+| **Questioning** | **Secure** | **Move on** |
+| **Observation** | **Uncertain** | **Increase challenge** |
+| **Student work** | **Gap** | **Re-teach** |
+| **Mini-whiteboards** | **Misconception** | **Change representation** |
+| **Short check** |  | **Revisit prerequisite** |
+| **Exit task** |  | **Guided practice** |
 
 **check → diagnose → respond → check again**
 
