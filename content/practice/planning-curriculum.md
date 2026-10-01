@@ -5,246 +5,130 @@ title: Planning & Curriculum
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
+## General planning | What is your general approach to planning and curriculum?
 
-# Planning Questionnaire
+I start with the **students**, the **intended learning** and the **evidence** that will show me whether learning has happened. I then **sequence the learning**, plan support and challenge, and keep the plan flexible enough to respond to what students show me.
 
-## Key Line
+| Start | Build | Respond |
+| --- | --- | --- |
+| **Students** | **Sequence learning** | **Check evidence** |
+| **Learning intention** | **Support and challenge** | **Adapt** |
+| **Success criteria** | **Resources / approaches** | **Next step** |
 
-**You should not learn a different answer for every planning question. Learn one planning framework, then answer at the scale the interviewer asks about: programme → year/unit → week → lesson → individual learners.**
+**students → learning → evidence → sequence → support/challenge → adapt**
 
-The questions can be made almost **MECE**: each one probes a different planning decision rather than asking the same thing with different wording.
+## Planning scales | How do you plan across a year, unit, week and lesson?
 
-## General Teaching → Planning
+The principles stay the same, but the **time horizon changes**. At year level I map coverage and progression; at unit level I sequence concepts; at week and lesson level I decide the immediate learning, teaching and checks. Each level should connect to the next.
 
-These are the broadest questions. They establish your overall philosophy before drilling into planning.
+| Year | Unit | Week / lesson |
+| --- | --- | --- |
+| **Map outcomes** | **Sequence concepts** | **Set the next learning** |
+| **Pace the programme** | **Plan assessment points** | **Teach, check, adapt** |
 
-- **What is your general approach to teaching and learning?**
-- **What does effective Mathematics teaching look like in your classroom?**
-- **How does planning support your approach to teaching and learning?**
-- **What are the main considerations when you begin planning for a class?**
+**year → unit → week → lesson → adapt**
 
-The first two are essentially **one answer family**. The third is the bridge into planning.
+## Curriculum alignment | How do the specification, learning outcomes and assessment requirements shape your planning?
 
-Your planning answer should begin from something like:
+I plan from the **curriculum rather than the textbook**. I unpack the relevant outcomes, pay attention to the **action verbs**, and use them to decide the depth of learning, the success criteria and the evidence I need.
 
-> **I start with the students in front of me, the intended learning, and the evidence I will need to know whether that learning has taken place.**
+| Curriculum | Meaning | Planning |
+| --- | --- | --- |
+| **Learning outcomes** | **What students must know/do** | **Sequence and activities** |
+| **Action verbs** | **Depth of learning** | **Success criteria** |
+| **Assessment requirements** | **Required evidence** | **Checks and tasks** |
 
-Then everything else becomes a refinement of that.
+**specification → outcomes → action verbs → depth → evidence**
 
-## Planning at Different Scales
+## Starting point | How do you establish the real starting point for a class?
 
-These are genuinely different questions because the **time horizon changes**.
+I use **handover information, previous work and assessment evidence**, but I treat them as a starting hypothesis. Early retrieval, questioning and observation tell me what students actually know, where the gaps are and what needs to change in the plan.
 
-- **How do you plan for a programme or school year?**
-- **How do you plan a unit or topic?**
-- **How do you plan for a week of Mathematics lessons?**
-- **How do you plan an individual lesson?**
-- **How do you adapt your planning as the week or unit progresses?**
+| Before teaching | Early evidence | Decision |
+| --- | --- | --- |
+| **Handover / records** | **Retrieval / questioning** | **Confirm or revise** |
+| **Learner profile** | **Observation / work** | **Support / challenge** |
 
-That gives you a very clean hierarchy:
+**handover → evidence → diagnose → starting point → plan**
 
-**Year → Unit → Week → Lesson → Adaptation**
+## Mathematics sequencing | How do you sequence mathematical learning and anticipate misconceptions?
 
-You should be able to move up or down that hierarchy without inventing a new philosophy.
+I identify the **prerequisites** first, then move from what students know towards the new idea in manageable steps. I plan examples, representations and questions that make the structure visible and deliberately expose likely misconceptions before they become embedded.
 
-For example, **weekly planning** is not merely writing five lesson plans. It involves:
+| Foundations | Build the idea | Test it |
+| --- | --- | --- |
+| **Prerequisites** | **Examples / representations** | **Questions** |
+| **Prior knowledge** | **Model / practise** | **Misconceptions** |
+| **Vocabulary** | **Increase abstraction** | **Check transfer** |
 
-- where the class currently is;
-- what should be achieved by the end of the week;
-- sequencing and progression;
-- prerequisite knowledge and retrieval;
-- where explanation/modelling/practice will occur;
-- likely misconceptions;
-- assessment opportunities;
-- flexibility if students move faster or slower than expected.
+**prerequisites → representations → examples → misconceptions → transfer**
 
-## Curriculum and Programme Planning
+## Assessment and adaptation | How does assessment evidence change your planning?
 
-This is a separate branch. Here the interviewer is asking **how the programme changes your planning**, not whether you can plan generally.
+I build **formative assessment into the plan**, not onto the end of it. The point is the decision that follows: move on, increase challenge, re-teach, change representation, revisit a prerequisite or provide more guided practice.
 
-- **How would you plan for Junior Cycle Mathematics?**
-- **How would your planning differ for Leaving Certificate Higher and Ordinary Level?**
-- **How would you plan for Transition Year?**
-- **How would you approach planning for LCA or another alternative programme?**
-- **How do you ensure your planning aligns with the specification, learning outcomes and assessment requirements?**
-- **How do you balance curriculum coverage with depth of understanding?**
+| Evidence | Diagnose | Respond |
+| --- | --- | --- |
+| **Questioning / observation** | **Secure** | **Move on / challenge** |
+| **Work / mini-whiteboards** | **Uncertain** | **Re-teach / practise** |
+| **Exit / short check** | **Gap / misconception** | **Revisit / re-represent** |
 
-These should not require four memorised answers.
+**check → diagnose → respond → check again**
 
-You need one underlying contrast:
+## Inclusion and challenge | How do you plan for mixed ability and additional educational needs?
 
-**The planning principles remain consistent, but the curriculum purposes, learning outcomes, level of abstraction, assessment demands, pacing and appropriate learning experiences change with the programme.**
+I keep a **common worthwhile learning goal** where possible and vary the route into it. I anticipate barriers, plan scaffolds and representations, and increase challenge through depth, reasoning and unfamiliar application rather than simply giving more work.
 
-Then you plug in the programme-specific details.
+| Access | Support | Challenge |
+| --- | --- | --- |
+| **Know the learner** | **Scaffold / model** | **Reason / justify** |
+| **Anticipate barriers** | **Represent differently** | **Generalise / apply** |
+| **Check participation** | **Fade support** | **Maintain expectations** |
 
-## Planning for the Students
+**learner → barrier → access → support → challenge → independence**
 
-This branch is about **who you are planning for**, rather than what or when.
+## Programmes and pathways | How does your planning change across Junior Cycle, Senior Cycle, TY and other programmes?
 
-- **How do you plan for a mixed-ability Mathematics class?**
-- **How do you plan for students with additional educational needs?**
-- **How do you plan appropriate challenge for stronger students?**
-- **How do you use student profiles, prior attainment and previous assessment when planning?**
-- **How do you plan when students have significant gaps in prerequisite knowledge?**
-- **How do you work with an SET or team teacher when planning?**
+The **planning principles stay consistent**, but the programme changes the purpose, pacing, assessment and learning experience. Junior Cycle emphasises outcomes, connections and reasoning; Senior Cycle adds level and examination demands; TY allows more investigation and projects; LCA or Level 1/2 requires purposeful, accessible and relevant contexts.
 
-This is where your language about **knowing the students in front of you** belongs.
+| Programme | Planning emphasis |
+| --- | --- |
+| **Junior Cycle** | **Outcomes, connections, reasoning** |
+| **Senior Cycle** | **Level, depth, examination demands** |
+| **TY** | **Investigation, projects, application** |
+| **LCA / Level 1–2** | **Relevant, accessible, purposeful learning** |
 
-It should not become another general teaching answer. The specific issue here is:
+**same principles → different purpose → pacing → assessment → experience**
 
-**What information about learners changes the plan?**
+## Department and continuity | How do you contribute to collaborative planning and continuity?
 
-## Planning the Mathematics
+I use the department plan and agreed schemes of work to support **consistency without identical teaching**. I share resources, assessment evidence and common misconceptions, and I use clear handover so the next teacher knows both what was taught and how securely it was learned.
 
-Then there is a specifically **subject-pedagogical** branch.
+| Collaborate | Agree | Carry forward |
+| --- | --- | --- |
+| **Share evidence / resources** | **Core outcomes / sequence** | **Handover** |
+| **Discuss misconceptions** | **Common expectations** | **Continuity / progression** |
 
-- **How do you decide how to sequence a mathematical concept?**
-- **How do you identify prerequisite knowledge?**
-- **How do you anticipate misconceptions when planning?**
-- **How do you decide what to model explicitly and what students should discover or investigate?**
-- **How do you plan examples and questions?**
-- **How do you move students from concrete or visual representations towards abstraction?**
-- **How do you decide when technology such as GeoGebra or Desmos adds value?**
-- **How do you plan purposeful practice rather than simply assigning exercises?**
+**share → agree → record → handover → progress**
 
-This is probably where a lot of your current answers are duplicating one another.
+## Retrieval and consolidation | How do you build retrieval, consolidation and revision into long-term planning?
 
-**Modelling, questioning, examples, scaffolding, technology, retrieval and practice are not six separate philosophies. They are planning decisions within the same teaching architecture.**
+I plan for important learning to **reappear over time** rather than leaving revision until the end. Retrieval, cumulative review and well-timed consolidation help students retain learning and reveal what needs to be revisited before new work depends on it.
 
-## The Questionnaire I Would Actually Learn
+| Revisit | Consolidate | Prepare |
+| --- | --- | --- |
+| **Retrieval** | **Cumulative review** | **Check prerequisites** |
+| **Spacing** | **Interleaving where useful** | **Re-teach if needed** |
 
-If we strip away duplicates, I think your **planning interview bank** can ultimately come down to these eight prompts:
+**retrieve → revisit → consolidate → retain → reconnect**
 
-1. **What is your general approach to teaching and learning?**
-2. **How do you approach planning for a class?**
-3. **How do you plan across a year, unit, week and individual lesson?**
-4. **How does your planning differ across Junior Cycle, Leaving Certificate, TY and other programmes?**
-5. **How do you plan for mixed ability and additional educational needs?**
-6. **How do you sequence mathematical learning and anticipate misconceptions?**
-7. **How do assessment evidence and student responses cause you to adapt your plans?**
-8. **Can you give a concrete example of planning a topic from beginning to end?**
+## Review and improve | How do you evaluate and improve your planning?
 
-That is much closer to what you are after: **eight questions that open eight distinguishable doors**, rather than twenty interview questions causing you to continually reshuffle the same answer.
+I compare what I intended with **what students actually learned**. I review pacing, assessment evidence, misconceptions, resources and support/challenge, then keep, move, remove or strengthen what needs changing for the next cycle.
 
-And I think **No. 8 is critical**. If you can walk them through, say, planning *quadratic functions*, *trigonometry*, *probability* or a Junior Cycle geometry unit from specification → prior knowledge → sequence → modelling → practice → assessment → adaptation, you demonstrate nearly the entire planning framework without reciting theory.
+| Review | Decide | Improve |
+| --- | --- | --- |
+| **Learning evidence** | **Keep / move** | **Refine sequence** |
+| **Pacing / misconceptions** | **Remove / strengthen** | **Improve next plan** |
 
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-## General approach | What is your general approach to planning and curriculum?
-
-I start with the learner and the evidence. I initiate, align, sequence and map learning with the curriculum, and use UDL and cognitive load theory to design for access and challenge. Assessment is built in from the outset, and I adapt continuously in response to AfL. A clear but flexiible plan support student success and  wellbeing.
-
-## TY Maths Curriculum | How would you design a TY Maths curriculum for the school?
-
-I would begin by deciding **what we want students to gain from TY Maths that they may not get from an examination-driven year**. I would consult the existing school programme, students, the Maths department and the TY coordinator, then build a flexible programme around mathematical thinking, problem-solving and real-world application.
-
-I would include areas such as **financial mathematics, data and statistics, mathematical modelling, coding, probability, puzzles and strategy, measurement and practical projects**. I would also create opportunities to use tools such as **Desmos, GeoGebra, spreadsheets and Python**, where appropriate.
-
-The emphasis would be on **investigation and projects rather than simply moving ahead into Leaving Certificate content**. Students might analyse real datasets, design and cost a project, investigate patterns, carry out surveys or solve open-ended problems.
-
-I would still maintain important mathematical skills through **retrieval and regular problem-solving**, but TY gives us the freedom to let students experience Mathematics as something they can **explore, apply and create with**. I would review the programme using student feedback and assessment evidence and refine it each year.
-
-
-
-&nbsp;
-
-## Yearly plan | If you were given a second-year Maths class in September, how would you plan the year?
-
-I start with the **handover**, **scheme of work** and **learner profile** to establish where the class actually is. I use an early **low-stakes diagnostic** to confirm the **starting point**, then **map the relevant learning outcomes across the year**. I build in **retrieval points**, **formative assessment** and **consolidation**, and **adapt** the plan as evidence comes in.
-
-## Starting point | How do you establish a real starting point for a class?
-
-I use several sources rather than relying on one test: **handover information**, **previous work**, **assessment evidence**, learner needs and short **retrieval** tasks. I want to know both what pupils can do and where the **misconceptions** or **access barriers** are. That gives me a defensible **starting point** for planning.
-
-## First-year plan | How would you plan for a first-year Maths class at the start of the year?
-
-I begin with class profiles, transition and **handover information**, primary-school reports and available **assessment evidence**. Because students come from different schools, early **retrieval** and diagnostic assessment establish their actual **strengths, gaps and misconceptions**. I unpack the Junior Cycle Mathematics **learning outcomes** and connect them in a **coherent sequence**, prioritising essential foundations, retrieval and **consolidation**. Throughout the year, **formative assessment** helps me **adjust the pace, support and challenge** to the students in front of me.
-
-## Specification & learning outcomes | How do the specification and learning outcomes influence your planning?
-
-I go directly to the Junior Cycle Mathematics **curriculum specification** and **unpack** what the relevant **learning outcomes** require students to know, understand and do. I pay particular attention to **action verbs** such as *investigate, represent, apply, generalise, interpret* and *solve*, because they indicate the depth of learning required. I connect related outcomes into a **coherent sequence** and use them to shape activities, **success criteria** and assessment. Classroom evidence then helps me **adjust the pace, support and challenge**.
-
-## Scheme of work | How would you develop a scheme of work for a class?
-
-I begin with the relevant **curriculum specification** and **unpack the learning outcomes** into the knowledge, skills and understanding students need. I establish the class **starting point**, identify **prerequisite knowledge**, connect related outcomes and **map the learning across the year** in a **coherent sequence**. I build in **retrieval points**, **consolidation points**, **assessment points**, resources and approximate **time allocation**. The **scheme of work** remains flexible so evidence from the class can change the pacing or sequence.
-
-## Subject plan vs scheme | What is the difference between a subject plan and a scheme of work?
-
-The subject plan is the department's broad framework for how the subject is organised and taught across the school. It covers **curriculum** provision, assessment, inclusion, resources, **common expectations** and departmental procedures. A **scheme of work** is more specific: it maps and sequences learning for a particular year group or class over a defined period. My individual planning sits within both while still responding to the students in front of me.
-
-## Department planning | How do you contribute to collaborative planning and consistency within the Maths department?
-
-I contribute to the **department plan** by sharing resources, **assessment evidence**, common **misconceptions** and approaches that have worked in my classroom. We agree essential **learning outcomes**, broad sequencing, common terminology, **common expectations** and key **assessment points**, while allowing **professional judgement** in individual classrooms. **Common assessments** can provide useful evidence when they are aligned with what was actually taught. I **record useful decisions** so collaboration leads to consistent entitlement rather than identical teaching.
-
-## Continuity & progression | How do you ensure continuity and progression from one year to the next?
-
-I use agreed **schemes of work**, assessment records and purposeful **handover information** to identify what has been taught and how securely it has been learned. I map new learning onto the **prerequisite knowledge** and skills students should already possess. Early **retrieval** confirms that **starting point** and exposes gaps. I then **revisit** essential foundations while maintaining **progression** and identifying the **natural next step**.
-
-## Handover | How do you use handover information when taking over a new class?
-
-I review the point reached in the **scheme of work**, recent **assessment evidence**, the **learner profile** and relevant **support needs**. I speak with the previous teacher where possible about strengths, **misconceptions**, **access barriers** and strategies that have worked. I treat **handover** as a starting hypothesis rather than a fixed judgement. Early **retrieval evidence** and classroom **observation** then confirm or change my plan.
-
-## Assessment evidence | How do you use assessment evidence to inform future planning?
-
-I look beyond the mark to identify patterns in understanding, strategies and **misconceptions**. I use **assessment evidence** to decide whether to move on, **re-teach**, provide **additional support**, **change representation** or **increase challenge**. Where the difficulty affects only some students, I may use **flexible grouping** or targeted **guided practice** rather than slowing the whole class. The next plan should visibly respond to what the evidence revealed.
-
-## Not understood | How do you adapt your plan when students have not understood a topic?
-
-I first identify the precise **misconception** or missing **prerequisite knowledge** rather than simply repeating the same lesson. I **re-teach** by changing the representation, example, explanation or task and rebuild understanding through **guided practice**. I check again with a focused **hinge question**, **mini-whiteboards** or an **exit task**. Once the evidence is secure enough, I reconnect the learning to the wider sequence.
-
-## Coverage vs depth | How do you balance curriculum coverage with depth of understanding?
-
-Coverage without learning is not genuine **progression**, so I prioritise the concepts and skills that unlock later work. I use **formative assessment** to judge when students are ready to move forward and when a short revisit of **prerequisite knowledge** is essential. **Retrieval**, **cumulative review** and **interleaving** let earlier learning reappear without stopping the whole programme. I maintain pacing, but not at the cost of foundational understanding.
-
-## Retrieval & consolidation | How do you build retrieval, consolidation and revision into long-term planning?
-
-I schedule **retrieval** throughout the year rather than leaving revision until the end. Completed learning reappears through **retrieval points**, homework, **effective questioning** and **cumulative review**, and I deliberately use **interleaving** where students need to select between methods. I include **consolidation points** after significant units and before new learning that depends on them. Remembering is therefore designed into the scheme, not added as an optional extra.
-
-## Mixed ability | How do you plan for a mixed-ability class?
-
-I begin with a common, worthwhile learning goal and plan **multiple representations** and routes into the same learning. I use clear modelling, **worked examples**, scaffolded tasks, **guided practice** and then **independent practice**, while keeping extension focused on **reasoning, justification and generalisation**. **Formative assessment** helps me vary **support and challenge** during the lesson. Students may receive different levels of assistance without being given different expectations of participation.
-
-## AEN literacy numeracy | How do you build AEN, literacy and numeracy needs into planning from the outset?
-
-I use the **learner profile**, **Student Support Files** and collaboration with support staff to anticipate **access barriers** and **support needs** before teaching begins. I plan explicit **key vocabulary**, clear instructions, **multiple representations**, manageable steps and suitable **processing time**. I use **assistive technology** where it removes a genuine barrier and build **scaffolds** into ordinary classroom practice. I review impact so support increases access and **learner independence** rather than becoming permanent dependence.
-
-## Support & challenge | How do you provide both support and appropriate challenge through your planning?
-
-I keep the core learning goal ambitious and vary the route, **scaffold** and depth. **Additional support** may include modelling, prompts, **worked examples**, manipulatives, **key vocabulary** or extra **guided practice**. I **increase challenge** through **justification**, **generalisation**, comparing methods and unfamiliar problem-solving rather than simply adding more questions. **Formative assessment** and **observation** help me match **support and challenge** to current need.
-
-## Programmes & pathways | How do you plan for different programmes and pathways?
-
-I begin with the **programme outcomes**, **curriculum requirements** and **assessment requirements** of the particular pathway. I adapt the sequence, pacing, context, resources and level of **scaffolding** for Junior Cycle, Senior Cycle, LCA or a learning-support setting. I use **practical contexts** where appropriate while keeping the learning purposeful and ambitious. The route changes, but the planning remains aligned to the **curriculum** and **responsive** to the learner.
-
-## Junior vs Senior Cycle | How would your planning differ between Junior Cycle and Senior Cycle Mathematics?
-
-At Junior Cycle I plan from the **learning outcomes** across the three-year programme, with strong emphasis on mathematical connections, investigation, **reasoning** and **progression**. At Senior Cycle I work from the relevant syllabus, level and examination requirements while maintaining conceptual understanding and problem-solving. The pacing and **assessment requirements** differ, but both need **coherent sequencing**, **retrieval** and **responsive** teaching. In both cases, I plan from the **curriculum** and the learners rather than from the textbook alone.
-
-## LCA | How would your planning differ for an LCA class?
-
-For LCA I plan from the **programme outcomes** and **assessment requirements** and use practical, relevant contexts that connect mathematics with everyday life and vocational learning. I break learning into achievable stages, revisit essential numeracy and provide frequent opportunities for success. Tasks remain purposeful and age-appropriate, and I **record progress** through clear evidence. I also align planning with the programme's key-assignment requirements.
-
-## Level 1 / Level 2 | How do you plan for students following Level 1 or Level 2 Learning Programmes?
-
-I begin with the student's priority learning needs and the relevant Level 1 or Level 2 **learning outcomes**. I coordinate with the support team so classroom learning contributes to meaningful personal targets. Activities are concrete, accessible and connected to communication, numeracy, **learner independence** and participation. I **record progress** in small, observable steps while keeping the student included in the life of the class.
-
-## Prior knowledge & misconceptions | How do prior knowledge and likely misconceptions influence your planning?
-
-I identify **prerequisite knowledge** and likely **misconceptions** before selecting examples or activities. **Retrieval** and diagnostic questions reveal whether those foundations are secure. I then choose **multiple representations**, **worked examples** and carefully varied tasks that make the structure visible and expose incorrect thinking. If the evidence shows a gap, I **revisit prerequisite knowledge** or **change representation** before building further.
-
-## Formative assessment | How do you incorporate formative assessment into your planning?
-
-I plan the evidence I need before the lesson, not merely the activity I will deliver. I include **effective questioning**, **hinge questions**, **mini-whiteboards**, **observation** and **exit tasks** at points where a decision may be required. These checks are linked to likely **misconceptions** and **success criteria**. I use the responses to **adjust pace**, **flexible grouping**, explanation, **guided practice** and the **natural next step**.
-
-## Evaluate planning | How do you evaluate and improve a scheme of work or future planning?
-
-I compare the intended sequence with what was actually taught and, more importantly, what students learned. I review **assessment evidence**, **misconceptions**, pacing, resources, **support and challenge**, and I **reflect** on which explanations, representations and tasks worked best. I record what should be retained, moved, removed or strengthened. That reflection and evidence become the **starting point** for the next **scheme of work** rather than relying on memory.
-
+**evidence → reflect → decide → refine**
