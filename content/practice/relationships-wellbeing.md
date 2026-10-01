@@ -3,120 +3,158 @@ layout: doc
 permalink: /relationships-wellbeing.html
 title: Relationships & Wellbeing
 eyebrow: PROFESSIONAL PRACTICE
-intro: Build trust, notice changes, support regulation and re-engagement,
-  coordinate pastoral support, and safeguard when required.
 ---
 
+## Relationships and learning | What role do relationships play in learning?
 
-## Relationships & learning | What role do relationships play in learning?
+Positive relationships create **trust, belonging and readiness to learn**. I try to know students well enough to notice change, communicate high expectations and correct behaviour without damaging dignity; the relationship supports learning rather than replacing standards.
 
-Relationships create the pycholocial safety students need for intellectual risks, academic bouyancy and creativity during challenging problem solving tasks. Students ask for help well, persist and recover from mistakes. I build trust through consistency, respect, fairness and positive regard while keeping high expectations clear. trust is never confused with expectation. I have observed that when students feel a sense of belonging, participation and readiness to learn  improve.
+| Trust | Expect | Notice |
+| --- | --- | --- |
+| **Respect** | **High standards** | **Change in presentation** |
+| **Belonging** | **Fair boundaries** | **Readiness to learn** |
+
+**respect → trust → belonging → expectations → learning**
 
 ## New class | How do you establish positive relationships with a new class?
 
-I combine warmth and structure from the first lesson. I learn names, greet students, establish predictable routines, listen properly and show interest in them as learners. I follow through calmly and fairly so consistency builds trust. Students should experience me as approachable but clear about appropriate boundaries, with dignity and high expectations for everyone.
+I build relationships through ordinary consistency: learn names, greet students, be fair, listen, explain expectations and notice effort. I avoid trying to manufacture popularity; trust develops when students experience me as predictable, respectful and interested in their learning.
+
+| Know | Be consistent | Build trust |
+| --- | --- | --- |
+| **Learn names** | **Fair expectations** | **Notice effort** |
+| **Listen** | **Follow through** | **Show interest** |
+
+**know → listen → fair → consistent → trust**
 
 ## Pastoral role | What is the subject teacher's pastoral role?
 
-The subject teacher often sees the first small signs that something has changed. I notice attendance, engagement, peer dynamics, work, mood and behaviour, and I may check in privately. I listen and record relevant facts, then communicate through the tutor, year head, pastoral or AEN structures. I contribute observations and support; I do not try to act as a counsellor.
+My pastoral role is to **notice, listen, support and refer appropriately**. I can create a safe classroom, check in, contribute observations and help a student reconnect with learning, while recognising when the concern needs the tutor, year head, AEN team or another professional.
+
+| Notice | Support | Refer |
+| --- | --- | --- |
+| **Change in behaviour** | **Listen** | **Pastoral structure** |
+| **Change in engagement** | **Classroom adjustment** | **Specialist support** |
+
+**notice → listen → support → refer**
 
 ## Classroom wellbeing | What does wellbeing look like in your classroom?
 
-Wellbeing is visible when students feel safe, respected, connected and able to participate in learning. I support it through predictability, respectful language, appropriate challenge, opportunities for success and psychological safety around mistakes. I also build emotional literacy and help-seeking into normal classroom interaction. Wellbeing is not an extra activity; it is reflected in how students experience the lesson.
+Wellbeing is not a separate activity from learning. It is visible in **predictability, respectful relationships, participation, appropriate challenge and psychological safety**, so students can make mistakes, ask for help and still feel that the classroom is a place where they belong.
 
-## Student voice | How do you support student voice and belonging?
+| Safety | Participation | Growth |
+| --- | --- | --- |
+| **Predictable routines** | **Student voice** | **Appropriate challenge** |
+| **Respect** | **Help-seeking** | **Recover from mistakes** |
 
-Student voice means meaningful influence, not the removal of teacher direction. I listen to students' experiences, use check-ins and feedback, and offer appropriate choice in examples, methods, roles or ways of responding. I notice whose voice is missing and try to widen participation. Being heard strengthens belonging, school connectedness and learner agency.
+**safe → participate → challenge → grow**
 
-## Wellbeing concern | What would you do if you were concerned about a student's wellbeing?
+## Concern | What would you do if you were concerned about a student's wellbeing?
 
-I would first notice and clarify what I have actually observed: a change in presentation, attendance, engagement, mood, work or peer relationships. I would check in privately, listen without interrogating and record relevant facts. I then communicate and refer through the appropriate school support structure. If there is an immediate safeguarding concern, I move directly to child-protection procedures.
+I begin with what I have actually observed and avoid diagnosing. I check in privately, listen, record significant facts and communicate through the appropriate pastoral structure; if there is a safeguarding concern, I follow child-protection procedure immediately.
 
-## Change in presentation | What signs might tell you that a student's wellbeing has changed?
+| Observe | Check in | Escalate |
+| --- | --- | --- |
+| **Facts** | **Private conversation** | **Pastoral route** |
+| **Pattern** | **Listen** | **Safeguarding route** |
 
-I look for change from the student's usual presentation rather than one isolated behaviour. That can include attendance, engagement, confidence, peer dynamics, work quality, emotional expression, help-seeking, withdrawal or sudden escalation. I notice patterns and context, check in appropriately and monitor. A subject teacher's value is often in noticing a change early and passing on accurate observations.
+**observe → listen → record → refer**
 
-## Anxiety or distress | How do you support a student experiencing anxiety or distress?
+## Anxiety or distress | How do you support a student who is anxious or distressed?
 
-I prioritise calm, predictability and relational safety. I reduce unnecessary public pressure, use clear language, allow processing time and give the student a manageable route back into participation. I may use a brief check-in or agreed reset and monitor readiness to learn. If anxiety or distress is persistent or significant, I communicate with the pastoral or AEN team for coordinated support.
+I reduce immediate pressure without removing all challenge. I use calm language, predictable steps, processing time and an achievable re-entry point, then coordinate further support if the pattern is persistent.
 
-## Regulation | How do you support emotional regulation in the classroom?
+| Settle | Support | Re-engage |
+| --- | --- | --- |
+| **Calm tone** | **Clear next step** | **Return to task** |
+| **Processing time** | **Reduced pressure** | **Review support** |
 
-I try to recognise triggers and escalation early and respond with calm and predictability. Depending on the learner, co-regulation may involve reduced language, processing time, sensory awareness, a movement break or an agreed reset. The aim is recovery and re-engagement, not avoiding all challenge. Over time I want students to develop stronger self-regulation and resilience.
+**calm → support → re-engage → review**
 
-## Dysregulation | What would you do if a student became emotionally dysregulated?
+## Regulation | How do you support emotional regulation?
 
-I lower the emotional temperature and protect dignity and safety. I use calm, brief language, reduce the audience, allow processing time and avoid arguing. I may use an agreed regulation strategy or movement break. Once the student has recovered enough to engage, I support a reset and re-engagement, then follow up if the incident suggests a wider wellbeing or support need.
+I try to notice triggers and early signs before behaviour escalates. I use predictable routines, reduced language, space or an agreed regulation strategy where appropriate, then help the student return to learning and gradually build self-regulation.
 
-## Attendance | How does attendance relate to your pastoral role?
+| Anticipate | Regulate | Return |
+| --- | --- | --- |
+| **Notice trigger** | **Use agreed strategy** | **Re-enter learning** |
+| **Predictable routine** | **Give processing time** | **Build self-regulation** |
 
-Attendance is one of the first pieces of pastoral evidence available to a subject teacher. I notice patterns, especially changes alongside reduced engagement or peer difficulties, and avoid assuming the reason. I welcome the student back without public judgement, help with re-engagement and communicate persistent concerns through the tutor or year head so the school can coordinate support.
+**notice → regulate → re-enter → independence**
 
-## Peer dynamics | How do you respond when peer dynamics are affecting a student's wellbeing?
+## Attendance | How does attendance fit your pastoral role?
 
-I notice patterns of exclusion, tension, changed friendships or reluctance to participate, and I avoid making conclusions from one incident. I listen to the student, protect dignity and make appropriate classroom adjustments where useful. I record and communicate concerns through the pastoral structure. Where there is bullying or a safeguarding issue, I use the relevant school procedure rather than treating it as ordinary friendship difficulty.
+Attendance gives useful early evidence about engagement and wellbeing. I notice patterns, welcome students back without public judgement, help them reconnect with missed learning and communicate persistent concerns through the agreed school structure.
+
+| Notice | Reconnect | Communicate |
+| --- | --- | --- |
+| **Pattern** | **Welcome back** | **Tutor or year head** |
+| **Change** | **Catch-up route** | **Follow-up** |
+
+**notice → welcome → reconnect → communicate**
+
+## Peer conflict | How do you respond when peer relationships are affecting wellbeing?
+
+I stop escalation, listen to the relevant accounts and avoid taking sides too quickly. I keep the focus on behaviour and impact, use restorative conversation where appropriate and involve the school's anti-bullying or pastoral procedures when the issue goes beyond ordinary conflict.
+
+| Stabilise | Understand | Resolve |
+| --- | --- | --- |
+| **Stop escalation** | **Listen** | **Restore where possible** |
+| **Protect dignity** | **Clarify impact** | **Use procedure if needed** |
+
+**stabilise → listen → clarify → restore or refer**
 
 ## Bullying | What would you do if a student reported bullying?
 
-I would listen calmly, take the report seriously, avoid promising secrecy and record the relevant facts. I would protect the student's immediate safety and follow the school's anti-bullying and pastoral procedures, involving the appropriate staff. I would not run a private investigation on my own. Follow-up matters: the student needs to know the concern was acted on and that re-engagement and belonging are being monitored.
+I take the report seriously, listen calmly, record the relevant facts and follow the school's **Bí Cineálta / anti-bullying procedure**. I do not run a private investigation or promise secrecy, and I make sure the student knows the concern has been acted on.
 
-## Conflict | How do you handle conflict between students while protecting relationships?
+| Receive | Record | Act |
+| --- | --- | --- |
+| **Listen** | **Relevant facts** | **Follow procedure** |
+| **Protect safety** | **No promise of secrecy** | **Follow up** |
 
-I first stop escalation and make sure everyone is safe. I listen to the relevant accounts without taking sides prematurely and keep the focus on behaviour rather than person. When students are ready, a restorative conversation can support accountability, acknowledge harm and identify what needs to happen next. The aim is repair, a fresh start and safe participation, not forced friendship.
+**listen → protect → record → act → follow up**
 
-## Restorative conversation | How do you use a restorative conversation?
+## Restorative practice | How do you use a restorative conversation?
 
-A restorative conversation is structured around what happened, who was affected and what needs to happen next. I listen, keep appropriate boundaries clear and support accountability without humiliation. Students may acknowledge harm and agree a realistic repair. It is useful when participants are regulated enough to engage, and it supports relationship repair and re-engagement rather than replacing safeguarding or necessary consequences.
+A restorative conversation asks what happened, who was affected and what needs to happen next. I keep boundaries clear, support accountability without humiliation and agree a realistic repair when participants are calm enough to engage.
 
-## Repair | How do you repair a relationship after a difficult incident?
+| Understand | Acknowledge | Repair |
+| --- | --- | --- |
+| **What happened?** | **Who was affected?** | **What changes now?** |
+| **Listen** | **Accept responsibility** | **Fresh start** |
 
-I separate the behaviour from the person and make it clear that the relationship can recover. I listen, restate the appropriate boundary, acknowledge harm where relevant and agree a practical next step. I then offer a fresh start and notice successful re-engagement. Trust is rebuilt through consistency over time, not through one conversation.
-
-## Trusted adult | Why is having a trusted adult important in school?
-
-A trusted adult can strengthen school connectedness, help-seeking and relational safety. Students are more likely to disclose a concern, ask for help or recover after difficulty when they know an adult will listen and respond predictably. Being a trusted adult does not mean becoming a counsellor or friend; it means maintaining professional boundaries while being reliable, respectful and approachable.
-
-## Safeguarding concern | What do you do if a wellbeing concern becomes a safeguarding concern?
-
-Once I have a safeguarding concern, ordinary pastoral handling stops being enough. I prioritise the student's immediate safety, record the relevant facts and refer through the school's child-protection procedure to the DLP or DDLP as appropriate. I do not investigate independently or promise confidentiality. My duty of care is to recognise, record and pass the concern through the correct route.
-
-## Disclosure | How would you respond if a student made a disclosure?
-
-I would remain calm, listen carefully and allow the student to speak in their own words. I would not interrogate, lead the student or promise secrecy. I would explain the limits of confidentiality, record the relevant facts as accurately as possible and refer immediately through the school's child-protection procedure. I would continue to treat the student normally and with dignity afterwards.
-
-## Confidentiality | How do you handle confidentiality in a pastoral situation?
-
-I respect privacy but I am clear about confidentiality limits. I only share information with people who need it for the student's support or safety, and I avoid informal discussion. If a disclosure or concern involves safeguarding, I cannot keep it secret; I record and refer it through the proper route. Clear professional boundaries protect both the student and the teacher.
+**understand → impact → responsibility → repair**
 
 ## Professional boundaries | How do you remain supportive without becoming the student's counsellor?
 
-I can notice, listen, check in, encourage help-seeking and contribute classroom observations while keeping professional boundaries clear. I do not diagnose, provide therapy or take on information that should sit with specialist or pastoral staff. I communicate concerns through the agreed structures and maintain normal high expectations. Support is strongest when it is coordinated rather than dependent on one teacher.
+I can notice, listen, check in and support classroom participation while keeping my role clear. I do not diagnose or take on specialist work; I share relevant concerns through the correct structure and maintain confidentiality within its proper limits.
 
-## Parents / guardians | How do you communicate with parents or guardians about wellbeing?
+| Support | Boundaries | Refer |
+| --- | --- | --- |
+| **Listen** | **Do not diagnose** | **Use support team** |
+| **Check in** | **Protect confidentiality** | **Seek specialist help** |
 
-When it is appropriate for me to communicate, I use clear, factual and respectful language about what I have observed, not labels or diagnoses. I listen to relevant context and keep the focus on the student's participation, readiness to learn and support needs. I work within school procedures and confidentiality limits, and safeguarding information is handled through the designated route.
+**support → boundary → refer**
 
-## Coordinated support | How do you work with colleagues to support student wellbeing?
+## Parents and coordinated support | How do you work with parents and colleagues around wellbeing?
 
-Student wellbeing is best supported through coordinated support. I contribute observations to the tutor, year head, pastoral team, AEN staff or other relevant colleagues, and I communicate changes rather than working in isolation. We can agree consistent classroom supports, monitor attendance, participation and re-engagement, and use student voice where appropriate. Professional referral is made when the need goes beyond our role.
+I communicate observations rather than labels, listen to relevant context and keep the focus on the student's participation and readiness to learn. With colleagues I agree a consistent response so support is coordinated rather than dependent on one teacher.
 
-## Review wellbeing | How do you know whether your wellbeing support is helping?
+| Share | Listen | Coordinate |
+| --- | --- | --- |
+| **Factual observation** | **Family context** | **Agreed support** |
+| **Progress** | **Student voice** | **Review together** |
 
-I look for change in readiness to learn, participation, attendance, help-seeking, emotional regulation and re-engagement rather than assuming a support worked. I check in appropriately, use student voice and share observations with the relevant team. We monitor the pattern and adjust coordinated support when needed. The aim is greater belonging, resilience and safe participation in learning.
+**share → listen → coordinate → review**
 
-## Safeguard when required — what this means
+## Safeguarding | What do you do if a wellbeing concern becomes a safeguarding concern?
 
-Safeguarding is broader than serious abuse or something criminal. In a school context, it means recognising when a student's welfare or safety may be at risk and following the school's procedures rather than trying to deal with it alone.
+Once there is a safeguarding concern, I prioritise safety, record the relevant facts and report through the child-protection procedure to the DLP or DDLP. I do not investigate independently and I do not promise confidentiality.
 
-That could include a significant change in behaviour, persistent distress, bullying, neglect, inappropriate relationships, online safety concerns, self-harm concerns, unexplained injuries, worrying disclosures, or circumstances at home affecting the student's safety or welfare.
+| Protect | Record | Refer |
+| --- | --- | --- |
+| **Immediate safety** | **Facts** | **DLP or DDLP** |
+| **Do not investigate** | **Accurate note** | **Follow procedure** |
 
-The progression is:
-
-**Build trust → notice changes → support regulation and re-engagement → coordinate pastoral support → safeguard when required.**
-
-If what I notice moves beyond ordinary pastoral support into a welfare or child-protection concern, I escalate it through the proper safeguarding procedures. I do not investigate or decide whether somebody has committed an offence. I notice, listen appropriately, record and report as required, and pass the concern to the appropriate person.
-
-
-## Communicating with parents | What would you do if a parent was concerned about your teaching?
-
-I would listen carefully first and avoid becoming defensive, because the parent’s concern is ultimately about their daughter. I would clarify exactly what she is finding difficult — whether it is pace, explanations, workload, confidence or exam pressure — and then explain how I am monitoring her learning through classwork, questioning, homework and assessment. I would keep the conversation focused on evidence and on what will help the student, and if something in my approach is not working for her, I would be prepared to adapt it through clearer explanation, additional scaffolding, targeted practice or changes in pace. I would agree practical next steps with the parent and student, follow up to see whether they are working, and involve the year head, guidance or other relevant support if the concern extends beyond my classroom.
+**protect → record → refer**
