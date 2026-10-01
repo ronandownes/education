@@ -10,6 +10,13 @@ For me, I start with the **students in front of me** and a clear **learning inte
 
 **Students → learning intention → plan → explain → model → scaffold → think → check and adapt → consolidate → independence**
 
+| Start — 3 | Teach — 4 | Respond & release — 3 |
+| --- | --- | --- |
+| **Students** | **Explain** | **Check and adapt** |
+| **Learning intention** | **Model** | **Consolidate** |
+| **Plan** | **Scaffold** | **Independence** |
+|  | **Think** |  |
+
 ## Planning | How do you plan effectively for the students in front of you?
 
 I start with the **students in front of me** and a clear **learning intention**. Then: **what do they already know, what do they need first, where are the likely misconceptions or barriers, and what will success look like?** From there I **sequence the learning**. The plan’s a **route, not a script** — I adapt it to what the students show me.
