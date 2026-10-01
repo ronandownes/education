@@ -21,16 +21,19 @@ Good classroom management creates a **calm, predictable and purposeful learning 
 
 ## New or cover class | How do you establish expectations with a new or temporary class?
 
-I make the first few minutes very clear: greet the students, settle the room, check the task and state the small number of expectations that matter. I model routines where needed and reinforce them consistently; in a cover class I keep the work achievable and aligned with the regular teacher's plan.
+I make the first few minutes very clear: **greet the students, settle the room, establish the task and communicate the few expectations that matter most**. I explicitly model routines where needed, but I also use **student voice and student modelling**, noticing and positively reinforcing students who are already demonstrating the expected routine. In a cover class, I keep the work achievable and aligned with the regular teacher’s plan so that learning continues.
 
 
-| Start | Structure | Settle |
-| ------------ | -------------------- | ------------------------ |
-| **Greet** | **Clear task** | **Reinforce routines** |
-| **Register** | **Few expectations** | **Keep learning moving** |
+| Start | Structure | Reinforce |
+| ---------------------- | -------------------------- | ----------------------------------- |
+| **Greet students** | **Clear, achievable task** | **Notice what is working** |
+| **Settle the room** | **Few clear expectations** | **Positive reinforcement** |
+| **Establish the task** | **Model routines** | **Reinforce routines consistently** |
+| **Register** | **Student voice** | **Keep learning moving** |
+|  | **Student modelling** | **Follow regular teacher’s plan** |
 
 
-**greet → task → expectations → routines → reinforce → learn**
+**greet → settle → task → expectations → model → student voice → notice → reinforce → learn**
 
 ## Prevention | How do you prevent low-level disruption before it starts?
 
