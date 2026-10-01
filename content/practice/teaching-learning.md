@@ -6,16 +6,9 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## General | What is your general approach to effective teaching and learning?
 
-I start with the **students in front of me** and a clear **learning intention**.
+**Students → learning intention → plan → explain → model → scaffold → think → check and adapt → consolidate → independence**
 
-1. **Plan** carefully.
-2. **Teach and explain** clearly.
-3. **Model** explicitly.
-4. **Scaffold** where needed.
-5. Keep students **thinking**.
-6. Use **evidence of learning** to adapt **support and challenge**.
-
-I then **consolidate** the important learning and progressively move students towards **independence**.
+For me, I start with the **students in front of me** and a clear **learning intention**. Then it’s **plan carefully, explain clearly, model explicitly, scaffold where needed, keep them thinking, check what they’re learning and adapt**. Then **consolidate** and, bit by bit, move them towards **independence**.
 
 ## Planning | How do you plan effectively for the students in front of you?
 
