@@ -4,9 +4,9 @@ permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
-## General | What is your general approach to teaching and learning?
+## General | What is your general approach to teaching and learning for Effective teaching ?
 
-Effective teaching starts with a **clear learning intention and the students in front of me**. I **plan carefully, teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt support or challenge**. I then **consolidate** the important learning and progressively move students towards **independence**.
+Two principle inputs are a  **clear learning intention and the students in front of me**. I **plan carefully, teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt support or challenge**. I then **consolidate** the important learning and progressively move students towards **independence**.
 
 **Core sequence:** **students → learning intention → model → scaffold → think → check → adapt → consolidate → independence**
 
