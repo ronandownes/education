@@ -51,6 +51,9 @@
     .answer-focus-copy[contenteditable="true"]:focus{box-shadow:0 0 0 3px rgba(66,133,244,.12)}
     .answer-focus-copy[contenteditable="true"] strong,.answer-focus-copy[contenteditable="true"] b{color:#d93025;font-weight:800}
     .answer-focus-copy button,.answer-focus-copy .cm-question-play,.answer-focus-copy .section-controls,.answer-focus-copy .section-edit-nearby,.answer-focus-copy .section-edit-link{display:none!important}
+    .answer-focus-copy table{width:100%;border-collapse:collapse;table-layout:fixed;margin:14px 0 20px;background:#fff}
+    .answer-focus-copy th,.answer-focus-copy td{border:1px solid #d7dce2;padding:9px 10px;text-align:left;vertical-align:top}
+    .answer-focus-copy th{background:#f6f8fa;font-weight:750;color:#30343b}
     .answer-focus-hint{margin:-7px 0 14px;color:#6b7280;font-size:.78em;line-height:1.4}
     .answer-focus-chain{margin:18px 0 0;padding:12px 14px;border-left:4px solid #d93025;background:#f8f9fa;border-radius:0 9px 9px 0;color:#3c4043;font-size:.84em;line-height:1.5}
     .answer-focus-chain strong{color:#d93025}
@@ -460,56 +463,6 @@
 
     controls.append(edit, saveWriting);
 
-    const table = content.querySelector('table');
-    if (table) {
-      const addRow = document.createElement('button');
-      addRow.type = 'button';
-      addRow.textContent = 'Add row';
-      addRow.title = 'Add a blank row to the table';
-      addRow.disabled = true;
-
-      const addColumn = document.createElement('button');
-      addColumn.type = 'button';
-      addColumn.textContent = 'Add column';
-      addColumn.title = 'Add a blank column to the table';
-      addColumn.disabled = true;
-
-      const setTableEditState = enabled => {
-        addRow.disabled = !enabled;
-        addColumn.disabled = !enabled;
-      };
-
-      edit.addEventListener('click', () => setTableEditState(true));
-
-      saveWriting.addEventListener('click', () => setTableEditState(false));
-
-      addRow.addEventListener('click', event => {
-        event.stopPropagation();
-        const liveTable = content.querySelector('table');
-        if (!liveTable) return;
-        const columnCount = liveTable.rows[0]?.cells.length || 1;
-        const row = liveTable.insertRow(-1);
-        for (let i = 0; i < columnCount; i += 1) {
-          const cell = row.insertCell(-1);
-          cell.innerHTML = '&nbsp;';
-        }
-      });
-
-      addColumn.addEventListener('click', event => {
-        event.stopPropagation();
-        const liveTable = content.querySelector('table');
-        if (!liveTable) return;
-        Array.from(liveTable.rows).forEach(row => {
-          const headerRow = row.parentElement?.tagName === 'THEAD' ||
-            Array.from(row.cells).every(cell => cell.tagName === 'TH');
-          const cell = document.createElement(headerRow ? 'th' : 'td');
-          cell.innerHTML = '&nbsp;';
-          row.appendChild(cell);
-        });
-      });
-
-      controls.append(addRow, addColumn);
-    }
 
     if (navigator.mediaDevices?.getUserMedia && window.MediaRecorder) {
       const record = document.createElement('button');
