@@ -2,18 +2,18 @@
 layout: doc
 permalink: /assessment-reporting.html
 title: Assessment, Feedback & Reporting
-eyebrow: PROFESSIONAL PRACTICE
+eyebrow: CHECK • INTERPRET • RESPOND
 ---
 ## General approach | How do you assess learning in your classroom?
 
 
-| Elicit | Interpret | Respond |
+| Check | Interpret | Respond |
 | ---------------- | ----------------- | ------------ |
 | **Questioning** | **Understanding** | **Move on** |
 | **Student work** | **Misconception** | **Re-teach** |
 
 
-I approach this through **Elicit, Interpret and Respond**. I use assessment to **make learning visible and decide what happens next**. I combine questioning, observation, student work and short checks, then interpret the evidence for understanding, misconceptions and progress before adapting teaching.
+I approach this through **Check, Interpret and Respond**. I use assessment to **make learning visible and decide what happens next**. I check learning through questioning, observation, student work and short assessments; interpret the evidence for understanding, misconceptions and progress; then respond by moving on, re-teaching, adapting support or increasing challenge.
 
 ## Starting point | How do you establish a reliable starting point?
 
@@ -29,13 +29,13 @@ I approach this through **Before, Check and Decide**. I triangulate evidence rat
 ## Formative assessment | What is Assessment for Learning?
 
 
-| Clarify | Elicit | Adapt |
+| Clarify | Check | Adapt |
 | ---------------------- | -------------------- | ------------------------ |
 | **Learning intention** | **Questioning** | **Pace** |
 | **Success criteria** | **Student response** | **Support or challenge** |
 
 
-I approach this through **Clarify, Elicit and Adapt**. Assessment for Learning is the use of **evidence during learning to decide what happens next**. I make the learning clear, elicit evidence from all learners, interpret it and adapt pace, representation, support or challenge.
+I approach this through **Clarify, Check and Adapt**. Assessment for Learning is the use of **evidence during learning to decide what happens next**. I make the learning clear, check understanding across the class, interpret the evidence and adapt pace, representation, support or challenge.
 
 ## Hinge question | How do you use a hinge question?
 
