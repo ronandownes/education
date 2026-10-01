@@ -3,7 +3,7 @@ layout: doc
 permalink: /st-marys-newport.html
 cms_key: stmarysnewport
 title: St Mary's Secondary School, Newport — Interview Recall
-eyebrow: Ethos Practice Systems Context
+eyebrow: April 2024 Whole-School Evaluation
 intro: "School-specific interview recall: ethos in practice, leadership,
   numbers, curriculum, teaching and learning, policies, safeguarding, behaviour,
   inclusion and the evidence I should connect to my own practice."
