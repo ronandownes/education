@@ -125,3 +125,25 @@ I look at **evidence of student learning**, not just whether the lesson felt suc
 
 
 **evidence → reflect → change → evaluate → refine**
+
+## STAR examples | What examples could you use to show effective teaching and learning?
+
+These are **rehearsal composites**: keep the structure, but use the version that matches a real class you have taught.
+
+**STAR 1 — difficult concept**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | A mixed-attainment Maths class was struggling with an abstract concept. |
+| **Task** | Make the structure visible without lowering the mathematical demand. |
+| **Action** | I returned to prerequisites, modelled one example, used a visual representation, then moved to guided and independent practice with checks for understanding. |
+| **Result** | More students could explain the concept and complete a new problem without the scaffold. |
+
+**STAR 2 — lesson not working**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | A planned explanation was not producing the understanding I expected. |
+| **Task** | Diagnose the difficulty and recover the lesson. |
+| **Action** | I paused, used a quick whole-class check, identified the misconception, changed representation and reduced the next step. |
+| **Result** | Participation improved and the follow-up check showed a much clearer understanding. |
