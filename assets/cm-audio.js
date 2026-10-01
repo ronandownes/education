@@ -1,7 +1,7 @@
 (() => {
 if (!Array.from(document.scripts).some(script => /\/assets\/question-breadcrumbs\.js(?:\?|$)/.test(script.src || ''))) {
 const breadcrumbScript = document.createElement('script');
-breadcrumbScript.src = new URL('question-breadcrumbs.js', document.currentScript?.src || location.href).href;
+breadcrumbScript.src = new URL('question-breadcrumbs.js?v=20261001-1937', document.currentScript?.src || location.href).href;
 breadcrumbScript.dataset.questionBreadcrumbs = 'true';
 document.head.appendChild(breadcrumbScript);
 }
