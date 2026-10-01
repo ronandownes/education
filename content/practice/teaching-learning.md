@@ -40,11 +40,13 @@ If something is difficult, I first **check the prerequisites** and break it into
 
 **Prerequisites → small steps → explain → model → represent → scaffold → check → fade support → independence**
 
+
 | Prepare | Make it visible | Release |
-| --- | --- | --- |
+| --------------------- | ---------------------------- | ------------------------------- |
 | **Prerequisites** | **Model thinking** | **Scaffold first attempts** |
 | **Small steps** | **Multiple representations** | **Check understanding** |
 | **Clear explanation** | **Worked examples** | **Fade support → independence** |
+
 
 ## Keep them thinking | How do you keep students thinking and actively involved in learning?
 
@@ -52,11 +54,13 @@ Students have to **do the thinking**. I use **questioning, wait time, explanatio
 
 **Question → wait → involve → explain → reason → solve → prompt → think**
 
+
 | Question | Make thinking visible | Keep it going |
-| --- | --- | --- |
+| ----------------------------- | --------------------------------- | --------------------------------- |
 | **Ask well** | **Student explanations** | **Problems worth thinking about** |
 | **Wait time** | **Reasoning and justification** | **Prompt before telling** |
 | **Whole-class participation** | **Mini-whiteboards / discussion** | **Activity serves the learning** |
+
 
 ## Check and adapt | How do you check understanding and adapt your teaching?
 
@@ -64,11 +68,13 @@ I **check understanding throughout the lesson** through questioning, mini-whiteb
 
 **Check → gather evidence → diagnose → adapt → check again**
 
+
 | Evidence | Response |
-| --- | --- |
+| ----------------------------------- | --------------------------------------------------- |
 | **Question / observe / listen** | **Move on or increase challenge** |
 | **Mini-whiteboards / explanations** | **Slow down or re-teach** |
 | **Written work / short checks** | **Change representation or revisit a prerequisite** |
+
 
 ## Practice and challenge | How do you use practice, challenge and consolidation to secure learning?
 
@@ -76,10 +82,12 @@ I move from **structured practice** towards more varied and unfamiliar problems 
 
 **Practise → vary → retrieve → review → deepen → consolidate → transfer**
 
+
 | Secure | Deepen | Transfer |
-| --- | --- | --- |
+| ------------------------ | ---------------------- | ---------------------------------- |
 | **Structured practice** | **Compare methods** | **Consolidate the key idea** |
 | **Retrieval and review** | **Reason and justify** | **Apply in an unfamiliar context** |
+
 
 ## Inclusion and differentiation | How do you make learning accessible while keeping high expectations?
 
@@ -87,10 +95,12 @@ I start with the **learner and the barrier**. I keep the learning intention comm
 
 **learner → barrier → support → access → high expectations → independence**
 
+
 | Learner | Access | Outcome |
-| --- | --- | --- |
+| ------------------------- | ----------------------------- | ------------------- |
 | **Strengths / needs** | **Scaffold / representation** | **Common learning** |
 | **Confidence / barriers** | **Vocabulary / support** | **Independence** |
+
 
 ## Digital learning | How do you use technology to improve learning?
 
@@ -98,10 +108,12 @@ I start with the **learning, not the device**. I use technology when it improves
 
 **learning → purpose → tool → access → evidence → evaluate**
 
+
 | Purpose | Use | Check |
-| --- | --- | --- |
+| ----------------- | -------------------------------- | ------------------ |
 | **Learning need** | **Explain / represent** | **Did it help?** |
 | **Learner need** | **Access / practise / feedback** | **Keep or change** |
+
 
 ## Reflection and improvement | How do you know whether your teaching is improving?
 
@@ -109,7 +121,10 @@ I look at **evidence of student learning**, not just whether the lesson felt suc
 
 **evidence → reflect → change → evaluate → refine**
 
+
 | Evidence | Reflect | Improve |
-| --- | --- | --- |
+| ---------------------------------- | ----------------- | --------------------- |
 | **Student work / responses** | **What worked?** | **Change** |
 | **Misconceptions / participation** | **What did not?** | **Evaluate → refine** |
+
+
