@@ -11,12 +11,18 @@ For me, I start with the **students in front of me** and a clear **learning inte
 **Students → learning intention → plan → explain → model → scaffold → think → check and adapt → consolidate → independence**
 
 
+
+
 | Start | Teach | Teach | Finish |
 | ---------------------- | ----------- | ------------------- | ---------------- |
 | **Students** | **Plan** | **Scaffold** | **Consolidate** |
 | **Learning intention** | **Explain** | **Think** | **Independence** |
 |  | **Model** | **Check and adapt** |  |
 
+
+
+
+&nbsp;
 
 ## Planning | How do you plan effectively for the students in front of you?
 
