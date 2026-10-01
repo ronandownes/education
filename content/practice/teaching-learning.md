@@ -11,7 +11,7 @@ For me, I start with the **students in front of me** and a clear **learning inte
 **Students → learning intention → plan → explain → model → scaffold → think → check and adapt → consolidate → independence**
 
 
-| Start — 2 | Teach — 3 | Teach — 3 | Finish — 2 |
+| Start | Teach | Teach | Finish |
 | ---------------------- | ----------- | ------------------- | ---------------- |
 | **Students** | **Plan** | **Scaffold** | **Consolidate** |
 | **Learning intention** | **Explain** | **Think** | **Independence** |
