@@ -37,10 +37,15 @@
     .answer-focus-tools button,.answer-focus-tools a{border:1px solid #cfd5dc;border-radius:999px;background:#fff;color:#30343b;padding:7px 12px;font:inherit;font-size:.78em;font-weight:650;line-height:1.2;cursor:pointer;text-decoration:none}
     .answer-focus-tools button:hover,.answer-focus-tools button:focus-visible,.answer-focus-tools a:hover,.answer-focus-tools a:focus-visible{background:#f3f6fb;border-color:#aecbfa;outline:none}
     .answer-focus-record{background:#fff!important;color:#30343b!important;border-color:#cfd5dc!important}
-    .answer-focus-record.is-recording{background:#eef2f6!important;border-color:#9aa8b8!important;color:#1f2937!important}
-    .answer-focus-recording{display:flex;align-items:center;gap:10px;margin:0 0 16px}
-    .answer-focus-recording[hidden]{display:none!important}
-    .answer-focus-recording audio{width:min(420px,100%);height:34px}
+    .answer-focus-record::before{content:"●";color:#c62828;font-size:.8em;margin-right:6px}
+    .answer-focus-record.is-recording{background:#f5f6f7!important;border-color:#9aa8b8!important;color:#1f2937!important}
+    .answer-focus-record.is-recording::before{content:"■";color:#5f6368}
+    .answer-focus-recordings{display:grid;gap:7px;margin:0 0 14px}
+    .answer-focus-recordings[hidden]{display:none!important}
+    .answer-focus-take{display:flex;align-items:center;gap:8px;padding:6px 8px;border:1px solid #e1e5ea;border-radius:9px;background:#fafbfc}
+    .answer-focus-take-label{min-width:46px;color:#5f6368;font-size:.72em;font-weight:700}
+    .answer-focus-take audio{width:min(330px,100%);height:30px;flex:1 1 auto}
+    .answer-focus-take-save{border:1px solid #cfd5dc!important;border-radius:999px!important;background:#fff!important;color:#30343b!important;padding:5px 9px!important;font-size:.7em!important;text-decoration:none!important;white-space:nowrap}
     .answer-focus-copy strong,.answer-focus-copy b{font-weight:800;color:#202124}
     .answer-focus-copy[contenteditable="true"]{min-height:8rem;padding:14px 16px;border:2px solid #aecbfa;border-radius:10px;background:#fbfdff;outline:none;caret-color:#202124}
     .answer-focus-copy[contenteditable="true"]:focus{box-shadow:0 0 0 3px rgba(66,133,244,.12)}
@@ -83,7 +88,7 @@
   let mediaRecorder = null;
   let mediaStream = null;
   let recordedChunks = [];
-  let recordingUrl = null;
+  let recordedTakes = [];
 
   const cleanText = value => (value || '')
     .replace(/\s+/g, ' ')
@@ -247,6 +252,8 @@
       mediaStream = null;
     }
     recordedChunks = [];
+    recordedTakes.forEach(take => take.url && URL.revokeObjectURL(take.url));
+    recordedTakes = [];
   };
 
 
