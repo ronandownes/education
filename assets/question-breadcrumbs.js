@@ -98,7 +98,7 @@
   }
 
   const coreScript = document.createElement('script');
-  coreScript.src = new URL('question-breadcrumbs-core.js?v=20260818-0818', sourceUrl).href;
+  coreScript.src = new URL('question-breadcrumbs-core.js?v=20261001-1937', sourceUrl).href;
   coreScript.dataset.questionBreadcrumbsCore = 'true';
 
   const buttonLabel = button => [
