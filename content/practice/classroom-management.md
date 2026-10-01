@@ -6,14 +6,13 @@ eyebrow: Prevention Responce Restore
 ---
 ## General approach | What does good classroom management look like?
 
-| Prevention | Respond | Restore |
+| Prevent | Respond | Restore |
 | ---------------------- | -------------------------------------- | ------------------------- |
 | **Clear expectations** | **Early intervention** | **Return to learning** |
 | **Taught routines** | **Calm, proportionate follow-through** | **Repair relationships** |
 | **Student engagement** | **Consistent response** | **Re-establish learning** |
-|  |  |  |
 
-I approach this through **Prevention, Respond and Restore**. Good classroom management creates a **calm, predictable and purposeful learning environment**. I establish clear expectations, **explicitly teach and model routines**, keep students engaged, and intervene early, calmly and proportionately so that attention returns to learning.
+I approach this through **Prevent, Respond and Restore**. Good classroom management creates a **calm, predictable and purposeful learning environment**. I establish clear expectations, **explicitly teach and model routines**, keep students engaged, and intervene early, calmly and proportionately so that attention returns to learning.
 
 ## New or cover class | How do you establish expectations with a new or temporary class?
 
@@ -30,11 +29,13 @@ I approach this through **Start, Structure and Reinforce**. I make the first few
 ## Prevention | How do you prevent low-level disruption before it starts?
 
 | Task | Presence | Flow |
-| ------------------------- | ------------- | ---------------------- |
-| **Immediate start** | **Scan** | **Smooth transitions** |
-| **Appropriate challenge** | **Circulate** | **Thoughtful seating** |
+| ------------------------- | -------------------------- | ------------------------- |
+| **Immediate start** | **Scan the room** | **Avoid downtime** |
+| **Appropriate challenge** | **Circulate** | **Smooth transitions** |
+| **Clear, achievable task** | **Use students’ names** | **Thoughtful seating** |
+| **Everyone knows what to do** | **Intervene before drift** | **Keep learning moving** |
 
-I approach this through **Task, Presence and Flow**. Prevention begins with **good teaching and teacher presence**. I use an immediate start, appropriate challenge, smooth transitions, active supervision and a seating plan where useful, because students are easier to manage when they know what to do and can succeed at it.
+I approach prevention through **Task, Presence and Flow**. I use an immediate start with an appropriate level of challenge so students know what to do and can succeed at it. I maintain an active presence by scanning, circulating and using students’ names, particularly when I notice someone beginning to drift. I protect the flow of the lesson through smooth transitions, thoughtful seating where useful and, above all, by **avoiding unnecessary downtime**.
 
 ## Low-level disruption | How do you respond to low-level disruption?
 
