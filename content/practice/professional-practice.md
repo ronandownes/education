@@ -117,14 +117,15 @@ I treat feedback as evidence to examine rather than as a judgement on identity. 
 
 ## CPD | How do you approach continuing professional development?
 
-Professional learning should change understanding or practice, not simply add certificates. I use formal CPD, subject collaboration, professional reading and curriculum updates, then test new ideas against classroom evidence before adopting them routinely.
+I choose and organise my CPD where I need **deeper understanding** or where I want to improve an area of practice — never simply to add a certificate to my CV. I use formal CPD, subject collaboration, professional reading, **LAOS, Department circulars, NCCA and Oide updates, inspection findings and curriculum developments**. I then apply what is relevant, evaluate its impact, and I also engage professionally with consultation when I have evidence-based concerns about proposed change.
 
-| Learn | Apply | Evaluate |
+| Identify need | Learn | Act |
 | --- | --- | --- |
-| **CPD** | **Try in context** | **Student evidence** |
-| **Professional reading** | **Collaborate** | **Keep or change** |
+| **Knowledge gap** | **Formal CPD** | **Apply in practice** |
+| **Practice issue** | **Professional reading** | **Evaluate impact** |
+|  | **Curriculum and policy updates** | **Give informed feedback** |
 
-**learn → apply → evaluate**
+**need → learn → apply → evaluate → contribute**
 
 ## Evidence-informed practice | What does evidence-informed practice mean to you?
 
