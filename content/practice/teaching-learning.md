@@ -4,25 +4,26 @@ permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
-## Opener
+## General | What is your general approach to teaching and learning?
 
-Effective teaching starts with a **clear learning intention and the students in front of me**. I **teach clearly and model explicitly, scaffold where needed,  support and challege, keep students thinking, and use evidence of learning to adapt and iterate and move them forwrds towards independence**.
+Effective teaching starts with a **clear learning intention and the students in front of me**. I **plan carefully, teach and model clearly, scaffold where needed, keep students thinking, and use evidence of learning to adapt support or challenge**. I then **consolidate** the important learning and progressively move students towards **independence**.
 
+**Core sequence:** **students → learning intention → model → scaffold → think → check → adapt → consolidate → independence**
 
+**Interview pattern:** Start with this general answer, then add only the relevant **tag-on** below.
 
-Pairing | Pairing
+#### Recall prompts
 
 **explain clearly** → clarity of explanation  
-**model explicitly** → make the process/reasoning visible  
-**scaffold where needed** → support  
+**model explicitly** → make the process and reasoning visible  
+**scaffold where needed** → temporary support  
 **keep students thinking** → active intellectual engagement  
-**use evidence of learning** → assessment, questioning, feedback, retrieval evidence  
+**use evidence of learning** → assessment, questioning, feedback and retrieval evidence  
 **adapt** → responsive teaching  
 **independence** → ultimate goal
 
 
-
-## Students
+#### Students
 
 Effective teaching starts with understanding the students in front of me:
 
@@ -32,7 +33,7 @@ Effective teaching starts with understanding the students in front of me:
 4. needs
 5. confidence
 
-## Planning
+#### Planning
 
 Effective teaching begins with 
 
@@ -53,7 +54,7 @@ I use **success criteria** where they help students understand what quality look
 
 The plan matters, but it is not fixed. A lesson plan is a route towards learning, not something that must be followed regardless of what the students are showing me.
 
-## Explain model scaffold | Explanation, Modelling and Scaffolding
+#### Explanation, Modelling and Scaffolding
 
 When introducing something difficult, I first identify the **prerequisites** and break the new learning into manageable steps.
 
@@ -71,7 +72,7 @@ The important point is that I do not want students permanently dependent on scaf
 
 The aim is always **independence**.
 
-## Thinking, Questioning and Active Learning
+#### Thinking, Questioning and Active Learning
 
 Students have to do the intellectual work.
 
@@ -87,7 +88,7 @@ Active learning, however, has to serve the learning intention. I would not use a
 
 I also resist giving answers too quickly. If a student is thinking productively, a carefully chosen prompt or question is often more valuable than immediately explaining the solution.
 
-## Checking Understanding and Adapting Teaching
+#### Checking Understanding and Adapting Teaching
 
 One of the most important aspects of teaching is knowing whether students have actually understood.
 
@@ -107,7 +108,7 @@ Misconceptions are particularly important in Mathematics. I try to expose them r
 
 I do not assume that correcting something once means it has disappeared. I revisit important ideas later through retrieval and cumulative review.
 
-## Practice, Challenge and Consolidation
+#### Practice, Challenge and Consolidation
 
 Students need practice, but the quality and sequencing of that practice matter.
 
@@ -127,7 +128,7 @@ That closure also gives me evidence about what the next lesson should contain.
 
 Ultimately I am looking for **transfer**. I want students to be able to use their learning in a situation that is not identical to the one in which it was taught.
 
-## Inclusion, Technology and Reflective Practice
+#### Inclusion, Technology and Reflective Practice
 
 Inclusive teaching begins with knowing the learner and anticipating barriers.
 
@@ -159,143 +160,107 @@ That now becomes the **master document**. “What does a good lesson look like?�
 
 &nbsp;
 
-## General approach | What is your general approach to teaching and learning?
+## Good teaching | What does good teaching look like in your classroom?
 
-I **plan carefully** 
+**Tag-on:** For me, good teaching begins with **knowing the students** in front of me and being clear about the **learning intention**. I **activate prior knowledge**, explain and **model** clearly, then move students into **guided practice** and **independent practice**. I use **questioning** and **formative assessment** to **check understanding**, adapt support or challenge, and **consolidate** the learning before moving on.
 
-- around a clear **learning intention** 
-- and the students in front of me.
+## Effective lesson | Talk us through what an effective lesson looks like.
 
+**Tag-on:** I start with where the students are, a clear **learning intention** and a **clear goal** for the lesson. I make the **success criteria** visible, **activate prior knowledge** through **retrieval**, and teach in a **coherent sequence** from modelling to **guided practice** and **independent practice**. I **check understanding** throughout, adapt if needed, and use a short **closure** to **consolidate** the learning and identify the next step.
 
+## Difficult concept | How would you teach a difficult mathematical concept?
 
-1. I **teach and model clearly**,
-2. **Always Scaffold**
-3. Secure learning through **retrieval** and structured practice
+**Tag-on:** I first identify the **prerequisites** and likely **misconceptions**. I break the concept into **small steps**, chunk the new material, use clear **explanations**, **multiple representations** and **worked examples**, and **scaffold** the first attempts. I question and **check understanding** as students practise, then gradually **fade support** as the learning becomes secure, while keeping **high expectations** for everyone.
 
-I keep students **thinking** through 
+## Clear explanation | How do you make a difficult idea clear for students?
 
-1. questioning,
-2. explanation and
-3. problem-solving,
+**Tag-on:** I connect the new idea to prior knowledge, then use **explicit instruction** where it is needed. I keep the **explanation** focused, **think aloud** to make the **reasoning** visible, use **examples and non-examples**, and **remove redundancy** or distracting information. I get students doing something with the idea quickly so I can check whether the explanation worked and **change the representation** if it did not.
 
-use evidence to **adapt** 
+## Modelling | How do you use modelling to make mathematical thinking visible?
 
-1. support
-2. or challenge, and
-3. **consolidate** the learning
-4. before deciding the next step.
+**Tag-on:** I use teacher **modelling** to **make thinking visible**. I demonstrate a **worked example**, explain the decisions I am making and deliberately use the **subject vocabulary**. I then move through **gradual release**: students watch, contribute, complete **guided practice** and then **independent practice**. I use **questioning** and **check understanding** throughout, and I step back as soon as students can carry more of the thinking themselves.
 
-## What to Tell the GP
+## Scaffolding | How do you scaffold without creating dependence?
 
-I was rear-ended on 11 November 2025 at about 6 p.m. I was shocked immediately after the accident, but during the night and when I woke the following day I realised I had developed neck pain and stiffness. I came to the GP and was given painkillers and anti-inflammatories. I hoped it would settle, but it persisted, especially with longer driving for work. I started physiotherapy on 1 April, attended again on 13 May and 15 September, and I am due back on 27 October. I am still having intermittent neck pain and stiffness and today it is particularly sore. I need an interim medical report confirming the history, treatment, present symptoms and that I have not yet fully recovered.
+**Tag-on:** I **scaffold** according to **learner need**, not as a permanent feature. That might mean prompts, **sentence stems**, a visual representation, vocabulary support or breaking a task into smaller steps. I maintain **high expectations**, **check understanding** during practice and use **gradual release** to **fade support**. The aim is always learner independence, not dependence on the scaffold.
 
+## Cognitive load | How do you manage cognitive load when introducing new material?
 
+**Tag-on:** To manage **cognitive load**, I check the **prerequisites**, **limit new information**, chunk it carefully and **integrate words and visuals** when that helps. I use **worked examples** and clear representations, and **remove redundancy** or unnecessary distraction. As understanding becomes secure, I reduce the guidance so that managing cognitive load supports access without reducing the intellectual demand.
 
-&nbsp;
+## Active learning | How do you keep students actively involved without losing structure?
 
-&nbsp;
+**Tag-on:** Active learning has to serve the **learning intention**. I use **mini-whiteboards**, **think-pair-share**, **guided discovery**, short **collaborative learning** tasks, practical work or technology when they make **student thinking** visible. I build in **inclusive participation** so the lesson is not dominated by volunteers, and then bring the class back together to make the important learning explicit.
 
-## Good teaching | What are the key features of good teaching?
+## Student thinking | How do you ensure students, rather than the teacher, are doing the thinking?
 
-For me, good teaching begins with **knowing the students** in front of me and being clear about the **learning intention**. I **activate prior knowledge**, explain and **model** clearly, then move students into **guided practice** and **independent practice**. I use **questioning** and **formative assessment** to **check understanding**, adapt support or challenge, and **consolidate** the learning before moving on.
+**Tag-on:** I make sure students are doing the thinking by limiting how long I talk and moving them into prediction, **reasoning**, **justification** and **application**. I use **wait time**, ask for **student explanations** and invite more than one method. I resist supplying answers too quickly; their responses tell me when to probe, **scaffold**, revisit or **increase the challenge**.
 
-## Effective lesson | What does an effective lesson look like?
+## Questioning | How do you use questioning to move learning forward?
 
-I start with where the students are, a clear **learning intention** and a **clear goal** for the lesson. I make the **success criteria** visible, **activate prior knowledge** through **retrieval**, and teach in a **coherent sequence** from modelling to **guided practice** and **independent practice**. I **check understanding** throughout, adapt if needed, and use a short **closure** to **consolidate** the learning and identify the next step.
+**Tag-on:** I use **questioning** to elicit prior knowledge and expose current understanding. I vary questions from recall to **reasoning**, explanation, **justification** and **application**, use **wait time**, and involve the whole class. I use **hinge questions** and carefully designed **multiple-choice questions** when I need a quick decision about whether to move on, **re-teach**, probe a misconception or **change the representation**.
 
-## Difficult concept | How do you teach a difficult concept?
+## Check understanding | How do you know students have understood before you move on?
 
-I first identify the **prerequisites** and likely **misconceptions**. I break the concept into **small steps**, chunk the new material, use clear **explanations**, **multiple representations** and **worked examples**, and **scaffold** the first attempts. I question and **check understanding** as students practise, then gradually **fade support** as the learning becomes secure, while keeping **high expectations** for everyone.
+**Tag-on:** I **check for understanding** during the learning, not only at the end. I use **questioning**, **mini-whiteboards**, observation, **student explanations**, written work and short checks as **AfL evidence**. When the evidence is weak, I **pause and diagnose** rather than push on. I may **re-teach**, **change representation** or add **guided practice**, creating a **feedback loop** between what students show me and what I do next.
 
-## Clear explanation | How do you explain something clearly?
+## Misconceptions | How do you identify and address mathematical misconceptions?
 
-I connect the new idea to prior knowledge, then use **explicit instruction** where it is needed. I keep the **explanation** focused, **think aloud** to make the **reasoning** visible, use **examples and non-examples**, and **remove redundancy** or distracting information. I get students doing something with the idea quickly so I can check whether the explanation worked and **change the representation** if it did not.
+**Tag-on:** I try to expose **misconceptions** early through **retrieval**, **questioning** and carefully chosen **examples and non-examples**. Once I identify one, I make the incorrect **reasoning** visible, contrast it with the correct reasoning and **re-teach** using another representation if needed. Students then **rehearse** the corrected idea and I check it again later rather than assuming one correction has fixed it.
 
-## Modelling | How do you use modelling effectively?
+## Retrieval | How do you use retrieval to strengthen learning over time?
 
-I use teacher **modelling** to **make thinking visible**. I demonstrate a **worked example**, explain the decisions I am making and deliberately use the **subject vocabulary**. I then move through **gradual release**: students watch, contribute, complete **guided practice** and then **independent practice**. I use **questioning** and **check understanding** throughout, and I step back as soon as students can carry more of the thinking themselves.
+**Tag-on:** I use **retrieval practice** to strengthen important learning over time, not just at the start of a lesson. I build in **spacing** and **cumulative review**, and sometimes **interleave** related material so students have to select the right method rather than copy the last one used. Short retrieval also gives me evidence about what needs more **rehearsal**, **deliberate practice** or re-teaching.
 
-## Scaffolding | How do you scaffold learning?
+## Formative assessment | How does formative assessment change what you do next?
 
-I **scaffold** according to **learner need**, not as a permanent feature. That might mean prompts, **sentence stems**, a visual representation, vocabulary support or breaking a task into smaller steps. I maintain **high expectations**, **check understanding** during practice and use **gradual release** to **fade support**. The aim is always learner independence, not dependence on the scaffold.
+**Tag-on:** **Formative assessment** is built into the lesson. Through **questioning**, **mini-whiteboards**, observation, discussion, **hinge questions** and student work, I gather **AfL evidence** and **check understanding**. The important part is the response: I **adapt teaching**, **adjust pace**, **change representation**, **re-teach**, scaffold or **increase challenge**. That **feedback loop** keeps the lesson responsive to actual learning.
 
-## Cognitive load | How do you reduce cognitive load?
+## Independence | How do you move students from support towards independence?
 
-To manage **cognitive load**, I check the **prerequisites**, **limit new information**, chunk it carefully and **integrate words and visuals** when that helps. I use **worked examples** and clear representations, and **remove redundancy** or unnecessary distraction. As understanding becomes secure, I reduce the guidance so that managing cognitive load supports access without reducing the intellectual demand.
+**Tag-on:** I move students towards learner independence through **gradual release**. I may **model** and **scaffold** initially, then reduce prompts, **fade support** and increase the responsibility placed on the student. I move from guided to **independent practice**, ask students to explain and self-correct, and look for **transfer** to a less familiar task before I assume the learning is secure.
 
-## Active learning | How do you make learning active without losing structure?
+## Challenge | How do you challenge students without simply giving them more work?
 
-Active learning has to serve the **learning intention**. I use **mini-whiteboards**, **think-pair-share**, **guided discovery**, short **collaborative learning** tasks, practical work or technology when they make **student thinking** visible. I build in **inclusive participation** so the lesson is not dominated by volunteers, and then bring the class back together to make the important learning explicit.
+**Tag-on:** I keep **high expectations** for all students and **increase challenge** by increasing depth, not simply volume. Once the core learning is secure, I use unfamiliar **applications**, multiple methods, **justification**, generalisation and problems that connect ideas. Where fluency is still developing I use **deliberate practice**, but the longer-term goal is greater **reasoning**, **transfer** and independence.
 
-## Student thinking | How do you make sure students are doing the thinking?
+## Vocabulary | How do you teach mathematical and subject-specific vocabulary?
 
-I make sure students are doing the thinking by limiting how long I talk and moving them into prediction, **reasoning**, **justification** and **application**. I use **wait time**, ask for **student explanations** and invite more than one method. I resist supplying answers too quickly; their responses tell me when to probe, **scaffold**, revisit or **increase the challenge**.
+**Tag-on:** I identify and pre-teach vocabulary when language could become a barrier to the learning. I use **explicit instruction** for key **subject vocabulary**, connect words to **examples and non-examples** and representations, and give students repeated opportunities to hear, read, say and use the terms. I then revisit the vocabulary through **retrieval** and **rehearsal** so it becomes part of their working language.
 
-## Questioning | How do you use questioning effectively?
+## Engagement | How do you create and sustain learner engagement?
 
-I use **questioning** to elicit prior knowledge and expose current understanding. I vary questions from recall to **reasoning**, explanation, **justification** and **application**, use **wait time**, and involve the whole class. I use **hinge questions** and carefully designed **multiple-choice questions** when I need a quick decision about whether to move on, **re-teach**, probe a misconception or **change the representation**.
+**Tag-on:** **Learner engagement** comes from accessible, purposeful and appropriately challenging learning, not entertainment. I use active learning, **inclusive participation**, **collaborative learning** and **student voice** where they help students discuss, practise, solve and explain. I watch the quality of participation as evidence and **adjust pace**, support or challenge if engagement is telling me something about access or understanding.
 
-## Check understanding | How do you know whether students have understood?
+## Digital learning | How do you use digital technology to improve learning?
 
-I **check for understanding** during the learning, not only at the end. I use **questioning**, **mini-whiteboards**, observation, **student explanations**, written work and short checks as **AfL evidence**. When the evidence is weak, I **pause and diagnose** rather than push on. I may **re-teach**, **change representation** or add **guided practice**, creating a **feedback loop** between what students show me and what I do next.
+**Tag-on:** I start with the **learning intention** and the learner, not the device. I use technology when it improves **explanation**, **multiple representations**, practice, **collaborative learning**, feedback or **AfL evidence**. I also use it when it can make **student thinking** visible. Afterwards I check whether it genuinely improved access, participation or learning; technology has to earn its place.
 
-## Misconceptions | How do you identify and respond to misconceptions?
+## Digital inclusion | How can technology remove barriers for learners?
 
-I try to expose **misconceptions** early through **retrieval**, **questioning** and carefully chosen **examples and non-examples**. Once I identify one, I make the incorrect **reasoning** visible, contrast it with the correct reasoning and **re-teach** using another representation if needed. Students then **rehearse** the corrected idea and I check it again later rather than assuming one correction has fixed it.
-
-## Retrieval practice | How do you use retrieval practice?
-
-I use **retrieval practice** to strengthen important learning over time, not just at the start of a lesson. I build in **spacing** and **cumulative review**, and sometimes **interleave** related material so students have to select the right method rather than copy the last one used. Short retrieval also gives me evidence about what needs more **rehearsal**, **deliberate practice** or re-teaching.
-
-## Formative assessment | How do you use formative assessment to inform teaching?
-
-**Formative assessment** is built into the lesson. Through **questioning**, **mini-whiteboards**, observation, discussion, **hinge questions** and student work, I gather **AfL evidence** and **check understanding**. The important part is the response: I **adapt teaching**, **adjust pace**, **change representation**, **re-teach**, scaffold or **increase challenge**. That **feedback loop** keeps the lesson responsive to actual learning.
-
-## Independence | How do you move students towards independent learning?
-
-I move students towards learner independence through **gradual release**. I may **model** and **scaffold** initially, then reduce prompts, **fade support** and increase the responsibility placed on the student. I move from guided to **independent practice**, ask students to explain and self-correct, and look for **transfer** to a less familiar task before I assume the learning is secure.
-
-## Challenge | How do you challenge students who are ready to go further?
-
-I keep **high expectations** for all students and **increase challenge** by increasing depth, not simply volume. Once the core learning is secure, I use unfamiliar **applications**, multiple methods, **justification**, generalisation and problems that connect ideas. Where fluency is still developing I use **deliberate practice**, but the longer-term goal is greater **reasoning**, **transfer** and independence.
-
-## Vocabulary | How do you teach subject-specific vocabulary?
-
-I identify and pre-teach vocabulary when language could become a barrier to the learning. I use **explicit instruction** for key **subject vocabulary**, connect words to **examples and non-examples** and representations, and give students repeated opportunities to hear, read, say and use the terms. I then revisit the vocabulary through **retrieval** and **rehearsal** so it becomes part of their working language.
-
-## Engagement | How do you keep students engaged in learning?
-
-**Learner engagement** comes from accessible, purposeful and appropriately challenging learning, not entertainment. I use active learning, **inclusive participation**, **collaborative learning** and **student voice** where they help students discuss, practise, solve and explain. I watch the quality of participation as evidence and **adjust pace**, support or challenge if engagement is telling me something about access or understanding.
-
-## Digital learning | How do you use digital technology in teaching and learning?
-
-I start with the **learning intention** and the learner, not the device. I use technology when it improves **explanation**, **multiple representations**, practice, **collaborative learning**, feedback or **AfL evidence**. I also use it when it can make **student thinking** visible. Afterwards I check whether it genuinely improved access, participation or learning; technology has to earn its place.
-
-## Digital inclusion | How can digital technology support inclusion?
-
-I use technology to **remove barriers** and respond to **learner need**. That might mean accessibility tools, visual or **multiple representations**, differentiated practice, immediate feedback or different ways for students to engage and respond. I keep the **learning intention** common where appropriate and use the technology to widen access, not to create a separate lower-expectation task.
+**Tag-on:** I use technology to **remove barriers** and respond to **learner need**. That might mean accessibility tools, visual or **multiple representations**, differentiated practice, immediate feedback or different ways for students to engage and respond. I keep the **learning intention** common where appropriate and use the technology to widen access, not to create a separate lower-expectation task.
 
 ## Choosing tools | How do you decide whether a digital tool is worth using?
 
-I ask three questions: what is the **learning intention**, what does this **learner need**, and what does the tool add? If it improves understanding, participation, accessibility, assessment or feedback, it may be worthwhile. I **evaluate impact** afterwards rather than assuming the tool worked because students used it. The decision is based on **evidence of learning**, not novelty.
+**Tag-on:** I ask three questions: what is the **learning intention**, what does this **learner need**, and what does the tool add? If it improves understanding, participation, accessibility, assessment or feedback, it may be worthwhile. I **evaluate impact** afterwards rather than assuming the tool worked because students used it. The decision is based on **evidence of learning**, not novelty.
 
-## Lesson not working | What do you do when a lesson is not working?
+## Lesson not working | What do you do when your lesson is not working?
 
-I would not continue with the plan simply because it was written down. I **pause and diagnose** through **questioning** and observation, then **adapt teaching**: **adjust pace**, chunk the material further, **change the representation**, **re-teach**, **model** another example or provide additional **guided practice**. I keep the **learning intention** clear, but I am flexible about the route students need to reach it.
+**Tag-on:** I would not continue with the plan simply because it was written down. I **pause and diagnose** through **questioning** and observation, then **adapt teaching**: **adjust pace**, chunk the material further, **change the representation**, **re-teach**, **model** another example or provide additional **guided practice**. I keep the **learning intention** clear, but I am flexible about the route students need to reach it.
 
-## Consolidation | How do you consolidate learning?
+## Consolidation | How do you consolidate learning and make it stick?
 
-I build **consolidation** into the lesson and then revisit learning over time. A short **closure** might ask students to summarise, explain, apply or retrieve the key idea. I use **spacing**, **cumulative review** and occasional **interleaving** so the learning is strengthened beyond the immediate lesson, and I look for **transfer** to another context rather than only successful repetition.
+**Tag-on:** I build **consolidation** into the lesson and then revisit learning over time. A short **closure** might ask students to summarise, explain, apply or retrieve the key idea. I use **spacing**, **cumulative review** and occasional **interleaving** so the learning is strengthened beyond the immediate lesson, and I look for **transfer** to another context rather than only successful repetition.
 
-## Improving practice | How do you evaluate and improve your own teaching?
+## Improving practice | How do you know whether your teaching is improving?
 
-I look at **evidence of learning**, not just whether I felt a lesson went well. I **reflect and refine** by examining **questioning**, student work, assessment evidence, **misconceptions** and the impact of my **explanations** or sequencing. I learn from colleagues and professional learning, then **adapt teaching** and **evaluate impact** over time to see whether the change actually improved student learning.
+**Tag-on:** I look at **evidence of learning**, not just whether I felt a lesson went well. I **reflect and refine** by examining **questioning**, student work, assessment evidence, **misconceptions** and the impact of my **explanations** or sequencing. I learn from colleagues and professional learning, then **adapt teaching** and **evaluate impact** over time to see whether the change actually improved student learning.
 
-## Unmotivated student | How would you teach an unmotivated student?
+## Unmotivated student | How would you respond to a student who seems unmotivated?
 
-I would start by establishing the student's real starting point and creating early success. I would keep the learning goal worthwhile, break the work into achievable steps, **scaffold** the first attempts and use clear modelling and **retrieval** of secure prior knowledge. I would give purposeful choice or relevant contexts where useful, notice genuine progress and use **formative assessment** to adapt support and challenge. The aim is to rebuild confidence through successful participation while keeping **high expectations** and gradually increasing independence.
+**Tag-on:** I would start by establishing the student's real starting point and creating early success. I would keep the learning goal worthwhile, break the work into achievable steps, **scaffold** the first attempts and use clear modelling and **retrieval** of secure prior knowledge. I would give purposeful choice or relevant contexts where useful, notice genuine progress and use **formative assessment** to adapt support and challenge. The aim is to rebuild confidence through successful participation while keeping **high expectations** and gradually increasing independence.
 
-## Abbreviation Key
+#### Abbreviation Key
 
 **LI** = Learning intention  
 **SC** = Success criteria  
