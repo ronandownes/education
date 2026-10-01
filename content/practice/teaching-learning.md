@@ -10,18 +10,27 @@ eyebrow: PROFESSIONAL PRACTICE
 
 For me, I start with the **students in front of me** and a clear **learning intention**. Then it’s **plan carefully, explain clearly, model explicitly, scaffold where needed, keep them thinking, check what they’re learning and adapt**. Then **consolidate** and, bit by bit, move them towards **independence**.
 
-## Planning | How do you plan effectively for the students in front of you?
+## ## Planning | How do you plan effectively for the students in front of you?
 
-I plan from the **students in front of me** and a clear **learning intention**.
+**Students → learning intention → understand → design → adapt**
 
-1. **Consider prior knowledge**
-2. **Identify prerequisites**
-3. **Anticipate misconceptions**
-4. **Anticipate barriers**
-5. **Define success criteria**
-6. **Sequence learning coherently**
+I start with the **students in front of me** and a clear **learning intention**.
 
-The plan is a **route, not a script**. I adapt it to the **evidence of learning** students give me.
+| Understand the learner | Design the route |
+
+| --- | --- |
+
+| **Consider prior knowledge** | **Anticipate barriers** |
+
+| **Identify prerequisites** | **Define success criteria** |
+
+| **Anticipate misconceptions** | **Sequence learning coherently** |
+
+So, first: **prior knowledge, prerequisites, misconceptions**.  
+
+Then: **barriers, success criteria, sequence**.
+
+The plan’s a **route, not a script** — I adapt it to what the students show me.
 
 ## Explain, model, scaffold | How do you explain, model and scaffold new learning?
 
