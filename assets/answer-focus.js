@@ -402,6 +402,22 @@
       recordings.hidden = recordedTakes.length === 0;
     };
 
+    const visibility = document.createElement('button');
+    visibility.type = 'button';
+    visibility.textContent = 'Hide';
+    visibility.setAttribute('aria-pressed', 'false');
+    visibility.title = 'Hide or show the answer while you practise';
+
+    visibility.addEventListener('click', event => {
+      event.stopPropagation();
+      const hidden = content.hidden;
+      content.hidden = !hidden;
+      visibility.textContent = hidden ? 'Hide' : 'Show';
+      visibility.setAttribute('aria-pressed', hidden ? 'false' : 'true');
+    });
+
+    controls.appendChild(visibility);
+
     if (navigator.mediaDevices?.getUserMedia && window.MediaRecorder) {
       const record = document.createElement('button');
       record.type = 'button';
