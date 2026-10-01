@@ -174,3 +174,25 @@ I compare what I intended with **what students actually learned**. I review paci
 | **Pacing / misconceptions** | **Remove / strengthen** | **Improve next plan** |
 
 **evidence → reflect → decide → refine**
+
+## STAR examples | What examples could you use to show strong planning?
+
+These are **rehearsal composites**: use the structure and replace details with the closest real example from your own teaching.
+
+**STAR 1 — taking over a class**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | I took over a class part-way through the year with existing schemes, records and mixed levels of security. |
+| **Task** | Establish the true starting point without losing continuity. |
+| **Action** | I reviewed the handover, used retrieval and student work to confirm what was secure, then adjusted sequence and pace around the gaps. |
+| **Result** | The class continued the programme without unnecessary repetition and the plan became more closely matched to actual learning. |
+
+**STAR 2 — TY planning**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | I needed a TY Maths programme that was not simply an early Leaving Certificate course. |
+| **Task** | Broaden mathematical experience while keeping the work purposeful. |
+| **Action** | I planned around problem-solving, financial maths, data, modelling and project work, with digital tools where they added value. |
+| **Result** | Students experienced Mathematics in more applied settings and had more opportunities for investigation and ownership. |
