@@ -4,6 +4,10 @@ title: Interview Master Resources
 eyebrow: RAPID INTERVIEW RECALL
 intro: Use the wall to retrieve the professional language, then open a term to go deeper into what it means, who it helps, how to use it and the interview line.
 ---
+## St Mary's Secondary School, Newport
+
+**Interview tomorrow:** [Open the school-specific interview recall page →]({{ '/st-marys-newport.html' | relative_url }})
+
 <link rel="stylesheet" href="{{ '/assets/word-wall.css' | relative_url }}">
 <script src="{{ '/assets/word-wall.js' | relative_url }}" defer></script>
 
