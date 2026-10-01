@@ -152,14 +152,18 @@
   const cloneAnswer = heading => {
     const wrapper = document.createElement('div');
     wrapper.className = 'answer-focus-copy';
-    sourceNodesFor(heading).forEach(node => {
-      if (node.matches?.('.section-edit-nearby,.question-breadcrumb-line,.retrieval-chain-table,.retrieval-wall,.retrieval-appendix-table,.retrieval-appendix-break,[data-breadcrumb]')) return;
-      if (node.matches?.('[class*="breadcrumb"]')) return;
-      const clone = node.cloneNode(true);
-      clone.querySelectorAll?.('script,style,button,.section-controls,.section-edit-nearby,.section-edit-link,.question-breadcrumb-line,.retrieval-chain-table,.retrieval-wall,[data-breadcrumb],[class*="breadcrumb"],a[href*="pagescms.org"]').forEach(el => el.remove());
-      clone.querySelectorAll?.('strong,b').forEach(el => el.replaceWith(...el.childNodes));
-      if (cleanText(clone.textContent) || clone.matches?.('img,table,ul,ol,blockquote')) wrapper.appendChild(clone);
-    });
+
+    const paragraph = sourceNodesFor(heading).find(node =>
+      node?.tagName === 'P' &&
+      !node.matches?.('.question-breadcrumb-line,[data-breadcrumb],[class*="breadcrumb"]') &&
+      cleanText(node.textContent)
+    );
+
+    if (!paragraph) return wrapper;
+
+    const clone = paragraph.cloneNode(true);
+    clone.querySelectorAll?.('script,style,button,.section-controls,.section-edit-nearby,.section-edit-link,[data-breadcrumb],[class*="breadcrumb"],a[href*="pagescms.org"]').forEach(el => el.remove());
+    wrapper.appendChild(clone);
     return wrapper;
   };
 
