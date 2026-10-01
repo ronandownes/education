@@ -191,3 +191,25 @@ I would like the panel to remember that I bring **strong Mathematics knowledge, 
 | **Planning** | **Different settings** | **Adaptability** |
 
 **knowledge → experience → preparation → adaptability**
+
+## STAR examples | What competency examples could you use in a professional-practice question?
+
+These are **rehearsal composites**: use them as structures and attach them to the closest genuine example from your own experience.
+
+**STAR 1 — adapting quickly in a new school**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | I joined a school and needed to take responsibility for unfamiliar classes and systems quickly. |
+| **Task** | Establish continuity while learning the school's routines and expectations. |
+| **Action** | I sought clear handover, reviewed plans and policies, spoke with relevant colleagues and used early classroom evidence to adapt my teaching. |
+| **Result** | I settled into the role quickly and maintained continuity for students. |
+
+**STAR 2 — collaborative improvement**
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | A shared teaching or support issue needed a more consistent approach across colleagues. |
+| **Task** | Help move the discussion from individual preference to an agreed professional response. |
+| **Action** | I brought relevant evidence, listened to colleagues, helped agree a practical action and reviewed its effect on students. |
+| **Result** | The response became more consistent and the team had clearer evidence for the next decision. |
