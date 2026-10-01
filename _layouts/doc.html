@@ -213,11 +213,8 @@
       {% if page.intro %}<p class="doc-intro">{{ page.intro }}</p>{% endif %}
       <div class="doc-toolbar" aria-label="Document controls">
         <button type="button" data-action="print">Print</button>
-        {% if page.path == 'content/practice/teaching-learning.md' %}
-        <a class="edit-link" href="https://github.com/ronandownes/education/edit/main/content/practice/teaching-learning.md" target="_blank" rel="noopener">Edit</a>
-        {% else %}
-        <a class="edit-link" href="{{ cms_url }}" target="_blank" rel="noopener">Edit this page</a>
-        {% endif %}
+        <a class="edit-link" href="https://github.com/ronandownes/education/edit/main/{{ page.path }}" target="_blank" rel="noopener">GitHub</a>
+        <a class="edit-link" href="{{ cms_url }}" target="_blank" rel="noopener">CMS</a>
       </div>
       <div class="doc-body" id="docBody">{{ content }}</div>
       <script>
