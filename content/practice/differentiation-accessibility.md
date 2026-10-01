@@ -9,12 +9,13 @@ eyebrow: PROFESSIONAL PRACTICE
 
 Differentiation means keeping the **important learning common** while adjusting the route into it. I use evidence about prior knowledge, barriers and readiness to vary support, representation, pace or challenge, then I review whether students are becoming more independent.
 
-| Know | Adapt | Review |
+| Keep common | Vary the route | Aim |
 | --- | --- | --- |
-| **Starting point** | **Support** | **Participation** |
-| **Barrier** | **Challenge** | **Independence** |
+| **Learning intention** | **Support** | **Access** |
+| **High expectations** | **Representation** | **Independence** |
+|  | **Challenge** |  |
 
-**starting point → barrier → adapt → challenge → review**
+**common learning → vary the route → access → independence**
 
 ## Mixed ability | How do you differentiate in a mixed-ability class?
 
