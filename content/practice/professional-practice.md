@@ -3,190 +3,191 @@ layout: doc
 permalink: /professional-practice.html
 title: Professional Responsibility
 eyebrow: PROFESSIONAL PRACTICE
-intro: Act with integrity, collaborate well, contribute to school life, keep
-  developing, and connect practice to the school's ethos and community.
 ---
-## Tell us about yourself
 
-I’m an experienced Maths, additional-needs and learning-support teacher, with a central focus on making Mathematics accessible while maintaining expectations.
+## About me | Tell us about yourself.
 
-I want students to communicate Mathematics, not simply reproduce procedures. I try to create a dialogic Mathematics classroom where students explain, question, justify, make connections and increasingly use mathematical thinging  and language with confidence.
+I am an experienced **Mathematics and learning-support teacher** with a strong interest in making difficult ideas accessible without lowering expectations. I plan carefully, explain clearly, use evidence to adapt and try to move students from supported success towards independence.
 
-I use technology where it genuinely improves access, visualisation or understanding, rather than simply for its own sake.
+| Experience | Practice | Aim |
+| --- | --- | --- |
+| **Mathematics** | **Clear explanation** | **Access** |
+| **AEN support** | **Responsive teaching** | **Independence** |
 
-My approach is to **plan carefully, teach explicitly, scaffold intelligently, build purposeful practice into learning, and adapt in response to evidence of what students understand**.
+**experience → clarity → evidence → access → independence**
 
-## Tell us about your experience
+## Experience | What experience would you bring to this school?
 
-I have taught in **a number of different post-primary schools**, including Presentation Secondary School Thurles, Thomond Community College, Scoil Mhuire & Íde, John the Baptist Community School and Nenagh College.
+I have worked across several post-primary settings and have taught **Junior Cycle, Senior Cycle, TY, mixed-ability classes and learning support**. That breadth has taught me to adapt quickly, work within different school systems and build productive relationships with new groups.
 
-I have taught Mathematics across **Junior Cycle, Leaving Certificate and Transition Year**, including mixed-ability classes, and I have substantial experience in **additional-needs and learning-support settings**.
+| Breadth | Adaptability | Contribution |
+| --- | --- | --- |
+| **Different schools** | **Learn systems quickly** | **Subject teaching** |
+| **Different learners** | **Build relationships** | **AEN experience** |
 
-Working across several schools has given me experience of **different school cultures, student populations, departments, support structures and ways of working**.
+**breadth → adapt → contribute**
 
-I see that breadth as a strength. I have had to **adapt quickly, learn from different colleagues, work effectively within different systems and establish relationships with new groups of students**.
+## Professional responsibility | What does professional responsibility mean to you?
 
+It means being **reliable, prepared, accountable and safe** in the work that sits within my role. I act with integrity, follow policy, maintain professional boundaries and contribute to the wider school rather than seeing responsibility as ending at the classroom door.
 
-&nbsp;
+| Personal | Professional | Collective |
+| --- | --- | --- |
+| **Reliable** | **Follow policy** | **Contribute** |
+| **Prepared** | **Maintain boundaries** | **Collaborate** |
 
-&nbsp;
+**reliable → prepared → policy → boundaries → collaborate**
 
-## Closing Line
+## Professional values | What values guide your practice?
 
-**The impression I leave with you is that I bring strong Mathematics subject knowledge, substantial AEN experience, high expectations, careful preparation and the ability to adapt my teaching so that individual students can succeed.**
+The values I return to are **respect, fairness, care, integrity and high expectations**. They shape how I speak to students, apply rules, make judgements and work with families and colleagues.
 
-## School knowledge | What do you know about St Patrick's Comprehensive — the Comp?
+| Respect | Fairness | Integrity |
+| --- | --- | --- |
+| **Dignity** | **Consistent expectations** | **Defensible decisions** |
+| **Care** | **Equal opportunity** | **Professional conduct** |
 
-The school was founded at a time when Ireland was moving in a new social and educational direction, just before free post-primary education was introduced. The comprehensive model was part of that change — broadening opportunity and bringing academic and practical education together within one school.
+**respect → fairness → integrity**
 
-What stands out to me is the school's comprehensive tradition, equality of opportunity, breadth of provision, inclusion and strong community identity. For this post I would connect that particularly to mixed-ability teaching, AEN provision, Inbhear, L2LP and LCA, and the emphasis on helping individual students reach their potential. That fits very closely with my own experience across Mathematics, mixed-ability teaching and learning support / AEN.
+## Policy and duty of care | How do policies shape your professional practice?
 
+Policies provide the agreed framework for consistent and defensible action. I need to know the procedures relevant to behaviour, child protection, health and safety, AEN, assessment, digital use and communication, and use professional judgement within that framework.
 
-&nbsp;
+| Know | Apply | Escalate |
+| --- | --- | --- |
+| **Relevant policy** | **Professional judgement** | **Seek guidance** |
+| **Duty of care** | **Consistent procedure** | **Report concern** |
 
-## Professional responsibility | What does professional responsibility mean to you as a teacher?
+**know policy → apply judgement → seek guidance**
 
-Professional responsibility means being 
+## Safeguarding | What is your responsibility if you have a child-protection concern?
 
-- reliable, 
-- prepared 
-- and accountable
+My role is to **recognise, respond, record and report**, not investigate. I listen calmly, do not promise confidentiality, record the relevant facts and follow the school's child-protection procedure through the DLP or DDLP.
 
-for the quality and safety of my work. I act with integrity, fairness and respect, maintain professional boundaries and confidentiality, follow school policy and exercise professional judgement. It also means contributing to colleagues and school life rather than seeing responsibility as ending at my classroom door.
+| Recognise | Record | Report |
+| --- | --- | --- |
+| **Concern** | **Facts** | **DLP or DDLP** |
+| **Immediate safety** | **No interpretation** | **Follow procedure** |
 
-## Values & conduct | What professional values guide your practice?
-
-The values I return to are respect, fairness, equality, care and integrity. They influence how I speak to students, apply expectations, communicate with families and work with colleagues. Ethical practice means that my decisions should be defensible, consistent with policy and focused on students' learning, dignity and inclusion rather than convenience.
-
-## Accountability | How do you demonstrate accountability in your work?
-
-I take ownership of the decisions that sit within my role. That means planning and assessing carefully, keeping appropriate records, following through on agreed actions, meeting deadlines and communicating when a problem affects others. If something has not worked, I use professional judgement, acknowledge it, adapt and evaluate impact rather than becoming defensive.
-
-## Boundaries & confidentiality | How do you maintain professional boundaries and confidentiality?
-
-I am approachable and supportive while keeping the teacher role clear. I share confidential information only through appropriate professional channels and only with people who need it for their role. I avoid informal discussion of students, maintain appropriate digital and personal boundaries, and follow policy where confidentiality has limits, particularly in safeguarding situations.
-
-## Duty of care | What does duty of care look like in everyday teaching?
-
-Duty of care is visible in ordinary professional habits: safe supervision, thoughtful planning, attention to practical risk, appropriate boundaries and acting on concerns rather than ignoring them. I follow school procedures, child-protection requirements and health-and-safety expectations, and I use professional judgement when something unexpected occurs. Student safety is part of teaching, not separate from it.
-
-## Policy awareness | How do school policies influence your professional practice?
-
-Policies provide the agreed framework for consistent and defensible practice. I need policy awareness around areas such as behaviour, assessment, child protection, AEN, acceptable use, health and safety and communication. I do not treat policy compliance as box-ticking; I understand the purpose, apply professional judgement within the framework and seek clarification when a situation is unclear.
+**recognise → protect → record → report**
 
 ## Collegiality | How do you work effectively with colleagues?
 
-I value collegiality, clear communication and reliability. I share relevant information appropriately, contribute resources and assessment evidence, listen to colleagues' experience and follow through on agreed work. I try to disagree professionally when necessary and keep the focus on the student or shared task. A student experiences a school, not a collection of isolated classrooms.
+I communicate clearly, share relevant evidence and resources, listen to colleagues and follow through on agreed work. I value consistency where it benefits students while still respecting professional judgement and different teaching styles.
 
-## Department planning | How do you contribute to a subject department?
+| Share | Agree | Follow through |
+| --- | --- | --- |
+| **Evidence** | **Common purpose** | **Do agreed work** |
+| **Resources** | **Clear roles** | **Review impact** |
 
-I contribute through department planning, shared resources, common assessment work, discussion of misconceptions and curriculum planning. I bring classroom evidence rather than preference alone, and I record useful decisions where consistency matters. I also respect professional autonomy: shared planning should improve coherence and reliability without requiring identical teaching in every room.
+**share → agree → follow through**
 
-## Co-teaching & AEN | How do you collaborate in co-teaching or AEN support?
+## Department contribution | How do you contribute to a subject department?
 
-Co-teaching works best with shared planning rather than one teacher simply assisting the other. We agree the learning goal, roles, likely barriers and how evidence will be gathered. I communicate with AEN colleagues, SNAs and other relevant staff so support is coordinated. Afterwards we compare what we observed and adapt rather than assuming the arrangement worked.
+I contribute through **curriculum planning, schemes of work, shared resources, assessment evidence and discussion of learner experiences**. Good department planning should influence classroom practice and be reviewed in light of student learning, not exist only as documentation.
 
-## Professional disagreement | How would you handle a professional disagreement with a colleague?
+| Plan | Share | Improve |
+| --- | --- | --- |
+| **Curriculum sequence** | **Resources** | **Review evidence** |
+| **Assessment approach** | **Methodologies** | **Refine scheme** |
 
-I would address it directly, privately and respectfully, beginning with the shared professional purpose rather than the personalities involved. I listen, clarify the evidence and distinguish preference from policy or agreed responsibility. If we cannot resolve an issue that affects students or school operations, I use the appropriate line-management or consultation route rather than allowing conflict to become personal.
+**plan → share → evidence → refine**
 
-## Feedback | How do you respond to professional feedback?
+## Professional disagreement | How would you handle a disagreement with a colleague?
 
-I try to treat professional feedback as evidence rather than as a judgement on identity. I listen, ask for specific examples if needed and compare the feedback with student work or other evidence. Where a change is justified, I set a practical goal, try it and evaluate impact. I also seek feedback through collegial discussion or peer observation when it can improve practice.
+I deal with it directly, privately and respectfully. I clarify the shared purpose, distinguish preference from policy or responsibility, listen to the evidence and use the appropriate management route if the issue cannot be resolved professionally.
 
-## Beyond timetable | How do you contribute beyond your timetable?
+| Clarify | Discuss | Resolve |
+| --- | --- | --- |
+| **Shared purpose** | **Listen** | **Agree action** |
+| **Policy position** | **Use evidence** | **Escalate if needed** |
 
-I look for contribution that uses my strengths and meets a genuine school need. My experience includes examination work, SEN involvement, digital-resource development, subject initiatives and wider school activities. I am also interested in Maths, Science, coding, data and technology opportunities. I prefer sustainable contribution that adds value rather than listing activities for the sake of an interview answer.
+**clarify → listen → evidence → resolve**
 
-## Initiative & committees | How do you show initiative or contribute to committee work?
+## Feedback and reflection | How do you respond to professional feedback?
 
-I show initiative by identifying a useful need, consulting the people affected and then doing a defined piece of work reliably. In committee work I contribute evidence, practical ideas and follow-through rather than trying to dominate. I am comfortable with resource development, data, technology and subject or AEN projects, and I evaluate whether the initiative actually improves something for students or staff.
+I treat feedback as evidence to examine rather than as a judgement on identity. I ask for specifics, compare it with student evidence, make a practical change and then review whether the change improved learning.
 
-## Extracurricular | What extracurricular contribution could you bring?
+| Receive | Change | Review |
+| --- | --- | --- |
+| **Listen** | **Choose one action** | **Check impact** |
+| **Clarify evidence** | **Try it** | **Keep or refine** |
 
-I could contribute through Mathematics, Science, coding, data or technology-based activities, depending on what the school already offers and needs. That might include problem-solving, STEM projects, coding, competitions or support for student projects. I would first listen to the existing school context so an extracurricular contribution complements rather than duplicates current opportunities.
-
-## Examination work | How has State Examinations work contributed to your professional practice?
-
-Examination work has strengthened my understanding of standards, reliability, clear evidence and the importance of applying criteria consistently. Superintendent and examiner experience also reinforce organisation, confidentiality, fairness and attention to procedure. I bring that perspective back to classroom assessment without narrowing teaching to the examination.
-
-## Digital contribution | How can your digital or data skills contribute to a school?
-
-My digital and data skills can support resource development, efficient organisation, digital learning and evidence-informed decision-making. I can help build or improve practical tools when there is a real need, but technology should serve the educational purpose. I would collaborate with colleagues, respect data protection and existing systems, and evaluate impact rather than introduce technology for novelty.
+**feedback → action → impact → refine**
 
 ## CPD | How do you approach continuing professional development?
 
-I see CPD as professional learning that should lead to a change in understanding or practice, not just attendance at courses. I use formal CPD, professional reading, subject collaboration and technology or curriculum updates. I connect new learning to classroom evidence, try it critically and evaluate impact before deciding whether it should become part of my normal practice.
+Professional learning should change understanding or practice, not simply add certificates. I use formal CPD, subject collaboration, professional reading and curriculum updates, then test new ideas against classroom evidence before adopting them routinely.
 
-## Reflective practice | How do you use reflection to improve your practice?
+| Learn | Apply | Evaluate |
+| --- | --- | --- |
+| **CPD** | **Try in context** | **Student evidence** |
+| **Professional reading** | **Collaborate** | **Keep or change** |
 
-Reflective practice begins with evidence: what students understood, where misconceptions persisted, how a strategy affected participation and whether my intended outcome occurred. I identify one practical change rather than producing vague reflection. I may seek professional feedback, use student work or peer observation, and then review whether the change improved learning.
+**learn → apply → evaluate**
 
 ## Evidence-informed practice | What does evidence-informed practice mean to you?
 
-Evidence-informed practice means combining useful research or professional guidance with subject knowledge, classroom evidence and professional judgement. I do not adopt an approach simply because it is fashionable. I ask what problem it is intended to solve, whether it fits the students and context, and what evidence would show impact. Good professional learning remains open to revision.
+I combine research and professional guidance with **subject knowledge, classroom evidence and professional judgement**. I ask what problem an approach is solving, whether it fits the learners and what evidence would show that it worked.
 
-## School improvement | How would you contribute to school improvement or SSE?
+| Evidence | Context | Judgement |
+| --- | --- | --- |
+| **Research** | **Learner need** | **Choose approach** |
+| **Classroom evidence** | **Subject knowledge** | **Review impact** |
 
-I would contribute to school improvement by engaging with the identified priority, gathering relevant evidence and helping translate a broad goal into classroom practice. In SSE or similar work I value a manageable focus, student and staff evidence, shared planning and review. The important stage is evaluating impact and adjusting the action rather than treating the written plan as the finish.
+**evidence → context → judgement → review**
 
-## Ethos & mission | How do school ethos and mission influence your work?
+## Parents and community | How do you work with parents, guardians and the wider school community?
 
-I want to understand what the school says it values and how those values are lived in practice. I look at mission, ethos, patronage, inclusion, student profile, programmes and current priorities, then connect my teaching and contribution to that context. Ethos should be visible in relationships, expectations, equality, inclusion and the opportunities students experience, not just in a statement on a website.
+I communicate clearly, factually and respectfully, listen to relevant context and keep the focus on the student's learning, wellbeing and next steps. I follow school communication procedures and contribute positively to wider school life where I can add genuine value.
 
-## Parents & community | How do you work with parents, guardians and the wider community?
+| Communicate | Listen | Contribute |
+| --- | --- | --- |
+| **Clear evidence** | **Family context** | **School activity** |
+| **Next step** | **Concern** | **Community link** |
 
-Parents and guardians are important partners, and communication should be respectful, factual and focused on the student's learning and wellbeing. I listen to relevant context, keep professional boundaries and use school channels. Wider community links can enrich learning and student opportunities when they are purposeful, safe and aligned with the school's mission rather than added for appearance.
+**communicate → listen → agree → contribute**
 
-## Equality & inclusion | How does professional responsibility support equality and inclusion?
+## Digital and data responsibility | How do you use digital and data skills professionally?
 
-Professional responsibility requires me to notice whether students have genuine access to participation, support and opportunity. Equality does not always mean identical treatment; sometimes reasonable support is needed for fair access. I use inclusive practice, high expectations and professional judgement, follow the school's policies and work with colleagues so barriers do not quietly become ceilings on achievement.
+I use technology when it improves learning, organisation or evidence-informed decision-making. I keep data protection, access, security and proportionality in mind, and I avoid introducing technology simply because it is available.
 
-## Professional growth | What is your next professional step and how will you keep developing?
+| Purpose | Protect | Evaluate |
+| --- | --- | --- |
+| **Learning benefit** | **Data privacy** | **Impact** |
+| **Efficiency** | **Secure practice** | **Keep or drop** |
 
-My next professional step is to continue strengthening the connection between strong subject teaching, inclusion and evidence-informed practice. I use goal setting, CPD, professional reading, professional feedback and reflective practice to identify what to improve next. I want professional growth to be visible in better student learning and contribution to the school, not simply in another qualification or title.
+**purpose → protect → evaluate**
 
-## Autism-friendly direction | What stands out about St Patrick's autism work?
+## School ethos | How should a school's ethos influence your work?
 
-What stands out is that the direction is broader than specialist provision alone. **Inbhear** remains the school's ASD area, but St Patrick's is also taking part in the **AsIAm Autism Friendly Schools Programme**, looking at teaching and learning, inclusive school culture, leadership and management, and staff professional development. I also noticed named strands such as **L2LP and Senior Cycle L2, Bláth sensory garden, Farm Safe Schools work with Inbhear students, and the 2026 Home-Based Summer Programme**.
+I need to understand the school's stated mission, patronage and community, then show that ethos through everyday decisions rather than slogans. I connect it to how I treat students, support inclusion, work with colleagues and contribute beyond my own classroom.
 
-The Inbhear name is particularly meaningful to me. An estuary is a transition space where the familiar river meets the wider sea. For autistic students, I see the educational role in the same way: create enough safety and predictability for learning, while deliberately building regulation, resilience, independence, coping strategies and confidence for increasingly complex environments. **Inbhear is not a shelter from the ocean; it is a place where we prepare students for it.**
+| Understand | Demonstrate | Contribute |
+| --- | --- | --- |
+| **Mission** | **Relationships** | **School community** |
+| **Patronage** | **Inclusive practice** | **Shared priorities** |
 
+**understand ethos → live it → contribute**
 
-# School Improvement Plan — Interview Version
+## Beyond the timetable | What could you contribute beyond your teaching load?
 
-## Key Line
+I would first listen to what the school already offers and where there is a genuine need. My strengths could support **Mathematics, Science, coding, data, technology, student projects or learning-support initiatives**, but I would rather make one sustainable contribution than list activities for interview effect.
 
-“Bealach” basically means “the way” or “the path”. It is the name St Patrick’s gives to its School Improvement Plan. ([Teanglann](https://www.teanglann.ie/en/eid/bealach?utm_source=chatgpt.com "English–Irish Dictionary (de Bhaldraithe): bealach"))
+| Listen | Match | Sustain |
+| --- | --- | --- |
+| **School need** | **My strength** | **Reliable contribution** |
+| **Existing provision** | **Student interest** | **Review value** |
 
-## What do you know about our School Improvement Plan?
+**need → strength → contribution**
 
-“I looked at Bealach, your School Improvement Plan. What struck me is the emphasis on improving teaching and learning through assessment and feedback, active learning, collaboration, inclusion, student voice and responding to learner needs. I also noticed that this builds on earlier priorities around learning intentions, AfL, differentiated teaching and group work.”
+## Closing | What do you want the panel to remember about you?
 
-That is enough. You do not need to recite the whole plan.
+I would like the panel to remember that I bring **strong Mathematics knowledge, substantial AEN experience, high expectations, careful preparation and adaptability**. I want students to experience challenge with support and to become increasingly independent.
 
-## Has it moved forward?
+| Knowledge | Experience | Approach |
+| --- | --- | --- |
+| **Mathematics** | **AEN** | **High expectations** |
+| **Planning** | **Different settings** | **Adaptability** |
 
-Yes. Your uploaded document is the older 2018–2020 Teaching and Learning plan. The school's website now presents Bealach 2023–2025, which broadens school improvement beyond classroom teaching into areas including digital learning, leadership, communication, infrastructure and wellbeing. ([ST. PATRICK'S COMPREHENSIVE SCHOOL](https://www.stpatrickscomprehensive.ie/school-improvement-plan.html?utm_source=chatgpt.com "School Improvement Plan - ST. PATRICK'S COMPREHENSIVE SCHOOL"))
-
-But the interesting thing is: **the website still shows 2023–2025 as the current published Bealach plan.** ([ST. PATRICK'S COMPREHENSIVE SCHOOL](https://www.stpatrickscomprehensive.ie/school-improvement-plan.html?utm_source=chatgpt.com "School Improvement Plan - ST. PATRICK'S COMPREHENSIVE SCHOOL"))
-
-That gives you an excellent question.
-
-## Have you any questions for us?
-
-Your strongest one could be:
-
-> “I was looking at Bealach and I noticed that the published plan runs to 2025. Has the school now moved into its next improvement cycle, and what would you say are the main priorities for the school going forward?”
-
-That is a very strong question because it proves you have researched the school **and** gets them talking about where the school is going.
-
-Then, if they invite another:
-
-> “For the person coming into this Mathematics and AEN role, where would you most like them to make a contribution in the first year?”
-
-I would use those **two**. They are much stronger than generic questions about timetables, classes or CPD.
-
-## Interview details
-
-**Monday 17 August · 3:00 pm · St Patrick's Comprehensive School, Shannon · V14 Y434 · in person.**
+**knowledge → experience → preparation → adaptability**
