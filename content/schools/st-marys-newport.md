@@ -2,9 +2,9 @@
 layout: doc
 permalink: /st-marys-newport.html
 cms_key: stmarysnewport
-title: St Mary's Secondary School, Newport — Interview Recall
+title: "St Mary's Secondary School, Newport — Interview Recall"
 eyebrow: INTERVIEW · NEWPORT · MATHEMATICS
-intro: School-specific interview recall: ethos in practice, leadership, numbers, curriculum, teaching and learning, policies, safeguarding, behaviour, inclusion and the evidence I should connect to my own practice.
+intro: "School-specific interview recall: ethos in practice, leadership, numbers, curriculum, teaching and learning, policies, safeguarding, behaviour, inclusion and the evidence I should connect to my own practice."
 ---
 
 ## Interview priorities | What do I need to know first?
