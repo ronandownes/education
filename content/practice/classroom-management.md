@@ -14,6 +14,24 @@ eyebrow: Prevent Respond Restore
 
 I approach this through **Prevent, Respond and Restore**. Good classroom management creates a **calm, predictable and purposeful learning environment**. I establish clear expectations, **explicitly teach and model routines**, keep students engaged, and intervene early, calmly and proportionately so that attention returns to learning.
 
+## STAR 2 — Challenging / Escalating Behaviour
+
+| STAR | Recall |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Situation** | During a lesson, a student who had become frustrated with the work began refusing instructions, speaking over me and becoming increasingly agitated. This had moved beyond ordinary disruption and was beginning to affect the whole room. |
+| **Task** | Maintain the boundary, reduce the emotional temperature and keep the rest of the class learning without entering a power struggle. |
+| **Action** | I reduced my language and volume, moved the conversation away from the audience where possible, gave a clear limited choice and allowed processing time. I kept the remainder of the class working, followed the school's agreed procedure and returned to the student later when they were regulated enough for a brief restorative conversation. |
+| **Result** | The situation de-escalated without a public confrontation. The student was able to re-enter learning, and the follow-up clarified both the expectation and any support needed to prevent a repeat. |
+
+## STAR 3 — Serious / Unsafe Behaviour
+
+| STAR | Recall |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Situation** | A conflict between two students escalated to the point where there was an immediate risk of physical harm. At that stage it was no longer primarily a classroom-management issue; it was a safety issue. |
+| **Task** | Make the situation safe, protect the other students and follow school procedure rather than trying to manage a serious incident alone. |
+| **Action** | I stopped the activity, created distance between the students without placing myself or others at unnecessary risk, directed the rest of the class to a safe and supervised position, and sought the appropriate assistance immediately. Afterwards I recorded the facts objectively and reported through the school's agreed behaviour and safeguarding structures as required. |
+| **Result** | The immediate risk was contained, the other students were protected and the incident was handed over through the correct school process. The key distinction for me is that once safety is involved, safety and procedure take priority over completing the lesson or resolving the behaviour there and then. |
+
 ## New or cover class | How do you establish expectations with a new or temporary class?
 
 | Start | Structure | Reinforce |
@@ -140,20 +158,3 @@ These are **rehearsal composites**: keep the competency structure and use the cl
 | **Action** | I first used proximity and a non-verbal cue, then a brief private reminder. When the pattern continued, I adjusted the seating, made the next task very clear and achievable, and followed through consistently while continuing to notice the student's successful engagement. |
 | **Result** | The disruption reduced, the student completed the work and the class returned to a settled routine without the issue becoming personal or public. |
 
-## STAR 2 — Challenging / Escalating Behaviour
-
-| STAR | Recall |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | During a lesson, a student who had become frustrated with the work began refusing instructions, speaking over me and becoming increasingly agitated. This had moved beyond ordinary disruption and was beginning to affect the whole room. |
-| **Task** | Maintain the boundary, reduce the emotional temperature and keep the rest of the class learning without entering a power struggle. |
-| **Action** | I reduced my language and volume, moved the conversation away from the audience where possible, gave a clear limited choice and allowed processing time. I kept the remainder of the class working, followed the school's agreed procedure and returned to the student later when they were regulated enough for a brief restorative conversation. |
-| **Result** | The situation de-escalated without a public confrontation. The student was able to re-enter learning, and the follow-up clarified both the expectation and any support needed to prevent a repeat. |
-
-## STAR 3 — Serious / Unsafe Behaviour
-
-| STAR | Recall |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | A conflict between two students escalated to the point where there was an immediate risk of physical harm. At that stage it was no longer primarily a classroom-management issue; it was a safety issue. |
-| **Task** | Make the situation safe, protect the other students and follow school procedure rather than trying to manage a serious incident alone. |
-| **Action** | I stopped the activity, created distance between the students without placing myself or others at unnecessary risk, directed the rest of the class to a safe and supervised position, and sought the appropriate assistance immediately. Afterwards I recorded the facts objectively and reported through the school's agreed behaviour and safeguarding structures as required. |
-| **Result** | The immediate risk was contained, the other students were protected and the incident was handed over through the correct school process. The key distinction for me is that once safety is involved, safety and procedure take priority over completing the lesson or resolving the behaviour there and then. |
