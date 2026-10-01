@@ -5,123 +5,145 @@ title: Classroom Management
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
+## General approach | What does good classroom management look like?
 
-## Positive relationship | When has a positive relationship helped with classroom management?
+Good classroom management creates a **calm, predictable and purposeful learning environment**. I establish clear expectations, teach routines, keep students engaged and intervene early, calmly and proportionately so attention returns to learning.
 
-### Result
+| Prevent | Respond | Restore |
+| --- | --- | --- |
+| **Clear expectations** | **Early intervention** | **Return to learning** |
+| **Strong routines** | **Calm follow-through** | **Repair relationships** |
 
-**The relationship gave me leverage: because the student knew I respected her and saw her strengths, correction became easier and less confrontational.**
+**expectations → routines → engagement → intervene → follow through → restore**
 
+## New or cover class | How do you establish expectations with a new or temporary class?
 
-I had a student who was regularly off-task, making comments and drawing other students into side conversations. Rather than allowing it to become a cycle of public correction, I spoke to her privately and kept the relationship positive.
+I make the first few minutes very clear: greet the students, settle the room, check the task and state the small number of expectations that matter. I model routines where needed and reinforce them consistently; in a cover class I keep the work achievable and aligned with the regular teacher's plan.
 
-At a parent-teacher meeting I also learned that she was very strong at Gaelic football. That gave me another way of connecting with her and showing that I saw more than just the behaviour in the classroom.
+| Start | Structure | Settle |
+| --- | --- | --- |
+| **Greet** | **Clear task** | **Reinforce routines** |
+| **Register** | **Few expectations** | **Keep learning moving** |
 
-I then made a practical change by moving her closer to me and away from peers who were reinforcing the behaviour. Because the relationship was already positive, she accepted the change without it becoming a confrontation.
+**greet → task → expectations → routines → reinforce → learn**
 
-Her engagement improved considerably and the disruption reduced. It reinforced for me that **relationships do not replace boundaries — they make boundaries easier to maintain.**
+## Prevention | How do you prevent low-level disruption before it starts?
 
+Prevention begins with **good teaching and teacher presence**. I use an immediate start, appropriate challenge, smooth transitions, active supervision and a seating plan where useful, because students are easier to manage when they know what to do and can succeed at it.
 
-## Good classroom management | What does good classroom management look like?
+| Task | Presence | Flow |
+| --- | --- | --- |
+| **Immediate start** | **Scan** | **Smooth transitions** |
+| **Appropriate challenge** | **Circulate** | **Thoughtful seating** |
 
-Good classroom management creates a purposeful, predictable climate where students know the expectations and can learn. I use **clear routines**, **task clarity**, **active supervision** and **positive relationships**, and I intervene early rather than allowing small issues to grow. I aim to be calm, fair and consistent, with **high expectations** and a strong sense of **belonging**.
-
-## Establish expectations | How do you set expectations with a new class?
-
-With a new class I explicitly teach the **clear routines** and boundaries I need: entering, starting work, listening, transitions, equipment, asking for help and finishing. I use positive framing, model the routines, reinforce them consistently and explain the reason for important expectations. **Predictability** builds **trust** because students know what will happen and how I will respond.
-
-## Learning-support expectations | How do you set expectations in learning support?
-
-With a learning-support group I keep expectations clear, age-appropriate and connected to successful participation. I establish **predictability** through a small number of **clear routines** for arriving, equipment, asking for help, attempting the first step and finishing. I use **explicit language**, model and rehearse the routines, and allow **processing time** where needed. I adapt the route without lowering the expectation, protect **dignity**, and reinforce growing **independence** rather than dependence on adult prompting.
-
-## Temporary cover class | How do you set expectations in a cover class?
-
-In a temporary cover class I establish calm authority quickly without pretending I already know the group. I greet the students, take the register, check the teacher's assigned work and state a few **clear expectations**: follow the task, listen when someone is speaking, ask for help appropriately and remain safe. I use **teacher presence**, **task clarity**, **active supervision** and the school's established **clear routines**, avoid public power struggles, and keep the class learning. I record anything significant factually and leave a clear handover for the regular teacher.
-
-## Prevent problems | How do you prevent behaviour problems?
-
-Prevention begins with good teaching and **teacher presence**. I plan an immediate start, **task clarity**, appropriate challenge, **smooth transitions** and high participation, and I use a **seating plan** where it helps learning. Through **active supervision** I circulate, scan engagement and notice access or behaviour difficulties early, so I can respond before disruption becomes established.
+**task → challenge → presence → transitions → prevent**
 
 ## Low-level disruption | How do you respond to low-level disruption?
 
-I use the least intrusive response that is likely to work and increase it gradually: **teacher presence, proximity, a student's name, a non-verbal cue, reminder, redirection, then a clear choice** if needed. I allow **take-up time** and use **follow-through** rather than repeated warnings. Where possible I use **private correction** so the student can comply without a public confrontation.
+I use the **least intrusive response likely to work**: proximity, a non-verbal cue, the student's name, a brief reminder and then a clear redirection. I allow take-up time and avoid turning a small issue into a public confrontation.
+
+| Notice | Redirect | Follow through |
+| --- | --- | --- |
+| **Proximity** | **Brief reminder** | **Take-up time** |
+| **Non-verbal cue** | **Clear direction** | **Check compliance** |
+
+**notice → cue → remind → redirect → wait → follow through**
 
 ## Persistent behaviour | What do you do when behaviour persists?
 
-If low-level behaviour persists, I stay consistent and look for the pattern rather than simply repeating reminders. I restate the **appropriate boundary**, use a **seating change** or **proportionate consequence** where justified, and follow the **Code of Behaviour**. I make a **factual record**, **monitor** what happens next and involve the **year head** or other agreed support if the pattern continues.
+If behaviour continues, I stop repeating the same reminder and move to the school's agreed **graduated response**. I restate the boundary, use a proportionate consequence, record the pattern and involve the appropriate colleague when classroom-level responses are no longer enough.
 
-## Refusal | How do you deal with a student who refuses an instruction?
+| Boundary | Consequence | Escalation |
+| --- | --- | --- |
+| **Restate expectation** | **Proportionate response** | **Record pattern** |
+| **Clear choice** | **Follow through** | **Refer appropriately** |
 
-I maintain the boundary without creating a public power struggle. I give the instruction once in a **calm tone**, use **private correction** where possible, offer a limited **choice** when appropriate and allow **take-up time**. I then use **follow-through**. If refusal continues, I keep the rest of the class learning and use the school's agreed procedures rather than escalating emotionally.
+**boundary → choice → consequence → record → refer → review**
 
-## Consequences | How do you use consequences?
+## Refusal | How do you respond when a student refuses an instruction?
 
-Consequences should be predictable, proportionate and connected to the **Code of Behaviour**. I do not invent them in anger. I make the expectation and **appropriate boundary** clear, allow reasonable **take-up time**, and use a **proportionate consequence** with consistent **follow-through**. The purpose is **accountability** and a return to learning, not humiliation or winning a confrontation.
+I keep the boundary but remove the audience and emotion. I give a brief instruction, offer a limited choice where appropriate, allow take-up time and then follow the school's procedure rather than entering a power struggle.
 
-## Active supervision | How do you use active supervision?
+| Calm | Choice | Follow-through |
+| --- | --- | --- |
+| **Brief instruction** | **Limited options** | **Take-up time** |
+| **Private correction** | **Clear boundary** | **School procedure** |
 
-**Active supervision** means I am not fixed at the front while students work. I circulate strategically, scan the room, check learning and behaviour, and use **teacher presence** or **proximity** before a problem grows. A thoughtful **seating plan** and **smooth transitions** also reduce avoidable friction. I want students to feel supervised without the room feeling oppressive.
+**calm → private → choice → wait → follow through**
 
-## De-escalation | How do you de-escalate a situation?
+## De-escalation | How do you respond to an escalating or dysregulated student?
 
-If a student is escalating, I lower rather than raise the emotional temperature. I use a **calm tone**, **pause**, reduce the audience and keep language brief. **De-escalation** may mean giving space, **reduced language** and **processing time** while maintaining **safety** and the essential boundary. I avoid arguing and return to the issue when the student is more able to engage.
+My first aim is to **reduce the emotional temperature and keep everyone safe**. I lower my voice, reduce language and audience, give space or processing time, and return to learning or a restorative conversation only when the student is ready.
 
-## Dysregulation | How do you respond to a dysregulated student?
+| Reduce | Regulate | Reconnect |
+| --- | --- | --- |
+| **Calm tone** | **Space** | **Return to learning** |
+| **Reduced language** | **Processing time** | **Repair later** |
 
-When a student is dysregulated, I think first about **emotional regulation** and what will help them regain control. I may use **co-regulation**, **reduced language**, **processing time**, **sensory awareness**, a brief **movement break** or an agreed **reset**. I protect **dignity** and **safety**, keep expectations clear, and avoid adding unnecessary verbal demand while the student is overloaded.
+**calm → reduce → space → regulate → reconnect → restore**
 
-## AEN & behaviour | How does AEN affect your behaviour approach?
+## Serious or unsafe behaviour | What do you do if behaviour becomes serious or unsafe?
 
-AEN can affect the route a student needs to meet an expectation, but not the basic expectation of safe participation. I consider communication, **processing time**, **sensory awareness**, anxiety and **emotional regulation**, and use the student's plan and **AEN support**. Adaptations might include **reduced language**, visual prompts, predictable routines or an agreed **movement break**, while maintaining **dignity** and appropriate boundaries.
+Safety overrides normal classroom routines. I follow the school's **Code of Behaviour and safety procedures**, seek assistance where needed, protect the rest of the class, record facts rather than interpretations and escalate any safeguarding concern through the correct route.
 
-## Serious unsafe behaviour | How do you respond to serious or unsafe behaviour?
+| Protect | Procedure | Record |
+| --- | --- | --- |
+| **Keep students safe** | **Seek support** | **Facts only** |
+| **Remove immediate risk** | **Use school system** | **Report concern** |
 
-For serious or unsafe behaviour, **safety** comes first. I use clear, calm directions, reduce the audience if possible and follow **school procedures** immediately. I do not physically intervene unless authorised and required by policy and training. I make a **factual record**, alert the appropriate senior staff, and if the behaviour raises a **safeguarding** concern I follow safeguarding procedures without delay.
+**safety → support → procedure → record → report**
 
-## Practical safety | How do you manage behaviour in a practical Science lesson?
+## Relationships and repair | How do relationships and restorative practice support behaviour?
 
-In a practical Science lesson, **safety** is non-negotiable. I establish **clear routines** before equipment is used, supervise actively and stop unsafe behaviour immediately. I restate the **appropriate boundary** and use the school's practical and behaviour procedures if a student cannot follow it. The practical continues only when I am satisfied that students can participate safely.
+Positive relationships make correction easier because students know that the boundary is about learning, not rejection. After an incident I separate the behaviour from the person, clarify impact, agree what needs to change and help the student re-enter successfully.
 
-## Student leaves class | What do you do if a student walks out?
+| Relationship | Restore | Re-enter |
+| --- | --- | --- |
+| **Respect** | **Clarify impact** | **Fresh start** |
+| **Private correction** | **Agree repair** | **Notice success** |
 
-If a student walks out, I protect both that student's **safety** and my duty of supervision to the class. I do not abandon the group to chase them. I alert the office, **year head** or designated support according to **school procedures**, make a **factual record**, and follow up afterwards to understand the trigger, **monitor** recurrence and plan a safe **reintegration**.
+**respect → correct → repair → re-enter → rebuild**
 
-## Student conflict | How do you deal with conflict between students?
+## AEN and behaviour | How does additional educational need affect your behaviour approach?
 
-If two students are in conflict, I stop the escalation, separate them where necessary and reduce the audience. I keep a **calm tone**, establish the facts rather than taking sides, and follow **school procedures**. When appropriate, a **restorative conversation** can support **accountability**, **acknowledge harm** and help repair the relationship, but only when both students are ready to engage.
+I keep expectations high but ask whether a barrier, communication need, sensory issue or regulation difficulty is contributing to the behaviour. I adapt the route, not the standard, and coordinate with the AEN team while still maintaining clear boundaries and safety.
 
-## Restorative practice | How do you use restorative practice?
+| Understand | Adapt | Maintain |
+| --- | --- | --- |
+| **Identify barrier** | **Adjust communication** | **Clear boundary** |
+| **Check regulation** | **Use agreed support** | **High expectations** |
 
-Restorative practice combines **accountability** with repair. In a **restorative conversation** I **listen** to what happened, identify who was affected, **acknowledge harm** and ask what needs to happen next. I focus on **behaviour not person**, while keeping boundaries clear. The aim is **problem-solving**, **repair relationship** and **reintegration** into learning, not replacing consequences where consequences are required.
+**barrier → regulation → adapt → support → boundary → independence**
 
-## Repair relationship | How do you repair a relationship after an incident?
+## Practical safety | How do you manage behaviour in a practical Science or Physics lesson?
 
-After an incident I do not want the student permanently defined by the behaviour. I **listen**, separate **behaviour not person**, revisit the expectation and use **problem-solving** to agree how we move forward. Where harm occurred, we **acknowledge harm** and **repair relationship**. I then support **re-engagement**, a **fresh start** and, over time, **trust rebuilt** through consistent successful participation.
+In a practical room I make safety routines explicit before activity begins. I check equipment, movement, roles and stop signals, supervise actively and intervene immediately when unsafe behaviour occurs because practical learning depends on disciplined routines.
 
-## Parent communication | How do you discuss behaviour with a parent or guardian?
+| Before | During | If unsafe |
+| --- | --- | --- |
+| **Safety briefing** | **Active supervision** | **Stop activity** |
+| **Clear roles** | **Safe movement** | **Reset expectations** |
 
-When **parent / guardian** contact is appropriate, I communicate early, calmly and factually. I describe the behaviour and its impact, explain the steps already taken and **listen** to information that may help us understand the pattern. I keep the focus on joint **problem-solving** and support rather than blame, and I record any important agreed actions through the school's normal system.
+**brief → organise → supervise → stop → reset**
 
-## Record & follow up | How do you record and follow up repeated behaviour?
+## Parents and colleagues | When do you involve parents, year heads or other colleagues?
 
-For repeated or significant behaviour, I make a **factual record**: what happened, what I observed, what response was used and what followed. I **monitor** patterns and use the record to inform the next step. Depending on the situation I may **refer** through the **tutor system, year head, pastoral team or AEN support**, always following **school procedures** and keeping information appropriately confidential.
+I involve others when a pattern persists, support needs to be coordinated or school procedure requires it. I communicate facts, what has already been tried and the impact on learning, then agree the next step so the response is consistent rather than fragmented.
 
-## Teamwork & referral | When do you involve colleagues in behaviour management?
+| Evidence | Communicate | Coordinate |
+| --- | --- | --- |
+| **Record pattern** | **Facts** | **Agree next step** |
+| **Note interventions** | **Impact on learning** | **Review outcome** |
 
-Classroom management is not a solo activity when difficulties persist. I use **collaboration** with the **tutor system, year head, pastoral team and AEN support** so we can see patterns across settings and agree a consistent response. Where appropriate we involve a **parent / guardian**. I **refer safeguarding concerns** immediately through the correct route rather than trying to manage them as ordinary behaviour.
-
-## Relationships & expectations | How do you balance relationships and firm expectations?
-
-I do not see **trust** as an alternative to expectations; trust makes expectations workable. I want students to experience **hope**, clear expectations and fair boundaries while knowing that I will treat them with **dignity**. **Positive relationships** and **belonging** make it easier for students to accept correction, take risks in learning and recover after mistakes. Consistency is what makes that trust credible.
-
-## Transitions & seating | How do routines, transitions and seating help?
-
-I teach transitions as routines rather than assuming students already know them. I give **task clarity**, use a **seating plan** deliberately and adjust it with a **seating change** when there is a clear reason. **Smooth transitions** reduce downtime and opportunities for disruption, while predictable signals and **teacher presence** help students **reset** quickly and **re-engage** with the next task.
+**record → communicate → coordinate → review**
 
 ## Safeguarding | What if behaviour raises a safeguarding concern?
 
-If behaviour suggests that a student may be at risk, I move from classroom-management thinking to **safeguarding**. I do not investigate or promise secrecy. I **listen**, record the relevant facts, and **refer** immediately through the school's safeguarding procedures to the appropriate person. **Safety** takes priority, and I keep the information limited to those who need to know.
+Once behaviour suggests a safeguarding concern, ordinary behaviour management is no longer enough. I ensure immediate safety, record the relevant facts and follow the child-protection procedure by reporting to the DLP or DDLP; I do not investigate independently or promise confidentiality.
 
-## Review practice | How do you improve your classroom-management practice?
+| Recognise | Record | Refer |
+| --- | --- | --- |
+| **Safety concern** | **Relevant facts** | **DLP or DDLP** |
+| **Do not investigate** | **No promise of secrecy** | **Follow procedure** |
 
-I **review** classroom management by looking for patterns: when disruption occurs, which routines are weak, whether tasks are accessible and whether my responses are proportionate and consistent. I use **student voice** and colleague feedback where useful, **monitor** the impact of changes, and review the seating, routines or supports. The aim is better prevention, stronger **re-engagement** and **trust rebuilt** over time.
+**recognise → protect → record → refer**
