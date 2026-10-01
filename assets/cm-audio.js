@@ -273,7 +273,6 @@ if (domain.splitAudio) {
 modes = {
 questions: { label: 'Questions', title: 'Teaching & Learning — questions only', segments: questionSegments },
 answers: { label: 'Answers', title: 'Teaching & Learning — answers only', segments: answerSegments },
-wall: { label: 'Word Wall', title: 'Teaching & Learning — Word Wall', segments: wordWallSegments },
 breadcrumbs: { label: 'Breadcrumbs', title: 'Teaching & Learning — retrieval breadcrumbs', segments: breadcrumbSegments }
 };
 } else if (domain.pageAudio) {
@@ -282,23 +281,20 @@ all: {
 label: 'Play all',
 title: `${domain.name} — whole page`,
 segments: [
-...wordWallSegments,
 ...interviewItems.flatMap(item => interviewSegments(item, true))
 ]
 },
-wall: { label: `${domain.short} Word Wall`, title: `${domain.short} Word Wall`, segments: wordWallSegments },
 concepts: { label: `${domain.short} Retrieval Map`, title: `${domain.short} Retrieval Map`, segments: conceptSegments }
 };
 } else {
 modes = {
-wall: { label: `${domain.short} Word Wall`, title: `${domain.short} Word Wall`, segments: wordWallSegments },
 concepts: { label: `${domain.short} Concepts`, title: `${domain.short} Concepts and Questions`, segments: conceptSegments },
 interview: { label: `${domain.short} Interview Questions`, title: `${domain.short} Interview Questions and Answers`, segments: interviewItems.flatMap(item => interviewSegments(item, true)) }
 };
 }
 const launchers = document.createElement('div');
 launchers.className = 'cm-audio-launchers';
-if (Object.keys(modes).length === 4) launchers.classList.add('is-four-up');
+if (Object.keys(modes).length >= 4) launchers.classList.add('is-four-up');
 launchers.setAttribute('aria-label', `${domain.name} audio`);
 const player = document.createElement('div');
 player.className = 'cm-audio-player';
