@@ -84,7 +84,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 /* Markdown tables / word walls */
 .doc-body table{width:100%;border-collapse:collapse;table-layout:fixed;margin:14px 0 24px;background:#fff}
 .doc-body th,.doc-body td{border:1px solid var(--line);padding:12px 10px;text-align:center;vertical-align:middle;font-weight:400;line-height:1.35}
-.doc-body thead th{background:#fff;font-weight:400}
+.doc-body thead th{background:#e9edf2;font-weight:700;color:#2f353b}
 .doc-body tbody tr:nth-child(odd) td{background:var(--soft)}
 .doc-body tbody tr:nth-child(even) td{background:#fff}
 
