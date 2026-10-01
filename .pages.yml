@@ -33,6 +33,7 @@ components:
 # ==============================================================
 content:
   - { name: home, label: "Home", type: file, path: index.md, format: yaml-frontmatter, fields: *homefields }
+  - { name: stmarysnewport, label: "St Mary's Newport — Interview", type: file, path: content/schools/st-marys-newport.md, format: yaml-frontmatter, fields: *docfields }
   - { name: planning, label: "Planning & Curriculum", type: file, path: content/practice/planning-curriculum.md, format: yaml-frontmatter, fields: *docfields }
   - { name: teaching, label: "Teaching & Learning", type: file, path: content/practice/teaching-learning.md, format: yaml-frontmatter, fields: *docfields }
   - { name: classroom, label: "Classroom Management", type: file, path: content/practice/classroom-management.md, format: yaml-frontmatter, fields: *docfields }
