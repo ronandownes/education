@@ -15,23 +15,23 @@ eyebrow: UNDERSTAND • SUPPORT • REVIEW
 
 I approach this through **Understand, Support and Review**. I start with the **learner, not the label**, and identify the barrier and the intended learning. I then match the intervention to the barrier — for example, **visual supports, tactile or concrete materials, clearer chunking, additional processing time, or a calm and predictable classroom environment**. I keep the intended learning and level of challenge in view, and review whether the support is improving access, participation and ultimately independence.
 
-## STAR — Adult prompting | How did you reduce dependence on adult support?
+## scaffold to independence
 
 | STAR | Recall |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | **Situation** | A student could begin Maths only with frequent adult prompting. |
 | **Task** | Improve access while reducing dependence. |
-| **Action** | I made the first step explicit, chunked the task, used a visual prompt and gradually reduced adult prompting as the student became more secure. |
+| **Action** | I made the first step explicit, chunked the task, used a visual prompt and gradually reduced prompts as the student became more secure. |
 | **Result** | The student began more tasks independently and needed less adult support. |
 
-## STAR — Strong oral, weak written | How did you identify the real barrier?
+## barrier versus ability
 
 | STAR | Recall |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | A student appeared weak in written work but showed much stronger understanding orally. |
-| **Task** | Work out whether the difficulty was conceptual or whether written language was masking what the student knew. |
-| **Action** | I reduced unnecessary language, used visual support and allowed oral explanation while keeping the mathematical demand unchanged. |
-| **Result** | The student demonstrated stronger conceptual understanding, which allowed me to target the literacy barrier rather than lower the level of challenge. |
+| **Situation** | A student appeared weak on written tasks but showed stronger understanding orally. |
+| **Task** | Work out whether the main difficulty was conceptual or an access barrier. |
+| **Action** | I simplified unnecessary language, used visual support and allowed an oral explanation while keeping the mathematical demand unchanged. |
+| **Result** | The student demonstrated stronger conceptual understanding and I could target the actual literacy barrier more precisely. |
 
 ## Identifying need | How do you identify a student's educational needs?
 
