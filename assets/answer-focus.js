@@ -54,6 +54,12 @@
     .answer-focus-copy table{width:100%;border-collapse:collapse;table-layout:fixed;margin:14px 0 20px;background:#fff}
     .answer-focus-copy th,.answer-focus-copy td{border:1px solid #d7dce2;padding:9px 10px;text-align:left;vertical-align:top}
     .answer-focus-copy th{background:#f6f8fa;font-weight:750;color:#30343b}
+    .answer-focus-table-menu[hidden]{display:none!important}
+    .answer-focus-table-menu{position:fixed;z-index:6200;min-width:190px;padding:6px;background:#fff;border:1px solid #d7dce2;border-radius:10px;box-shadow:0 12px 34px rgba(0,0,0,.18)}
+    .answer-focus-table-menu button{display:block;width:100%;padding:8px 10px;border:0;border-radius:7px;background:#fff;color:#30343b;text-align:left;font:inherit;font-size:.82rem;cursor:pointer}
+    .answer-focus-table-menu button:hover,.answer-focus-table-menu button:focus-visible{background:#f3f6fb;outline:none}
+    .answer-focus-table-menu button:disabled{color:#a0a5ad;cursor:default;background:#fff}
+    .answer-focus-table-menu hr{border:0;border-top:1px solid #e5e7eb;margin:5px 0}
     .answer-focus-hint{margin:-7px 0 14px;color:#6b7280;font-size:.78em;line-height:1.4}
     .answer-focus-chain{margin:18px 0 0;padding:12px 14px;border-left:4px solid #d93025;background:#f8f9fa;border-radius:0 9px 9px 0;color:#3c4043;font-size:.84em;line-height:1.5}
     .answer-focus-chain strong{color:#d93025}
@@ -464,6 +470,178 @@
     controls.append(edit, saveWriting);
 
 
+    const tableMenu = document.createElement('div');
+    tableMenu.className = 'answer-focus-table-menu';
+    tableMenu.hidden = true;
+    tableMenu.setAttribute('role', 'menu');
+    let activeCell = null;
+
+    const menuButton = (label, action) => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.textContent = label;
+      button.addEventListener('click', event => {
+        event.stopPropagation();
+        if (!activeCell) return;
+        action(activeCell);
+        tableMenu.hidden = true;
+      });
+      tableMenu.appendChild(button);
+      return button;
+    };
+
+    const addDivider = () => {
+      tableMenu.appendChild(document.createElement('hr'));
+    };
+
+    const rowAbove = menuButton('Insert row above', cell => {
+      const row = cell.parentElement;
+      const newRow = row.cloneNode(false);
+      Array.from(row.cells).forEach(source => {
+        const next = document.createElement(source.tagName.toLowerCase());
+        next.innerHTML = '&nbsp;';
+        newRow.appendChild(next);
+      });
+      row.parentElement.insertBefore(newRow, row);
+    });
+
+    const rowBelow = menuButton('Insert row below', cell => {
+      const row = cell.parentElement;
+      const newRow = row.cloneNode(false);
+      Array.from(row.cells).forEach(source => {
+        const next = document.createElement(source.tagName.toLowerCase());
+        next.innerHTML = '&nbsp;';
+        newRow.appendChild(next);
+      });
+      row.parentElement.insertBefore(newRow, row.nextSibling);
+    });
+
+    const columnLeft = menuButton('Insert column left', cell => {
+      const table = cell.closest('table');
+      const index = cell.cellIndex;
+      Array.from(table.rows).forEach(row => {
+        const tag = row.parentElement?.tagName === 'THEAD' ? 'th' : 'td';
+        const next = document.createElement(tag);
+        next.innerHTML = '&nbsp;';
+        row.insertBefore(next, row.cells[index] || null);
+      });
+    });
+
+    const columnRight = menuButton('Insert column right', cell => {
+      const table = cell.closest('table');
+      const index = cell.cellIndex + 1;
+      Array.from(table.rows).forEach(row => {
+        const tag = row.parentElement?.tagName === 'THEAD' ? 'th' : 'td';
+        const next = document.createElement(tag);
+        next.innerHTML = '&nbsp;';
+        row.insertBefore(next, row.cells[index] || null);
+      });
+    });
+
+    addDivider();
+
+    const mergeRight = menuButton('Merge with cell right', cell => {
+      const other = cell.nextElementSibling;
+      if (!other || !/^(TD|TH)$/.test(other.tagName)) return;
+      const a = cleanText(cell.innerText);
+      const b = cleanText(other.innerText);
+      if (a && b) cell.appendChild(document.createElement('br'));
+      while (other.firstChild) cell.appendChild(other.firstChild);
+      cell.colSpan = (cell.colSpan || 1) + (other.colSpan || 1);
+      other.remove();
+    });
+
+    const mergeDown = menuButton('Merge with cell below', cell => {
+      const table = cell.closest('table');
+      const rowIndex = cell.parentElement.rowIndex;
+      const nextRow = table.rows[rowIndex + 1];
+      if (!nextRow) return;
+      const other = nextRow.cells[cell.cellIndex];
+      if (!other) return;
+      const a = cleanText(cell.innerText);
+      const b = cleanText(other.innerText);
+      if (a && b) cell.appendChild(document.createElement('br'));
+      while (other.firstChild) cell.appendChild(other.firstChild);
+      cell.rowSpan = (cell.rowSpan || 1) + (other.rowSpan || 1);
+      other.remove();
+    });
+
+    const splitCell = menuButton('Split cell', cell => {
+      const row = cell.parentElement;
+      const span = Math.max(cell.colSpan || 1, 1);
+      if (span > 1) {
+        cell.colSpan = 1;
+        let anchor = cell;
+        for (let i = 1; i < span; i += 1) {
+          const next = document.createElement(cell.tagName.toLowerCase());
+          next.innerHTML = '&nbsp;';
+          anchor.insertAdjacentElement('afterend', next);
+          anchor = next;
+        }
+      }
+      if ((cell.rowSpan || 1) > 1) {
+        const table = cell.closest('table');
+        const startRow = row.rowIndex;
+        const spanRows = cell.rowSpan;
+        cell.rowSpan = 1;
+        for (let i = 1; i < spanRows; i += 1) {
+          const targetRow = table.rows[startRow + i];
+          if (!targetRow) continue;
+          const next = document.createElement(cell.tagName.toLowerCase());
+          next.innerHTML = '&nbsp;';
+          targetRow.insertBefore(next, targetRow.cells[cell.cellIndex] || null);
+        }
+      }
+    });
+
+    const wrapText = menuButton('Keep on one line', cell => {
+      const isNoWrap = cell.style.whiteSpace === 'nowrap';
+      cell.style.whiteSpace = isNoWrap ? 'normal' : 'nowrap';
+    });
+
+    addDivider();
+
+    const deleteRow = menuButton('Delete row', cell => {
+      const row = cell.parentElement;
+      const table = cell.closest('table');
+      if (table.rows.length > 1) row.remove();
+    });
+
+    const deleteColumn = menuButton('Delete column', cell => {
+      const table = cell.closest('table');
+      const index = cell.cellIndex;
+      Array.from(table.rows).forEach(row => {
+        if (row.cells[index]) row.cells[index].remove();
+      });
+    });
+
+    content.addEventListener('contextmenu', event => {
+      if (content.getAttribute('contenteditable') !== 'true') return;
+      const cell = event.target.closest('td,th');
+      if (!cell || !content.contains(cell)) return;
+      event.preventDefault();
+      activeCell = cell;
+
+      mergeRight.disabled = !cell.nextElementSibling || !/^(TD|TH)$/.test(cell.nextElementSibling.tagName);
+      const table = cell.closest('table');
+      const nextRow = table?.rows[cell.parentElement.rowIndex + 1];
+      mergeDown.disabled = !nextRow || !nextRow.cells[cell.cellIndex];
+      splitCell.disabled = (cell.colSpan || 1) === 1 && (cell.rowSpan || 1) === 1;
+      wrapText.textContent = cell.style.whiteSpace === 'nowrap' ? 'Wrap text' : 'Keep on one line';
+      deleteRow.disabled = !table || table.rows.length <= 1;
+      deleteColumn.disabled = !table || !table.rows[0] || table.rows[0].cells.length <= 1;
+
+      tableMenu.hidden = false;
+      const width = 210;
+      const height = 360;
+      tableMenu.style.left = Math.max(8, Math.min(event.clientX, window.innerWidth - width - 8)) + 'px';
+      tableMenu.style.top = Math.max(8, Math.min(event.clientY, window.innerHeight - height - 8)) + 'px';
+    });
+
+    content.addEventListener('click', () => {
+      tableMenu.hidden = true;
+    });
+
     if (navigator.mediaDevices?.getUserMedia && window.MediaRecorder) {
       const record = document.createElement('button');
       record.type = 'button';
@@ -521,7 +699,7 @@
       });
     }
 
-    return { controls, recordings };
+    return { controls, recordings, tableMenu };
   };
 
   const closeFocus = () => {
@@ -545,8 +723,8 @@
     title.setAttribute('data-focus-close', '');
     title.title = 'Click the question to close';
 
-    const { controls, recordings } = toolsFor(heading, copy);
-    focusContent.replaceChildren(title, controls, copy, recordings);
+    const { controls, recordings, tableMenu } = toolsFor(heading, copy);
+    focusContent.replaceChildren(title, controls, copy, recordings, tableMenu);
     lastTrigger = heading;
     overlay.hidden = false;
     document.body.classList.add('answer-focus-open');
