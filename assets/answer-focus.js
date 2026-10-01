@@ -418,6 +418,48 @@
 
     controls.appendChild(visibility);
 
+    const edit = document.createElement('button');
+    edit.type = 'button';
+    edit.textContent = 'Edit';
+    edit.title = 'Edit the written answer in this popup';
+
+    const saveWriting = document.createElement('button');
+    saveWriting.type = 'button';
+    saveWriting.textContent = 'Save';
+    saveWriting.title = 'Save the written answer in this browser';
+    saveWriting.disabled = true;
+
+    edit.addEventListener('click', event => {
+      event.stopPropagation();
+      if (content.hidden) {
+        content.hidden = false;
+        visibility.textContent = 'Hide';
+        visibility.setAttribute('aria-pressed', 'false');
+      }
+      content.contentEditable = 'true';
+      content.setAttribute('aria-label', 'Editable interview answer');
+      content.focus({ preventScroll: true });
+      edit.textContent = 'Editing';
+      edit.disabled = true;
+      saveWriting.disabled = false;
+    });
+
+    saveWriting.addEventListener('click', event => {
+      event.stopPropagation();
+      const html = content.innerHTML;
+      localStorage.setItem(editableKeyFor(heading), html);
+      applySavedToSource(heading, html);
+      content.contentEditable = 'false';
+      content.removeAttribute('aria-label');
+      edit.textContent = 'Edit';
+      edit.disabled = false;
+      saveWriting.disabled = true;
+      saveWriting.textContent = 'Saved';
+      window.setTimeout(() => { saveWriting.textContent = 'Save'; }, 900);
+    });
+
+    controls.append(edit, saveWriting);
+
     if (navigator.mediaDevices?.getUserMedia && window.MediaRecorder) {
       const record = document.createElement('button');
       record.type = 'button';
