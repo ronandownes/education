@@ -174,7 +174,7 @@ I ask whether the assessment is producing **valid evidence** and whether student
 
 These are **rehearsal composites**: choose the version that matches a real assessment episode from your teaching.
 
-**STAR 1 — formative assessment changed the lesson**
+## STAR 1 — formative assessment changed the lesson
 
 | STAR | Recall |
 | --- | --- |
@@ -183,7 +183,7 @@ These are **rehearsal composites**: choose the version that matches a real asses
 | **Action** | I used a short hinge question and whole-class response, identified a common misconception and re-taught it using a different representation. |
 | **Result** | The second check showed stronger understanding and prevented the misconception carrying into the next topic. |
 
-**STAR 2 — feedback that produced action**
+## STAR 2 — feedback that produced action
 
 | STAR | Recall |
 | --- | --- |
