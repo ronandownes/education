@@ -217,10 +217,14 @@ chain: breadcrumbForSpeech(row.children[1]?.textContent)
 : [];
 const candidateItems = headings.map(heading => {
 const fullHeading = cleanNumber(heading.textContent);
+let concept = forSpeech(heading.dataset.menuLabel || '');
+let question = forSpeech(heading.dataset.questionText || '');
+if (!concept || !question) {
 if (!fullHeading.includes('—')) return null;
 const parts = fullHeading.split(/\s+—\s+/);
-const question = forSpeech(parts.pop());
-const concept = forSpeech(parts.join(' — '));
+question = forSpeech(parts.pop());
+concept = forSpeech(parts.join(' — '));
+}
 const answerElement = answerElementAfter(heading);
 const answer = answerElement ? forSpeech(answerElement.textContent) : '';
 if (!concept || !question || !answer) return null;
@@ -272,30 +276,26 @@ rate: 0.92,
 delayAfter: 500,
 status: row.concept
 }));
-let modes;
-if (domain.splitAudio) {
-modes = {
-questions: { label: 'Questions', title: 'Teaching & Learning — questions only', segments: questionSegments },
-answers: { label: 'Answers', title: 'Teaching & Learning — answers only', segments: answerSegments },
-breadcrumbs: { label: 'Breadcrumbs', title: 'Teaching & Learning — retrieval breadcrumbs', segments: breadcrumbSegments }
-};
-} else if (domain.pageAudio) {
-modes = {
+const practiceQuestionSegments = interviewItems.map(item => ({
+text: item.question,
+rate: 0.89,
+delayAfter: 900,
+heading: item.heading,
+target: item.heading,
+status: `Question · ${item.concept}`
+}));
+const modes = {
+questions: {
+label: 'Play questions',
+title: `${domain.name} — questions only`,
+segments: practiceQuestionSegments
+},
 all: {
 label: 'Play all',
-title: `${domain.name} — whole page`,
-segments: [
-...interviewItems.flatMap(item => interviewSegments(item, true))
-]
-},
-concepts: { label: `${domain.short} Retrieval Map`, title: `${domain.short} Retrieval Map`, segments: conceptSegments }
-};
-} else {
-modes = {
-concepts: { label: `${domain.short} Concepts`, title: `${domain.short} Concepts and Questions`, segments: conceptSegments },
-interview: { label: `${domain.short} Interview Questions`, title: `${domain.short} Interview Questions and Answers`, segments: interviewItems.flatMap(item => interviewSegments(item, true)) }
-};
+title: `${domain.name} — questions and answers`,
+segments: interviewItems.flatMap(item => interviewSegments(item, true))
 }
+};
 const launchers = document.createElement('div');
 launchers.className = 'cm-audio-launchers';
 if (Object.keys(modes).length >= 4) launchers.classList.add('is-four-up');
@@ -325,7 +325,7 @@ stopButton.title = 'Stop';
 stopButton.hidden = true;
 playerControls.append(pauseButton, stopButton);
 player.append(status, playerControls);
-toolbar.prepend(launchers);
+toolbar.append(launchers);
 toolbar.insertAdjacentElement('afterend', player);
 let preferredVoice = null;
 const selectVoice = () => {
