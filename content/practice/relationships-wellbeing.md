@@ -163,7 +163,7 @@ Once there is a safeguarding concern, I prioritise safety, record the relevant f
 
 These are **rehearsal composites**: keep the structure and anchor it in a real student situation you have experienced.
 
-**STAR 1 — change in engagement**
+## STAR 1 — change in engagement
 
 | STAR | Recall |
 | --- | --- |
@@ -172,7 +172,7 @@ These are **rehearsal composites**: keep the structure and anchor it in a real s
 | **Action** | I checked in privately, listened, made a small classroom adjustment and passed the concern through the appropriate pastoral structure. |
 | **Result** | The student had a clearer route to support and gradually re-engaged with class. |
 
-**STAR 2 — repairing a relationship**
+## STAR 2 — repairing a relationship
 
 | STAR | Recall |
 | --- | --- |
