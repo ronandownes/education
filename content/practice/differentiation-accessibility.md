@@ -5,103 +5,156 @@ title: Differentiation & Accessibility
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
+## General approach | What does differentiation mean in your classroom?
 
-## General approach | What is your general approach to differentiation and accessibility?
+Differentiation means keeping the **important learning common** while adjusting the route into it. I use evidence about prior knowledge, barriers and readiness to vary support, representation, pace or challenge, then I review whether students are becoming more independent.
 
-Core learning common and ambitious, then vary the entry point, scaffolding, representation, pace and challenge according to evidence and student profile. I priortise removing   access barrier before lowering demand and expectation, use formative assessment to decide how to adapt, and fade support as students become more secure. The goal is meaningful participation, productive struggle and learner independence.
+| Know | Adapt | Review |
+| --- | --- | --- |
+| **Starting point** | **Support** | **Participation** |
+| **Barrier** | **Challenge** | **Independence** |
+
+**starting point → barrier → adapt → challenge → review**
 
 ## Mixed ability | How do you differentiate in a mixed-ability class?
 
-I begin with a **common learning goal** and establish the **starting point** through **prior knowledge** and a short **diagnostic task**. I vary the **entry point**, **scaffolding**, **representation** and **complexity** while keeping students in the same learning conversation where possible. **Formative assessment** tells me who needs more support, who is ready for **extension** and when a **responsive adjustment** is needed.
+I begin with a common learning intention and design a task with a clear entry point and room for depth. I use scaffolds for students who need access and extension through reasoning, connection and unfamiliar application for students who are ready to go further.
 
-## Not separate lessons | How do you differentiate without creating several different lessons?
+| Common | Support | Extend |
+| --- | --- | --- |
+| **Learning intention** | **Scaffold** | **Reasoning** |
+| **Core task** | **Representation** | **Unfamiliar application** |
 
-I differentiate the route before differentiating the destination. I keep a **common learning goal** and vary prompts, examples, vocabulary, **representation**, **pacing** and **challenge** around it. A **low-floor task**, **flexible grouping** and targeted **check-in points** let me respond to different needs without planning five unrelated lessons. Separate work is used only when there is a genuine identified need.
+**common goal → access → deepen → extend**
 
 ## Entry point | How do you choose an appropriate entry point?
 
-I identify the prerequisite skill and use prior knowledge, questioning or a diagnostic task to find the real starting point. I then choose an entry point that gives students early success without making the task trivial. That might mean a familiar context, concrete example or reduced first step, followed by increasing complexity as understanding becomes visible.
+I identify the **prerequisite knowledge** and test it quickly rather than assuming it is secure. I then choose the simplest starting representation or example that exposes the new idea without lowering the eventual level of demand.
 
-## Scaffolding | How do you scaffold learning while still building independence?
+| Check | Start | Build |
+| --- | --- | --- |
+| **Prerequisite** | **Accessible example** | **Increase complexity** |
+| **Misconception** | **Useful representation** | **Move to abstraction** |
 
-I **scaffold** enough to give access without removing the thinking. I may use **modelling**, a **worked example**, **guided prompt**, **sentence stem**, checklist or **part-completed example**, then move through **guided practice** towards **independent practice**. I use a **prompt hierarchy** and **gradual release** so support is faded deliberately and **learner independence** increases.
+**check → start → represent → build**
 
-## Modelling | How do you use modelling as a differentiation strategy?
+## Scaffolding | How do you scaffold without creating dependence?
 
-**Modelling** can provide a common access point without reducing the learning goal. I use a **worked example** or think-aloud to make the decisions visible, highlight the **prerequisite skill** and model subject language. Students then move into **guided practice** with fewer prompts. I avoid over-modelling: the **scaffold** should lead towards **independent practice** rather than replace student thinking.
+A scaffold should make the next step possible, not complete the thinking for the student. I use prompts, worked examples, visual cues or partial structures, then reduce them as soon as evidence shows the learner can continue independently.
 
-## Representations | How do you use multiple representations to improve access?
+| Support | Check | Fade |
+| --- | --- | --- |
+| **Prompt** | **Student attempt** | **Remove cue** |
+| **Worked example** | **Evidence of security** | **Transfer responsibility** |
 
-I choose **multiple representations** that make the structure visible and connect them deliberately. In Mathematics that may mean a **concrete model**, **visual model**, numerical form and **symbolic form**; in Science it may mean a diagram, demonstration and technical language. I check that students can move between **representations** rather than merely recognise them, because the connection is where much of the understanding sits.
+**support → attempt → check → fade → independence**
 
-## UDL | What role does universal design play in your teaching?
+## Multiple representations | How do you use representations to improve access?
 
-**Universal design** means removing predictable barriers in the initial lesson design rather than waiting for individual students to fail. I use an **accessible layout**, **explicit language**, **visual cues**, **multiple means** of representation and, where appropriate, **choice of format** for response. Universal access does not mean one method suits everyone; it creates a stronger **starting point** before targeted differentiation is added.
+I choose representations that reveal the structure of the concept: numerical, algebraic, graphical, geometric or visual. I then help students move between them, because the goal is not merely to make something easier but to strengthen conceptual understanding.
+
+| Represent | Connect | Transfer |
+| --- | --- | --- |
+| **Visual** | **Compare forms** | **Use independently** |
+| **Symbolic** | **Explain connection** | **Choose representation** |
+
+**represent → connect → explain → choose**
+
+## UDL | How does Universal Design for Learning fit your teaching?
+
+UDL encourages me to remove predictable barriers before they become individual problems. I make key information clear, offer useful ways to engage and respond, and still keep the learning goal and success criteria explicit.
+
+| Design | Access | Maintain |
+| --- | --- | --- |
+| **Anticipate barrier** | **Multiple route in** | **Common goal** |
+| **Clear information** | **Flexible response** | **Success criteria** |
+
+**anticipate → design → access → maintain standard**
 
 ## Cognitive load | How do you reduce cognitive load without reducing challenge?
 
-I reduce extraneous load rather than the intellectual demand. I use **chunking**, clear sequencing, **worked examples** and an **accessible layout**, integrate words and visuals, and remove redundancy or irrelevant information. I allow **processing time** where needed. Once the student can access the idea, I increase **complexity** and **productive struggle** rather than leaving the work permanently simplified.
+I remove **unnecessary difficulty**, not the thinking itself. I sequence carefully, keep explanations concise, highlight what matters, use worked examples where appropriate and avoid overloading students with competing information.
 
-## Vocabulary | How do you differentiate for language and vocabulary needs?
+| Reduce | Focus | Build |
+| --- | --- | --- |
+| **Unnecessary detail** | **Key information** | **Small steps** |
+| **Competing demands** | **Worked example** | **Independent attempt** |
 
-I use **vocabulary pre-teach** where a small number of terms are essential to access the task, then connect the words to a **visual model**, **concrete example** or **worked example**. **Explicit language**, a **word bank** or **sentence stem** can support participation and reasoning. I then fade those supports as the language becomes more secure so vocabulary support does not become permanent dependence.
+**reduce noise → focus → model → build**
 
-## Response formats | How can students demonstrate learning in different ways?
+## Questioning | How do you differentiate through questioning?
 
-Where the learning outcome allows it, I can vary the response without varying the intellectual demand. A student might use an **oral response**, **written response**, **digital response** or another **choice of format** while working towards the same **success criteria**. An **alternative response** is useful when the usual format creates an **access barrier**, but I still need valid evidence of the intended learning.
+I vary the **support and depth of the question**, not the respect shown to the learner. Some students may need a prompt or representation; others can be asked to justify, generalise or compare methods, while everyone remains part of the same mathematical conversation.
 
-## Assistive technology | How do you use assistive technology for accessibility?
+| Support | Probe | Extend |
+| --- | --- | --- |
+| **Prompt** | **Explain** | **Generalise** |
+| **Representation** | **Justify** | **Compare methods** |
 
-I use **assistive technology** when it removes a genuine barrier and gives the student better access to the same worthwhile learning. It might support reading, writing, organisation, **representation** or a **digital response**. I teach the student how to use it, check that it is not adding unnecessary **complexity**, and evaluate whether it increases participation and **independence** rather than assuming technology is automatically helpful.
+**prompt → explain → justify → extend**
 
-## Pace | How do you differentiate by pace without holding back the class?
+## Pace and grouping | How do pace and grouping support differentiation?
 
-I use **flexible pacing** rather than one fixed speed for every student. **Check-in points** and **formative assessment** show who needs **processing time**, **guided practice** or another example and who can move into greater **complexity**. **Flexible grouping** can let me provide targeted support without slowing everyone. Pace changes should respond to evidence, not become a permanent label about who is fast or slow.
+I use flexible grouping and pacing when they improve learning, not as fixed labels. I may pause a small group for targeted support, pair students for explanation or let secure learners move to deeper work, while checking that everyone remains connected to the same core learning.
 
-## Questioning | How do you use questioning to differentiate?
+| Group | Pace | Reconnect |
+| --- | --- | --- |
+| **Targeted support** | **Pause when needed** | **Common learning** |
+| **Purposeful pairing** | **Extend when secure** | **Review together** |
 
-I use **questioning** to adjust the level of support and **challenge** in real time. **Wait time**, **guided prompts** and **sentence stems** can open access; **rich questioning** can push **reasoning**, comparison and **generalisation**. I listen to the quality of the response and make a **responsive adjustment** rather than deciding in advance which students are capable of which questions.
+**group → support → pace → reconnect**
 
-## Flexible grouping | How do you use flexible grouping effectively?
+## High attainers | How do you challenge high-attaining students?
 
-**Flexible grouping** is temporary and purpose-driven. I might group students for a targeted **prerequisite skill**, **guided practice**, peer explanation or an **open-ended task**, then regroup as the evidence changes. I avoid fixed ability identities. The group should serve the current learning need and return students to the wider learning conversation with greater **independence**.
+I avoid giving simply more of the same. I increase challenge through **depth, proof, generalisation, connection, efficiency and unfamiliar application**, and I ask students to communicate and defend their reasoning.
 
-## High attainers | How do you challenge high-attaining or high-potential students?
+| Deepen | Connect | Apply |
+| --- | --- | --- |
+| **Justify** | **Generalise** | **Unfamiliar problem** |
+| **Compare methods** | **Make connection** | **Create example** |
 
-For a **high-attaining learner** or a student with **high potential**, I increase depth and **complexity** rather than simply adding more questions. I use **rich questioning**, **open-ended tasks**, multiple methods, **reasoning**, justification and **generalisation**. **Extension** should create **productive struggle** and connections between ideas while preserving the core learning, not become unrelated busywork.
+**deepen → connect → generalise → apply**
 
-## Support and challenge | How do you provide support and challenge in the same lesson?
+## Productive struggle | How do you know when to help and when to let a student struggle?
 
-I keep common **success criteria** where appropriate and vary the route and depth. One student may need a **concrete example**, **worked example** or **guided prompt**; another may move into greater **complexity**, **reasoning** or **extension**. **Check-in points** help me adjust both directions. Support is not low expectation, and **challenge** is not simply more volume.
+I distinguish productive struggle from unproductive confusion. If the student has a plausible route and is still thinking, I give time; if the barrier prevents engagement, I use the smallest prompt that restarts the thinking and then step back again.
 
-## Productive struggle | How do you know when to support and when to allow productive struggle?
+| Observe | Prompt | Release |
+| --- | --- | --- |
+| **Is thinking continuing?** | **Smallest useful cue** | **Step back** |
+| **Is barrier blocking access?** | **Restore entry point** | **Check independence** |
 
-I distinguish **productive struggle** from an **access barrier**. If a student has the **prerequisite skill** and understands the task, I may allow time, **questioning** and persistence rather than intervene immediately. If language, **representation** or missing **prior knowledge** is blocking access, I **scaffold**. I use checking for understanding to decide when struggle is mathematically useful and when support is needed.
+**observe → judge → prompt → release**
 
-## Fade support | How do you know when to fade a scaffold?
+## Accessibility and standards | How do you make learning accessible without lowering standards?
 
-I **fade support** when evidence shows the student can carry more of the thinking independently. I move from **modelling** to **guided practice**, reduce prompts through a **prompt hierarchy**, and then check **independent practice** and **transfer**. If performance collapses, I restore only the support that is needed. Faded support is planned **gradual release**, not simply removing help abruptly.
+I keep the **intended learning and success criteria** intact and remove barriers that are irrelevant to them. That may mean clearer language, more time, a different representation or response format, but not doing the intellectual work for the student.
 
-## Accessibility vs standards | How do you make learning accessible without lowering standards?
+| Preserve | Remove | Check |
+| --- | --- | --- |
+| **Learning goal** | **Irrelevant barrier** | **Same standard** |
+| **Success criteria** | **Access obstacle** | **Independent evidence** |
 
-**Accessibility** means removing barriers to the intended learning, not removing the intended learning itself. I may use an **accessible layout**, **assistive technology**, **processing time**, **multiple representations** or an **alternative response** while retaining the same worthwhile **success criteria**. I judge the student on evidence of the learning outcome rather than on a barrier that is incidental to it.
+**preserve goal → remove barrier → check learning**
 
-## Maths example — Give an example of differentiation in a Maths lesson.
+## Assessment access | How do you differentiate assessment while preserving validity?
 
-In a Maths lesson on equations I might begin with a **concrete model** or **visual model** for the balance idea, then connect it to **symbolic form**. Some students use a **worked example**, **sentence stem** or **part-completed example** during **guided practice**, while others compare methods or generalise. **Flexible grouping** and **check-in points** let me respond without separating the class into different topics.
+I ask what the assessment is meant to measure. If reading speed, layout or response mode is not the target, I can adjust those features while keeping the knowledge, reasoning or skill being assessed unchanged.
 
-## Science example — Give an example of differentiation in a Science lesson.
+| Target | Adjust | Protect |
+| --- | --- | --- |
+| **What is being measured?** | **Access feature** | **Validity** |
+| **Success criteria** | **Response mode** | **Standard** |
 
-In Science I might pre-teach essential vocabulary, use a **concrete example** or demonstration and an accessible **visual model** before students interpret the technical explanation. During practical work I can use a **checklist**, **guided prompt** or **choice of response format**. Students ready for **extension** can explain variables, justify a method or evaluate evidence rather than simply complete extra questions.
+**identify target → adjust access → preserve validity**
 
-## Assessment access | How do you make assessment accessible while preserving validity?
+## Review differentiation | How do you know whether differentiation is working?
 
-I start with what the assessment is supposed to measure. If reading, handwriting or response format is not the target, an **alternative response**, **assistive technology**, **accessible layout** or extra **processing time** may remove an irrelevant barrier. I keep the **success criteria** and cognitive demand intact and make sure the accommodation does not give away the learning being assessed.
+I look for changes in **access, participation, understanding and independence**. If a scaffold is permanent, a high attainer is only doing more work or a group remains passive, I adapt the approach rather than assuming differentiation has happened.
 
-## Independence | How does differentiation build learner independence?
+| Evidence | Judge | Adapt |
+| --- | --- | --- |
+| **Participation** | **Access improved?** | **Change support** |
+| **Independence** | **Challenge sufficient?** | **Change challenge** |
 
-Good differentiation should make itself less necessary over time. I use **modelling**, **guided practice**, prompts and **visual cues** to create access, then **faded support** and **gradual release** move responsibility to the learner. I look for **independent practice**, **transfer** and self-correction. **Learner independence** is therefore one of the outcomes of differentiation, not an optional extra.
-
-## Review differentiation | How do you evaluate whether differentiation is working?
-
-I look for evidence that more students can access the learning, meet the **success criteria** and work with increasing **independence**. I compare student work, participation, **questioning** and assessment evidence, and use **check-in points** to identify where a support helped or created dependence. I then make **responsive adjustments** to **entry point**, **scaffolding**, **representation**, pace or **challenge** rather than repeating the same approach automatically.
+**evidence → judge → adapt**
