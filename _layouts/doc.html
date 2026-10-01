@@ -253,28 +253,12 @@
   <div id="floating-page-tools" aria-label="Page tools">
     <a id="floating-page-github" href="https://github.com/ronandownes/education/edit/main/{{ page.path }}" target="_blank" rel="noopener">GitHub</a>
     <a id="floating-page-cms" href="{{ cms_url }}" target="_blank" rel="noopener">CMS</a>
-    <button id="floating-page-print-all" type="button" data-print-mode="all">Print All</button>
-    <button id="floating-page-print-tables" type="button" data-print-mode="tables">Print Tables</button>
-    <button id="floating-page-print-paragraphs" type="button" data-print-mode="paragraphs">Print Paragraphs</button>
-    <button id="floating-page-print-questions" type="button" data-print-mode="questions">Print Questions</button>
+    <button id="floating-page-print" type="button" onclick="window.print()">Print</button>
   </div>
   <script src="{{ '/assets/navigation.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
   <script src="{{ '/assets/cm-audio.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
   <script>
     document.querySelector('[data-action="print"]')?.addEventListener('click', () => window.print());
-
-    (() => {
-      const clearPrintMode = () => document.body.removeAttribute('data-print-mode');
-      document.querySelectorAll('#floating-page-tools [data-print-mode]').forEach(button => {
-        button.addEventListener('click', () => {
-          const mode = button.dataset.printMode || 'all';
-          if (mode === 'all') clearPrintMode();
-          else document.body.dataset.printMode = mode;
-          window.addEventListener('afterprint', clearPrintMode, { once: true });
-          window.print();
-        });
-      });
-    })();
 
     (() => {
       const body = document.getElementById('docBody');

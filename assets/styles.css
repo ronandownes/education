@@ -200,14 +200,6 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   .answer-section{break-inside:avoid}
   .answer-section.star-filter-hidden{display:none}
   .pdf-source{display:none}
-
-  /* Print subsets keep the existing interview question heading above each item.
-     Nothing extra is added to the visible webpage. */
-  body[data-print-mode="tables"] .answer-section:not(:has(.section-content table)),
-  body[data-print-mode="paragraphs"] .answer-section:not(:has(.section-content p, .section-content blockquote)){display:none!important}
-  body[data-print-mode="tables"] .section-content>:not(table),
-  body[data-print-mode="paragraphs"] .section-content>:not(p):not(blockquote){display:none!important}
-  body[data-print-mode="questions"] .section-content{display:none!important}
 }
 
 /* Keep top-level titles as real links; dropdowns use their own visible control. */

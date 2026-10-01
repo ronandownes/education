@@ -122,7 +122,7 @@
       if (shouldHide && !button.hidden) button.hidden = true;
     });
 
-    let primary = document.getElementById('floating-page-listen');
+    let primary = document.getElementById('floating-page-listen-all');
     if (!primary || primary.parentElement !== rail) {
       const candidates = groupButtons.filter(button => !button.hidden && !button.disabled && !isWordWallAudio(button) && !isSecondaryAudio(button));
       primary = candidates.find(button => /\blisten\b/i.test(buttonLabel(button)))
@@ -130,7 +130,7 @@
         || (candidates.length === 1 ? candidates[0] : null);
     }
 
-    let questions = document.getElementById('floating-page-questions');
+    let questions = document.getElementById('floating-page-listen-questions');
     if (!questions || questions.parentElement !== rail) {
       questions = groupButtons.find(button => {
         if (button === primary || button.hidden || button.disabled || isWordWallAudio(button) || isSecondaryAudio(button)) return false;
@@ -139,36 +139,32 @@
     }
 
     if (rail && primary) {
-      const originalLabel = buttonLabel(primary);
-      const playQAndA = primary.dataset.pageAudioMode === 'qa'
-        || /play\s+all|whole\s+page|play\s+q\s*&\s*a|play\s+q\s+and\s+a/i.test(originalLabel);
-      primary.dataset.pageAudioMode = playQAndA ? 'qa' : 'listen';
-      const wantedText = playQAndA ? 'Play QA' : 'Listen';
-      if (primary.textContent.trim() !== wantedText) primary.textContent = wantedText;
-      primary.id = 'floating-page-listen';
+      primary.dataset.pageAudioMode = 'all';
+      primary.textContent = 'Listen All';
+      primary.id = 'floating-page-listen-all';
       primary.hidden = false;
       primary.removeAttribute('aria-hidden');
-      primary.setAttribute('aria-label', playQAndA ? 'Play questions and answers' : 'Listen to this page');
-      primary.title = playQAndA ? 'Play questions and answers' : 'Listen to this page';
+      primary.setAttribute('aria-label', 'Listen to all interview questions and answers');
+      primary.title = 'Listen to all interview questions and answers';
 
-      const printQuestions = rail.querySelector('#floating-page-print-questions');
-      const wantedBefore = printQuestions?.nextSibling || null;
+      const print = rail.querySelector('#floating-page-print');
+      const afterPrint = print?.nextSibling || null;
 
       if (questions) {
-        questions.id = 'floating-page-questions';
-        questions.textContent = 'Play Questions';
+        questions.id = 'floating-page-listen-questions';
+        questions.textContent = 'Listen Questions';
         questions.hidden = false;
         questions.removeAttribute('aria-hidden');
-        questions.setAttribute('aria-label', 'Play interview questions only');
-        questions.title = 'Play interview questions only';
-        if (questions.parentElement !== rail || questions.previousElementSibling !== printQuestions) {
-          rail.insertBefore(questions, wantedBefore);
+        questions.setAttribute('aria-label', 'Listen to interview questions only');
+        questions.title = 'Listen to interview questions only';
+        if (questions.parentElement !== rail || questions.previousElementSibling !== print) {
+          rail.insertBefore(questions, afterPrint);
         }
       }
 
-      const qaBefore = questions?.nextSibling || wantedBefore;
+      const afterQuestions = questions?.nextSibling || afterPrint;
       if (primary.parentElement !== rail || primary.previousElementSibling !== questions) {
-        rail.insertBefore(primary, qaBefore);
+        rail.insertBefore(primary, afterQuestions);
       }
     }
 
