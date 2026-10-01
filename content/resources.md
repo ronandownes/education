@@ -7,6 +7,17 @@ eyebrow: PROFESSIONAL DOCUMENT LIBRARY
 intro: 64 high-value Irish post-primary documents and guidance sets, arranged for rapid interview recall and deeper reference.
 ---
 
+## Use resources | How should I use the Resources page for interview preparation?
+
+I do not need to memorise documents. I need to know the **few frameworks that shape professional language**, recognise the policy or guidance relevant to a question and translate it into classroom practice and student impact.
+
+| Know | Apply | Evidence |
+| --- | --- | --- |
+| **Core framework** | **Classroom action** | **Student impact** |
+| **Relevant policy** | **Professional judgement** | **Review** |
+
+**framework → practice → impact**
+
 <div class="resource-library" data-resource-library>
 <style>
 .resource-library{--ink:#202124;--muted:#5f6368;--line:#e0e3e7;--soft:#f7f8fa;color:var(--ink)}
