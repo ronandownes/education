@@ -5,9 +5,9 @@ title: Differentiation & Accessibility
 eyebrow: PROFESSIONAL PRACTICE
 ---
 
-## General approach | What does differentiation mean in your classroom?
+## General approach | How do you differentiate in a mixed-ability class?
 
-Differentiation means keeping the **important learning common** while adjusting the route into it. I use evidence about prior knowledge, barriers and readiness to vary support, representation, pace or challenge, then I review whether students are becoming more independent.
+I keep the **important learning common** while varying the route into it. I use evidence about prior knowledge, barriers and readiness to adjust support, representation, pace or challenge, with the aim of giving every student access to worthwhile learning and moving them towards independence.
 
 | Keep common | Vary the route | Aim |
 | --- | --- | --- |
@@ -16,17 +16,6 @@ Differentiation means keeping the **important learning common** while adjusting 
 |  | **Challenge** |  |
 
 **common learning → vary the route → access → independence**
-
-## Mixed ability | How do you differentiate in a mixed-ability class?
-
-I begin with a common learning intention and design a task with a clear entry point and room for depth. I use scaffolds for students who need access and extension through reasoning, connection and unfamiliar application for students who are ready to go further.
-
-| Common | Support | Extend |
-| --- | --- | --- |
-| **Learning intention** | **Scaffold** | **Reasoning** |
-| **Core task** | **Representation** | **Unfamiliar application** |
-
-**common goal → access → deepen → extend**
 
 ## Entry point | How do you choose an appropriate entry point?
 
