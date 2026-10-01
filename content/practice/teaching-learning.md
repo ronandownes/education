@@ -6,26 +6,21 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## General | What is your general approach to effective teaching and learning?
 
-**Students → learning intention → plan → explain → model → scaffold → think → check and adapt → consolidate → independence**
-
 For me, I start with the **students in front of me** and a clear **learning intention**. Then it’s **plan carefully, explain clearly, model explicitly, scaffold where needed, keep them thinking, check what they’re learning and adapt**. Then **consolidate** and, bit by bit, move them towards **independence**.
+
+**Students → learning intention → plan → explain → model → scaffold → think → check and adapt → consolidate → independence**
 
 ## Planning | How do you plan effectively for the students in front of you?
 
-**Students → learning intention → understand → design → adapt**
+I start with the **students in front of me** and a clear **learning intention**. Then: **what do they already know, what do they need first, where are the likely misconceptions or barriers, and what will success look like?** From there I **sequence the learning**. The plan’s a **route, not a script** — I adapt it to what the students show me.
 
-I start with the **students in front of me** and a clear **learning intention**.
+**Students → learning intention → prior knowledge → prerequisites → misconceptions → barriers → success → sequence → adapt**
 
 | Understand the learner | Design the route |
 | --- | --- |
 | **Consider prior knowledge** | **Anticipate barriers** |
 | **Identify prerequisites** | **Define success criteria** |
 | **Anticipate misconceptions** | **Sequence learning coherently** |
-
-So, first: **prior knowledge, prerequisites, misconceptions**.  
-Then: **barriers, success criteria, sequence**.
-
-The plan’s a **route, not a script** — I adapt it to what the students show me.
 
 ## Explain, model, scaffold | How do you explain, model and scaffold new learning?
 
