@@ -9,7 +9,7 @@ eyebrow: PROFESSIONAL PRACTICE
 I conside rfirst the **students in front of me and our clear learning intention**. 
 
 1. I **plan** carefully,
-2. **teach** clearly,
+2. **teach** and explain clearly,
 3. **model** explicitly,
 4. **scaffold** where needed,
 5. keep students **thinking**,
@@ -17,21 +17,11 @@ I conside rfirst the **students in front of me and our clear learning intention*
 
 I then **consolidate** the important learning and progressively move students towards **independence**.
 
-**Core sequence:** **students → learning intention → model → scaffold → think → check → adapt → consolidate → independence**
+## students in front of me | Effective teaching starts with understanding the students in front of you. How do you gain this understanding.
 
-**Interview pattern:** Start with this general answer, then add only the relevant **tag-on** below.
 
-#### Recall prompts
 
-**explain clearly** → clarity of explanation  
-**model explicitly** → make the process and reasoning visible  
-**scaffold where needed** → temporary support  
-**keep students thinking** → active intellectual engagement  
-**use evidence of learning** → assessment, questioning, feedback and retrieval evidence  
-**adapt** → responsive teaching  
-**independence** → ultimate goal
 
-#### Students
 
 Effective teaching starts with understanding the students in front of me:
 
