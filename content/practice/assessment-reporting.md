@@ -15,6 +15,26 @@ eyebrow: CHECK • INTERPRET • RESPOND
 
 I approach this through **Check, Interpret and Respond**. I use assessment to **make learning visible and decide what happens next**. I check learning through questioning, observation, student work and short assessments; interpret the evidence for understanding, misconceptions and progress; then respond by moving on, re-teaching, adapting support or increasing challenge.
 
+## STAR 1 — formative assessment changed the lesson
+
+
+| STAR | Recall |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Situation** | A class appeared ready to move on, but I was not confident everyone had understood. |
+| **Task** | Get evidence from the whole class before deciding the next step. |
+| **Action** | I used a short hinge question and whole-class response, identified a common misconception and re-taught it using a different representation. |
+| **Result** | The second check showed stronger understanding and prevented the misconception carrying into the next topic. |
+
+## STAR 2 — feedback that produced action
+
+
+| STAR | Recall |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Situation** | Students were receiving marks but repeating the same errors. |
+| **Task** | Make feedback lead to improvement rather than simply comment on performance. |
+| **Action** | I reduced the feedback to one clear strength and one actionable next step, then built time for correction and a second attempt. |
+| **Result** | Students acted on the feedback and the quality of the subsequent work improved. |
+
 ## Starting point | How do you establish a reliable starting point?
 
 
@@ -168,30 +188,4 @@ I approach this through **Record, Use and Limit**. I keep records that are **pro
 
 
 I approach this through **Evidence, Impact and Improve**. I ask whether the assessment is producing **valid evidence** and whether students are acting on feedback. I review the quality of questions, tasks, feedback and follow-up, then change the approach if it is generating marks without improving learning.
-
-## STAR examples | What examples could you use to show effective assessment and feedback?
-
-These are **rehearsal composites**: choose the version that matches a real assessment episode from your teaching.
-
-## STAR 1 — formative assessment changed the lesson
-
-
-| STAR | Recall |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | A class appeared ready to move on, but I was not confident everyone had understood. |
-| **Task** | Get evidence from the whole class before deciding the next step. |
-| **Action** | I used a short hinge question and whole-class response, identified a common misconception and re-taught it using a different representation. |
-| **Result** | The second check showed stronger understanding and prevented the misconception carrying into the next topic. |
-
-
-## STAR 2 — feedback that produced action
-
-
-| STAR | Recall |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | Students were receiving marks but repeating the same errors. |
-| **Task** | Make feedback lead to improvement rather than simply comment on performance. |
-| **Action** | I reduced the feedback to one clear strength and one actionable next step, then built time for correction and a second attempt. |
-| **Result** | Students acted on the feedback and the quality of the subsequent work improved. |
-
 
