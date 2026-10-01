@@ -4,7 +4,7 @@ permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: PROFESSIONAL PRACTICE
 ---
-## General | What is your general approach to teaching and learning for Effective teaching ?
+## General | What is your general approach to effective teaching and learning?
 
 I conside rfirst the **students in front of me and our clear learning intention**. 
 
@@ -17,7 +17,7 @@ I conside rfirst the **students in front of me and our clear learning intention*
 
 I then **consolidate** the important learning and progressively move students towards **independence**.
 
-## In front of me | Effective teaching starts with understanding the students in front of you. How do you gain this understanding.
+## In front of me | Effective teaching starts with understanding the students in front of you. How do you gain this understanding?
 
 
 
@@ -31,7 +31,7 @@ Effective teaching starts with understanding the students in front of me:
 4. needs
 5. confidence
 
-#### Planning
+## Planning | How do you plan effectively for the students in front of you?
 
 Effective teaching begins with 
 
@@ -52,7 +52,7 @@ I use **success criteria** where they help students understand what quality look
 
 The plan matters, but it is not fixed. A lesson plan is a route towards learning, not something that must be followed regardless of what the students are showing me.
 
-#### Explanation, Modelling and Scaffolding
+## Explain, model, scaffold | How do you explain, model and scaffold new learning?
 
 When introducing something difficult, I first identify the **prerequisites** and break the new learning into manageable steps.
 
@@ -70,7 +70,7 @@ The important point is that I do not want students permanently dependent on scaf
 
 The aim is always **independence**.
 
-#### Thinking, Questioning and Active Learning
+## Keep them thinking | How do you keep students thinking and actively involved in learning?
 
 Students have to do the intellectual work.
 
@@ -86,7 +86,7 @@ Active learning, however, has to serve the learning intention. I would not use a
 
 I also resist giving answers too quickly. If a student is thinking productively, a carefully chosen prompt or question is often more valuable than immediately explaining the solution.
 
-#### Checking Understanding and Adapting Teaching
+## Check and adapt | How do you check understanding and adapt your teaching?
 
 One of the most important aspects of teaching is knowing whether students have actually understood.
 
@@ -106,7 +106,7 @@ Misconceptions are particularly important in Mathematics. I try to expose them r
 
 I do not assume that correcting something once means it has disappeared. I revisit important ideas later through retrieval and cumulative review.
 
-#### Practice, Challenge and Consolidation
+## Practice and challenge | How do you use practice, challenge and consolidation to secure learning?
 
 Students need practice, but the quality and sequencing of that practice matter.
 
@@ -126,7 +126,7 @@ That closure also gives me evidence about what the next lesson should contain.
 
 Ultimately I am looking for **transfer**. I want students to be able to use their learning in a situation that is not identical to the one in which it was taught.
 
-#### Inclusion, Technology and Reflective Practice
+## Inclusion and reflection | How do inclusion, technology and reflective practice shape your teaching?
 
 Inclusive teaching begins with knowing the learner and anticipating barriers.
 
