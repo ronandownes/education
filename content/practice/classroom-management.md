@@ -6,9 +6,6 @@ eyebrow: Prevention Responce Restore
 ---
 ## General approach | What does good classroom management look like?
 
-Good classroom management creates a **calm, predictable and purposeful learning environment**. I establish clear expectations, **explicitly teach and model routines**, keep students engaged, and intervene early, calmly and proportionately so that attention returns to learning.
-
-
 | Prevention | Respond | Restore |
 | ---------------------- | -------------------------------------- | ------------------------- |
 | **Clear expectations** | **Early intervention** | **Return to learning** |
@@ -16,13 +13,9 @@ Good classroom management creates a **calm, predictable and purposeful learning 
 | **Student engagement** | **Consistent response** | **Re-establish learning** |
 |  |  |  |
 
-
-**expectations → routines → engagement → intervene → follow through → restore**
+I approach this through **Prevention, Respond and Restore**. Good classroom management creates a **calm, predictable and purposeful learning environment**. I establish clear expectations, **explicitly teach and model routines**, keep students engaged, and intervene early, calmly and proportionately so that attention returns to learning.
 
 ## New or cover class | How do you establish expectations with a new or temporary class?
-
-I make the first few minutes very clear: **greet the students, settle the room, establish the task and communicate the few expectations that matter most**. I explicitly model routines where needed, but I also use **student voice and student modelling**, noticing and positively reinforcing students who are already demonstrating the expected routine. In a cover class, I keep the work achievable and aligned with the regular teacher’s plan so that learning continues.
-
 
 | Start | Structure | Reinforce |
 | ---------------------- | -------------------------- | ----------------------------------- |
@@ -32,158 +25,112 @@ I make the first few minutes very clear: **greet the students, settle the room, 
 | **Register** | **Student voice** | **Keep learning moving** |
 |  | **Student modelling** | **Follow regular teacher’s plan** |
 
-
-**greet → settle → task → expectations → model → student voice → notice → reinforce → learn**
+I approach this through **Start, Structure and Reinforce**. I make the first few minutes very clear: **greet the students, settle the room, establish the task and communicate the few expectations that matter most**. I explicitly model routines where needed, but I also use **student voice and student modelling**, noticing and positively reinforcing students who are already demonstrating the expected routine. In a cover class, I keep the work achievable and aligned with the regular teacher’s plan so that learning continues.
 
 ## Prevention | How do you prevent low-level disruption before it starts?
-
-Prevention begins with **good teaching and teacher presence**. I use an immediate start, appropriate challenge, smooth transitions, active supervision and a seating plan where useful, because students are easier to manage when they know what to do and can succeed at it.
-
 
 | Task | Presence | Flow |
 | ------------------------- | ------------- | ---------------------- |
 | **Immediate start** | **Scan** | **Smooth transitions** |
 | **Appropriate challenge** | **Circulate** | **Thoughtful seating** |
 
-
-**task → challenge → presence → transitions → prevent**
+I approach this through **Task, Presence and Flow**. Prevention begins with **good teaching and teacher presence**. I use an immediate start, appropriate challenge, smooth transitions, active supervision and a seating plan where useful, because students are easier to manage when they know what to do and can succeed at it.
 
 ## Low-level disruption | How do you respond to low-level disruption?
-
-I use the **least intrusive response likely to work**: proximity, a non-verbal cue, the student's name, a brief reminder and then a clear redirection. I allow take-up time and avoid turning a small issue into a public confrontation.
-
 
 | Notice | Redirect | Follow through |
 | ------------------ | ------------------- | -------------------- |
 | **Proximity** | **Brief reminder** | **Take-up time** |
 | **Non-verbal cue** | **Clear direction** | **Check compliance** |
 
-
-**notice → cue → remind → redirect → wait → follow through**
+I approach this through **Notice, Redirect and Follow through**. I use the **least intrusive response likely to work**: proximity, a non-verbal cue, the student's name, a brief reminder and then a clear redirection. I allow take-up time and avoid turning a small issue into a public confrontation.
 
 ## Persistent behaviour | What do you do when behaviour persists?
-
-If behaviour continues, I stop repeating the same reminder and move to the school's agreed **graduated response**. I restate the boundary, use a proportionate consequence, record the pattern and involve the appropriate colleague when classroom-level responses are no longer enough.
-
 
 | Boundary | Consequence | Escalation |
 | ----------------------- | -------------------------- | ----------------------- |
 | **Restate expectation** | **Proportionate response** | **Record pattern** |
 | **Clear choice** | **Follow through** | **Refer appropriately** |
 
-
-**boundary → choice → consequence → record → refer → review**
+I approach this through **Boundary, Consequence and Escalation**. If behaviour continues, I stop repeating the same reminder and move to the school's agreed **graduated response**. I restate the boundary, use a proportionate consequence, record the pattern and involve the appropriate colleague when classroom-level responses are no longer enough.
 
 ## Refusal | How do you respond when a student refuses an instruction?
-
-I keep the boundary but remove the audience and emotion. I give a brief instruction, offer a limited choice where appropriate, allow take-up time and then follow the school's procedure rather than entering a power struggle.
-
 
 | Calm | Choice | Follow-through |
 | ---------------------- | ------------------- | -------------------- |
 | **Brief instruction** | **Limited options** | **Take-up time** |
 | **Private correction** | **Clear boundary** | **School procedure** |
 
-
-**calm → private → choice → wait → follow through**
+I approach this through **Calm, Choice and Follow-through**. I keep the boundary but remove the audience and emotion. I give a brief instruction, offer a limited choice where appropriate, allow take-up time and then follow the school's procedure rather than entering a power struggle.
 
 ## De-escalation | How do you respond to an escalating or dysregulated student?
-
-My first aim is to **reduce the emotional temperature and keep everyone safe**. I lower my voice, reduce language and audience, give space or processing time, and return to learning or a restorative conversation only when the student is ready.
-
 
 | Reduce | Regulate | Reconnect |
 | -------------------- | ------------------- | ---------------------- |
 | **Calm tone** | **Space** | **Return to learning** |
 | **Reduced language** | **Processing time** | **Repair later** |
 
-
-**calm → reduce → space → regulate → reconnect → restore**
+I approach this through **Reduce, Regulate and Reconnect**. My first aim is to **reduce the emotional temperature and keep everyone safe**. I lower my voice, reduce language and audience, give space or processing time, and return to learning or a restorative conversation only when the student is ready.
 
 ## Serious or unsafe behaviour | What do you do if behaviour becomes serious or unsafe?
-
-Safety overrides normal classroom routines. I follow the school's **Code of Behaviour and safety procedures**, seek assistance where needed, protect the rest of the class, record facts rather than interpretations and escalate any safeguarding concern through the correct route.
-
 
 | Protect | Procedure | Record |
 | ------------------------- | --------------------- | ------------------ |
 | **Keep students safe** | **Seek support** | **Facts only** |
 | **Remove immediate risk** | **Use school system** | **Report concern** |
 
-
-**safety → support → procedure → record → report**
+I approach this through **Protect, Procedure and Record**. Safety overrides normal classroom routines. I follow the school's **Code of Behaviour and safety procedures**, seek assistance where needed, protect the rest of the class, record facts rather than interpretations and escalate any safeguarding concern through the correct route.
 
 ## Relationships and repair | How do relationships and restorative practice support behaviour?
-
-Positive relationships make correction easier because students know that the boundary is about learning, not rejection. After an incident I separate the behaviour from the person, clarify impact, agree what needs to change and help the student re-enter successfully.
-
 
 | Relationship | Restore | Re-enter |
 | ---------------------- | ------------------ | ------------------ |
 | **Respect** | **Clarify impact** | **Fresh start** |
 | **Private correction** | **Agree repair** | **Notice success** |
 
-
-**respect → correct → repair → re-enter → rebuild**
+I approach this through **Relationship, Restore and Re-enter**. Positive relationships make correction easier because students know that the boundary is about learning, not rejection. After an incident I separate the behaviour from the person, clarify impact, agree what needs to change and help the student re-enter successfully.
 
 ## AEN and behaviour | How does additional educational need affect your behaviour approach?
-
-I keep expectations high but ask whether a barrier, communication need, sensory issue or regulation difficulty is contributing to the behaviour. I adapt the route, not the standard, and coordinate with the AEN team while still maintaining clear boundaries and safety.
-
 
 | Understand | Adapt | Maintain |
 | -------------------- | ------------------------ | --------------------- |
 | **Identify barrier** | **Adjust communication** | **Clear boundary** |
 | **Check regulation** | **Use agreed support** | **High expectations** |
 
-
-**barrier → regulation → adapt → support → boundary → independence**
+I approach this through **Understand, Adapt and Maintain**. I keep expectations high but ask whether a barrier, communication need, sensory issue or regulation difficulty is contributing to the behaviour. I adapt the route, not the standard, and coordinate with the AEN team while still maintaining clear boundaries and safety.
 
 ## Practical safety | How do you manage behaviour in a practical Science or Physics lesson?
-
-In a practical room I make safety routines explicit before activity begins. I check equipment, movement, roles and stop signals, supervise actively and intervene immediately when unsafe behaviour occurs because practical learning depends on disciplined routines.
-
 
 | Before | During | If unsafe |
 | ------------------- | ---------------------- | ---------------------- |
 | **Safety briefing** | **Active supervision** | **Stop activity** |
 | **Clear roles** | **Safe movement** | **Reset expectations** |
 
-
-**brief → organise → supervise → stop → reset**
+I approach this through **Before, During and If unsafe**. In a practical room I make safety routines explicit before activity begins. I check equipment, movement, roles and stop signals, supervise actively and intervene immediately when unsafe behaviour occurs because practical learning depends on disciplined routines.
 
 ## Parents and colleagues | When do you involve parents, year heads or other colleagues?
-
-I involve others when a pattern persists, support needs to be coordinated or school procedure requires it. I communicate facts, what has already been tried and the impact on learning, then agree the next step so the response is consistent rather than fragmented.
-
 
 | Evidence | Communicate | Coordinate |
 | ---------------------- | ---------------------- | ------------------- |
 | **Record pattern** | **Facts** | **Agree next step** |
 | **Note interventions** | **Impact on learning** | **Review outcome** |
 
-
-**record → communicate → coordinate → review**
+I approach this through **Evidence, Communicate and Coordinate**. I involve others when a pattern persists, support needs to be coordinated or school procedure requires it. I communicate facts, what has already been tried and the impact on learning, then agree the next step so the response is consistent rather than fragmented.
 
 ## Safeguarding | What if behaviour raises a safeguarding concern?
-
-Once behaviour suggests a safeguarding concern, ordinary behaviour management is no longer enough. I ensure immediate safety, record the relevant facts and follow the child-protection procedure by reporting to the DLP or DDLP; I do not investigate independently or promise confidentiality.
-
 
 | Recognise | Record | Refer |
 | ---------------------- | ------------------------- | -------------------- |
 | **Safety concern** | **Relevant facts** | **DLP or DDLP** |
 | **Do not investigate** | **No promise of secrecy** | **Follow procedure** |
 
-
-**recognise → protect → record → refer**
+I approach this through **Recognise, Record and Refer**. Once behaviour suggests a safeguarding concern, ordinary behaviour management is no longer enough. I ensure immediate safety, record the relevant facts and follow the child-protection procedure by reporting to the DLP or DDLP; I do not investigate independently or promise confidentiality.
 
 ## STAR examples | What examples could you use to show effective classroom management?
 
 These are **rehearsal composites**: keep the competency structure and use the closest real incident from your own teaching. The three examples deliberately show different thresholds: **ordinary disorder → challenging behaviour → safety**.
 
 ## STAR 1 — Ordinary Disorder / Low-Level Disruption
-
 
 | STAR | Recall |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -192,9 +139,7 @@ These are **rehearsal composites**: keep the competency structure and use the cl
 | **Action** | I first used proximity and a non-verbal cue, then a brief private reminder. When the pattern continued, I adjusted the seating, made the next task very clear and achievable, and followed through consistently while continuing to notice the student's successful engagement. |
 | **Result** | The disruption reduced, the student completed the work and the class returned to a settled routine without the issue becoming personal or public. |
 
-
 ## STAR 2 — Challenging / Escalating Behaviour
-
 
 | STAR | Recall |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -203,9 +148,7 @@ These are **rehearsal composites**: keep the competency structure and use the cl
 | **Action** | I reduced my language and volume, moved the conversation away from the audience where possible, gave a clear limited choice and allowed processing time. I kept the remainder of the class working, followed the school's agreed procedure and returned to the student later when they were regulated enough for a brief restorative conversation. |
 | **Result** | The situation de-escalated without a public confrontation. The student was able to re-enter learning, and the follow-up clarified both the expectation and any support needed to prevent a repeat. |
 
-
 ## STAR 3 — Serious / Unsafe Behaviour
-
 
 | STAR | Recall |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -213,5 +156,3 @@ These are **rehearsal composites**: keep the competency structure and use the cl
 | **Task** | Make the situation safe, protect the other students and follow school procedure rather than trying to manage a serious incident alone. |
 | **Action** | I stopped the activity, created distance between the students without placing myself or others at unnecessary risk, directed the rest of the class to a safe and supervised position, and sought the appropriate assistance immediately. Afterwards I recorded the facts objectively and reported through the school's agreed behaviour and safeguarding structures as required. |
 | **Result** | The immediate risk was contained, the other students were protected and the incident was handed over through the correct school process. The key distinction for me is that once safety is involved, safety and procedure take priority over completing the lesson or resolving the behaviour there and then. |
-
-
