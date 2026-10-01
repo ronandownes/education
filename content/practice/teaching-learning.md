@@ -10,12 +10,14 @@ For me, I start with the **students in front of me** and a clear **learning inte
 
 **Students → learning intention → plan → explain → model → scaffold → think → check and adapt → consolidate → independence**
 
+
 | Start — 3 | Teach — 4 | Respond & release — 3 |
-| --- | --- | --- |
+| ---------------------- | ------------ | --------------------- |
 | **Students** | **Explain** | **Check and adapt** |
 | **Learning intention** | **Model** | **Consolidate** |
 | **Plan** | **Scaffold** | **Independence** |
 |  | **Think** |  |
+
 
 ## Planning | How do you plan effectively for the students in front of you?
 
@@ -256,4 +258,5 @@ That now becomes the **master document**. “What does a good lesson look like?�
 **Prereqs** = Prerequisites  
 **Cum. review** = Cumulative review  
 **High exp.** = High expectations  
-**PL** = Professional learning
+**PL** = Professional learning  
+  
