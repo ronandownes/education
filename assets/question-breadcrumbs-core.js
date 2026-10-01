@@ -175,74 +175,19 @@
   };
 
   const setupFloatingPageTools = () => {
+    const rail = document.getElementById('floating-page-tools');
+    if (!rail) return;
+
+    // The rail now exists in the page layout itself. Do not move or re-append
+    // its children here: this function is called by a MutationObserver and must
+    // remain idempotent.
     const topGithub = document.querySelector('.doc-toolbar .github-edit-link[href]');
     const topCms = document.querySelector('.doc-toolbar .cms-edit-link[href]');
-    if (!topGithub && !topCms) return;
-
-    if (!document.getElementById('floating-page-tools-style')) {
-      const style = document.createElement('style');
-      style.id = 'floating-page-tools-style';
-      style.textContent = `
-#floating-page-tools{position:fixed;right:18px;top:50%;transform:translateY(-50%);z-index:1200;display:grid;gap:8px}
-#floating-page-tools a,#floating-page-tools button{display:inline-flex;align-items:center;justify-content:center;min-height:42px;padding:9px 13px;border:1px solid #b9c9dc;border-radius:9px;background:rgba(255,255,255,.96);box-shadow:0 5px 18px rgba(23,43,77,.16);color:#204f83;font:600 15px/1.1 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;text-decoration:none;backdrop-filter:blur(6px);cursor:pointer}
-#floating-page-tools a:hover,#floating-page-tools a:focus-visible,#floating-page-tools button:hover,#floating-page-tools button:focus-visible{background:#f4f8fc;border-color:#8eabc9;outline:none}
-@media(max-width:760px){#floating-page-tools{top:auto;right:12px;bottom:12px;transform:none;display:flex}#floating-page-tools a,#floating-page-tools button{min-height:40px;padding:8px 11px;font-size:14px}}
-@media print{#floating-page-tools{display:none!important}}
-`;
-      document.head.appendChild(style);
-    }
-
-    let rail = document.getElementById('floating-page-tools');
-    if (!rail) {
-      rail = document.createElement('div');
-      rail.id = 'floating-page-tools';
-      rail.setAttribute('aria-label', 'Page tools');
-      document.body.appendChild(rail);
-    }
-
-    const ensurePageLink = (id, label, source, title) => {
-      if (!source?.href) return null;
-      let link = document.getElementById(id);
-      if (!link) {
-        link = document.createElement('a');
-        link.id = id;
-        link.target = '_blank';
-        link.rel = 'noopener';
-      }
-      link.textContent = label;
-      link.href = source.href;
-      link.title = title;
-      link.setAttribute('aria-label', title);
-      rail.appendChild(link);
-      source.hidden = true;
-      source.dataset.floatingSource = 'true';
-      return link;
-    };
-
-    document.getElementById('floating-section-edit')?.remove();
-    const github = ensurePageLink('floating-page-github', 'GitHub', topGithub, 'Edit this page in GitHub');
-    const cms = ensurePageLink('floating-page-cms', 'CMS', topCms, 'Edit this page in CMS');
-
-    let print = document.getElementById('floating-page-print');
-    if (!print) {
-      print = document.createElement('button');
-      print.id = 'floating-page-print';
-      print.type = 'button';
-      print.textContent = 'Print';
-      print.setAttribute('aria-label', 'Print this page');
-      print.addEventListener('click', () => window.print());
-    }
-    rail.appendChild(print);
-
     const topPrint = document.querySelector('.doc-toolbar [data-action="print"]');
-    if (topPrint) {
-      topPrint.hidden = true;
-      topPrint.dataset.floatingSource = 'true';
-    }
 
-    // Keep the source choices together at the top of the page-level rail.
-    if (github) rail.prepend(github);
-    if (cms) github ? github.insertAdjacentElement('afterend', cms) : rail.prepend(cms);
+    if (topGithub) topGithub.hidden = true;
+    if (topCms) topCms.hidden = true;
+    if (topPrint) topPrint.hidden = true;
   };
 
   const removeLegacySectionEditLinks = () => {
@@ -513,8 +458,6 @@
     setupFloatingPageTools();
     ensureInlinePlayButtons();
     renderPersonalWordWall();
-    addWordWallButtonToFocusPopup();
-    setupDynamicWordWallLauncher();
   };
 
   clean();
