@@ -143,7 +143,7 @@
       const playQAndA = primary.dataset.pageAudioMode === 'qa'
         || /play\s+all|whole\s+page|play\s+q\s*&\s*a|play\s+q\s+and\s+a/i.test(originalLabel);
       primary.dataset.pageAudioMode = playQAndA ? 'qa' : 'listen';
-      const wantedText = playQAndA ? 'Play Q&A' : 'Listen';
+      const wantedText = playQAndA ? 'Play QA' : 'Listen';
       if (primary.textContent.trim() !== wantedText) primary.textContent = wantedText;
       primary.id = 'floating-page-listen';
       primary.hidden = false;
@@ -151,11 +151,8 @@
       primary.setAttribute('aria-label', playQAndA ? 'Play questions and answers' : 'Listen to this page');
       primary.title = playQAndA ? 'Play questions and answers' : 'Listen to this page';
 
-      const print = rail.querySelector('#floating-page-print');
-      const wantedBefore = print?.nextSibling || null;
-      if (primary.parentElement !== rail || primary.previousElementSibling !== print) {
-        rail.insertBefore(primary, wantedBefore);
-      }
+      const printQuestions = rail.querySelector('#floating-page-print-questions');
+      const wantedBefore = printQuestions?.nextSibling || null;
 
       if (questions) {
         questions.id = 'floating-page-questions';
@@ -164,10 +161,14 @@
         questions.removeAttribute('aria-hidden');
         questions.setAttribute('aria-label', 'Play interview questions only');
         questions.title = 'Play interview questions only';
-        const wantedQuestionsBefore = primary.nextSibling;
-        if (questions.parentElement !== rail || questions.previousElementSibling !== primary) {
-          rail.insertBefore(questions, wantedQuestionsBefore);
+        if (questions.parentElement !== rail || questions.previousElementSibling !== printQuestions) {
+          rail.insertBefore(questions, wantedBefore);
         }
+      }
+
+      const qaBefore = questions?.nextSibling || wantedBefore;
+      if (primary.parentElement !== rail || primary.previousElementSibling !== questions) {
+        rail.insertBefore(primary, qaBefore);
       }
     }
 
