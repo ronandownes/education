@@ -7,15 +7,15 @@ eyebrow: PROFESSIONAL PRACTICE
 
 ## General approach | How do you differentiate in a mixed-ability class?
 
-I keep the **important learning common** while varying the route into it. I use evidence about prior knowledge, barriers and readiness to adjust support, representation, pace or challenge, with the aim of giving every student access to worthwhile learning and moving them towards independence.
+I keep the **important learning common** while varying the route into it. I start from evidence about prior knowledge and barriers, then use a **clear entry point, scaffolding and representation** for access, while increasing challenge through **reasoning, connections and unfamiliar application**. The aim is high expectations, participation and growing independence.
 
-| Keep common | Vary the route | Aim |
-| --- | --- | --- |
-| **Learning intention** | **Support** | **Access** |
-| **High expectations** | **Representation** | **Independence** |
-|  | **Challenge** |  |
+| Keep common | Access | Extend | Aim |
+| --- | --- | --- | --- |
+| **Learning intention** | **Clear entry point** | **Reasoning** | **Participation** |
+| **Core task** | **Scaffold** | **Connections** | **Independence** |
+| **High expectations** | **Representation** | **Unfamiliar application** |  |
 
-**common learning → vary the route → access → independence**
+**common learning → entry point → scaffold → deepen → independence**
 
 ## Entry point | How do you choose an appropriate entry point?
 
