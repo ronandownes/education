@@ -14,6 +14,24 @@ eyebrow: PROFESSIONAL PRACTICE
 
 I approach this through **Trust, Expect and Notice**. Positive relationships create **trust, belonging and readiness to learn**. I try to know students well enough to notice change, communicate high expectations and correct behaviour without damaging dignity; the relationship supports learning rather than replacing standards.
 
+## STAR 1 — change in engagement
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | A normally engaged student became withdrawn and stopped completing work. |
+| **Task** | Support the student without diagnosing or overstepping my role. |
+| **Action** | I checked in privately, listened, made a small classroom adjustment and passed the concern through the appropriate pastoral structure. |
+| **Result** | The student had a clearer route to support and gradually re-engaged with class. |
+
+## STAR 2 — repairing a relationship
+
+| STAR | Recall |
+| --- | --- |
+| **Situation** | A difficult classroom incident had damaged the working relationship with a student. |
+| **Task** | Re-establish boundaries and make successful re-entry possible. |
+| **Action** | I spoke privately when things were calm, separated the behaviour from the person, clarified impact and agreed a practical fresh start. |
+| **Result** | The relationship improved and later correction could happen with less confrontation. |
+
 ## New class | How do you establish positive relationships with a new class?
 
 | Know | Be consistent | Build trust |
@@ -131,24 +149,3 @@ I approach this through **Share, Listen and Coordinate**. I communicate observat
 
 I approach this through **Protect, Record and Refer**. Once there is a safeguarding concern, I prioritise safety, record the relevant facts and report through the child-protection procedure to the DLP or DDLP. I do not investigate independently and I do not promise confidentiality.
 
-## STAR examples | What examples could you use to show pastoral judgement and relationship-building?
-
-These are **rehearsal composites**: keep the structure and anchor it in a real student situation you have experienced.
-
-## STAR 1 — change in engagement
-
-| STAR | Recall |
-| --- | --- |
-| **Situation** | A normally engaged student became withdrawn and stopped completing work. |
-| **Task** | Support the student without diagnosing or overstepping my role. |
-| **Action** | I checked in privately, listened, made a small classroom adjustment and passed the concern through the appropriate pastoral structure. |
-| **Result** | The student had a clearer route to support and gradually re-engaged with class. |
-
-## STAR 2 — repairing a relationship
-
-| STAR | Recall |
-| --- | --- |
-| **Situation** | A difficult classroom incident had damaged the working relationship with a student. |
-| **Task** | Re-establish boundaries and make successful re-entry possible. |
-| **Action** | I spoke privately when things were calm, separated the behaviour from the person, clarified impact and agreed a practical fresh start. |
-| **Result** | The relationship improved and later correction could happen with less confrontation. |
