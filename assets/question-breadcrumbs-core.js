@@ -175,10 +175,9 @@
   };
 
   const setupFloatingPageTools = () => {
-    const topEdit = document.querySelector('.doc-toolbar .edit-link[href]');
-    const oldFloating = document.getElementById('floating-section-edit');
-    const cmsBase = topEdit?.href?.split('#')[0] || oldFloating?.dataset.cmsBase || document.getElementById('floating-section-edit')?.dataset.cmsBase;
-    if (!cmsBase) return;
+    const topGithub = document.querySelector('.doc-toolbar .github-edit-link[href]');
+    const topCms = document.querySelector('.doc-toolbar .cms-edit-link[href]');
+    if (!topGithub && !topCms) return;
 
     if (!document.getElementById('floating-page-tools-style')) {
       const style = document.createElement('style');
@@ -201,17 +200,28 @@
       document.body.appendChild(rail);
     }
 
-    let floating = document.getElementById('floating-section-edit');
-    if (!floating) {
-      floating = document.createElement('a');
-      floating.id = 'floating-section-edit';
-      floating.textContent = 'Edit here';
-      floating.target = '_blank';
-      floating.rel = 'noopener';
-      floating.setAttribute('aria-label', 'Edit the section currently in view');
-    }
-    if (floating.parentElement !== rail) rail.prepend(floating);
-    floating.dataset.cmsBase = cmsBase;
+    const ensurePageLink = (id, label, source, title) => {
+      if (!source?.href) return null;
+      let link = document.getElementById(id);
+      if (!link) {
+        link = document.createElement('a');
+        link.id = id;
+        link.target = '_blank';
+        link.rel = 'noopener';
+      }
+      link.textContent = label;
+      link.href = source.href;
+      link.title = title;
+      link.setAttribute('aria-label', title);
+      rail.appendChild(link);
+      source.hidden = true;
+      source.dataset.floatingSource = 'true';
+      return link;
+    };
+
+    document.getElementById('floating-section-edit')?.remove();
+    const github = ensurePageLink('floating-page-github', 'GitHub', topGithub, 'Edit this page in GitHub');
+    const cms = ensurePageLink('floating-page-cms', 'CMS', topCms, 'Edit this page in CMS');
 
     let print = document.getElementById('floating-page-print');
     if (!print) {
@@ -221,48 +231,18 @@
       print.textContent = 'Print';
       print.setAttribute('aria-label', 'Print this page');
       print.addEventListener('click', () => window.print());
-      rail.appendChild(print);
     }
+    rail.appendChild(print);
 
-    if (topEdit) {
-      topEdit.hidden = true;
-      topEdit.dataset.floatingSource = 'true';
-    }
     const topPrint = document.querySelector('.doc-toolbar [data-action="print"]');
     if (topPrint) {
       topPrint.hidden = true;
       topPrint.dataset.floatingSource = 'true';
     }
 
-    if (floating.dataset.scrollTracking === 'true') return;
-    floating.dataset.scrollTracking = 'true';
-
-    let ticking = false;
-    const updateTarget = () => {
-      ticking = false;
-      const headings = Array.from(body.querySelectorAll(':scope > h2'))
-        .filter(heading => !removableHeading(heading.textContent));
-      const marker = Math.min(window.innerHeight * 0.38, 300);
-      let active = headings[0] || null;
-      headings.forEach(heading => {
-        if (heading.getBoundingClientRect().top <= marker) active = heading;
-      });
-
-      const label = normaliseHeading(active?.textContent);
-      const base = floating.dataset.cmsBase;
-      floating.href = label ? `${base}#:~:text=${encodeURIComponent(label)}` : base;
-      floating.title = label ? `Edit near “${label}”` : 'Edit this page';
-    };
-
-    const queueUpdate = () => {
-      if (ticking) return;
-      ticking = true;
-      window.requestAnimationFrame(updateTarget);
-    };
-
-    window.addEventListener('scroll', queueUpdate, { passive: true });
-    window.addEventListener('resize', queueUpdate);
-    updateTarget();
+    // Keep the source choices together at the top of the page-level rail.
+    if (github) rail.prepend(github);
+    if (cms) github ? github.insertAdjacentElement('afterend', cms) : rail.prepend(cms);
   };
 
   const removeLegacySectionEditLinks = () => {
