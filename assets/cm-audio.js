@@ -96,6 +96,9 @@ audioHighlightStyle.textContent = `
 .cm-audio-speaking{background:#fff3bf!important;box-shadow:0 0 0 4px #fff3bf!important;border-radius:4px;transition:background .12s ease,box-shadow .12s ease}
 .doc-body h2.cm-audio-speaking{color:inherit!important}
 .cm-question-play.is-active:not(.is-paused)::before{content:"❚❚";width:auto;height:auto;border:0;left:50%;font-size:12px;font-weight:700;line-height:1;transform:translate(-50%,-52%)}
+.cm-question-stop{display:none;margin-left:5px;border:1px solid #cfd5dc;border-radius:999px;background:#fff;color:#4b5563;padding:3px 7px;font:700 11px/1.15 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;cursor:pointer;vertical-align:middle}
+.cm-question-stop.is-visible{display:inline-flex}
+.cm-question-stop:hover,.cm-question-stop:focus-visible{background:#f3f6fb;border-color:#aecbfa;outline:none}
 @media print{.cm-audio-speaking{background:transparent!important;box-shadow:none!important}}
 `;
 document.head.appendChild(audioHighlightStyle);
@@ -385,6 +388,7 @@ const resetSources = () => {
 Object.values(launcherButtons).forEach(button => button.classList.remove('is-active'));
 body.querySelectorAll('.cm-question-play').forEach(button => {
 button.classList.remove('is-active', 'is-paused');
+if (button._stopButton) button._stopButton.classList.remove('is-visible');
 if (button.dataset.playLabel) button.setAttribute('aria-label', button.dataset.playLabel);
 if (button.dataset.playTitle) button.title = button.dataset.playTitle;
 });
@@ -453,6 +457,7 @@ queueIndex = 0;
 paused = false;
 resetSources();
 activeSource?.classList.add('is-active');
+if (activeSource?._stopButton) activeSource._stopButton.classList.add('is-visible');
 status.textContent = title;
 updatePauseButton();
 const isQuestionButton = source?.classList.contains('cm-question-play');
@@ -515,6 +520,21 @@ event.preventDefault();
 event.stopPropagation();
 start(key, item.concept, interviewSegments(item, false), button);
 });
+
+const stopHere = document.createElement('button');
+stopHere.type = 'button';
+stopHere.className = 'cm-question-stop';
+stopHere.textContent = '■';
+stopHere.setAttribute('aria-label', 'Stop and reset question audio');
+stopHere.title = 'Stop and reset to the start';
+stopHere.addEventListener('click', event => {
+event.preventDefault();
+event.stopPropagation();
+stop();
+});
+button._stopButton = stopHere;
+
+item.heading.prepend(stopHere);
 item.heading.prepend(button);
 });
 pauseButton.addEventListener('click', () => paused ? resume() : pause());
