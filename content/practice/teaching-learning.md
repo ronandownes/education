@@ -17,7 +17,7 @@ I conside rfirst the **students in front of me and our clear learning intention*
 
 I then **consolidate** the important learning and progressively move students towards **independence**.
 
-## students in front of me | Effective teaching starts with understanding the students in front of you. How do you gain this understanding.
+## In front of me | Effective teaching starts with understanding the students in front of you. How do you gain this understanding.
 
 
 
