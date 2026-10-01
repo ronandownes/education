@@ -19,6 +19,18 @@
     </button>
     <nav class="topnav" id="mainNav" aria-label="Main navigation">
 
+      <div class="navitem nav-stmarys">
+        <a class="navlabel" href="{{ '/st-marys-newport.html' | relative_url }}"><span>St Mary's<br>Newport</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open St Mary's Newport menu">▾</button>
+        <div class="dropmenu">
+          <a href="{{ '/st-marys-newport.html#what-do-i-know-about-st-marys-newport' | relative_url }}">School identity</a>
+          <a href="{{ '/st-marys-newport.html#what-does-being-a-ceist-school-mean' | relative_url }}">CEIST</a>
+          <a href="{{ '/st-marys-newport.html#is-the-student-body-growing-or-falling' | relative_url }}">Growth</a>
+          <a href="{{ '/st-marys-newport.html#what-did-the-2024-whole-school-evaluation-say' | relative_url }}">Inspection</a>
+          <a href="{{ '/st-marys-newport.html#why-would-this-school-suit-me' | relative_url }}">Why St Mary's</a>
+        </div>
+      </div>
+
       <div class="navitem nav-teaching">
         <a class="navlabel" href="{{ '/teaching-learning.html' | relative_url }}"><span>Teaching &amp;<br>Learning</span></a>
         <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Teaching and Learning menu">▾</button>
@@ -188,6 +200,7 @@
     {% when 'content/practice/relationships-wellbeing.md' %}{% assign cms_url = cms_base | append: '/file/relationships' %}
     {% when 'content/practice/professional-practice.md' %}{% assign cms_url = cms_base | append: '/file/professional_main' %}
     {% when 'content/schools/st-patricks.md' %}{% assign cms_url = cms_base | append: '/file/stpatricks' %}
+    {% when 'content/schools/st-marys-newport.md' %}{% assign cms_url = cms_base | append: '/file/stmarysnewport' %}
     {% when 'content/interview/st-patricks.md' %}{% assign cms_url = cms_base | append: '/file/stpatricksnote' %}
     {% when 'content/policies/policies.md' %}{% assign cms_url = cms_base | append: '/file/policies' %}
     {% when 'content/specification/jc-mathematics.md' %}{% assign cms_url = cms_base | append: '/file/specification' %}
