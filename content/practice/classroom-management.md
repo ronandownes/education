@@ -2,18 +2,19 @@
 layout: doc
 permalink: /classroom-management.html
 title: Classroom Management
-eyebrow: PROFESSIONAL PRACTICE
+eyebrow: Prevention Responce Restore
 ---
 ## General approach | What does good classroom management look like?
 
 Good classroom management creates a **calm, predictable and purposeful learning environment**. I establish clear expectations, **explicitly teach and model routines**, keep students engaged, and intervene early, calmly and proportionately so that attention returns to learning.
 
 
-| Prevent | Respond | Restore |
+| Prevention | Respond | Restore |
 | ---------------------- | -------------------------------------- | ------------------------- |
 | **Clear expectations** | **Early intervention** | **Return to learning** |
 | **Taught routines** | **Calm, proportionate follow-through** | **Repair relationships** |
 | **Student engagement** | **Consistent response** | **Re-establish learning** |
+|  |  |  |
 
 
 **expectations → routines → engagement → intervene → follow through → restore**
