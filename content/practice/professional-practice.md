@@ -230,7 +230,7 @@ I would like the panel to remember that I bring **strong Mathematics knowledge, 
 
 These are **rehearsal composites**: use them as structures and attach them to the closest genuine example from your own experience.
 
-**STAR 1 — adapting quickly in a new school**
+## STAR 1 — adapting quickly in a new school
 
 
 | STAR | Recall |
@@ -241,7 +241,7 @@ These are **rehearsal composites**: use them as structures and attach them to th
 | **Result** | I settled into the role quickly and maintained continuity for students. |
 
 
-**STAR 2 — collaborative improvement**
+## STAR 2 — collaborative improvement
 
 
 | STAR | Recall |
