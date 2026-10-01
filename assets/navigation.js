@@ -79,6 +79,7 @@
         menu.insertBefore(link, menu.firstChild);
       };
 
+      addProfileLink(siteHref('content/schools/st-marys-newport.html'), "School Profiles — St Mary's Secondary School, Newport");
       addProfileLink(siteHref('content/schools/st-patricks.html'), "School Profiles — St Patrick's Comprehensive");
       addProfileLink(siteHref('teaching/class-profiles.html'), 'Class Profiles — overview');
     }
