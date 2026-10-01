@@ -6,7 +6,20 @@ eyebrow: PROFESSIONAL PRACTICE
 ---
 ## General | What is your general approach to teaching and learning for Effective teaching ?
 
-My first two elements are the **students in front of me and a clear learning intention**. I **plan carefully, teach clearly, model explicitly, scaffold where needed, keep students thinking, and use evidence of learning to adapt support or challenge**. I then **consolidate** the important learning and progressively move students towards **independence**.
+I conside rfirst the **students in front of me and our clear learning intention**. 
+
+1. I **plan carefully,** 
+2. **teach clearly,** 
+3. **model explicitly,** 
+4. **scaffold where needed,** 
+5. **keep students thinking,** 
+6. **and use evidence of learning to adapt support or challenge**. 
+
+
+
+&nbsp;
+
+I then **consolidate** the important learning and progressively move students towards **independence**.
 
 **Core sequence:** **students → learning intention → model → scaffold → think → check → adapt → consolidate → independence**
 
