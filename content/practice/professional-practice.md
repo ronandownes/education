@@ -13,6 +13,24 @@ eyebrow: PROFESSIONAL PRACTICE
 
 I am an experienced **Mathematics and learning-support teacher** with a strong interest in making difficult ideas accessible without lowering expectations. I plan carefully, explain clearly, use evidence to adapt and try to move students from supported success towards independence.
 
+## STAR 1 — adapting quickly in a new school
+
+| STAR | Recall |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Situation** | I joined a school and needed to take responsibility for unfamiliar classes and systems quickly. |
+| **Task** | Establish continuity while learning the school's routines and expectations. |
+| **Action** | I sought clear handover, reviewed plans and policies, spoke with relevant colleagues and used early classroom evidence to adapt my teaching. |
+| **Result** | I settled into the role quickly and maintained continuity for students. |
+
+## STAR 2 — collaborative improvement
+
+| STAR | Recall |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Situation** | A shared teaching or support issue needed a more consistent approach across colleagues. |
+| **Task** | Help move the discussion from individual preference to an agreed professional response. |
+| **Action** | I brought relevant evidence, listened to colleagues, helped agree a practical action and reviewed its effect on students. |
+| **Result** | The response became more consistent and the team had clearer evidence for the next decision. |
+
 ## ## What experience Bring | What experience would you bring to this school?
 
 | Breadth | Adaptability | Contribution |
@@ -158,24 +176,3 @@ I approach this through **Listen, Match and Sustain**. I would first listen to w
 
 I approach this through **Knowledge, Experience and Approach**. I would like the panel to remember that I bring **strong Mathematics knowledge, substantial AEN experience, high expectations, careful preparation and adaptability**. I want students to experience challenge with support and to become increasingly independent.
 
-## STAR examples | What competency examples could you use in a professional-practice question?
-
-These are **rehearsal composites**: use them as structures and attach them to the closest genuine example from your own experience.
-
-## STAR 1 — adapting quickly in a new school
-
-| STAR | Recall |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | I joined a school and needed to take responsibility for unfamiliar classes and systems quickly. |
-| **Task** | Establish continuity while learning the school's routines and expectations. |
-| **Action** | I sought clear handover, reviewed plans and policies, spoke with relevant colleagues and used early classroom evidence to adapt my teaching. |
-| **Result** | I settled into the role quickly and maintained continuity for students. |
-
-## STAR 2 — collaborative improvement
-
-| STAR | Recall |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | A shared teaching or support issue needed a more consistent approach across colleagues. |
-| **Task** | Help move the discussion from individual preference to an agreed professional response. |
-| **Action** | I brought relevant evidence, listened to colleagues, helped agree a practical action and reviewed its effect on students. |
-| **Result** | The response became more consistent and the team had clearer evidence for the next decision. |
