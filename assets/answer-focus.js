@@ -372,16 +372,43 @@
       });
     }
 
-    const recording = document.createElement('div');
-    recording.className = 'answer-focus-recording';
-    recording.hidden = true;
+    const recordings = document.createElement('div');
+    recordings.className = 'answer-focus-recordings';
+    recordings.hidden = true;
+
+    const renderTakes = () => {
+      recordings.replaceChildren();
+      recordedTakes.forEach((take, index) => {
+        const row = document.createElement('div');
+        row.className = 'answer-focus-take';
+
+        const label = document.createElement('span');
+        label.className = 'answer-focus-take-label';
+        label.textContent = `Take ${index + 1}`;
+
+        const player = document.createElement('audio');
+        player.controls = true;
+        player.src = take.url;
+
+        const save = document.createElement('a');
+        save.className = 'answer-focus-take-save';
+        save.href = take.url;
+        save.target = '_blank';
+        save.rel = 'noopener';
+        save.textContent = 'Save';
+
+        row.append(label, player, save);
+        recordings.appendChild(row);
+      });
+      recordings.hidden = recordedTakes.length === 0;
+    };
 
     if (navigator.mediaDevices?.getUserMedia && window.MediaRecorder) {
       const record = document.createElement('button');
       record.type = 'button';
       record.className = 'answer-focus-record';
       record.textContent = 'Record';
-      record.title = 'Record a private practice answer using your microphone';
+      record.title = 'Record up to three private practice takes using your microphone';
       controls.appendChild(record);
 
       record.addEventListener('click', async event => {
@@ -394,13 +421,9 @@
           return;
         }
 
+        if (recordedTakes.length >= 3) return;
+
         try {
-          if (recordingUrl) {
-            URL.revokeObjectURL(recordingUrl);
-            recordingUrl = null;
-          }
-          recording.replaceChildren();
-          recording.hidden = true;
           recordedChunks = [];
           mediaStream = await navigator.mediaDevices.getUserMedia({ audio: true });
           mediaRecorder = new MediaRecorder(mediaStream);
@@ -415,17 +438,20 @@
               mediaStream = null;
             }
             if (!recordedChunks.length) return;
+
             const blob = new Blob(recordedChunks, { type: mediaRecorder?.mimeType || 'audio/webm' });
-            recordingUrl = URL.createObjectURL(blob);
-            const player = document.createElement('audio');
-            player.controls = true;
-            player.src = recordingUrl;
-            recording.replaceChildren(player);
-            recording.hidden = false;
-          });
+            recordedTakes.push({ url: URL.createObjectURL(blob) });
+            renderTakes();
+
+            if (recordedTakes.length >= 3) {
+              record.disabled = true;
+              record.textContent = '3 takes';
+              record.classList.remove('is-recording');
+            }
+          }, { once: true });
 
           mediaRecorder.start();
-          record.textContent = 'Stop recording';
+          record.textContent = 'Stop';
           record.classList.add('is-recording');
         } catch (_) {
           record.textContent = 'Mic unavailable';
@@ -434,7 +460,7 @@
       });
     }
 
-    return { controls, recording };
+    return { controls, recordings };
   };
 
   const closeFocus = () => {
@@ -458,8 +484,8 @@
     title.setAttribute('data-focus-close', '');
     title.title = 'Click the question to close';
 
-    const { controls, recording } = toolsFor(heading, copy);
-    focusContent.replaceChildren(title, controls, copy, recording);
+    const { controls, recordings } = toolsFor(heading, copy);
+    focusContent.replaceChildren(title, controls, copy, recordings);
     lastTrigger = heading;
     overlay.hidden = false;
     document.body.classList.add('answer-focus-open');
@@ -496,8 +522,8 @@
   document.addEventListener('keydown', event => {
     if (event.key === 'Escape' && !overlay.hidden) closeFocus();
   });
-  window.addEventListener('pagehide', () => { resetAudio(); resetRecorder(); if (recordingUrl) URL.revokeObjectURL(recordingUrl); });
-  window.addEventListener('beforeunload', () => { resetAudio(); resetRecorder(); if (recordingUrl) URL.revokeObjectURL(recordingUrl); });
+  window.addEventListener('pagehide', () => { resetAudio(); resetRecorder(); });
+  window.addEventListener('beforeunload', () => { resetAudio(); resetRecorder(); });
 
   const observer = new MutationObserver(prepare);
   observer.observe(body, { childList: true, subtree: true, attributes: true, attributeFilter: ['data-interview-question', 'data-question-text'] });
