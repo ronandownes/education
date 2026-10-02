@@ -4,8 +4,6 @@ permalink: /sen-inclusion.html
 title: SEN / AEN & Inclusion
 eyebrow: UNDERSTAND • SUPPORT • REVIEW
 ---
-
-
 ## General approach | What is your general approach to AEN and inclusion?
 
 
@@ -220,4 +218,14 @@ I approach this through **Access, Challenge and Release**. I separate **access s
 | **Student voice** | **Independence** | **Adapt** |
 
 
-I approach this through **Evidence, Judge and Decide**. I look for evidence of improved **participation, attainment, regulation and independence** against the agreed target. I use student voice and classroom evidence, then continue, adapt or withdraw support according to impact rather than habit.
+I approach this through **Evidence, Judge and Decide**. I look for evidence of improved **participation, attainment, regulation and independence** against the agreed target. I use student voice and classroom evidence, then continue, adapt or withdraw support according to impact rather than habit.## Continuum of Support | How do you use the Continuum of Support?
+
+| Support for All | Support for Some | Support for Few |
+
+| ----------------------- | -------------------- | ----------------------- |
+
+| **Inclusive classroom** | **Targeted support** | **Individualised plan** |
+
+| **Monitor progress** | **Review response** | **Specialist input** |
+
+I approach this through **Support for All, Support for Some and Support for Few**. The Continuum of Support helps match the **intensity of support to the level of identified need**. I begin with effective inclusive classroom practice, add targeted support where evidence shows it is needed and move to more individualised support only when the learner requires it.Expand a bit, like what would targeted supports be? Team teacher, technology, assistive— what's it called? Assistive technology, accessible technology, I can't remember, help me there. Would an SNA be support? And then withdrawal, literacy and numeracy. Numeracy. Expand more to me.
