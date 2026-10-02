@@ -14,7 +14,7 @@ eyebrow: PROFESSIONAL PRACTICE
 
 I approach this through **Trust, Expect and Notice**. Positive relationships create **trust, belonging and readiness to learn**. I try to know students well enough to notice change, communicate high expectations and correct behaviour without damaging dignity; the relationship supports learning rather than replacing standards.
 
-## STAR 1 — change in engagement
+## STAR RW — Change in engagement
 
 | STAR | Recall |
 | --- | --- |
@@ -23,7 +23,7 @@ I approach this through **Trust, Expect and Notice**. Positive relationships cre
 | **Action** | I checked in privately, listened, made a small classroom adjustment and passed the concern through the appropriate pastoral structure. |
 | **Result** | The student had a clearer route to support and gradually re-engaged with class. |
 
-## STAR 2 — repairing a relationship
+## STAR RW — Repairing a relationship
 
 | STAR | Recall |
 | --- | --- |
