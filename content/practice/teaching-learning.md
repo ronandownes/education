@@ -4,8 +4,6 @@ permalink: /teaching-learning.html
 title: Teaching & Learning
 eyebrow: Start Teach Finish
 ---
-
-
 ## General | What is your general approach to effective teaching and learning?
 
 
@@ -20,7 +18,7 @@ I approach this through **Start, Teach, Teach and Finish**. For me, I start with
 
 
 
-## STAR TL — Zero-product rule: difficult concept
+## STAR Difficult — Zero-product rule: difficult concept
 
 
 | STAR | Recall |
