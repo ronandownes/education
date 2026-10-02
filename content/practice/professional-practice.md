@@ -175,6 +175,8 @@ I approach this through **Communicate, Listen and Contribute**. I communicate cl
 
 ## Digital and data responsibility | How do you use digital and data skills professionally?
 
+<div style="text-align:center; font-size:1.6rem; font-weight:700; margin:1.2rem 0 0.6rem;">digital and data skill</div>
+
 | Purpose | Protect | Evaluate |
 | -------------------- | ------------------- | ---------------- |
 | **Learning benefit** | **Data privacy** | **Impact** |
