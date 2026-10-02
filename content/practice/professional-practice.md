@@ -34,11 +34,10 @@ I am an experienced **Mathematics and learning-support teacher** with a strong i
 
 | STAR | Recall |
 | --- | --- |
-| **Situation** | In learning support, I was working with a student on **percentage and interest calculations** that were also coming up in Business. She could often complete the calculation with a calculator, but it was largely procedural. She told me that if she did not understand **why** the method worked, she found it very difficult to remember it. |
-| **Task** | I wanted to help her build understanding rather than simply rehearse another procedure, while also making sure that the support I gave did not conflict with what she was being taught in Business. |
-| **Action** | I spoke with the Business teacher and explained what the student had said. We compared how we were presenting percentage increase and interest, and agreed to use the same core language and sequence: identify the original amount, identify the percentage change, calculate the change, then connect it back to the final amount. In learning support, I used simple numerical examples and visual breakdowns before returning to the calculator method she would use in class. |
-| **Result** | The student became less dependent on memorising steps because she could explain what each calculation represented. The consistency between Maths, Business and learning support also meant she was not having to translate between different methods each time. |
-## ## What experience Bring | What experience would you bring to this school?
+| **Situation** | A learning-support student was using **two methods for percentages**: the calculator percentage button in Business and **÷ 100** in Maths. This was confusing her. |
+| **Task** | I wanted to give her **one consistent method** across subjects. |
+| **Action** | I spoke with the **Maths and Business teachers**. We agreed to reinforce the Maths method, which the department was already using consistently. |
+| **Result** | The student had **one clear method**, understood it better, and was less reliant on memorising calculator steps. |
 
 | Breadth | Adaptability | Contribution |
 | ---------------------- | ------------------------- | -------------------- |
