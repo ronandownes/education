@@ -65,109 +65,64 @@ The useful interview point is that this is a school entering a **leadership tran
 ## CEIST values | What five values should I be able to name?
 
 
-| Develop | Teach & Respect | Build Community |
-| --------------------------------- | --------------------------------------------------------- | -------------------------------------------- |
-| **Spiritual + human development** | **Quality in teaching & learning • respect every person** | **Create community • be just & responsible** |
-
-
-I would organise this around **Develop, Teach & Respect and Build Community**. St Mary's uses the CEIST language explicitly:
-
-1. **Promoting spiritual and human development**
-2. **Achieving quality in teaching and learning**
-3. **Showing respect for every person**
-4. **Creating community**
-5. **Being just and responsible**
-
-The school's own stated aim is to develop and educate each student so that they have the **opportunity and encouragement** to reach their full potential.
-
-I should not recite these as five slogans. I should be able to show what they look like in an ordinary lesson, corridor interaction, behaviour issue, support meeting or conversation with a parent.
-
-
-
-## CEIST in daily practice | How would I support those values in my day-to-day teaching?
-
-
-| Respect | Justice | Community | Quality & Development |
-| ----------------------------------------------- | -------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------ |
-| **Know • listen • include • correct privately** | **Fair • consistent • proportionate • follow procedure** | **Belonging • relationships • contribution** | **Access • challenge • feedback • independence** |
-
-
-I would organise this around **Respect, Justice, Community and Quality & Development**. **Showing respect for every person** is probably the strongest value for me to develop in an answer. In practice that means knowing the students in front of me, listening, correcting privately where possible, separating the behaviour from the person, differentiating access without lowering expectations, allowing processing time, and making sure students with AEN are genuinely included in the mathematical learning.
-
-
 
 &nbsp;
 
-## **Being just and responsible** 
+## **Being just and responsible**
+
+1. being fair and consistent rather than identical in every situation.
+2. **I apply expectations proportionately**,
+3. follow through calmly,
+4. keep students safe,
+5. 
+6. **record and report where required,**
+7. **use school procedures rather than improvising,**
+8. and take professional responsibility for my own decisions.
 
 
 
-1. being fair and consistent rather than identical in every situation. 
-2. **I apply expectations proportionately**, 
-3. follow through calmly, 
-4. keep students safe, 
-5. **record and report where required,** 
-6. **use school procedures rather than improvising,** 
-7. and take professional responsibility for my own decisions.
+## **Creating community** means
 
-
-
-&nbsp;
-
-## **Creating community** means 
-
-1. establishing a classroom where students can contribute safely, 
-2. using pair and group work purposefully, 
+1. establishing a classroom where students can contribute safely,
+2. using pair and group work purposefully,
 3. supporting colleagues,
-4.  communicating with parents, 
-5. noticing success and 
+4. communicating with parents,
+5. noticing success and
 6. contributing beyond my own timetable
 
 
 
-&nbsp;
+## Achieving quality in teaching and learning
 
-## Achieving quality in teaching and learning 
-
-
-
-1. means clear learning intentions, 
-2. explicit explanation and modelling, 
+1. means clear learning intentions,
+2. explicit explanation and modelling,
 3. scaffold as needed
 4. appropriate challenge,
-5.  formative assessment,
-6.  feedback students can act on, and 
+5. formative assessment,
+6. feedback students can act on, and
 7. adapting teaching when the evidence shows that students have not understood.
 
 
 
-&nbsp;
-
-## **Promoting spiritual and human development** 
-
-
+## **Promoting spiritual and human development**
 
 1. **more than examination performance**
-2. **** helping students develop 
+2. **** helping students develop
 3. **confidence**,
-4.  **independence**, 
-5. **relationships**, 
+4. **independence**,
+5. **relationships**,
 6. **responsibility**,
 7. **resilience** and a sense that they can **contribute to the wider community.**
 
 ## How I deliver Ceist values
 
-
-
 For me, the CEIST values are lived in the **ordinary interactions of the school day:** 
 
-1. how I teach, 
+1. how I teach,
 2. how I correct,
-3.  how I include,
-4.  how I listen and 
+3. how I include,
+4. how I listen and
 5. how consistently I take responsibility
-
-
 
 ## Mission and ethos | How would I describe the school's ethos?
 
