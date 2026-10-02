@@ -74,10 +74,9 @@ The useful interview point is that this is a school entering a **leadership tran
 2. **I apply expectations proportionately**,
 3. follow through calmly,
 4. keep students safe,
-5. 
-6. **record and report where required,**
-7. **use school procedures rather than improvising,**
-8. and take professional responsibility for my own decisions.
+5. **record and report where required,**
+6. **use school procedures rather than improvising,**
+7. and take professional responsibility for my own decisions.
 
 
 
@@ -104,10 +103,10 @@ The useful interview point is that this is a school entering a **leadership tran
 
 
 
-## **Promoting spiritual and human development**
+## Promoting spiritual and human development
 
 1. **more than examination performance**
-2. **** helping students develop
+2. helping students develop
 3. **confidence**,
 4. **independence**,
 5. **relationships**,
@@ -122,7 +121,7 @@ For me, the CEIST values are lived in the **ordinary interactions of the school 
 2. how I correct,
 3. how I include,
 4. how I listen and
-5. how consistently I take responsibility
+5. how I take responsibility
 
 ## Mission and ethos | How would I describe the school's ethos?
 
