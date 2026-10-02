@@ -18,7 +18,7 @@ I am an experienced **Mathematics and learning-support teacher** with a strong i
 
 
 
-## STAR PR — Adapting quickly in a new school
+## STAR PR  Adapting quickly— Adapting quickly in a new school
 
 | STAR | Recall |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ I am an experienced **Mathematics and learning-support teacher** with a strong i
 
 
 
-## STAR PR — Collaborative improvement
+## STAR PR Collaborative improvement — Collaborative improvement
 
 | STAR | Recall |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------- |
