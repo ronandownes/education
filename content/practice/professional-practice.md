@@ -32,6 +32,9 @@ I am an experienced **Mathematics and learning-support teacher** with a strong i
 
 ## STAR PR Collaborative improvement — Collaborative improvement
 
+
+
+
 | STAR | Recall |
 | --- | --- |
 | **Situation** | A learning-support student was using **two methods for percentages**: the calculator percentage button in Business and **÷ 100** in Maths. This was confusing her. |
@@ -49,6 +52,16 @@ I approach this through **Breadth, Adaptability and Contribution**. I have worke
 
 
 ## Professional responsibility | What does professional responsibility mean to you?
+
+
+
+
+<div style="text-align:center; font-size:1.6rem; font-weight:700; margin:1.2rem 0 0.6rem;">
+
+Professional Responsibility 
+
+</div>
+
 
 | Personal | Professional | Collective |
 | ------------ | ----------------------- | --------------- |
