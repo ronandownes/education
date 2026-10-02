@@ -18,7 +18,7 @@ I approach this through **Start, Teach, Teach and Finish**. For me, I start with
   
 
 
-## STAR 1 — Zero-Product Rule / Difficult Concept
+## STAR 1  Zero-Product Rule Difficult Concept
 
 
 | STAR | Recall |
