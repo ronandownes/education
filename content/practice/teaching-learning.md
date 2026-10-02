@@ -180,20 +180,24 @@ I approach this through **Purpose, Use and Check**. I start with the **learning,
 
 
 
-## Reflection and improvement | How do you know whether your teaching is improving?
+## Practice and challenge | How do you use practice, challenge and consolidation to secure learning?
 
 
-| Evidence | Reflect | Improve |
-| ---------------------------------- | ----------------- | --------------------- |
-| **Student work / responses** | **What worked?** | **Change** |
-| **Misconceptions / participation** | **What did not?** | **Evaluate → refine** |
+| Secure | Deepen | Transfer |
+| ------------------------------- | ---------------------- | ---------------------------------- |
+| **Structured practice** | **Compare methods** | **Consolidate the key idea** |
+| **Frequent → spaced retrieval** | **Reason and justify** | **Apply in an unfamiliar context** |
 
 
-I approach this through **Evidence, Reflect and Improve**. I look at **evidence of student learning**, not just whether the lesson felt successful. I identify what worked, what did not, make a change, and **evaluate the impact**.
+I approach this through **Secure, Deepen and Transfer**. I begin with **structured practice** so students can establish the method accurately, and then gradually vary the questions as they become more secure.
+
+I use **retrieval and cumulative review** deliberately. A new idea might be retrieved quite frequently at first, but as it becomes secure I **increase the spacing between retrievals** and continue to bring it back alongside earlier material. That helps me see whether the learning has genuinely been retained rather than simply remembered from the previous lesson.
+
+For me, **challenge means greater depth, not simply more work**. I might ask students to compare methods, explain why a method works, identify an error, justify a choice, or solve a problem where the method is not immediately signposted.
+
+**example move from getting reference angle based on 3 sides of right angled trainle to 2 sides only** 
 
 
-
-&nbsp;
 
 &nbsp;
 
