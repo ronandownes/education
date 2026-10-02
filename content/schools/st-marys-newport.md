@@ -51,11 +51,11 @@ The useful interview point is that this is a school entering a **leadership tran
 
 I would organise this around **Develop, Teach & Respect and Build Community**. St Mary's uses the CEIST language explicitly:
 
-- **Promoting spiritual and human development**
-- **Achieving quality in teaching and learning**
-- **Showing respect for every person**
-- **Creating community**
-- **Being just and responsible**
+1. **Promoting spiritual and human development**
+2. **Achieving quality in teaching and learning**
+3. **Showing respect for every person**
+4. **Creating community**
+5. **Being just and responsible**
 
 The school's own stated aim is to develop and educate each student so that they have the **opportunity and encouragement to reach their full potential**.
 
