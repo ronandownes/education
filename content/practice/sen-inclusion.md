@@ -15,7 +15,7 @@ eyebrow: UNDERSTAND • SUPPORT • REVIEW
 
 I approach this through **Understand, Support and Review**. I start with the **learner, not the label**, and identify the barrier and the intended learning. I then match the intervention to the barrier — for example, **visual supports, tactile or concrete materials, clearer chunking, additional processing time, or a calm and predictable classroom environment**. I keep the intended learning and level of challenge in view, and review whether the support is improving access, participation and ultimately independence.
 
-## scaffold to independence
+## STAR AEN — Scaffold to independence
 
 | STAR | Recall |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@ I approach this through **Understand, Support and Review**. I start with the **l
 | **Action** | I made the first step explicit, chunked the task, used a visual prompt and gradually reduced prompts as the student became more secure. |
 | **Result** | The student began more tasks independently and needed less adult support. |
 
-## barrier versus ability
+## STAR AEN — Barrier versus ability
 
 | STAR | Recall |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
