@@ -15,10 +15,8 @@ eyebrow: Start Teach Finish
 
 
 I approach this through **Start, Teach, Teach and Finish**. For me, I start with the **students in front of me** and a clear **learning intention**. Then it’s **plan carefully, explain clearly, model explicitly, scaffold where needed, keep them thinking, check what they’re learning and adapt**. Then **consolidate** and, bit by bit, move them towards **independence**.  
-  
 
-
-## STAR 1  Zero-Product Rule- Difficult Concept
+## STAR TL   Zero-Product Rule- Difficult Concept
 
 
 | STAR | Recall |
@@ -31,9 +29,7 @@ I approach this through **Start, Teach, Teach and Finish**. For me, I start with
 
 
 
-&nbsp;
-
-## STAR 2  Complex Numbers -Recovering a Lesson
+## STAR TL  Complex Numbers -Recovering a Lesson
 
 
 | STAR | Recall |
@@ -44,7 +40,7 @@ I approach this through **Start, Teach, Teach and Finish**. For me, I start with
 | **Result** | Students had a clearer model of what a+bi represented and could explain the purpose of the new number system rather than only manipulate symbols. |
 
 
-## STAR 3 — Trigonometry-Mixed Attainment and AEN
+## STAR TL — Trigonometry-Mixed Attainment and AEN
 
 
 | STAR | Recall |
@@ -149,7 +145,7 @@ I approach this through **Evidence, Reflect and Improve**. I look at **evidence 
 
 
 
-
+&nbsp;
 
 &nbsp;
 
