@@ -48,7 +48,7 @@ I approach this through **Start, Teach, Teach and Finish**. For me, I start with
 | **Situation** | In a mixed-attainment Junior Cycle Mathematics class working on sine, cosine and tangent in right-angled triangles, some students were ready for multi-step problems while a student receiving **additional learning support** could perform the calculator work but became overloaded by identifying the sides, choosing the ratio, rearranging and calculating in one sequence. |
 | **Task** | Keep the same worthwhile mathematical objective while reducing unnecessary cognitive load and moving students towards independence. |
 | **Action** | I broke the process into visible stages: mark the right angle, identify the hypotenuse, identify opposite and adjacent relative to the chosen angle, then decide which ratio connects the known and unknown sides. For students who needed it I used the scaffold **What do I know? → What am I finding? → Which sides are involved? → Which ratio connects them?** I checked each stage with mini-whiteboards and gradually removed the prompts. Students who were secure moved to less structured contextual problems and inverse trigonometric ratios. |
-| **Result** | Students who initially relied on the scaffold began selecting the appropriate ratio independently, while higher-attaining students continued into deeper problems without being held back. |
+| **Result** | Students who initially relied on the scaffold of tables using tactile indepentant identificatoin of included angle and 1:1 inc angle to which ratio-began selecting the appropriate ratio independently anf intuitively and confidently while higher-attaining students continued into deeper problems without being held back. |
 
 
 ## Planning | How do you plan effectively for the students in front of you?
@@ -78,6 +78,36 @@ I approach this through **Understand the learner and Design the route**. I start
 I approach this through **Prepare, Make it visible and Release**. If something is difficult, I first **check the prerequisites** and break it into **manageable steps**. I **explain clearly**, **model the thinking**, and use **different representations** where they help. I **scaffold the first attempts**, check how students are getting on, then **reduce the support** as they become more secure. The aim is **independence**.
 
 
+
+&nbsp;
+
+## Junior Cycle examples
+
+
+| Topic | Prepare | Make it visible | Release |
+| ---------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Solving linear equations** | Revisit inverse operations and balancing | Model \(3x+5=20\) using a balance idea, algebra and a worked example | Move from guided equations to students solving and checking independently |
+| **Pythagoras** | Check squares, square roots and identifying the hypotenuse | Draw and label the triangle, model substitution into \(a^2+b^2=c^2\), connect the diagram to the algebra | Scaffold the first examples, then remove prompts and vary the orientation/context |
+| **Linear graphs** | Revisit coordinates and substitution | Connect a **table → plotted points → graph → equation**, showing what slope and intercept mean visually | Begin with partially completed tables/graphs, then have students construct and interpret graphs independently |
+| **Probability** | Check fractions, decimals and basic probability language | Use lists, tables or tree diagrams to make the sample space visible before calculating | Start with structured sample spaces, then fade the structure so students choose their own representation |
+
+
+## Leaving Certificate Higher Level examples
+
+
+| Topic | Prepare | Make it visible | Release |
+| -------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Differentiation** | Revisit functions, indices and algebraic manipulation | Link **graph → tangent → gradient → derivative**, then model the algebra step by step | Start with routine differentiation, then reduce prompts as students move to tangents, rates of change and optimisation |
+| **Integration** | Revisit differentiation and area | Present integration as the reverse process, then connect the symbolic integral with **area under a graph** | Scaffold basic antiderivatives before moving to definite integrals and unfamiliar applications |
+| **Trigonometric identities/equations** | Revisit exact values, the unit circle and core identities | Model how to recognise a useful identity and explicitly show why each transformation is valid | Initially provide the likely identity; later students must decide independently which identity or method to use |
+| **Complex numbers** | Revisit coordinate geometry, modulus and angle | Connect \(a+bi\), the **Argand diagram**, modulus/argument and polar form as different representations of the same number | Move from teacher-modelled conversions to students selecting rectangular or polar form according to the problem |
+
+
+The strong interview point across all eight is: **I do not leave the scaffold in place. I make the new mathematics visible at first, check understanding, and deliberately fade the support so that students have to make the decisions themselves.**
+
+
+
+&nbsp;
 
 ## Keep them thinking | How do you keep students thinking and actively involved in learning?
 
