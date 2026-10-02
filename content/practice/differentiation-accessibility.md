@@ -16,7 +16,7 @@ eyebrow: Common | Access | Extend | Aim
 
 I approach this through **Keep common, Access, Extend and Aim**. I keep the **important learning common** while varying the route into it. I begin with a common learning intention and design a task with a **clear entry point and room for depth**. I use scaffolding and representation for access, while extending through **reasoning, connections and unfamiliar application**. The aim is high expectations, participation and growing independence.
 
-## STAR 1 — mixed-attainment Maths
+## STAR DA — Mixed-attainment Maths
 
 
 | STAR | Recall |
@@ -26,7 +26,7 @@ I approach this through **Keep common, Access, Extend and Aim**. I keep the **im
 | **Action** | I used a common core task, visual and worked-example scaffolds for access, and deeper reasoning and unfamiliar application for students ready to extend. |
 | **Result** | More students participated in the same mathematical conversation while challenge remained high. |
 
-## STAR 2 — fading a scaffold
+## STAR DA — Fading a scaffold
 
 
 | STAR | Recall |
