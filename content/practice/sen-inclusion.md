@@ -11,7 +11,7 @@ eyebrow: UNDERSTAND • SUPPORT • REVIEW
 | --------------------- | --------------------------------- | ---------------------- |
 | **Learner need** | **Match intervention to barrier** | **Check impact** |
 | **Intended learning** | **Maintain challenge** | **Build independence** |
-| Em Beh Ac |  |  |
+|  |  |  |
 
 
 I approach this through **Understand, Support and Review**. I start with the **learner, not the label**, and identify the barrier and the intended learning. I then match the intervention to the barrier — for example, **visual supports, tactile or concrete materials, clearer chunking, additional processing time, or a calm and predictable classroom environment**. I keep the intended learning and level of challenge in view, and review whether the support is improving access, participation and ultimately independence.
