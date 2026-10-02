@@ -131,7 +131,11 @@ For me, the CEIST values are lived in the **ordinary interactions of the school 
 | **High-quality teaching & learning** | **Full range of aptitude + whole-person development** | **Access • high expectations • responsive teaching** |
 
 
-I would organise this around **Purpose, Inclusion and My fit**.
+I would organise this around 
+
+
+
+## **Purpose, Inclusion and My fit**.
 
 
 
