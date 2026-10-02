@@ -29,7 +29,7 @@ I approach this through **Start, Teach, Teach and Finish**. For me, I start with
 | **Result** | Students were better able to connect factorisation, roots and x-intercepts and could explain the zero-product rule rather than simply copy the procedure. |
 
 
-## STAR TL — Complex numbers: recovering a lesson
+## STAR Recover — Complex numbers: recovering a lesson
 
 
 | STAR | Recall |
