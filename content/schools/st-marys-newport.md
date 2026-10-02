@@ -98,7 +98,7 @@ I would organise this around **Respect, Justice, Community and Quality & Develop
 
 &nbsp;
 
-**Being just and responsible** 
+## **Being just and responsible** 
 
 
 
