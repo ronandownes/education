@@ -44,7 +44,7 @@ I approach this through **Start, Teach, Teach and Finish**. For me, I start with
 | **Result** | Students had a clearer model of what a+bi represented and could explain the purpose of the new number system rather than only manipulate symbols. |
 
 
-## STAR 3 — Trigonometry / Mixed Attainment and AEN
+## STAR 3 — Trigonometry-Mixed Attainment and AEN
 
 
 | STAR | Recall |
