@@ -179,7 +179,7 @@ I approach this through **Recognise, Record and Refer**. Once behaviour suggests
 
 These are **rehearsal composites**: keep the competency structure and use the closest real incident from your own teaching. The three examples deliberately show different thresholds: **ordinary disorder → challenging behaviour → safety**.
 
-## STAR 1 — Ordinary Disorder / Low-Level Disruption
+## R1 | Give an example of what you do about low-level misbehaviour?
 
 
 | STAR | Recall |
