@@ -2,7 +2,7 @@
 layout: doc
 permalink: /sen-inclusion.html
 title: SEN / AEN & Inclusion
-eyebrow: UNDERSTAND • SUPPORT • REVIEW
+eyebrow: UNDERSTAND • SUPPORT • REVIEW   Start Structure release
 ---
 ## General approach | What is your general approach to AEN and inclusion?
 
