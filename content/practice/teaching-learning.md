@@ -7,16 +7,26 @@ eyebrow: Start Teach Finish
 ## General | What is your general approach to effective teaching and learning?
 
 
-| Start | Teach | Teach | Finish |
-| ---------------------- | ----------- | ------------------- | ---------------- |
-| **Students** | **Plan** | **Scaffold** | **Consolidate** |
-| **Learning intention** | **Explain** | **Think** | **Independence** |
-|  | **Model** | **Check and adapt** |  |
+
+I start with the **students in front of me** and a clear **learning intention**. Then it’s **plan carefully, explain clearly, model explicitly, scaffold where needed, keep them thinking, check what they’re learning and adapt**. Then **consolidate** and, bit by bit, move them towards **independence**.  
 
 
-I approach this through **Start, Teach, Teach and Finish**. For me, I start with the **students in front of me** and a clear **learning intention**. Then it’s **plan carefully, explain clearly, model explicitly, scaffold where needed, keep them thinking, check what they’re learning and adapt**. Then **consolidate** and, bit by bit, move them towards **independence**.  
 
 
+| Start | Supportive Teaching | Extention | Finish |
+| ---------------------------- | ---------------------- | -------------------------- | ---------------- |
+| **Students in front of me** | **Plan carefully** | Gradual Release | **Consolidate** |
+| **Clear Learning intention** | **Explain clearly** | **Challenge appropriatly** | **Independence** |
+|  | **Model Explicitly** |  |  |
+|  | **Scaffold as needed** | **Check and adapt** |  |
+|  |  |  |  |
+
+
+
+
+&nbsp;
+
+&nbsp;
 
 ## STAR Difficult — Zero-product rule: difficult concept
 
