@@ -225,8 +225,8 @@
       <h1>{{ page.title }}</h1>
       {% if page.intro %}<p class="doc-intro">{{ page.intro }}</p>{% endif %}
       <div class="doc-toolbar" aria-label="Document controls">
-        <a class="edit-link github-edit-link" href="https://github.com/ronandownes/education/edit/main/{{ page.path }}" target="_blank" rel="noopener">GitHub</a>
         <a class="edit-link cms-edit-link" href="{{ cms_url }}" target="_blank" rel="noopener">CMS</a>
+        <a class="edit-link github-edit-link" href="https://github.com/ronandownes/education/edit/main/{{ page.path }}" target="_blank" rel="noopener">GitHub</a>
         <button type="button" data-action="print">Print</button>
       </div>
       <div class="doc-body" id="docBody">{{ content }}</div>
@@ -251,8 +251,8 @@
     </article>
   </main>
   <div id="floating-page-tools" aria-label="Page tools">
-    <a id="floating-page-github" href="https://github.com/ronandownes/education/edit/main/{{ page.path }}" target="_blank" rel="noopener">GitHub</a>
     <a id="floating-page-cms" href="{{ cms_url }}" target="_blank" rel="noopener">CMS</a>
+    <a id="floating-page-github" href="https://github.com/ronandownes/education/edit/main/{{ page.path }}" target="_blank" rel="noopener">GitHub</a>
     <button id="floating-page-print" type="button" onclick="window.print()">Print</button>
   </div>
   <script src="{{ '/assets/navigation.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
