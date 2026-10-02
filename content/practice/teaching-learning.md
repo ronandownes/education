@@ -85,9 +85,9 @@ I approach this through **Prepare, Make it visible and Release**. If something i
 
 
 | Topic | Prepare | Make it visible | Release |
-| ---------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Solving linear equations** | Revisit inverse operations and balancing | Model \(3x+5=20\) using a balance idea, algebra and a worked example | Move from guided equations to students solving and checking independently |
-| **Pythagoras** | Check squares, square roots and identifying the hypotenuse | Draw and label the triangle, model substitution into \(a^2+b^2=c^2\), connect the diagram to the algebra | Scaffold the first examples, then remove prompts and vary the orientation/context |
+| ---------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Solving linear equations** | Revisit inverse operations and balancing | Model 3x+5=20 using a balance idea, algebra and a worked example | Move from guided equations to students solving and checking independently |
+| **Pythagoras** | Check squares, square roots and identifying the hypotenuse | Draw and label the triangle, model substitution into a^2+b^2=c^2, connect the diagram to the algebra | Scaffold the first examples, then remove prompts and vary the orientation/context |
 | **Linear graphs** | Revisit coordinates and substitution | Connect a **table → plotted points → graph → equation**, showing what slope and intercept mean visually | Begin with partially completed tables/graphs, then have students construct and interpret graphs independently |
 | **Probability** | Check fractions, decimals and basic probability language | Use lists, tables or tree diagrams to make the sample space visible before calculating | Start with structured sample spaces, then fade the structure so students choose their own representation |
 
@@ -96,11 +96,11 @@ I approach this through **Prepare, Make it visible and Release**. If something i
 
 
 | Topic | Prepare | Make it visible | Release |
-| -------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Differentiation** | Revisit functions, indices and algebraic manipulation | Link **graph → tangent → gradient → derivative**, then model the algebra step by step | Start with routine differentiation, then reduce prompts as students move to tangents, rates of change and optimisation |
 | **Integration** | Revisit differentiation and area | Present integration as the reverse process, then connect the symbolic integral with **area under a graph** | Scaffold basic antiderivatives before moving to definite integrals and unfamiliar applications |
 | **Trigonometric identities/equations** | Revisit exact values, the unit circle and core identities | Model how to recognise a useful identity and explicitly show why each transformation is valid | Initially provide the likely identity; later students must decide independently which identity or method to use |
-| **Complex numbers** | Revisit coordinate geometry, modulus and angle | Connect \(a+bi\), the **Argand diagram**, modulus/argument and polar form as different representations of the same number | Move from teacher-modelled conversions to students selecting rectangular or polar form according to the problem |
+| **Complex numbers** | Revisit coordinate geometry, modulus and angle | Connect a+bi, the **Argand diagram**, modulus/argument and polar form as different representations of the same number | Move from teacher-modelled conversions to students selecting rectangular or polar form according to the problem |
 
 
 The strong interview point across all eight is: **I do not leave the scaffold in place. I make the new mathematics visible at first, check understanding, and deliberately fade the support so that students have to make the decisions themselves.**
@@ -133,7 +133,11 @@ I approach this through **Question, Make thinking visible and Keep it going**. S
 | **Written work / short checks** | **Change representation or revisit a prerequisite** |
 
 
-I approach this through **Evidence and Response**. I **check understanding throughout the lesson** through questioning, mini-whiteboards, observation, student explanations and written work. The important part is what I do with that evidence. If students are secure, I **reduce support or increase challenge**. If they are not, I **slow down, re-teach, change the representation or return to a prerequisite**. Then I **check again**.
+I approach this through **Evidence and Response**. 
+
+I **check understanding throughout the lesson** through questioning, mini-whiteboards, observation, student explanations and written work. 
+
+The important part is what I do with that evidence. If students are secure, I **reduce support or increase challenge**. If they are not, I **slow down, re-teach, change the representation or return to a prerequisite**. Then I **check again**.
 
 
 
