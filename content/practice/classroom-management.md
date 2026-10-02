@@ -6,7 +6,7 @@ eyebrow: Prevent Promote Respond Escalate and Restore
 ---
 
 
-## General approach | What does good classroom management look like?
+## General approach | What does good classroom management look like? PPRES
 
 
 | Prevent | Respond | Restore |
@@ -16,7 +16,7 @@ eyebrow: Prevent Promote Respond Escalate and Restore
 | **Student engagement** | **Consistent response** | **Re-establish learning** |
 
 
-I approach this through **Prevent, Respond and Restore**. Good classroom management creates an inclusive and positive environment  **with  predictable and purposeful.** I establish clear expectations, **explicitly teach and model routines**, keep students engaged, and intervene early, calmly and proportionately so that attention returns to learning.
+PPRESI approach this through **Prevent, Respond and Restore**. Good classroom management creates an inclusive and positive environment  **with  predictable and purposeful.** I establish clear expectations, **explicitly teach and model routines**, keep students engaged, and intervene early, calmly and proportionately so that attention returns to learning.
 
 
 
