@@ -177,7 +177,11 @@ For me, the CEIST values are lived in the **ordinary interactions of the school 
 | **High-quality teaching & learning** | **Full range of aptitude + whole-person development** | **Access • high expectations • responsive teaching** |
 
 
-I would organise this around **Purpose, Inclusion and My fit**. The mission is to provide **teaching and learning of the highest quality for the benefit of the community it serves**, while catering for the **full range of academic aptitude and abilities** and supporting the intellectual, physical, social, cultural, moral and religious development of students.
+I would organise this around **Purpose, Inclusion and My fit**.
+
+
+
+ The mission is to provide **teaching and learning of the highest quality for the benefit of the community it serves**, while catering for the **full range of academic aptitude and abilities** and supporting the intellectual, physical, social, cultural, moral and religious development of students.
 
 That fits naturally with my own language of **access to the curriculum, high expectations, responsive teaching and movement towards independence**.
 
