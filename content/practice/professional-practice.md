@@ -162,6 +162,9 @@ I approach this through **Evidence, Context and Judgement**. I combine research 
 
 ## Parents and community | How do you work with parents, guardians and the wider school community?
 
+<h2 align="center">PARENTS</h2>
+
+
 | Communicate | Listen | Contribute |
 | ------------------ | ------------------ | ------------------- |
 | **Clear evidence** | **Family context** | **School activity** |
