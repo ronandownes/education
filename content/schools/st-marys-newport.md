@@ -8,6 +8,78 @@ intro: "School-specific interview recall: ethos in practice, leadership,
   numbers, curriculum, teaching and learning, policies, safeguarding, behaviour,
   inclusion and the evidence I should connect to my own practice."
 ---
+<div class="interview-travel-card" data-interview-travel data-leave-at="2026-10-02T10:00:00+01:00" data-interview-at="2026-10-02T10:30:00+01:00">
+  <div class="interview-travel-summary">
+    <p class="interview-travel-label">TODAY · INTERVIEW TRAVEL</p>
+    <div class="interview-countdown" data-countdown aria-live="polite">Calculating…</div>
+    <p class="interview-travel-times"><strong>Leave 10:00</strong> · Interview 10:30 · Allow 30 minutes</p>
+    <p class="interview-travel-place"><strong>St Mary's Secondary School</strong><br>Church Road, Newport, Co. Tipperary · <strong>V94 RY18</strong></p>
+    <a class="interview-directions" href="https://www.google.com/maps/dir/?api=1&destination=St+Mary%27s+Secondary+School%2C+Church+Road%2C+Newport%2C+Co.+Tipperary%2C+V94+RY18" target="_blank" rel="noopener">Open directions</a>
+  </div>
+  <div class="interview-map-wrap">
+    <iframe
+      class="interview-map"
+      title="Map showing St Mary's Secondary School, Newport"
+      src="https://www.google.com/maps?q=St+Mary%27s+Secondary+School%2C+Church+Road%2C+Newport%2C+Co.+Tipperary%2C+V94+RY18&output=embed"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</div>
+
+<style>
+.interview-travel-card{display:grid;grid-template-columns:minmax(0,.92fr) minmax(300px,1.08fr);gap:18px;margin:4px 0 28px;padding:18px;border:1px solid #d8dee7;border-radius:12px;background:#fbfcfe}
+.interview-travel-summary{min-width:0;display:flex;flex-direction:column;justify-content:center}
+.interview-travel-label{margin:0 0 7px!important;color:#6b7280;font-size:.72rem!important;font-weight:800;letter-spacing:.11em}
+.interview-countdown{margin:0 0 8px;font-size:clamp(1.7rem,4vw,2.65rem);font-weight:750;line-height:1.04;letter-spacing:-.035em;color:#202124;font-variant-numeric:tabular-nums}
+.interview-countdown.is-urgent{color:#9a3412}
+.interview-travel-times,.interview-travel-place{margin:5px 0!important;font-size:.93rem!important;line-height:1.45!important}
+.interview-directions{display:inline-flex;align-items:center;justify-content:center;align-self:flex-start;margin-top:10px;min-height:40px;padding:8px 12px;border:1px solid #b9c9dc;border-radius:7px;background:#fff;color:#204f83;font-size:.88rem;font-weight:700;text-decoration:none}
+.interview-directions:hover,.interview-directions:focus-visible{background:#f4f8fc;border-color:#8eabc9;outline:none}
+.interview-map-wrap{min-width:0;overflow:hidden;border:1px solid #d8dee7;border-radius:9px;background:#fff}
+.interview-map{display:block;width:100%;height:265px;border:0}
+@media(max-width:720px){.interview-travel-card{grid-template-columns:1fr;padding:14px}.interview-map{height:235px}.interview-countdown{font-size:2rem}}
+@media print{.interview-travel-card{display:none!important}}
+</style>
+
+<script>
+(() => {
+  const card = document.querySelector('[data-interview-travel]');
+  if (!card) return;
+  const output = card.querySelector('[data-countdown]');
+  const leaveAt = new Date(card.dataset.leaveAt);
+  const interviewAt = new Date(card.dataset.interviewAt);
+
+  const compact = ms => {
+    const total = Math.max(0, Math.floor(ms / 1000));
+    const hours = Math.floor(total / 3600);
+    const minutes = Math.floor((total % 3600) / 60);
+    const seconds = total % 60;
+    return hours > 0
+      ? hours + 'h ' + String(minutes).padStart(2, '0') + 'm ' + String(seconds).padStart(2, '0') + 's'
+      : minutes + 'm ' + String(seconds).padStart(2, '0') + 's';
+  };
+
+  const tick = () => {
+    const now = new Date();
+    const toLeave = leaveAt - now;
+    const toInterview = interviewAt - now;
+    output.classList.toggle('is-urgent', toLeave <= 15 * 60 * 1000 && toInterview > 0);
+
+    if (toLeave > 0) {
+      output.textContent = 'Leave in ' + compact(toLeave);
+    } else if (toInterview > 0) {
+      output.textContent = 'LEAVE NOW · interview in ' + compact(toInterview);
+    } else {
+      output.textContent = 'Interview time reached';
+      clearInterval(timer);
+    }
+  };
+
+  tick();
+  const timer = setInterval(tick, 1000);
+})();
+</script>
+
 ## Interview priorities | What do I need to know first?
 
 
