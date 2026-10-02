@@ -143,9 +143,29 @@ I would organise this around **Respect, Justice, Community and Quality & Develop
 
 &nbsp;
 
-**Promoting spiritual and human development** means **seeing education as more than examination performance:** helping students develop **confidence**, **independence**, **relationships**, **responsibility**, **resilience** and a sense that they can **contribute to the wider community.**
+## **Promoting spiritual and human development** 
 
-Interview line: "For me, the CEIST values are lived in the ordinary interactions of the school day: how I teach, how I correct, how I include, how I listen and how consistently I take responsibility."
+
+
+1. **more than examination performance**
+2. **** helping students develop 
+3. **confidence**,
+4.  **independence**, 
+5. **relationships**, 
+6. **responsibility**,
+7. **resilience** and a sense that they can **contribute to the wider community.**
+
+## How I deliver Ceist values
+
+
+
+For me, the CEIST values are lived in the **ordinary interactions of the school day:** 
+
+1. how I teach, 
+2. how I correct,
+3.  how I include,
+4.  how I listen and 
+5. how consistently I take responsibility
 
 
 
