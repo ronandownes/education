@@ -139,46 +139,42 @@ I **check understanding throughout the lesson** through questioning, mini-whiteb
 
 The important part is what I do with that evidence. If students are secure, I **reduce support or increase challenge**. If they are not, I **slow down, re-teach, change the representation or return to a prerequisite**. Then I **check again**.
 
-
-
-## Practice and challenge | How do you use practice, challenge and consolidation to secure learning?
-
-
-| Secure | Deepen | Transfer |
-| ------------------------ | ---------------------- | ---------------------------------- |
-| **Structured practice** | **Compare methods** | **Consolidate the key idea** |
-| **Retrieval and review** | **Reason and justify** | **Apply in an unfamiliar context** |
-
-
-I approach this through **Secure, Deepen and Transfer**. I move from **structured practice** towards more varied and unfamiliar problems as students become secure. I use **retrieval and cumulative review** to strengthen earlier learning. For me, challenge means **greater depth, not simply more work**. I finish by **consolidating** the key idea and looking for **transfer** to a less familiar situation.
-
-
-
-## Inclusion and differentiation | How do you make learning accessible while keeping high expectations?
+## How do you make learning accessible while keeping high expectations?
 
 
 | Learner | Access | Outcome |
-| ------------------------- | ----------------------------- | ------------------- |
-| **Strengths / needs** | **Scaffold / representation** | **Common learning** |
-| **Confidence / barriers** | **Vocabulary / support** | **Independence** |
+| --------------------------------- | ------------------------------------- | ------------------------------- |
+| **Strengths, needs and barriers** | **Scaffold / representation** | **Common ambitious learning** |
+| **Prior knowledge / confidence** | **Vocabulary / chunking / modelling** | **Fade support → independence** |
+|  | Technology | Transfe |
 
 
-I approach this through **Learner, Access and Outcome**. I start with the **learner and the barrier**. I keep the learning intention common where I can, then vary the **support or representation** so students can access the learning and move towards **independence**.
+I approach this through **Learner, Access and Outcome**. I start with the **learner** — what they already know, where the barrier is, and what support will help them succeed. I keep the **learning intention and level of ambition common where possible**, but vary the **access** through scaffolding, modelling, vocabulary support, visual representation, technology or smaller steps.
 
+For me, differentiation is **not lowering the expectation**. It is changing the route into the learning. As students become more secure, I **fade the support**, so the outcome is increasingly **independent learning at an appropriately challenging level**.
 
+A good line to remember is: **same ambition where possible, different access where necessary, support gradually removed.**
 
 ## Digital learning | How do you use technology to improve learning?
 
 
 | Purpose | Use | Check |
-| ----------------- | -------------------------------- | ------------------ |
-| **Learning need** | **Explain / represent** | **Did it help?** |
-| **Learner need** | **Access / practise / feedback** | **Keep or change** |
+| ----------------- | -------------------------------- | ---------------------------- |
+| **Learning need** | **Explain / represent** | **Did it improve learning?** |
+| **Learner need** | **Access / practise / feedback** | **Keep, adapt or remove** |
 
 
-I approach this through **Purpose, Use and Check**. I start with the **learning, not the device**. I use technology when it improves **clarity, access, practice or feedback**, and then I check whether it actually improved the learning.
+I approach this through **Purpose, Use and Check**. I start with the **learning, not the device**. I identify what technology is meant to improve, then use it deliberately for **explanation, representation, access, practice or feedback**.
+
+For example, I might use **GeoGebra or Desmos to make a mathematical relationship visible**, an interactive task to give students immediate practice and feedback, or digital supports to improve access for a learner who needs additional scaffolding.
+
+The final step is **Check**. I ask whether the technology actually improved understanding, participation or independence. If it did, I keep or develop it; if it simply added complexity or distraction, I **adapt it or remove it**.
+
+**Technology should earn its place in the lesson by improving the learning.**
 
 
+
+&nbsp;
 
 ## Practice and challenge | How do you use practice, challenge and consolidation to secure learning?
 
