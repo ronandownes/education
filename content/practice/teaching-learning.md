@@ -147,9 +147,7 @@ I approach this through **Purpose, Use and Check**. I start with the **learning,
 
 I approach this through **Evidence, Reflect and Improve**. I look at **evidence of student learning**, not just whether the lesson felt successful. I identify what worked, what did not, make a change, and **evaluate the impact**.
 
-## STAR examples | What examples could you use to show effective teaching and learning?
 
-These are **rehearsal composites**: keep the structure, but use the version that matches a real class you have taught.
 
 
 
