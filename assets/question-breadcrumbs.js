@@ -150,6 +150,10 @@
       const print = rail.querySelector('#floating-page-print');
       const afterPrint = print?.nextSibling || null;
 
+      if (primary.parentElement !== rail || primary.previousElementSibling !== print) {
+        rail.insertBefore(primary, afterPrint);
+      }
+
       if (questions) {
         questions.id = 'floating-page-listen-questions';
         questions.textContent = 'Listen Questions';
@@ -157,14 +161,10 @@
         questions.removeAttribute('aria-hidden');
         questions.setAttribute('aria-label', 'Listen to interview questions only');
         questions.title = 'Listen to interview questions only';
-        if (questions.parentElement !== rail || questions.previousElementSibling !== print) {
-          rail.insertBefore(questions, afterPrint);
+        const afterPrimary = primary.nextSibling;
+        if (questions.parentElement !== rail || questions.previousElementSibling !== primary) {
+          rail.insertBefore(questions, afterPrimary);
         }
-      }
-
-      const afterQuestions = questions?.nextSibling || afterPrint;
-      if (primary.parentElement !== rail || primary.previousElementSibling !== questions) {
-        rail.insertBefore(primary, afterQuestions);
       }
     }
 
