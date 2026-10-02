@@ -15,7 +15,7 @@ eyebrow: Start Build Respond
 
 I approach this through **Start, Build and Respond**. I start with the **students**, the **intended learning** and the **evidence** that will show me whether learning has happened. I then sequence the learning, plan support and challenge, and keep the plan flexible enough to respond to what students show me.
 
-## STAR 1 — taking over a class
+## STAR PC — Taking over a class
 
 
 | STAR | Recall |
@@ -25,7 +25,7 @@ I approach this through **Start, Build and Respond**. I start with the **student
 | **Action** | I reviewed the handover, used retrieval and student work to confirm what was secure, then adjusted sequence and pace around the gaps. |
 | **Result** | The class continued the programme without unnecessary repetition and the plan became more closely matched to actual learning. |
 
-## STAR 2 — TY planning
+## STAR PC — TY planning
 
 
 | STAR | Recall |
