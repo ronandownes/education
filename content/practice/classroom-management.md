@@ -52,23 +52,27 @@ These are **rehearsal composites**: keep the competency structure and use the cl
 
 
 | STAR | Recall |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Situation** | A conflict between two students escalated to the point where there was an immediate risk of physical harm. At that stage it was no longer primarily a classroom-management issue; it was a safety issue. |
 | **Task** | Make the situation safe, protect the other students and follow school procedure rather than trying to manage a serious incident alone. |
-| **Action** | I stopped the activity, created distance between the students without placing myself or others at unnecessary risk, directed the rest of the class to a safe and supervised position, and sought the appropriate assistance immediately. Afterwards I recorded the facts objectively and reported through the school's agreed behaviour and safeguarding structures as required. |
+| **Action** | I stopped the activity, created **distance** between the students without placing myself or others at unnecessary risk, **directed** the rest of the class to a safe and **supervised** position, and sought the **appropriate assistance** immediately. Afterwards I recorded the facts objectively and reported through the school's agreed behaviour and safeguarding structures as required. |
 | **Result** | The immediate risk was contained, the other students were protected and the incident was handed over through the correct school process. The key distinction for me is that once safety is involved, safety and procedure take priority over completing the lesson or resolving the behaviour there and then. |
 
+
+
+
+&nbsp;
 
 ## New or cover class | How do you establish expectations with a new or temporary class?
 
 
 | Start | Structure | Reinforce |
-| ---------------------- | -------------------------- | ----------------------------------- |
+| ---------------------- | ------------------------------ | ----------------------------------- |
 | **Greet students** | **Clear, achievable task** | **Notice what is working** |
-| **Settle the room** | **Few clear expectations** | **Positive reinforcement** |
+| **Settle the room** | **Visible clear expectations** | **Positive reinforcement** |
 | **Establish the task** | **Model routines** | **Reinforce routines consistently** |
-| **Register** | **Student voice** | **Keep learning moving** |
-|  | **Student modelling** | **Follow regular teacher’s plan** |
+| **Take the Register** | **Student voice** | **Keep learning moving** |
+| Avoid Downtime | **Student modelling** | **Follow regular teacher’s plan** |
 
 
 I approach this through **Start, Structure and Reinforce**. I make the first few minutes very clear: **greet the students, settle the room, establish the task and communicate the few expectations that matter most**. I explicitly model routines where needed, but I also use **student voice and student modelling**, noticing and positively reinforcing students who are already demonstrating the expected routine. In a cover class, I keep the work achievable and aligned with the regular teacher’s plan so that learning continues.
