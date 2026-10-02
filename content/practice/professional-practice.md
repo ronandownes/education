@@ -13,7 +13,7 @@ eyebrow: PROFESSIONAL PRACTICE
 
 I am an experienced **Mathematics and learning-support teacher** with a strong interest in making difficult ideas accessible without lowering expectations. I plan carefully, explain clearly, use evidence to adapt and try to move students from supported success towards independence.
 
-## STAR 1 — adapting quickly in a new school
+## STAR PR — Adapting quickly in a new school
 
 | STAR | Recall |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ I am an experienced **Mathematics and learning-support teacher** with a strong i
 | **Action** | I sought clear handover, reviewed plans and policies, spoke with relevant colleagues and used early classroom evidence to adapt my teaching. |
 | **Result** | I settled into the role quickly and maintained continuity for students. |
 
-## STAR 2 — collaborative improvement
+## STAR PR — Collaborative improvement
 
 | STAR | Recall |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------- |
