@@ -15,7 +15,7 @@ eyebrow: CHECK • INTERPRET • RESPOND
 
 I approach this through **Check, Interpret and Respond**. I use assessment to **make learning visible and decide what happens next**. I check learning through questioning, observation, student work and short assessments; interpret the evidence for understanding, misconceptions and progress; then respond by moving on, re-teaching, adapting support or increasing challenge.
 
-## STAR 1 — formative assessment changed the lesson
+## STAR AFR — Formative assessment changed the lesson
 
 
 | STAR | Recall |
@@ -25,7 +25,7 @@ I approach this through **Check, Interpret and Respond**. I use assessment to **
 | **Action** | I used a short hinge question and whole-class response, identified a common misconception and re-taught it using a different representation. |
 | **Result** | The second check showed stronger understanding and prevented the misconception carrying into the next topic. |
 
-## STAR 2 — feedback that produced action
+## STAR AFR — Feedback that produced action
 
 
 | STAR | Recall |
