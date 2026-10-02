@@ -114,7 +114,7 @@ I would organise this around **Respect, Justice, Community and Quality & Develop
 
 &nbsp;
 
-**Creating community** means 
+## **Creating community** means 
 
 1. establishing a classroom where students can contribute safely, 
 2. using pair and group work purposefully, 
