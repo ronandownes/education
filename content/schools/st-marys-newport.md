@@ -80,46 +80,46 @@ intro: "School-specific interview recall: ethos in practice, leadership,
 })();
 </script>
 
-## Interview priorities | What do I need to know first?
 
+
+## Interview priorities | What do I need to know first?
 
 | Ethos | Practice | Systems | Context |
 | ----------------------- | -------------------------- | ---------------------------- | ------------------------- |
 | **CEIST values** | **WSE + mixed attainment** | **Behaviour + safeguarding** | **Leadership transition** |
 | **Respect + community** | **Inclusion + assessment** | **Phone rule + procedures** | **Growth + facilities** |
 
-
 I would organise this around **Ethos, Practice, Systems and Context**. If I only have a few minutes, I would know these first: **CEIST values and how I live them in practice; the 2024 Whole-School Evaluation; mixed-attainment teaching and inclusion; the Code of Behaviour; Bí Cineálta; child safeguarding; the mobile-phone rule; and the school's current leadership transition.**
 
-## School at a glance | What are the basic facts about St Mary's?
 
+
+## School at a glance | What are the basic facts about St Mary's?
 
 | Identity | Current picture |
 | ----------------------------------------------------------- | ------------------------------------------------------- |
 | **Catholic / CEIST • voluntary secondary • co-educational** | **About 725 students • non-DEIS • TY + LCVP • growing** |
 
-
 I would organise this around **Identity and Current picture**. St Mary's is a **Catholic, co-educational voluntary secondary school** in Newport, Co. Tipperary, under **CEIST** trusteeship. It is **non-DEIS**, offers **Transition Year and LCVP**, and has grown rapidly. The Department register currently records **725 students: 365 boys and 360 girls**. The school profile supplied for September 2025 recorded **719 students**, so the important point is that it is a large, almost evenly balanced co-educational school of roughly 720-plus students.
 
-## Leadership transition | Who is leading the school now and what is changing?
 
+
+## Leadership transition | Who is leading the school now and what is changing?
 
 | Now | Change | Interview use |
 | ---------------------------------------------------- | --------------------------------- | ----------------------- |
 | **Kevin Cusack • Danny O'Callaghan • Orla Thornton** | **New Principal from 9 Nov 2026** | **Continuity + growth** |
 
-
 I would organise this around **Now, Change and Interview use**. **Mr Kevin Cusack is still the current Principal** on the school website and Department register. The school also lists **Mr Danny O'Callaghan and Ms Orla Thornton as Deputy Principals**. A new Principal post has been advertised **to take effect from 9 November 2026**. No incoming Principal has been publicly named in the sources checked, so for the interview I should simply note who is actually on the panel and use their role correctly.
 
 The useful interview point is that this is a school entering a **leadership transition while also growing physically and in enrolment**.
 
-## CEIST values | What five values should I be able to name?
 
+
+## CEIST values | What five values should I be able to name?
 
 | Develop | Teach & Respect | Build Community |
 | --------------------------------- | --------------------------------------------------------- | -------------------------------------------- |
 | **Spiritual + human development** | **Quality in teaching & learning • respect every person** | **Create community • be just & responsible** |
-
 
 I would organise this around **Develop, Teach & Respect and Build Community**. St Mary's uses the CEIST language explicitly:
 
@@ -133,13 +133,13 @@ The school's own stated aim is to develop and educate each student so that they 
 
 I should not recite these as five slogans. I should be able to show what they look like in an ordinary lesson, corridor interaction, behaviour issue, support meeting or conversation with a parent.
 
-## CEIST in daily practice | How would I support those values in my day-to-day teaching?
 
+
+## CEIST in daily practice | How would I support those values in my day-to-day teaching?
 
 | Respect | Justice | Community | Quality & Development |
 | ----------------------------------------------- | -------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------ |
 | **Know • listen • include • correct privately** | **Fair • consistent • proportionate • follow procedure** | **Belonging • relationships • contribution** | **Access • challenge • feedback • independence** |
-
 
 I would organise this around **Respect, Justice, Community and Quality & Development**. **Showing respect for every person** is probably the strongest value for me to develop in an answer. In practice that means knowing the students in front of me, listening, correcting privately where possible, separating the behaviour from the person, differentiating access without lowering expectations, allowing processing time, and making sure students with AEN are genuinely included in the mathematical learning.
 
@@ -153,25 +153,25 @@ I would organise this around **Respect, Justice, Community and Quality & Develop
 
 **Interview line:** **"For me, the CEIST values are lived in the ordinary interactions of the school day: how I teach, how I correct, how I include, how I listen and how consistently I take responsibility."**
 
-## Mission and ethos | How would I describe the school's ethos?
 
+
+## Mission and ethos | How would I describe the school's ethos?
 
 | Purpose | Inclusion | My fit |
 | ------------------------------------ | ----------------------------------------------------- | ---------------------------------------------------- |
 | **High-quality teaching & learning** | **Full range of aptitude + whole-person development** | **Access • high expectations • responsive teaching** |
 
-
 I would organise this around **Purpose, Inclusion and My fit**. The mission is to provide **teaching and learning of the highest quality for the benefit of the community it serves**, while catering for the **full range of academic aptitude and abilities** and supporting the intellectual, physical, social, cultural, moral and religious development of students.
 
 That fits naturally with my own language of **access to the curriculum, high expectations, responsive teaching and movement towards independence**.
 
-## Whole-School Evaluation | What did inspectors say in 2024?
 
+
+## Whole-School Evaluation | What did inspectors say in 2024?
 
 | Strengths | Development | Interview use |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------- |
 | **Inclusive climate • support • teaching • leadership • behaviour** | **Feedback • intentions • assessment • active learning • planning** | **Know strengths and improvement priorities** |
-
 
 I would organise this around **Strengths, Development and Interview use**. The April 2024 Whole-School Evaluation was strongly positive. Inspectors found a **very inclusive and positive environment**, **very effective student support and care**, **very good teaching overall**, **very good leadership and management**, **exemplary student behaviour**, a **broad curriculum** and strong wellbeing structures.
 
@@ -186,13 +186,13 @@ The development priorities matter just as much for interview:
 
 **Interview connection:** these are areas I can discuss concretely rather than merely saying I "fit the school".
 
-## Teaching and Learning Policy | What does the school's own policy emphasise?
 
+
+## Teaching and Learning Policy | What does the school's own policy emphasise?
 
 | Access & Challenge | Assessment | Independence |
 | ------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- |
 | **Mixed ability • Higher Level encouraged** | **Formative evidence • self/peer assessment • adapt** | **Participation • teamwork • research • digital learning** |
-
 
 I would organise this around **Access & Challenge, Assessment and Independence**. The school's Teaching and Learning Policy says classes are **mixed ability in the main** and that students are encouraged to take **Higher Level at both Junior and Senior Cycle** where appropriate.
 
@@ -200,13 +200,13 @@ It explicitly values **participation, teamwork, self-assessment, peer assessment
 
 That language matches my own approach closely:
 
-## Curriculum | What subjects and programmes do they offer?
 
+
+## Curriculum | What subjects and programmes do they offer?
 
 | Junior Cycle | Senior Cycle | My subjects |
 | ----------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | **Core curriculum + broad options** | **18 optional subjects + four sciences** | **Maths core • Science JC • Physics LC** |
-
 
 I would organise this around **Junior Cycle, Senior Cycle and My subjects**. At Junior Cycle, students study the core curriculum with **Mathematics, Science, languages, Computer Studies, wellbeing subjects and a broad optional programme**.
 
@@ -223,13 +223,13 @@ For my own subject awareness:
 
 So I should not accidentally tell the panel they offer Leaving Certificate Applied Mathematics or Computer Science unless they tell me provision has changed.
 
-## Transition Year | What should I know about TY?
 
+
+## Transition Year | What should I know about TY?
 
 | Purpose | Programme | Assessment |
 | ----------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------- |
 | **Maturity • personal/social/vocational development** | **Core subjects • work experience • coding • mini company • life skills** | **Portfolio 40% • continuous 40% • attendance 20%** |
-
 
 I would organise this around **Purpose, Programme and Assessment**. TY is **optional but extremely popular**. The school profile says take-up is **in excess of 90% of third years**.
 
@@ -243,13 +243,13 @@ Assessment is unusually explicit:
 
 Students also complete work experience and sign a TY behaviour contract. That tells me TY here is not a "free year"; it is broad, experiential and accountable.
 
-## Inclusion and AEN | What does St Mary's expect from a subject teacher?
 
+
+## Inclusion and AEN | What does St Mary's expect from a subject teacher?
 
 | Include | Scaffold | Independence |
 | --------------------------------------------------- | -------------------------------------------------------- | -------------------------------------- |
 | **Meaningful participation in worthwhile learning** | **Identify barriers • adapt route • maintain challenge** | **Reduce support as competence grows** |
-
 
 I would organise this around **Include, Scaffold and Independence**. The school has a strong inclusion profile. The WSE highlighted effective support structures and two autism special classes at the time of inspection. The SEN policy is particularly useful: it says subject teachers should make accommodations where needed and use methodologies that facilitate the **meaningful inclusion** of students with SEN.
 
@@ -257,13 +257,13 @@ For me that means:
 
 That is directly usable in an interview because it connects school policy to my ordinary Mathematics teaching.
 
-## Digital learning and iPads | What should I know about their digital approach?
 
+
+## Digital learning and iPads | What should I know about their digital approach?
 
 | Access | Boundaries | Purpose |
 | --------------------------------------- | -------------------------------------------------- | -------------------------------------------- |
 | **Optional iPads • teacher technology** | **Permission • privacy • safety • respectful use** | **Use technology when it improves learning** |
-
 
 I would organise this around **Access, Boundaries and Purpose**. The school has operated an **optional iPad initiative** for several years; the school profile says the vast majority of students purchase one. Teachers have access to iPads and classroom technology, and the school uses digital tools as part of teaching and learning.
 
@@ -271,13 +271,13 @@ The Acceptable Usage Policy treats internet access as a **valuable educational r
 
 The key point is not "they use iPads". It is: **technology is deliberately managed as a learning tool, not simply allowed because it is available.**
 
-## Mobile phones | What is the actual phone rule?
 
+
+## Mobile phones | What is the actual phone rule?
 
 | Rule | Response | Principle |
 | ----------------------- | ------------------------------------------------------ | ------------------------------------ |
 | **Off and not visible** | **Remove • secure • record • follow behaviour system** | **Apply school policy consistently** |
-
 
 I would organise this around **Rule, Response and Principle**. This is a strong concrete school-specific fact.
 
@@ -287,13 +287,13 @@ On a first offence, the policy provides for the phone/audio device to be removed
 
 So in an interview I would not say, "I have my own phone rule." I would say: **"I would apply the school's existing policy consistently."**
 
-## Code of Behaviour | What does the school's behaviour approach actually look like?
 
+
+## Code of Behaviour | What does the school's behaviour approach actually look like?
 
 | Promote | Respond | Escalate |
 | --------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- |
 | **Affirm good behaviour • praise • routines** | **Calm correction • positive reinforcement • SEN supports** | **Record • year head • senior management • detention/report** |
-
 
 I would organise this around **Promote, Respond and Escalate**. The Code of Behaviour is worth knowing well. It does not appear to foreground a named **restorative-practice model**. Instead, it strongly emphasises:
 
@@ -310,13 +310,13 @@ The code says St Mary's seeks to **promote and affirm good behaviour at all time
 
 My interview answer should therefore distinguish:
 
-## Bí Cineálta | How is bullying different from ordinary misbehaviour?
 
+
+## Bí Cineálta | How is bullying different from ordinary misbehaviour?
 
 | Define | Distinguish | Refer |
 | --------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
 | **Targeted • harmful • repeated • power imbalance** | **Ordinary inappropriate behaviour → Code of Behaviour** | **Year Head / Deputy Principal / Principal without delay** |
-
 
 I would organise this around **Define, Distinguish and Refer**. This is important. The school's **Bí Cineálta Policy** implements the national 2024 procedures.
 
@@ -328,13 +328,13 @@ That is a useful distinction for interview:
 
 **misbehaviour ≠ automatically bullying**
 
-## Child protection and safeguarding | What is the difference between the documents?
 
+
+## Child protection and safeguarding | What is the difference between the documents?
 
 | Policy | Statement | Risk Assessment |
 | ----------------------------------- | ---------------------------------- | ------------------------------------- |
 | **National procedures + reporting** | **School arrangements + DLP/DDLP** | **Where harm could arise + controls** |
-
 
 I would organise this around **Policy, Statement and Risk Assessment**. Yes — these are related but **not the same thing**.
 
@@ -350,13 +350,13 @@ The school profile also states that the **new Child Protection Procedures for Sc
 
 My own interview line remains simple: **recognise → protect → record facts → report to the DLP/DDLP → do not investigate independently.**
 
-## Changing rooms | Why is the changing-room policy worth knowing?
 
+
+## Changing rooms | Why is the changing-room policy worth knowing?
 
 | Safety | Supervision | Dignity |
 | -------------------------------- | ------------------------------------------------ | ------------------------------------- |
 | **Check area + manage movement** | **Active supervision from appropriate position** | **Protect privacy while supervising** |
-
 
 I would organise this around **Safety, Supervision and Dignity**. This is more relevant than it first sounds because it brings together **privacy, dignity, supervision, safeguarding and practical PE routines**.
 
@@ -366,13 +366,13 @@ Students are also advised not to leave valuables in changing areas.
 
 The interview principle is: **supervision must be active, but safeguarding also means respecting privacy and dignity.**
 
-## Supervision and safety | What does the supervision policy tell me?
 
+
+## Supervision and safety | What does the supervision policy tell me?
 
 | Rota | Respond | Plan |
 | ------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------- |
 | **Before school • breaks • lunch • after school** | **Report incidents/injuries • record serious events** | **Adequate supervision for activities and trips** |
-
 
 I would organise this around **Rota, Respond and Plan**. Supervision is organised through a formal rota and is compulsory for staff participating in the Supervision and Substitution scheme. Supervision operates **before school, at morning break, lunchtime and after school**.
 
@@ -380,13 +380,13 @@ Incidents or injuries are reported to the Year Head or senior management, and ac
 
 This reinforces the classroom-management distinction: once there is a **safety issue**, procedure and supervision take priority over simply trying to "manage the behaviour".
 
-## Complaints procedure | What should I know if a parent complains?
 
+
+## Complaints procedure | What should I know if a parent complains?
 
 | Resolve | Formalise | Stay Professional |
 | ---------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------- |
 | **Listen • clarify • school-level resolution** | **Written/signed complaint • evidence • response rights** | **Stay factual • document • follow procedure** |
-
 
 I would organise this around **Resolve, Formalise and Stay Professional**. I do not need to memorise the full procedure, but I should know the professional principle.
 
@@ -394,13 +394,13 @@ The complaints procedure begins at **Stage 1 with an attempt to resolve the issu
 
 My own practice is:
 
-## School uniform | What are the visible school expectations?
 
+
+## School uniform | What are the visible school expectations?
 
 | Expectation | Detail | Interview relevance |
 | ------------------------------------- | ------------------------------------- | ------------------------------------------ |
 | **Well presented + uniform followed** | **Formal school uniform + TY jumper** | **Consistent visible expectations matter** |
-
 
 I would organise this around **Expectation, Detail and Interview relevance**. The school has a formal uniform and expects students to be **well presented and adhere to it**.
 
@@ -410,13 +410,13 @@ TY students also have a dedicated TY jumper.
 
 I do not need to memorise clothing details for interview; the useful point is that **presentation and consistent expectations form part of the school's culture**.
 
-## Facilities, growth and development | What is changing in the school?
 
+
+## Facilities, growth and development | What is changing in the school?
 
 | Current | Expansion | Why it matters |
 | ---------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ |
 | **Gym • pitch • Astro • ASD hub • specialist rooms** | **SEN base • graphics • science labs • HE • classrooms** | **Growth + expanded inclusion + specialist provision** |
-
 
 I would organise this around **Current, Expansion and Why it matters**. The school is growing and has an active building programme. The profile records a full-size gym, strength and conditioning gym, pitch, Astro, ASD hub and specialist practical rooms.
 
@@ -424,13 +424,13 @@ Planning permission was granted in **May 2026** for further development includin
 
 This is a useful "why this school?" point: it is not static; it is a school dealing with **growth, expanded SEN provision and additional specialist facilities**.
 
-## Inspection reports | What reports should I know about?
 
+
+## Inspection reports | What reports should I know about?
 
 | Current | Older | Priority |
 | ------------ | ----------------------------------------------------------------------- | ---------------------------------------------------- |
 | **2024 WSE** | **Subject inspections including Science/Physics 2014 + Geography 2024** | **Know the WSE well; don't overload on old reports** |
-
 
 I would organise this around **Current, Older and Priority**. The one I should know well is the **2024 Whole-School Evaluation: Management, Leadership and Learning** because it is current and directly relevant to every teacher.
 
@@ -442,13 +442,13 @@ Department records also show subject inspections including:
 
 I did **not** find a current published subject inspection specifically for **Mathematics, Applied Mathematics or Computer Science** in the Department search. For tomorrow, I would prioritise the 2024 WSE rather than trying to memorise old subject reports.
 
-## Low-priority policies | Which policies do I not need to memorise?
 
+
+## Low-priority policies | Which policies do I not need to memorise?
 
 | Know they exist | Do not memorise |
 | --------------------------------------------------- | -------------------------------------------------------------- |
 | **Staff/employment/privacy policies are available** | **Prioritise teaching • behaviour • safeguarding • inclusion** |
-
 
 I would organise this around **Know they exist and Do not memorise**. The policy page is extensive. Some documents are important to know **exist**, but are poor use of interview-preparation time unless a question specifically points there.
 
@@ -468,13 +468,13 @@ Higher priority:
 
 **Code of Behaviour · Bí Cineálta · Child Safeguarding · Mobile Phones · Acceptable Usage · SEN · Supervision · Teaching & Learning · Complaints · Changing Rooms**
 
-## Why St Mary's | Why does this school fit my practice?
 
+
+## Why St Mary's | Why does this school fit my practice?
 
 | Fit | Practice | Context |
 | --------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------- |
 | **Large mixed-attainment + inclusive school** | **Explanation • modelling • assessment • scaffolding • independence** | **Growth + leadership transition** |
-
 
 I would organise this around **Fit, Practice and Context**. The strongest fit is not simply "I teach Mathematics".
 
@@ -482,25 +482,25 @@ St Mary's is a **large mixed-attainment school** that explicitly values high exp
 
 The school is also in a period of **growth and leadership transition**, so adaptability and the ability to establish continuity matter.
 
-## Contribution | What could I contribute beyond my own classes?
 
+
+## Contribution | What could I contribute beyond my own classes?
 
 | Classroom | Wider school | Community |
 | ----------------------------------------- | --------------------------------------------------------- | ----------------------------------------- |
 | **Strong Mathematics teaching + support** | **STEM • data • coding • digital • exam prep • projects** | **Contribute where there is a real need** |
 
-
 I would organise this around **Classroom, Wider school and Community**. I would first learn what is already working and then contribute where there is a real need. Natural areas for me are **Mathematics support, STEM, data, coding, digital learning, exam preparation and student projects**.
 
 The CEIST language matters here too: contribution is part of **creating community**, not a list of extracurricular activities added for interview effect.
 
-## Panel questions | What could I ask at the end?
 
+
+## Panel questions | What could I ask at the end?
 
 | Department | Teaching & Learning | Growth |
 | -------------------- | --------------------------------- | ------------------------------------------------------ |
 | **Maths priorities** | **2024 WSE development priority** | **Facilities / first-weeks expectations / continuity** |
-
 
 I would organise this around **Department, Teaching & Learning and Growth**. Useful questions would be:
 
@@ -510,6 +510,8 @@ I would organise this around **Department, Teaching & Learning and Growth**. Use
 - **"What would you most like the successful Mathematics teacher to establish in the first few weeks?"**
 
 If the leadership transition is discussed naturally, I can also ask about priorities for continuity, but I would not make the Principal change the centre of the interview.
+
+
 
 ## Sources
 
@@ -536,4 +538,3 @@ If the leadership transition is discussed naturally, I can also ask about priori
 - [Complaints Procedure](https://www.stmarysnewport.com/wp-content/uploads/Complaints-Procedure-Policy-15-January-2025-1.pdf)
 - [Department school register — roll 65400H](https://www.gov.ie/en/department-of-education/schools/st-marys-secondary-school-7/)
 - [CEIST school profile](https://www.ceist.ie/school/st-marys-secondary-school-newport/)
-
