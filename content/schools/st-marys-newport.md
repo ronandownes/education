@@ -127,7 +127,7 @@ I would organise this around **Respect, Justice, Community and Quality & Develop
 
 &nbsp;
 
-Achieving quality in teaching and learning 
+## Achieving quality in teaching and learning 
 
 
 
