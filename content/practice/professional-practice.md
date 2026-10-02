@@ -107,7 +107,8 @@ I approach this through **Share, Agree and Follow through**. I communicate clear
 
 | Plan | Share | Improve |
 | ----------------------- | ----------------- | ------------------- |
-| **Curriculum sequence** | **Resources** | **Review evidence** |
+| Curriculum sequence | **Resources** | **Review evidence** |
+| **Assessment approach** | **Methodologies** | **Refine scheme** |
 | **Assessment approach** | **Methodologies** | **Refine scheme** |
 
 I approach this through **Plan, Share and Improve**. I contribute through **curriculum planning, schemes of work, shared resources, assessment evidence and discussion of learner experiences**. Good department planning should influence classroom practice and be reviewed in light of student learning, not exist only as documentation.
