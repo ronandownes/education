@@ -14,7 +14,24 @@ eyebrow: Start Teach Finish
 |  | **Model** | **Check and adapt** |  |
 
 
-I approach this through **Start, Teach, Teach and Finish**. For me, I start with the **students in front of me** and a clear **learning intention**. Then it’s **plan carefully, explain clearly, model explicitly, scaffold where needed, keep them thinking, check what they’re learning and adapt**. Then **consolidate** and, bit by bit, move them towards **independence**.
+I approach this through **Start, Teach, Teach and Finish**. For me, I start with the **students in front of me** and a clear **learning intention**. Then it’s **plan carefully, explain clearly, model explicitly, scaffold where needed, keep them thinking, check what they’re learning and adapt**. Then **consolidate** and, bit by bit, move them towards **independence**.  
+  
+
+
+## STAR 1 — Zero-Product Rule / Difficult Concept
+
+
+| STAR | Recall |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Situation** | In a mixed-attainment Junior Cycle Mathematics class, students were comfortable solving linear equations by isolating the unknown, but struggled when factorised quadratic equations required the zero-product rule. The idea that if (x-2)(x+3)=0, one factor or the other must be zero was a genuine conceptual jump. |
+| **Task** | Make the new rule meaningful rather than turning it into another procedure to memorise. |
+| **Action** | I returned to prior knowledge of straight-line graphs. I graphed y=x-2 and y=x+3, then showed how multiplying the two linear expressions produces the parabola y=(x-2)(x+3). Students could then see that the product is zero exactly where either linear factor is zero. I moved back to the algebra and checked whether they could explain why each factor was set equal to zero. |
+| **Result** | Students were better able to connect factorisation, roots and x-intercepts and could explain the zero-product rule rather than simply copy the procedure. |
+
+
+
+
+&nbsp;
 
 ## STAR 2 — Complex Numbers / Recovering a Lesson
 
@@ -26,6 +43,7 @@ I approach this through **Start, Teach, Teach and Finish**. For me, I start with
 | **Action** | I paused the planned sequence and questioned the class to locate the difficulty. I went back to the extension of number systems — natural numbers, integers, rationals and reals — and framed complex numbers as another extension needed to solve equations such as x^2+1=0. I then used the Argand diagram, linking the real axis to the familiar number line and the imaginary axis to the new dimension, before returning to the algebra. |
 | **Result** | Students had a clearer model of what a+bi represented and could explain the purpose of the new number system rather than only manipulate symbols. |
 
+
 ## STAR 3 — Trigonometry / Mixed Attainment and AEN
 
 
@@ -35,6 +53,7 @@ I approach this through **Start, Teach, Teach and Finish**. For me, I start with
 | **Task** | Keep the same worthwhile mathematical objective while reducing unnecessary cognitive load and moving students towards independence. |
 | **Action** | I broke the process into visible stages: mark the right angle, identify the hypotenuse, identify opposite and adjacent relative to the chosen angle, then decide which ratio connects the known and unknown sides. For students who needed it I used the scaffold **What do I know? → What am I finding? → Which sides are involved? → Which ratio connects them?** I checked each stage with mini-whiteboards and gradually removed the prompts. Students who were secure moved to less structured contextual problems and inverse trigonometric ratios. |
 | **Result** | Students who initially relied on the scaffold began selecting the appropriate ratio independently, while higher-attaining students continued into deeper problems without being held back. |
+
 
 ## Planning | How do you plan effectively for the students in front of you?
 
@@ -132,14 +151,8 @@ I approach this through **Evidence, Reflect and Improve**. I look at **evidence 
 
 These are **rehearsal composites**: keep the structure, but use the version that matches a real class you have taught.
 
-## STAR 1 — Zero-Product Rule / Difficult Concept
 
 
-| STAR | Recall |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | In a mixed-attainment Junior Cycle Mathematics class, students were comfortable solving linear equations by isolating the unknown, but struggled when factorised quadratic equations required the zero-product rule. The idea that if (x-2)(x+3)=0, one factor or the other must be zero was a genuine conceptual jump. |
-| **Task** | Make the new rule meaningful rather than turning it into another procedure to memorise. |
-| **Action** | I returned to prior knowledge of straight-line graphs. I graphed y=x-2 and y=x+3, then showed how multiplying the two linear expressions produces the parabola y=(x-2)(x+3). Students could then see that the product is zero exactly where either linear factor is zero. I moved back to the algebra and checked whether they could explain why each factor was set equal to zero. |
-| **Result** | Students were better able to connect factorisation, roots and x-intercepts and could explain the zero-product rule rather than simply copy the procedure. |
+&nbsp;
 
-
+&nbsp;
