@@ -57,7 +57,7 @@ I would organise this around **Develop, Teach & Respect and Build Community**. S
 4. **Creating community**
 5. **Being just and responsible**
 
-The school's own stated aim is to develop and educate each student so that they have the **opportunity and encouragement to reach their full potential**.
+The school's own stated aim is to develop and educate each student so that they have the **opportunity and encouragement** to reach their full potential.
 
 I should not recite these as five slogans. I should be able to show what they look like in an ordinary lesson, corridor interaction, behaviour issue, support meeting or conversation with a parent.
 
