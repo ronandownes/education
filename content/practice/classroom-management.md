@@ -16,7 +16,21 @@ eyebrow: Prevent Respond Restore
 
 I approach this through **Prevent, Respond and Restore**. Good classroom management creates an inclusive and positive environment  **with  predictable and purposeful.** I establish clear expectations, **explicitly teach and model routines**, keep students engaged, and intervene early, calmly and proportionately so that attention returns to learning.
 
-## STAR 2 — Challenging / Escalating Behaviour
+## STAR examples | What examples could you use to show effective classroom management?
+
+These are **rehearsal composites**: keep the competency structure and use the closest real incident from your own teaching. The three examples deliberately show different thresholds: **ordinary disorder → challenging behaviour → safety**.
+
+## STAR CM — Low-level misbehaviour
+
+
+| STAR | Recall |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Situation** | In a mixed-attainment Mathematics class, one student was repeatedly turning to talk during explanation and drawing two nearby students off task. The behaviour was disruptive, but it was ordinary classroom disorder rather than a serious incident. |
+| **Task** | Restore attention and protect the learning of the group without escalating a minor issue into a confrontation. |
+| **Action** | I first used proximity and a non-verbal cue, then a brief private reminder. When the pattern continued, I adjusted the seating, made the next task very clear and achievable, and followed through consistently while continuing to notice the student's successful engagement. |
+| **Result** | The disruption reduced, the student completed the work and the class returned to a settled routine without the issue becoming personal or public. |
+
+## STAR CM — Challenging / escalating behaviour
 
 
 | STAR | Recall |
@@ -27,7 +41,7 @@ I approach this through **Prevent, Respond and Restore**. Good classroom managem
 | **Result** | The situation de-escalated without a public confrontation. The student was able to re-enter learning, and the follow-up clarified both the expectation and any support needed to prevent a repeat. |
 
 
-## STAR 3 — Serious / Unsafe Behaviour
+## STAR CM — Serious / unsafe behaviour
 
 
 | STAR | Recall |
@@ -174,19 +188,3 @@ I approach this through **Evidence, Communicate and Coordinate**. I involve othe
 
 
 I approach this through **Recognise, Record and Refer**. Once behaviour suggests a safeguarding concern, ordinary behaviour management is no longer enough. I ensure immediate safety, record the relevant facts and follow the child-protection procedure by reporting to the DLP or DDLP; I do not investigate independently or promise confidentiality.
-
-## STAR examples | What examples could you use to show effective classroom management?
-
-These are **rehearsal composites**: keep the competency structure and use the closest real incident from your own teaching. The three examples deliberately show different thresholds: **ordinary disorder → challenging behaviour → safety**.
-
-## R1 | Give an example of what you do about low-level misbehaviour?
-
-
-| STAR | Recall |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | In a mixed-attainment Mathematics class, one student was repeatedly turning to talk during explanation and drawing two nearby students off task. The behaviour was disruptive, but it was ordinary classroom disorder rather than a serious incident. |
-| **Task** | Restore attention and protect the learning of the group without escalating a minor issue into a confrontation. |
-| **Action** | I first used proximity and a non-verbal cue, then a brief private reminder. When the pattern continued, I adjusted the seating, made the next task very clear and achievable, and followed through consistently while continuing to notice the student's successful engagement. |
-| **Result** | The disruption reduced, the student completed the work and the class returned to a settled routine without the issue becoming personal or public. |
-
-
