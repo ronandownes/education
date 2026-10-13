@@ -19,20 +19,70 @@
     </button>
     <nav class="topnav" id="mainNav" aria-label="Main navigation">
 
-      <div class="navitem nav-stories">
-        <a class="navlabel" href="{{ '/stories.html' | relative_url }}"><span>Stories</span></a>
-      </div>
-
-      <div class="navitem nav-teaching">
-        <a class="navlabel" href="{{ '/teaching-learning.html' | relative_url }}"><span>Teaching &amp;<br>Learning</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Teaching and Learning menu">▾</button>
+      <div class="navitem nav-teaching-pedagogy">
+        <a class="navlabel" href="{{ '/teaching-pedagogy.html' | relative_url }}"><span>Teaching &amp;<br>Pedagogy</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Teaching, Learning & Mathematics Pedagogy menu">▾</button>
         <div class="dropmenu">
-          <a href="{{ '/teaching-learning.html#what-is-your-general-approach-to-teaching-and-learning' | relative_url }}">What is your general approach?</a>
-          <a href="{{ '/teaching-learning.html#how-do-you-make-learning-active-without-losing-structure' | relative_url }}">How do you make learning active?</a>
-          <a href="{{ '/teaching-learning.html#how-do-you-know-whether-students-have-understood' | relative_url }}">How do you know they understood?</a>
-          <a href="{{ '/teaching-learning.html#digital-learning-ict' | relative_url }}">Digital Learning / ICT</a>
+          <a href="{{ '/teaching-learning.html' | relative_url }}">Teaching & Learning</a>
+          <a href="{{ '/teaching-learning.html' | relative_url }}">Mathematics teaching strategies</a>
+          <a href="{{ '/stories.html' | relative_url }}">Stories — teaching examples</a>
         </div>
       </div>
+
+      <div class="navitem nav-classroom-relationships">
+        <a class="navlabel" href="{{ '/classroom-relationships.html' | relative_url }}"><span>Classroom &amp;<br>Relationships</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Classroom Management & Student Relationships menu">▾</button>
+        <div class="dropmenu">
+          <a href="{{ '/classroom-management.html' | relative_url }}">Classroom Management</a>
+          <a href="{{ '/relationships-wellbeing.html' | relative_url }}">Relationships & Wellbeing</a>
+          <a href="{{ '/stories.html' | relative_url }}">Stories — classroom examples</a>
+        </div>
+      </div>
+
+      <div class="navitem nav-inclusion-support">
+        <a class="navlabel" href="{{ '/inclusion-support.html' | relative_url }}"><span>Inclusion &amp;<br>Support</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Inclusion, Differentiation & Student Support menu">▾</button>
+        <div class="dropmenu">
+          <a href="{{ '/sen-inclusion.html' | relative_url }}">SEN / AEN & Inclusion</a>
+          <a href="{{ '/differentiation-accessibility.html' | relative_url }}">Differentiation & Accessibility</a>
+          <a href="{{ '/stories.html' | relative_url }}">Stories — inclusion examples</a>
+        </div>
+      </div>
+
+      <div class="navitem nav-assessment-curriculum">
+        <a class="navlabel" href="{{ '/assessment-curriculum.html' | relative_url }}"><span>Assessment &amp;<br>Curriculum</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Assessment, Planning & Curriculum menu">▾</button>
+        <div class="dropmenu">
+          <a href="{{ '/assessment-reporting.html' | relative_url }}">Assessment, Feedback & Reporting</a>
+          <a href="{{ '/planning-curriculum.html' | relative_url }}">Planning & Curriculum</a>
+          <a href="{{ '/stories.html' | relative_url }}">Stories — assessment examples</a>
+        </div>
+      </div>
+
+      <div class="navitem nav-collaboration-leadership">
+        <a class="navlabel" href="{{ '/collaboration-leadership.html' | relative_url }}"><span>Collaboration &amp;<br>Leadership</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Collaboration, Communication & Leadership menu">▾</button>
+        <div class="dropmenu">
+          <a href="{{ '/professional-practice.html' | relative_url }}">Professional Responsibility — collaboration</a>
+          <a href="{{ '/timeline.html' | relative_url }}">Teaching Experience</a>
+          <a href="{{ '/stories.html' | relative_url }}">Stories — teamwork and leadership</a>
+        </div>
+      </div>
+
+      <div class="navitem nav-ethos-professionalism">
+        <a class="navlabel" href="{{ '/ethos-professionalism.html' | relative_url }}"><span>Ethos &amp;<br>Professionalism</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open School Ethos, Professionalism & Whole-School Contribution menu">▾</button>
+        <div class="dropmenu">
+          <a href="{{ '/professional-practice.html' | relative_url }}">Professional Responsibility</a>
+          <a href="{{ '/content/profiles.html' | relative_url }}">School profiles</a>
+          <a href="{{ '/stories.html' | relative_url }}">Stories — master evidence bank</a>
+        </div>
+      </div>
+
+      <div class="navitem nav-resources nav-right">
+        <a class="navlabel" href="{{ '/resources.html' | relative_url }}"><span>Resources</span></a>
+      </div>
+
 
       <div class="navitem nav-classes">
         <a class="navlabel" href="{{ '/teaching/class-profiles.html' | relative_url }}"><span>Classes</span></a>
@@ -57,56 +107,6 @@
         </div>
       </div>
 
-      <div class="navitem nav-classroom">
-        <a class="navlabel" href="{{ '/classroom-management.html' | relative_url }}"><span>Classroom<br>Management</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Classroom Management menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/classroom-management.html#what-is-your-general-approach-to-classroom-management' | relative_url }}">General approach / maintaining structure</a>
-          <a href="{{ '/classroom-management.html#how-do-you-deal-with-low-level-disruption' | relative_url }}">Low-level disruption</a>
-          <a href="{{ '/classroom-management.html#what-if-behaviour-becomes-persistent-or-challenging' | relative_url }}">Persistent or challenging behaviour</a>
-          <a href="{{ '/classroom-management.html#what-about-an-overwhelmed-student-or-safeguarding-type-situation' | relative_url }}">Overwhelm / safeguarding</a>
-        </div>
-      </div>
-
-      <div class="navitem nav-sen">
-        <a class="navlabel" href="{{ '/sen-inclusion.html' | relative_url }}"><span>SEN / AEN &amp;<br>Inclusion</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open SEN AEN and Inclusion menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/sen-inclusion.html#what-is-your-approach-to-sen--aen' | relative_url }}">Approach to SEN / AEN</a>
-          <a href="{{ '/sen-inclusion.html#why-does-patience-matter-in-aen' | relative_url }}">Patience, processing and regulation</a>
-          <a href="{{ '/sen-inclusion.html#how-do-you-differentiate-in-a-mixed-needs-class' | relative_url }}">Mixed-needs classroom</a>
-          <a href="{{ '/sen-inclusion.html#what-experience-do-you-have-of-learning-support' | relative_url }}">Learning-support experience</a>
-        </div>
-      </div>
-
-      <div class="navitem nav-differentiation">
-        <a class="navlabel" href="{{ '/differentiation-accessibility.html' | relative_url }}"><span>Differentiation &amp;<br>Accessibility</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Differentiation and Accessibility menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/differentiation-accessibility.html#what-does-differentiation-mean-in-your-classroom' | relative_url }}">What does differentiation mean?</a>
-          <a href="{{ '/differentiation-accessibility.html#how-does-udl-fit' | relative_url }}">How does UDL fit?</a>
-        </div>
-      </div>
-
-      <div class="navitem nav-assessment">
-        <a class="navlabel" href="{{ '/assessment-reporting.html' | relative_url }}"><span>Assessment, Feedback<br>&amp; Reporting</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Assessment Feedback and Reporting menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/assessment-reporting.html#how-do-you-assess-learning' | relative_url }}">How do you assess learning?</a>
-          <a href="{{ '/assessment-reporting.html#what-makes-feedback-useful' | relative_url }}">What makes feedback useful?</a>
-          <a href="{{ '/assessment-reporting.html#how-do-you-report-progress' | relative_url }}">How do you report progress?</a>
-        </div>
-      </div>
-
-      <div class="navitem nav-planning">
-        <a class="navlabel" href="{{ '/planning-curriculum.html' | relative_url }}"><span>Planning &amp;<br>Curriculum</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Planning and Curriculum menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/planning-curriculum.html#if-you-were-given-a-second-year-maths-class-in-september-how-would-you-plan-the-year' | relative_url }}">Plan a second-year class</a>
-          <a href="{{ '/planning-curriculum.html#how-do-you-plan-a-lesson' | relative_url }}">Plan a lesson</a>
-          <a href="{{ '/planning-curriculum.html#how-do-you-plan-for-different-programmes-and-pathways' | relative_url }}">Programmes and pathways</a>
-        </div>
-      </div>
 
       <div class="navitem nav-plans">
         <a class="navlabel" href="{{ '/planning/schemes-of-work.html' | relative_url }}"><span>Plans</span></a>
@@ -120,58 +120,6 @@
           <a data-menu-page href="{{ '/planning/schemes/transition-year-maths.html' | relative_url }}">Transition Year Mathematics</a>
           <a data-menu-page href="{{ '/planning/schemes/leaving-cert-ordinary.html' | relative_url }}">Leaving Certificate Mathematics — Ordinary</a>
           <a data-menu-page href="{{ '/planning/schemes/leaving-cert-higher.html' | relative_url }}">Leaving Certificate Mathematics — Higher</a>
-        </div>
-      </div>
-      <div class="navitem nav-relationships">
-        <a class="navlabel" href="{{ '/relationships-wellbeing.html' | relative_url }}"><span>Relationships &amp;<br>Wellbeing</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Relationships and Wellbeing menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/relationships-wellbeing.html#what-role-do-relationships-play-in-learning' | relative_url }}">Relationships and learning</a>
-          <a href="{{ '/relationships-wellbeing.html#what-is-the-subject-teachers-pastoral-role' | relative_url }}">Subject teacher's pastoral role</a>
-        </div>
-      </div>
-
-      <div class="navitem nav-professional nav-right">
-        <a class="navlabel" href="{{ '/professional-practice.html' | relative_url }}"><span>Professional<br>Responsibility</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Professional Responsibility menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/professional-practice.html#school-ethos-and-mission' | relative_url }}">School ethos &amp; mission</a>
-          <a href="{{ '/professional-practice.html#school-types-sector-and-ethos' | relative_url }}">School types, sector &amp; ethos</a>
-          <a href="{{ '/professional-practice.html#how-do-you-work-with-colleagues' | relative_url }}">Working with colleagues</a>
-          <a href="{{ '/professional-practice.html#how-do-you-contribute-beyond-your-timetable' | relative_url }}">Contribution to school community</a>
-          <a href="{{ '/professional-practice.html#extracurricular-contribution' | relative_url }}">Extracurricular contribution</a>
-          <a href="{{ '/professional-practice.html#interview-opener-and-closer' | relative_url }}">Interview opener &amp; closer</a>
-          <a href="{{ '/professional-practice.html#questions-for-the-school' | relative_url }}">Questions for the school</a>
-          <a href="{{ '/school-research.html' | relative_url }}">School research — St Patrick's</a>
-        </div>
-      </div>
-
-      <div class="navitem nav-resources nav-right">
-        <a class="navlabel" href="{{ '/resources.html' | relative_url }}"><span>Resources</span></a>
-      </div>
-
-      <div class="navitem nav-glossary nav-right">
-        <a class="navlabel" href="{{ '/glossary.html' | relative_url }}"><span>Glossary</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Glossary menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/glossary.html#emotional-wellbeing-and-relationships' | relative_url }}">Emotional wellbeing and relationships</a>
-          <a href="{{ '/glossary.html#mathematical-expectations' | relative_url }}">Mathematical expectations</a>
-          <a href="{{ '/glossary.html#prior-knowledge-as-a-barrier' | relative_url }}">Prior knowledge as a barrier</a>
-          <a href="{{ '/glossary.html#barriers-to-learning' | relative_url }}">Barriers to learning</a>
-        </div>
-      </div>
-
-      <div class="navitem nav-timeline nav-right">
-        <a class="navlabel" href="{{ '/timeline.html' | relative_url }}"><span>Timeline</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Timeline menu">▾</button>
-        <div class="dropmenu">
-          <a href="{{ '/timeline.html#timeline-st-patricks' | relative_url }}">St Patrick's Comprehensive, Shannon</a>
-          <a href="{{ '/timeline.html#timeline-presentation' | relative_url }}">Presentation Secondary, Thurles</a>
-          <a href="{{ '/timeline.html#timeline-nenagh' | relative_url }}">Nenagh College</a>
-          <a href="{{ '/timeline.html#timeline-thomond' | relative_url }}">Thomond Community College</a>
-          <a href="{{ '/timeline.html#timeline-scoil-mhuire' | relative_url }}">Scoil Mhuire agus Íde</a>
-          <a href="{{ '/timeline.html#timeline-john-baptist' | relative_url }}">John the Baptist Community School</a>
-          <a href="{{ '/timeline.html#timeline-earlier' | relative_url }}">Earlier Teaching Experience</a>
         </div>
       </div>
 
