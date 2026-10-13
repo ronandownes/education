@@ -353,3 +353,18 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
     page-break-inside:avoid!important;
   }
 }
+
+
+/* Six-domain interview studio navigation: uncluttered, no legacy dropdown slots. */
+.topnav>.navitem:not(:has(.navtoggle)){grid-template-columns:minmax(0,1fr)}
+.topnav>.nav-teaching-pedagogy,.topnav>.nav-classroom-relationships,
+.topnav>.nav-inclusion-support,.topnav>.nav-assessment-curriculum,
+.topnav>.nav-collaboration-leadership,.topnav>.nav-ethos-professionalism{--nav-w:clamp(108px,10.8vw,160px)}
+.topnav>.navitem:not(:has(.navtoggle))>.navlabel{padding:7px 8px}
+body:has(#sl-bank) .doc-intro{max-width:900px;margin-left:auto;margin-right:auto}
+body:has(#sl-bank) .doc-paper{box-shadow:none!important}
+@media(max-width:1200px) and (min-width:901px){
+ .topnav>.nav-teaching-pedagogy,.topnav>.nav-classroom-relationships,
+ .topnav>.nav-inclusion-support,.topnav>.nav-assessment-curriculum,
+ .topnav>.nav-collaboration-leadership,.topnav>.nav-ethos-professionalism{--nav-w:105px}
+}
