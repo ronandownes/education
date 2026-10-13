@@ -147,6 +147,39 @@ body:has(#sl-bank) .doc-body{width:100%!important;min-width:0!important}
 .sl-bank .sl-speech-pause{width:42px;height:42px;padding:8px;border-radius:50%;border:1.5px solid #0b65d8;color:#0b65d8;background:transparent;display:inline-flex;align-items:center;justify-content:center}.sl-bank .sl-speech-pause svg{width:21px;height:21px}.sl-bank .sl-speech-pause[hidden]{display:none!important}
 .sl-bank #sl-story-actions .sl-reading-mode{width:56px;height:56px;min-width:56px;border-width:2px}.sl-bank #sl-story-actions .sl-reading-mode svg{width:31px;height:31px}.sl-bank .story-copy.sl-progressive .sl-previous-sentence{color:#79838e!important}.sl-bank .story-copy.sl-progressive p span:not([hidden]):not(.sl-previous-sentence){color:inherit}
 .sl-bank .sl-accordion-item.sl-prior-story>.sl-accordion-header{background:#eef0f2!important;color:#8a929b!important;box-shadow:none}.sl-bank .sl-accordion-item.sl-prior-story{border-color:#e2e5e9;box-shadow:none}.sl-bank .sl-accordion-item.sl-prior-story>.sl-accordion-header:hover{background:#e0e5ea!important;color:#58636f!important}
+
+/* Keep the recorder visible while speaking, like a compact live recording dock. */
+#sl-recording-booth.is-live-recording{
+ position:fixed!important;left:50%;bottom:calc(14px + env(safe-area-inset-bottom));transform:translateX(-50%);
+ z-index:1200;box-sizing:border-box;width:min(1000px,calc(100vw - 32px));max-width:1000px!important;
+ margin:0!important;padding:10px 14px!important;border:1px solid #d8e0e8!important;border-radius:22px;
+ background:rgba(255,255,255,.97);box-shadow:0 10px 32px rgba(22,43,66,.22);backdrop-filter:blur(12px)
+}
+#sl-recording-booth.is-live-recording .record-controls{width:100%;gap:10px;flex-wrap:nowrap}
+#sl-recording-booth.is-live-recording .sl-mic-meter{flex:1;min-width:0;width:auto;max-width:none;gap:12px}
+#sl-recording-booth.is-live-recording .sl-mic-meter .level{flex:1;min-width:48px;width:100%;height:44px}
+#sl-recording-booth.is-live-recording #sl-elapsed{min-width:3.25rem;text-align:right;font-variant-numeric:tabular-nums}
+#sl-recording-booth.is-live-recording #sl-play,
+#sl-recording-booth.is-live-recording #sl-play-stop,
+#sl-recording-booth.is-live-recording #sl-download{display:none!important}
+#sl-recording-booth.is-live-recording #sl-record{background:#27313b;border-color:#27313b;color:#fff;box-shadow:0 0 0 3px rgba(37,49,61,.12)}
+#sl-recording-booth.is-live-recording #sl-record-pause{background:#fff;color:#334658}
+body.sl-live-recording{padding-bottom:120px}
+@media(max-width:700px){
+ #sl-recording-booth.is-live-recording{left:10px;right:10px;bottom:calc(10px + env(safe-area-inset-bottom));width:auto;transform:none;padding:8px!important}
+ #sl-recording-booth.is-live-recording .record-controls{gap:6px}
+ #sl-recording-booth.is-live-recording .transport{width:42px;height:42px}
+ #sl-recording-booth.is-live-recording .sl-mic-meter{gap:6px;padding:2px 7px}
+ #sl-recording-booth.is-live-recording .sl-mic-symbol{display:none}
+ #sl-recording-booth.is-live-recording .sl-mic-meter .level{height:38px}
+ #sl-recording-booth.is-live-recording #sl-elapsed{min-width:2.8rem;font-size:.82rem}
+}
+@media(prefers-color-scheme:dark){
+ #sl-recording-booth.is-live-recording{background:rgba(32,42,54,.97);border-color:#536272!important;box-shadow:0 10px 32px rgba(0,0,0,.5)}
+ #sl-recording-booth.is-live-recording .sl-mic-meter{background:#273443;border-color:#536272}
+ #sl-recording-booth.is-live-recording #sl-record-pause{background:#202a36;color:#e5eaf0;border-color:#536272}
+}
+
 </style>
 <section class="sl-bank" id="sl-bank">
   <div id="sl-accordion" class="sl-accordion"></div>
@@ -163,7 +196,7 @@ body:has(#sl-bank) .doc-body{width:100%!important;min-width:0!important}
         <button class="transport play sl-read-icon" type="button" id="sl-play" title="Play recording" aria-label="Play recording" disabled><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3.5 L20 12 L6 20.5 Z"/></svg></button>
         <button class="transport sl-play-stop" type="button" id="sl-play-stop" title="Stop playback" aria-label="Stop playback" hidden><svg viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="1"/></svg></button>
         <button class="download sl-download-icon" type="button" id="sl-download" title="Download latest recording" aria-label="Download latest recording" disabled><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3v12m-4-4 4 4 4-4M4 16v4h16v-4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
-      <div class="sl-mic-meter"><span class="sl-mic-symbol" aria-hidden="true">🎙</span><canvas class="level" id="sl-level" aria-label="Audio level progressing to the right"></canvas><output id="sl-elapsed">00:00</output></div>
+      <div class="sl-mic-meter"><span class="sl-mic-symbol" aria-hidden="true">🎙</span><canvas class="level" id="sl-level" aria-label="Live audio waveform. New audio enters at the right and moves left."></canvas><output id="sl-elapsed" aria-label="Elapsed recording time">00:00</output></div>
       </div>
       <p class="status sl-visually-hidden" id="sl-status" role="status">Ready. Press the red record circle to begin.</p>
       <audio id="sl-audio" preload="metadata" hidden></audio>
@@ -190,12 +223,29 @@ recordingToggle.addEventListener("click",()=>{
 });
 let selected=0,media=null,stream=null,chunks=[],blob=null,blobUrl=null,recordedStory="",audioContext=null,analyser=null,source=null,animation=0;
 const accordion=$("sl-accordion");
+const tableToggle=$("sl-table-toggle");
 $("sl-story-toggle").addEventListener("click",()=>{if(openIndex<0)return;visibility[selected].exposition=!visibility[selected].exposition;if(!visibility[selected].exposition)stopReading();render()});
-$("sl-table-toggle").addEventListener("click",()=>{if(openIndex<0)return;visibility[selected].table=!visibility[selected].table;if(!visibility[selected].table)stopReading();render()});
+tableToggle.title="Click to show or hide the table; double-click to hide or show its top row.";
+tableToggle.setAttribute("aria-label","Show or hide table; double-click to hide or show its top row");
+tableToggle.setAttribute("aria-keyshortcuts","Alt+Shift+H");
+tableToggle.addEventListener("click",()=>{if(openIndex<0)return;visibility[selected].table=!visibility[selected].table;if(!visibility[selected].table)stopReading();render()});
 
 const visibility=stories.map(()=>({exposition:true,table:true}));
 const cueColumns=stories.map(s=>s.headings.map(()=>true));
 const cueProgress=stories.map(s=>s.headings.map(()=>s.cues.length));
+let cueHeadersVisible=true;
+function toggleCueHeaders(){
+ cueHeadersVisible=!cueHeadersVisible;
+ const head=$("sl-story-table").querySelector("thead");
+ if(head)head.hidden=!cueHeadersVisible;
+ status.textContent=cueHeadersVisible?"Table headings shown.":"Table headings hidden. Double-click the table icon or press Alt+Shift+H to show them.";
+}
+tableToggle.addEventListener("dblclick",event=>{event.preventDefault();event.stopPropagation();toggleCueHeaders()});
+document.addEventListener("keydown",event=>{
+ const target=event.target;
+ const typing=target instanceof Element&&!!target.closest("input,textarea,select,[contenteditable='true']");
+ if(event.altKey&&event.shiftKey&&event.key.toLowerCase()==="h"&&!typing){event.preventDefault();toggleCueHeaders()}
+});
 let openIndex=-1;
 function updatePriorStoryAppearance(){
  accordion.querySelectorAll(".sl-accordion-item").forEach((item,index)=>item.classList.toggle("sl-prior-story",openIndex>=0&&index<openIndex));
@@ -420,7 +470,8 @@ function render(){
    });
   });
   th.append(reveal);tr.append(th);
- });head.append(tr);t.append(head);
+ });head.append(tr);t.append(head);head.hidden=!cueHeadersVisible;
+ tr.addEventListener("dblclick",event=>{event.preventDefault();event.stopPropagation();toggleCueHeaders()});
  const tbody=document.createElement("tbody");s.cues.filter(r=>r.some(Boolean)).forEach(row=>{
   const tr=document.createElement("tr");row.forEach((word,j)=>{
    const td=document.createElement("td");td.dataset.cue=word;td.tabIndex=0;td.setAttribute("role","button");td.setAttribute("aria-label","Reveal next "+s.headings[j]+" cue");
@@ -461,9 +512,11 @@ function draw(){
   let sq=0;for(const n of v)sq+=((n-128)/128)**2;
   levels.push(Math.min(1,Math.sqrt(sq/v.length)*3));
  }
- const last=levels.slice(-Math.floor(w/3));
+ const maxBars=Math.max(1,Math.floor(w/3));
+ if(levels.length>maxBars)levels.splice(0,levels.length-maxBars);
+ const last=levels,offset=Math.max(0,w-last.length*3);
  ctx.strokeStyle="#2261a6";ctx.lineWidth=2;ctx.lineCap="round";
- last.forEach((v,i)=>{const a=Math.max(1,v*h*.4),x=i*3+1;ctx.beginPath();ctx.moveTo(x,h/2-a);ctx.lineTo(x,h/2+a);ctx.stroke()});
+ last.forEach((v,i)=>{const a=Math.max(1,v*h*.4),x=offset+i*3+1;ctx.beginPath();ctx.moveTo(x,h/2-a);ctx.lineTo(x,h/2+a);ctx.stroke()});
  if(media?.state==="recording")animation=requestAnimationFrame(draw);
 }
 function saveAttempt(e){const a=document.createElement("a");a.href=e.url;a.download=e.story.replace(/[^a-z0-9]+/gi,"-")+"-attempt-"+e.n+(e.blob.type.includes("mp4")?".m4a":".webm");a.click()}
@@ -490,7 +543,9 @@ function syncPlayback(){
  play.disabled=!attempts.length || !!media;
 }
 function syncRecording(){
- const active=!!media;
+ const active=!!media&&(media.state==="recording"||media.state==="paused");
+ recordingBooth.classList.toggle("is-live-recording",active);
+ document.body.classList.toggle("sl-live-recording",active);
  record.innerHTML=active?iconStop:iconRecord;
  record.title=active?"Stop recording":"Record";
  record.setAttribute("aria-label",record.title);
