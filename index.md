@@ -4,6 +4,20 @@ title: Interview Master Resources
 eyebrow: RAPID INTERVIEW RECALL
 intro: Use the wall to retrieve the professional language, then open a term to go deeper into what it means, who it helps, how to use it and the interview line.
 ---
+## Five ETB teacher competencies
+
+The five competencies below are drawn from the Tipperary ETB teacher application. They are an interview assessment framework, rather than eight separate topics to memorise.
+
+| Competency | What to demonstrate |
+| --- | --- |
+| **Professional Knowledge** | Subject knowledge, curriculum understanding, pedagogy, connections across subjects and informed use of educational theory |
+| **Professional Practice** | Planning, instruction, classroom environment and management, differentiation, SEN/AEN, assessment, feedback, reporting and safeguarding |
+| **Professional Development** | Reflection, CPD, constructive feedback, adaptability and continuous improvement |
+| **Professional Values & Relationships** | Inclusion, respect, student wellbeing, communication, professional ethics and collaboration |
+| **Contribution to School & Community** | Extracurricular participation, whole-school development, teamwork and understanding the ETB context |
+
+**Interview method:** Identify the competency being assessed, give a specific example of what you did, explain why you chose that approach, and show how you evaluated its effect on learning.
+
 ## Stories
 
 [Open Stories — STAR interview practice, recall and recording →]({{ '/stories.html' | relative_url }})
