@@ -1,8 +1,8 @@
 ---
 layout: doc
 permalink: /stories.html
-handle: Samples
-title: Samples
+handle: Stories
+title: Stories
 nav_order: 2
 top_nav: true
 description: Teaching interview answers, STAR/R, concise keyword recall and speaking practice.
