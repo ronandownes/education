@@ -232,6 +232,7 @@ tableToggle.addEventListener("click",()=>{if(openIndex<0)return;visibility[selec
 
 const visibility=stories.map(()=>({exposition:true,table:true}));
 const cueColumns=stories.map(s=>s.headings.map(()=>true));
+const cueHeadingVisible=stories.map(s=>s.headings.map(()=>true));
 const cueProgress=stories.map(s=>s.headings.map(()=>s.cues.length));
 let cueHeadersVisible=true;
 function toggleCueHeaders(){
@@ -458,17 +459,27 @@ function render(){
  s.headings.forEach((h,j)=>{
   const th=document.createElement("th");
   const reveal=document.createElement("button");reveal.type="button";reveal.className="sl-cue-heading";
-  reveal.textContent=cueColumns[selected][j]?h:"";reveal.setAttribute("aria-pressed",String(cueColumns[selected][j]));
-  reveal.setAttribute("aria-label",(cueColumns[selected][j]?"Hide ":"Reveal ")+h+" heading and cues");
-  reveal.title=h;
+  const syncHeading=()=>{
+   reveal.textContent=cueHeadingVisible[selected][j]?h:"";
+   reveal.setAttribute("aria-pressed",String(cueHeadingVisible[selected][j]));
+   reveal.setAttribute("aria-label",(cueHeadingVisible[selected][j]?"Hide ":"Reveal ")+h+" heading");
+  };
+  syncHeading();reveal.title=h;
   reveal.addEventListener("click",()=>{
-   cueColumns[selected][j]=!cueColumns[selected][j];
-   cueProgress[selected][j]=cueColumns[selected][j]?tbody.children.length:0;
-   reveal.textContent=cueColumns[selected][j]?h:"";
-   reveal.setAttribute("aria-pressed",String(cueColumns[selected][j]));
-   reveal.setAttribute("aria-label",(cueColumns[selected][j]?"Hide ":"Reveal ")+h+" heading and cues");
+   if(cueHeadingVisible[selected][j]){
+    // Blank the entire column, including its heading.
+    cueHeadingVisible[selected][j]=false;
+    cueColumns[selected][j]=false;
+    cueProgress[selected][j]=0;
+   }else{
+    // First recall step: heading ONLY. Body remains blank.
+    cueHeadingVisible[selected][j]=true;
+    cueColumns[selected][j]=false;
+    cueProgress[selected][j]=0;
+   }
+   syncHeading();
    tbody.querySelectorAll("tr").forEach(row=>{
-    const cell=row.children[j];if(cell){cell.textContent=cueColumns[selected][j]?cell.dataset.cue:"";cell.classList.toggle("sl-cue-covered",!cueColumns[selected][j])}
+    const cell=row.children[j];if(cell){cell.textContent="";cell.classList.add("sl-cue-covered")}
    });
   });
   th.append(reveal);tr.append(th);
