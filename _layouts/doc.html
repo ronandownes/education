@@ -23,28 +23,11 @@
         <a class="navlabel" href="{{ '/stories.html' | relative_url }}"><span>Stories</span></a>
       </div>
 
-      <div class="navitem nav-teaching-pedagogy">
-        <a class="navlabel" href="{{ '/teaching-pedagogy.html' | relative_url }}"><span>Teaching &amp;<br>Pedagogy</span></a>
+      <div class="navitem nav-interview">
+        <a class="navlabel" href="{{ '/interview.html' | relative_url }}"><span>Interview</span></a>
       </div>
-
-      <div class="navitem nav-classroom-relationships">
-        <a class="navlabel" href="{{ '/classroom-relationships.html' | relative_url }}"><span>Classroom &amp;<br>Relationships</span></a>
-      </div>
-
-      <div class="navitem nav-inclusion-support">
-        <a class="navlabel" href="{{ '/inclusion-support.html' | relative_url }}"><span>Inclusion &amp;<br>Support</span></a>
-      </div>
-
-      <div class="navitem nav-assessment-curriculum">
-        <a class="navlabel" href="{{ '/assessment-curriculum.html' | relative_url }}"><span>Assessment &amp;<br>Curriculum</span></a>
-      </div>
-
-      <div class="navitem nav-collaboration-leadership">
-        <a class="navlabel" href="{{ '/collaboration-leadership.html' | relative_url }}"><span>Collaboration &amp;<br>Leadership</span></a>
-      </div>
-
-      <div class="navitem nav-ethos-professionalism">
-        <a class="navlabel" href="{{ '/ethos-professionalism.html' | relative_url }}"><span>Ethos &amp;<br>Professionalism</span></a>
+      <div class="navitem nav-subjects">
+        <a class="navlabel" href="{{ '/subjects.html' | relative_url }}"><span>Subjects</span></a>
       </div>
 
       <div class="navitem nav-resources nav-right">
@@ -127,7 +110,38 @@
     {% assign cms_url = cms_base | append: '/collection/subjects/edit/' | append: subject_file %}
   {% endif %}
 
-  <main class="page-stage">
+  {% assign interview_path = page.url %}
+  {% assign interview_section = false %}
+  {% if interview_path contains 'interview.html' or interview_path contains 'teaching-pedagogy.html' or interview_path contains 'classroom-relationships.html' or interview_path contains 'inclusion-support.html' or interview_path contains 'assessment-curriculum.html' or interview_path contains 'collaboration-leadership.html' or interview_path contains 'ethos-professionalism.html' or interview_path contains 'differentiation-accessibility.html' or interview_path contains 'planning-curriculum.html' %}
+    {% assign interview_section = true %}
+  {% endif %}
+  {% assign subject_section = false %}
+  {% if interview_path contains 'subjects.html' or page.path contains 'content/subjects/' %}
+    {% assign subject_section = true %}
+  {% endif %}
+  <main class="page-stage{% if interview_section or subject_section %} section-with-sidebar{% endif %}">
+    {% if interview_section %}
+    <aside class="section-sidebar" aria-label="Interview domains">
+      <strong>Interview domains</strong>
+      <a href="{{ '/teaching-pedagogy.html' | relative_url }}">Teaching &amp; Learning</a>
+      <a href="{{ '/classroom-relationships.html' | relative_url }}">Classroom Management</a>
+      <a href="{{ '/inclusion-support.html' | relative_url }}">Inclusion &amp; SEN/AEN</a>
+      <a href="{{ '/content/practice/differentiation-accessibility.html' | relative_url }}">Differentiation</a>
+      <a href="{{ '/assessment-curriculum.html' | relative_url }}">Assessment &amp; Feedback</a>
+      <a href="{{ '/content/practice/planning-curriculum.html' | relative_url }}">Planning &amp; Curriculum</a>
+      <a href="{{ '/collaboration-leadership.html' | relative_url }}">Relationships &amp; Collaboration</a>
+      <a href="{{ '/ethos-professionalism.html' | relative_url }}">Professionalism &amp; Ethos</a>
+    </aside>
+    {% elsif subject_section %}
+    <aside class="section-sidebar" aria-label="Teaching subjects">
+      <strong>Subjects</strong>
+      <a href="{{ '/content/subjects/mathematics.html' | relative_url }}">Mathematics</a>
+      <a href="{{ '/content/subjects/applied-mathematics.html' | relative_url }}">Applied Mathematics</a>
+      <a href="{{ '/content/subjects/physics.html' | relative_url }}">Physics</a>
+      <a href="{{ '/content/subjects/science.html' | relative_url }}">Science</a>
+      <a href="{{ '/content/subjects/computer-science.html' | relative_url }}">Computer Science</a>
+    </aside>
+    {% endif %}
     <article class="doc-paper{% if page.print_landscape %} print-landscape{% endif %}">
       <p class="doc-kicker">{{ page.eyebrow }}</p>
       <h1>{{ page.title }}</h1>
