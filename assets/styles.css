@@ -368,3 +368,14 @@ body:has(#sl-bank) .doc-paper{box-shadow:none!important}
  .topnav>.nav-inclusion-support,.topnav>.nav-assessment-curriculum,
  .topnav>.nav-collaboration-leadership,.topnav>.nav-ethos-professionalism{--nav-w:105px}
 }
+
+/* Two-tier interview and subject navigation: compact header, persistent sidebar. */
+@media(min-width:901px){
+ .page-stage.section-with-sidebar{display:grid;grid-template-columns:220px minmax(0,1fr);gap:24px;align-items:start;max-width:1430px;margin:0 auto;padding:28px 22px}
+ .page-stage.section-with-sidebar>.doc-paper{width:100%;max-width:none;margin:0;min-width:0}
+ .section-sidebar{position:sticky;top:108px;align-self:start;display:flex;flex-direction:column;background:#fff;border:1px solid #dbe3ec;box-shadow:0 4px 12px #1232;border-radius:8px;padding:12px 0}
+}
+.section-sidebar strong{padding:10px 16px 15px;border-bottom:1px solid #dde5ed;color:#203f59;font-size:.96rem}
+.section-sidebar a{display:block;padding:10px 16px;color:#20557a;text-decoration:none;font-size:.91rem;line-height:1.35}
+.section-sidebar a:hover,.section-sidebar a[aria-current="page"]{background:#edf5fc;color:#123f69;font-weight:700}
+@media(max-width:900px){.section-sidebar{display:flex;flex-wrap:wrap;gap:5px;padding:12px;background:#fff;margin:12px;border:1px solid #dbe3ec}.section-sidebar strong{width:100%;border:0}.section-sidebar a{padding:8px 10px}}
