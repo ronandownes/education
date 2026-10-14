@@ -38,6 +38,8 @@ const seed={stage:0,sections:[
 ]};
 let data;try{data=JSON.parse(localStorage.getItem(key))||structuredClone(seed)}catch(e){data=JSON.parse(JSON.stringify(seed))}
 if(!Array.isArray(data.sections))data=JSON.parse(JSON.stringify(seed));
+const requestedStage=new URLSearchParams(window.location.search).get("stage");
+if(requestedStage!==null&&/^[0-3]$/.test(requestedStage)){data.stage=Number(requestedStage);try{localStorage.setItem(key,JSON.stringify(data))}catch(e){}}
 const root=document.getElementById("school-lab"),esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function save(){try{localStorage.setItem(key,JSON.stringify(data))}catch(e){}}
 function render(){
