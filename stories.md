@@ -234,6 +234,7 @@ const visibility=stories.map(()=>({exposition:true,table:true}));
 const cueColumns=stories.map(s=>s.headings.map(()=>true));
 const cueHeadingVisible=stories.map(s=>s.headings.map(()=>true));
 const cueProgress=stories.map(s=>s.headings.map(()=>s.cues.length));
+const cueHiddenCells=stories.map(story=>story.headings.map(()=>new Set()));
 let cueHeadersVisible=true;
 function toggleCueHeaders(){
  cueHeadersVisible=!cueHeadersVisible;
@@ -472,6 +473,7 @@ function render(){
     cueHeadingVisible[selected][j]=false;
     cueColumns[selected][j]=false;
     cueProgress[selected][j]=0;
+    cueHiddenCells[selected][j].clear();
     tbody.querySelectorAll("tr").forEach(row=>{
      const cell=row.children[j];
      if(cell){cell.textContent="";cell.classList.add("sl-cue-covered")}
@@ -488,15 +490,28 @@ function render(){
  const tbody=document.createElement("tbody");s.cues.filter(r=>r.some(Boolean)).forEach(row=>{
   const tr=document.createElement("tr");row.forEach((word,j)=>{
    const td=document.createElement("td");td.dataset.cue=word;td.tabIndex=0;td.setAttribute("role","button");td.setAttribute("aria-label","Reveal next "+s.headings[j]+" cue");
-   const visible=cueColumns[selected][j] || tbody.children.length<cueProgress[selected][j];
+   const rowIndex=tbody.children.length;
+   const visible=(cueColumns[selected][j] || rowIndex<cueProgress[selected][j]) && !cueHiddenCells[selected][j].has(rowIndex);
    td.textContent=visible?word:"";
    td.classList.toggle("sl-cue-covered",!visible);
    const revealOne=()=>{
     const rows=[...tbody.children],index=rows.indexOf(tr);
-    if(cueColumns[selected][j])return;
-    cueProgress[selected][j]=Math.min(rows.length,Math.max(cueProgress[selected][j]+1,index+1));
-    for(let k=0;k<cueProgress[selected][j];k++){
-     const cell=rows[k].children[j];if(cell){cell.textContent=cell.dataset.cue;cell.classList.remove("sl-cue-covered")}
+    if(td.textContent){
+     // A visible cell can be blanked individually without affecting its neighbours.
+     cueColumns[selected][j]=false;
+     cueProgress[selected][j]=Math.max(cueProgress[selected][j],rows.length);
+     cueHiddenCells[selected][j].add(index);
+     td.textContent="";
+     td.classList.add("sl-cue-covered");
+     return;
+    }
+    // A blank cell reveals all cues above and including its own row.
+    cueColumns[selected][j]=false;
+    cueProgress[selected][j]=Math.max(cueProgress[selected][j],index+1);
+    for(let k=0;k<=index;k++){
+     cueHiddenCells[selected][j].delete(k);
+     const cell=rows[k].children[j];
+     if(cell){cell.textContent=cell.dataset.cue;cell.classList.remove("sl-cue-covered")}
     }
    };
    td.addEventListener("click",revealOne);
