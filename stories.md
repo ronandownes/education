@@ -464,23 +464,23 @@ function render(){
    reveal.setAttribute("aria-pressed",String(cueHeadingVisible[selected][j]));
    reveal.setAttribute("aria-label",(cueHeadingVisible[selected][j]?"Hide ":"Reveal ")+h+" heading");
   };
-  syncHeading();reveal.title=h;
+  syncHeading();
+  reveal.title="Click to hide or restore this heading";
   reveal.addEventListener("click",()=>{
    if(cueHeadingVisible[selected][j]){
-    // Blank the entire column, including its heading.
+    // Starting recall: blank this heading and its entire column.
     cueHeadingVisible[selected][j]=false;
     cueColumns[selected][j]=false;
     cueProgress[selected][j]=0;
+    tbody.querySelectorAll("tr").forEach(row=>{
+     const cell=row.children[j];
+     if(cell){cell.textContent="";cell.classList.add("sl-cue-covered")}
+    });
    }else{
-    // First recall step: heading ONLY. Body remains blank.
+    // Restore ONLY this heading; preserve whatever body cells were revealed.
     cueHeadingVisible[selected][j]=true;
-    cueColumns[selected][j]=false;
-    cueProgress[selected][j]=0;
    }
    syncHeading();
-   tbody.querySelectorAll("tr").forEach(row=>{
-    const cell=row.children[j];if(cell){cell.textContent="";cell.classList.add("sl-cue-covered")}
-   });
   });
   th.append(reveal);tr.append(th);
  });head.append(tr);t.append(head);head.hidden=!cueHeadersVisible;
