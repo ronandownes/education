@@ -1,0 +1,81 @@
+---
+layout: doc
+title: Classroom Management
+permalink: /classroom-management/
+handle: Classroom Management
+description: Professional-practice answer in paragraphs, recall table and tap-to-reveal views.
+eyebrow: EDUCATION · INTERVIEW PRACTICE
+---
+<style>
+.cm-app{max-width:1000px;margin:0 auto 48px;color:#18344c;font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+.cm-app *{box-sizing:border-box}.cm-app .cm-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}
+.cm-app button{font:inherit;border-radius:9px;padding:10px 15px;border:1px solid #b9cbd9;cursor:pointer;background:#edf3f8;color:#214967}
+.cm-app button[aria-selected=true],.cm-app button.primary{background:#165e9c;color:white}
+.cm-app button:focus-visible,.cm-app .cm-reveal:focus-visible{outline:3px solid #f7ad3b;outline-offset:2px}
+.cm-app .cm-view[hidden]{display:none!important}.cm-app .cm-card{background:#fff;border:1px solid #dce6ed;padding:22px;border-radius:15px;margin:14px 0}
+.cm-app .cm-paragraphs p{font-size:1.07rem;line-height:1.8;margin:0 0 20px}
+.cm-app table{width:100%;border-collapse:collapse}.cm-app td,.cm-app th{padding:12px;border:1px solid #cfdae4;text-align:left;vertical-align:top}
+.cm-app th{background:#eaf2f8}.cm-app .cm-reveal{cursor:pointer;min-height:520px;user-select:none;touch-action:manipulation}
+.cm-app .cm-phrase{min-height:44px;padding:8px 10px;line-height:1.45;font-size:1.08rem;font-weight:570}
+.cm-app .cm-phrase.is-hidden{color:transparent}.cm-app .cm-phrase.is-visible{color:#173f61}.cm-app .cm-heading{margin:20px 0 8px;font-size:1.1rem}
+.cm-app .cm-status{color:#5d7183;font-size:.9rem}.cm-app .cm-actions{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.cm-app .cm-actions button{min-width:94px}.cm-app .cm-note{font-size:.9rem;color:#586e80}.cm-app .cm-divider{height:1px;background:#dce6ed;margin:24px 0}
+@media(max-width:600px){.cm-app .cm-card{padding:14px}.cm-app .cm-phrase{min-height:38px;font-size:1rem}.cm-app .cm-reveal{min-height:520px}}
+@media print{.cm-app .cm-tabs,.cm-app .cm-actions{display:none}.cm-app .cm-view[hidden]{display:block!important}.cm-app .is-hidden{display:none}}
+</style>
+<div class="cm-app" id="cm-app">
+<h1>Classroom Management — General Approach</h1>
+<p><strong>Interview question:</strong> What is your general approach to effective classroom management?</p>
+<p class="cm-note">Three views of the same answer. Five headings first, then the complete spoken answer. No randomisation or change of wording.</p>
+<div class="cm-tabs" role="tablist" aria-label="Learning views">
+<button type="button" data-view="paragraphs" role="tab" aria-selected="true">Paragraphs</button>
+<button type="button" data-view="table" role="tab" aria-selected="false">Recall table</button>
+<button type="button" data-view="reveal" role="tab" aria-selected="false">Tap / arrow recall</button>
+</div>
+<section data-panel="paragraphs" class="cm-view cm-card cm-paragraphs">
+<h2>Complete spoken answer</h2>
+<div id="cm-paragraphs"></div></section>
+<section data-panel="table" class="cm-view cm-card" hidden><h2>Fixed-order recall table</h2><table><thead><tr><th>Stage</th><th>Recall anchors</th></tr></thead><tbody id="cm-table"></tbody></table></section>
+<section data-panel="reveal" class="cm-view cm-card" hidden>
+<div class="cm-actions"><button type="button" id="cm-back">← Back</button><button type="button" class="primary" id="cm-next">Next →</button><button type="button" id="cm-home">Start again</button></div>
+<p class="cm-status" id="cm-progress" aria-live="polite"></p>
+<div class="cm-reveal" id="cm-reveal" tabindex="0" role="button" aria-label="Tap or press the right arrow key to reveal the next phrase">
+<h2 id="cm-mode-heading">Five big stages</h2><div id="cm-lines"></div>
+</div>
+<p class="cm-note">Tap the text area or press → to reveal; ← hides the last phrase. Home restarts, End reveals the current stage. Keyboard arrows work while the recall view is open.</p>
+</section>
+</div>
+<script>
+(function(){
+"use strict";
+const data=[
+{title:"Diverse Needs and Strategies",phrases:["My approach to teaching classes","with diverse academic, behavioural and emotional needs","begins with clear routines,","high expectations, positive relationships","and differentiated instruction."],anchors:"Academic · Behavioural · Emotional (3 needs); Clear routines · High expectations · Positive relationships · Differentiated instruction (4 strategies)"},
+{title:"Formative Assessment",phrases:["I use formative assessment","to establish students' starting points,","to identify misconceptions","and to adapt my teaching."],anchors:"Establish starting points · Identify misconceptions · Adapt teaching (3 purposes)"},
+{title:"Support and Challenge",phrases:["I provide appropriate support and challenge","so that all students","can participate and progress."],anchors:"Support and challenge · Participate and progress"},
+{title:"Collaboration",phrases:["I also recognise that some barriers to learning extend beyond the classroom.","I work collaboratively with the SET department,","year head and relevant student-support structures,","sharing observations and assessment evidence","to support appropriate interventions."],anchors:"SET department · Year head · Support structures · Observations · Assessment evidence"},
+{title:"Professional Philosophy",phrases:["For me, classroom management, inclusion and pastoral care are closely connected.","My responsibility is to maintain a productive learning environment","while recognising and responding to individual students' needs."],anchors:"Classroom management · Inclusion · Pastoral care · Productive environment · Individual needs"}
+];
+const root=document.getElementById("cm-app"),lines=document.getElementById("cm-lines"),progress=document.getElementById("cm-progress"),head=document.getElementById("cm-mode-heading");
+data.forEach((d,i)=>{let p=document.createElement("p");p.textContent=d.phrases.join(" ");document.getElementById("cm-paragraphs").append(p);let row=document.createElement("tr");let a=document.createElement("td");a.textContent=(i+1)+". "+d.title;let b=document.createElement("td");b.textContent=d.anchors;row.append(a,b);document.getElementById("cm-table").append(row)});
+let active="paragraphs",phase=0,count=0;
+const full=data.flatMap((d,i)=>[{heading:d.title,part:true},...d.phrases.map(t=>({text:t,part:false}))]);
+function render(){
+lines.replaceChildren();const seq=phase===0?data.map((d,i)=>({text:(i+1)+". "+d.title})):full.filter(x=>!x.part);
+head.textContent=phase===0?"Five big stages":"Complete spoken answer";
+if(phase===0){seq.forEach((item,i)=>addLine(item.text,i<count));}
+else{let k=0;data.forEach((d,i)=>{const title=document.createElement("h3");title.className="cm-heading";title.textContent=(i+1)+". "+d.title;lines.append(title);d.phrases.forEach(t=>addLine(t,k++<count));if(i<data.length-1){let div=document.createElement("div");div.className="cm-divider";lines.append(div)}})}
+progress.textContent=count+" / "+seq.length+" revealed · "+(phase===0?"Headings":"Spoken answer");
+document.getElementById("cm-back").disabled=phase===0&&count===0;
+function addLine(t,show){const e=document.createElement("div");e.className="cm-phrase "+(show?"is-visible":"is-hidden");e.textContent=t;lines.append(e)}
+}
+const total=data.reduce((n,d)=>n+d.phrases.length,0);
+function next(){if(phase===0&&count>=5){phase=1;count=0}else count=Math.min(phase===0?5:total,count+1);render()}
+function back(){if(count>0)count--;else if(phase===1){phase=0;count=5}render()}
+function home(){phase=0;count=0;render()}
+root.querySelectorAll("[data-view]").forEach(button=>button.addEventListener("click",()=>{active=button.dataset.view;root.querySelectorAll("[data-view]").forEach(b=>b.setAttribute("aria-selected",String(b===button)));root.querySelectorAll("[data-panel]").forEach(p=>p.hidden=p.dataset.panel!==active);if(active==="reveal")document.getElementById("cm-reveal").focus({preventScroll:true})}));
+document.getElementById("cm-next").addEventListener("click",next);document.getElementById("cm-back").addEventListener("click",back);document.getElementById("cm-home").addEventListener("click",home);
+document.getElementById("cm-reveal").addEventListener("click",next);
+document.addEventListener("keydown",e=>{if(active!=="reveal"||e.altKey||e.ctrlKey||e.metaKey||["INPUT","TEXTAREA","SELECT"].includes(document.activeElement.tagName))return;if(e.key==="ArrowRight"||e.key==="ArrowLeft"||e.key==="Home"||e.key==="End"){e.preventDefault();if(e.key==="ArrowRight")next();else if(e.key==="ArrowLeft")back();else if(e.key==="Home")home();else{count=phase===0?5:total;render()}}});
+render();
+})();
+</script>
