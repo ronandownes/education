@@ -15,7 +15,7 @@ eyebrow: EDUCATION · INTERVIEW PRACTICE
 .cm-app .cm-view[hidden]{display:none!important}.cm-app .cm-card{background:#fff;border:1px solid #dce6ed;padding:22px;border-radius:15px;margin:14px 0}
 .cm-app .cm-paragraphs p{font-size:1.07rem;line-height:1.8;margin:0 0 20px}
 .cm-app table{width:100%;border-collapse:collapse}.cm-app td,.cm-app th{padding:12px;border:1px solid #cfdae4;text-align:left;vertical-align:top}
-.cm-app th{background:#eaf2f8}.cm-app .cm-reveal{cursor:pointer;min-height:520px;user-select:none;touch-action:manipulation}
+.cm-app th{background:#eaf2f8}.cm-app .cm-table-scroll{overflow-x:auto}.cm-app .cm-five-table{min-width:740px;table-layout:fixed}.cm-app .cm-five-table td{font-size:.91rem;line-height:1.6;overflow-wrap:anywhere}.cm-app .cm-reveal{cursor:pointer;min-height:520px;user-select:none;touch-action:manipulation}
 .cm-app .cm-phrase{min-height:44px;padding:8px 10px;line-height:1.45;font-size:1.08rem;font-weight:570}
 .cm-app .cm-phrase.is-hidden{color:transparent}.cm-app .cm-phrase.is-visible{color:#173f61}.cm-app .cm-heading{margin:20px 0 8px;font-size:1.1rem}
 .cm-app .cm-status{color:#5d7183;font-size:.9rem}.cm-app .cm-actions{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
@@ -35,7 +35,7 @@ eyebrow: EDUCATION · INTERVIEW PRACTICE
 <section data-panel="paragraphs" class="cm-view cm-card cm-paragraphs">
 <h2>Complete spoken answer</h2>
 <div id="cm-paragraphs"></div></section>
-<section data-panel="table" class="cm-view cm-card" hidden><h2>Fixed-order recall table</h2><table><thead><tr><th>Stage</th><th>Recall anchors</th></tr></thead><tbody id="cm-table"></tbody></table></section>
+<section data-panel="table" class="cm-view cm-card" hidden><h2>Fixed-order recall table</h2><div class="cm-table-scroll"><table class="cm-five-table"><thead><tr id="cm-table-head"></tr></thead><tbody><tr id="cm-table"></tr></tbody></table></div></section>
 <section data-panel="reveal" class="cm-view cm-card" hidden>
 <div class="cm-actions"><button type="button" id="cm-back">← Back</button><button type="button" class="primary" id="cm-next">Next →</button><button type="button" id="cm-home">Start again</button></div>
 <p class="cm-status" id="cm-progress" aria-live="polite"></p>
@@ -56,7 +56,7 @@ const data=[
 {title:"Professional Philosophy",phrases:["For me, classroom management, inclusion and pastoral care are closely connected.","My responsibility is to maintain a productive learning environment","while recognising and responding to individual students' needs."],anchors:"Classroom management · Inclusion · Pastoral care · Productive environment · Individual needs"}
 ];
 const root=document.getElementById("cm-app"),lines=document.getElementById("cm-lines"),progress=document.getElementById("cm-progress"),head=document.getElementById("cm-mode-heading");
-data.forEach((d,i)=>{let p=document.createElement("p");p.textContent=d.phrases.join(" ");document.getElementById("cm-paragraphs").append(p);let row=document.createElement("tr");let a=document.createElement("td");a.textContent=(i+1)+". "+d.title;let b=document.createElement("td");b.textContent=d.anchors;row.append(a,b);document.getElementById("cm-table").append(row)});
+data.forEach((d,i)=>{let p=document.createElement("p");p.textContent=d.phrases.join(" ");document.getElementById("cm-paragraphs").append(p);let a=document.createElement("th");a.textContent=(i+1)+". "+d.title;document.getElementById("cm-table-head").append(a);let b=document.createElement("td");b.textContent=d.anchors;document.getElementById("cm-table").append(b)});
 let active="paragraphs",phase=0,count=0;
 const full=data.flatMap((d,i)=>[{heading:d.title,part:true},...d.phrases.map(t=>({text:t,part:false}))]);
 function render(){
