@@ -10,7 +10,6 @@ eyebrow: TEACHING INTERVIEW · PRACTISE · RECORD
 ---
 
 
-<div class="sl-bank" style="margin-top:16px;margin-bottom:14px"><div class="sl-bank-card"><strong>Classroom Management — Professional Practice</strong><p>Practise the five-part answer: full wording, keywords, memory recall, reveal and microphone recording.</p><a href="/classroom-management/">Open Classroom Management — paragraphs, recall table and tap/arrow practice →</a></div></div>
 <style>
 .sl-bank{width:100%;max-width:940px;min-width:0;margin:20px auto 40px;color:#172c40}
 .sl-bank-card{background:#fff;border:1px solid #dbe5ec;border-radius:16px;padding:24px;box-shadow:0 12px 32px rgba(24,60,91,.06)}
