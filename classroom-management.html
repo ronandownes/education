@@ -24,9 +24,54 @@ eyebrow: EDUCATION · INTERVIEW PRACTICE
 @media print{.cm-app .cm-tabs,.cm-app .cm-actions{display:none}.cm-app .cm-view[hidden]{display:block!important}.cm-app .is-hidden{display:none}}
 </style>
 <div class="cm-app" id="cm-app">
+<style>
+.cm-bank{margin:20px 0 26px}.cm-bank details{border:1px solid #dce6ed;border-radius:12px;margin:8px 0;background:white;overflow:hidden}.cm-bank summary{list-style:none;cursor:pointer;padding:15px 18px;font-weight:650;color:#173f61;display:flex;align-items:center;justify-content:space-between;gap:12px}.cm-bank summary::-webkit-details-marker{display:none}.cm-bank summary::after{content:"⌄";font-size:1.2rem}.cm-bank details[open] summary::after{content:"⌃"}.cm-bank details[open] summary{background:#f2f7fb}.cm-bank-body{padding:14px 18px 20px}.cm-bank-types{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 15px}.cm-bank-types button{border:1px solid #b7cede;border-radius:8px;padding:8px 12px;background:white;color:#1d4d72;cursor:pointer}.cm-bank-types button[aria-pressed=true]{background:#165e9c;color:#fff}.cm-bank .cm-bank-desc{line-height:1.6;margin:0;color:#405b70}.cm-bank .cm-bank-status{font-size:.88rem;color:#637e91;margin:10px 0}.cm-bank .cm-practice-link{display:inline-block;margin-top:12px;font-weight:650}.cm-app .cm-stage-choices{font-size:.95rem;color:#5b7385}
+</style>
+<section class="cm-bank" id="cm-question-bank" aria-label="Classroom management interview questions">
+<h2>Classroom Management — Core Questions</h2>
+<p class="cm-stage-choices">Eight areas covering the domain without repeating overlapping questions. Open any question to choose Professional Practice, STAR/R or Scenario. Only the first Professional Practice answer has been finalised so far.</p>
+<details data-cm-question="0"><summary>What is your general approach to classroom management?</summary><div class="cm-bank-body"><div class="cm-bank-types" role="group" aria-label="Answer type"><button type="button" data-kind="practice" aria-pressed="true">Professional Practice</button><button type="button" data-kind="star" aria-pressed="false">STAR/R</button><button type="button" data-kind="scenario" aria-pressed="false">Scenario</button></div><div class="cm-bank-response" aria-live="polite"></div></div></details>
+<details data-cm-question="1"><summary>How do you establish clear expectations and routines?</summary><div class="cm-bank-body"><div class="cm-bank-types" role="group" aria-label="Answer type"><button type="button" data-kind="practice" aria-pressed="true">Professional Practice</button><button type="button" data-kind="star" aria-pressed="false">STAR/R</button><button type="button" data-kind="scenario" aria-pressed="false">Scenario</button></div><div class="cm-bank-response" aria-live="polite"></div></div></details>
+<details data-cm-question="2"><summary>How do you build a positive classroom climate?</summary><div class="cm-bank-body"><div class="cm-bank-types" role="group" aria-label="Answer type"><button type="button" data-kind="practice" aria-pressed="true">Professional Practice</button><button type="button" data-kind="star" aria-pressed="false">STAR/R</button><button type="button" data-kind="scenario" aria-pressed="false">Scenario</button></div><div class="cm-bank-response" aria-live="polite"></div></div></details>
+<details data-cm-question="3"><summary>How do you respond to low-level disruption?</summary><div class="cm-bank-body"><div class="cm-bank-types" role="group" aria-label="Answer type"><button type="button" data-kind="practice" aria-pressed="true">Professional Practice</button><button type="button" data-kind="star" aria-pressed="false">STAR/R</button><button type="button" data-kind="scenario" aria-pressed="false">Scenario</button></div><div class="cm-bank-response" aria-live="polite"></div></div></details>
+<details data-cm-question="4"><summary>How do you manage persistent or escalating behaviour?</summary><div class="cm-bank-body"><div class="cm-bank-types" role="group" aria-label="Answer type"><button type="button" data-kind="practice" aria-pressed="true">Professional Practice</button><button type="button" data-kind="star" aria-pressed="false">STAR/R</button><button type="button" data-kind="scenario" aria-pressed="false">Scenario</button></div><div class="cm-bank-response" aria-live="polite"></div></div></details>
+<details data-cm-question="5"><summary>What would you do when behaviour creates a safety concern?</summary><div class="cm-bank-body"><div class="cm-bank-types" role="group" aria-label="Answer type"><button type="button" data-kind="practice" aria-pressed="true">Professional Practice</button><button type="button" data-kind="star" aria-pressed="false">STAR/R</button><button type="button" data-kind="scenario" aria-pressed="false">Scenario</button></div><div class="cm-bank-response" aria-live="polite"></div></div></details>
+<details data-cm-question="6"><summary>How do you keep students engaged and prevent disruption?</summary><div class="cm-bank-body"><div class="cm-bank-types" role="group" aria-label="Answer type"><button type="button" data-kind="practice" aria-pressed="true">Professional Practice</button><button type="button" data-kind="star" aria-pressed="false">STAR/R</button><button type="button" data-kind="scenario" aria-pressed="false">Scenario</button></div><div class="cm-bank-response" aria-live="polite"></div></div></details>
+<details data-cm-question="7"><summary>How do you manage individual needs while working with colleagues?</summary><div class="cm-bank-body"><div class="cm-bank-types" role="group" aria-label="Answer type"><button type="button" data-kind="practice" aria-pressed="true">Professional Practice</button><button type="button" data-kind="star" aria-pressed="false">STAR/R</button><button type="button" data-kind="scenario" aria-pressed="false">Scenario</button></div><div class="cm-bank-response" aria-live="polite"></div></div></details>
+</section>
+<script>
+(function(){
+const bank=document.getElementById("cm-question-bank");if(!bank)return;
+const info=[["What is your general approach to classroom management?","General Approach","Set consistent expectations, positive relationships, differentiated instruction and formative assessment."],["How do you establish clear expectations and routines?","Expectations & Routines","Teach, model, practise and reinforce predictable routines."],["How do you build a positive classroom climate?","Positive Climate & Relationships","Respect, belonging, teacher–student relationships and high expectations."],["How do you respond to low-level disruption?","Low-Level Disruption","Notice, redirect and restore attention with proportionate responses."],["How do you manage persistent or escalating behaviour?","Challenging Behaviour","Calm, consistent escalation in accordance with school policy."],["What would you do when behaviour creates a safety concern?","Serious or Unsafe Behaviour","Prioritise safety, seek appropriate support and follow procedures."],["How do you keep students engaged and prevent disruption?","Engagement & Motivation","Accessible teaching, purposeful challenge, checks for understanding."],["How do you manage individual needs while working with colleagues?","Inclusion & Collaboration","Appropriate differentiation, pastoral awareness, SET and year-head collaboration."]];
+const scenarios=[
+"You inherit a class with inconsistent expectations and routines. What are your first steps?",
+"A student appears disconnected from the class and reluctant to participate. How would you respond?",
+"Two students repeatedly interrupt explanations. What would you do?",
+"A learner repeatedly disrupts a lesson despite initial redirection. How would you respond?",
+"Student behaviour is escalating and affecting the class. How would you manage it?",
+"You observe behaviour that could endanger students. What would you do first?",
+"Students are disengaged during a difficult mathematics lesson. How would you adapt it?",
+"A student needs additional academic and pastoral support. How would you coordinate an appropriate response?"
+];
+bank.querySelectorAll("details").forEach((d,i)=>{
+const response=d.querySelector(".cm-bank-response");
+d.querySelectorAll("[data-kind]").forEach(b=>b.addEventListener("click",()=>{
+d.querySelectorAll("[data-kind]").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));
+const k=b.dataset.kind;
+if(k==="practice"&&i===0)response.innerHTML='<p class="cm-bank-desc">Our completed general-approach answer covers diverse needs, the four strategies, formative assessment, support and challenge, collaboration and professional philosophy.</p><a class="cm-practice-link" href="#cm-three-views">Open Paragraphs, Recall Table and Tap/Arrow Practice ↓</a>';
+else if(k==="practice")response.innerHTML='<p class="cm-bank-desc"><strong>Answer focus:</strong> '+info[i][2]+'</p><p class="cm-bank-status">Professional-practice spoken answer awaiting our wording and approval.</p>';
+else if(k==="star")response.innerHTML='<p class="cm-bank-desc"><strong>STAR/R:</strong> Give a genuine specific teaching experience: Situation, Task, what you did, Result and Reflection.</p><p class="cm-bank-status">No personal incident or outcome has been invented. The example is still to be developed.</p>';
+else response.innerHTML='<p class="cm-bank-desc"><strong>Scenario:</strong> '+scenarios[i]+'</p><p class="cm-bank-status">Spoken hypothetical response to be developed and approved.</p>';
+}));
+d.querySelector('[data-kind="practice"]').click();
+d.addEventListener("toggle",()=>{if(d.open)bank.querySelectorAll("details").forEach(other=>{if(other!==d)other.open=false})});
+});
+})();
+</script>
 <h1>Classroom Management — General Approach</h1>
 <p><strong>Interview question:</strong> What is your general approach to effective classroom management?</p>
 <p class="cm-note">Three views of the same answer. Five headings first, then the complete spoken answer. No randomisation or change of wording.</p>
+<div id="cm-three-views"><h2>General Approach — Professional Practice</h2>
 <div class="cm-tabs" role="tablist" aria-label="Learning views">
 <button type="button" data-view="paragraphs" role="tab" aria-selected="true">Paragraphs</button>
 <button type="button" data-view="table" role="tab" aria-selected="false">Recall table</button>
@@ -44,6 +89,7 @@ eyebrow: EDUCATION · INTERVIEW PRACTICE
 </div>
 <p class="cm-note">Tap the text area or press → to reveal; ← hides the last phrase. Home restarts, End reveals the current stage. Keyboard arrows work while the recall view is open.</p>
 </section>
+</div>
 </div>
 <script>
 (function(){
