@@ -145,7 +145,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
   text-align:center;
 }
 
-@media(max-width:1500px){
+@media(max-width:1400px){
   .topbar{min-height:64px;height:auto;align-items:center;flex-direction:row;flex-wrap:wrap;gap:0;padding:8px 12px}
   .brand img{width:158px}
   .mobile-nav-toggle{margin-left:auto;width:44px;height:44px;display:inline-flex;align-items:center;justify-content:center;border:0;border-radius:6px;background:transparent;color:#3c4043;cursor:pointer}
@@ -222,7 +222,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:Arial,Helvetic
 .navitem>.navtoggle{display:none!important}
 .navitem{grid-template-columns:minmax(0,1fr)}
 
-@media(max-width:1500px){
+@media(max-width:1400px){
   .navitem,.nav-teaching,.nav-classes,.nav-classroom,.nav-sen,.nav-differentiation,.nav-assessment,.nav-planning,.nav-plans,.nav-relationships,.nav-professional,.nav-subjects,.nav-policies{grid-template-columns:minmax(0,1fr)}
 }
 
@@ -379,3 +379,10 @@ body:has(#sl-bank) .doc-paper{box-shadow:none!important}
 .section-sidebar a{display:block;padding:10px 16px;color:#20557a;text-decoration:none;font-size:.91rem;line-height:1.35}
 .section-sidebar a:hover,.section-sidebar a[aria-current="page"]{background:#edf5fc;color:#123f69;font-weight:700}
 @media(max-width:900px){.section-sidebar{display:flex;flex-wrap:wrap;gap:5px;padding:12px;background:#fff;margin:12px;border:1px solid #dbe3ec}.section-sidebar strong{width:100%;border:0}.section-sidebar a{padding:8px 10px}}
+
+/* Interview-first navigation; supporting material sits in Miscellaneous. */
+.nav-interview-domain{--nav-w:118px}
+.nav-misc{--nav-w:112px;grid-template-columns:1fr}
+.nav-misc>.navlabel{font-family:inherit}
+.nav-misc>.dropmenu{width:220px}
+@media(max-width:1400px){.nav-interview-domain,.nav-misc{--nav-w:auto}.nav-misc>.dropmenu{width:100%}}
