@@ -464,7 +464,7 @@
 
   document.querySelectorAll('.navitem > .navlabel').forEach(label => {
     label.addEventListener('click', event => {
-      if (window.innerWidth > 1500) return;
+      if (window.innerWidth > 1400) return;
       const item = label.closest('.navitem');
       const menu = item?.querySelector(':scope > .dropmenu');
       if (!item || !menu || item.classList.contains('is-open')) return;
@@ -484,6 +484,6 @@
   });
 
   window.addEventListener('resize', () => {
-    if (window.innerWidth > 1500) closeMobileNav();
+    if (window.innerWidth > 1400) closeMobileNav();
   });
 })();
