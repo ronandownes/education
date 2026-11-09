@@ -18,63 +18,59 @@
       <span class="mobile-nav-icon" aria-hidden="true"></span>
     </button>
     <nav class="topnav" id="mainNav" aria-label="Main navigation">
-      <div class="navitem nav-stories">
+      <div class="navitem nav-stories nav-menu-only">
         <a class="navlabel" href="{{ '/stories.html' | relative_url }}"><span>Stories</span></a>
       </div>
-
-      <div class="navitem"><a class="navlabel" href="{{ '/classroom-management/' | relative_url }}"><span>Classroom Management</span></a></div>
-
-      <div class="navitem nav-interview">
-        <a class="navlabel" href="{{ '/interview.html' | relative_url }}"><span>Interview</span></a>
+      <div class="navitem nav-interview-domain nav-domain-1">
+        <a class="navlabel" href="{{ '/teaching-pedagogy.html' | relative_url }}"><span>Teaching &amp; Learning</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Teaching and Learning questions">▾</button>
+        <div class="dropmenu"></div>
       </div>
-      <div class="navitem nav-subjects">
-        <a class="navlabel" href="{{ '/subjects.html' | relative_url }}"><span>Subjects</span></a>
+      <div class="navitem nav-interview-domain nav-domain-2">
+        <a class="navlabel" href="{{ '/classroom-relationships.html' | relative_url }}"><span>Classroom Management</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Classroom Management questions">▾</button>
+        <div class="dropmenu"></div>
       </div>
-
-      <div class="navitem nav-resources nav-right">
-        <a class="navlabel" href="{{ '/resources.html' | relative_url }}"><span>Resources</span></a>
+      <div class="navitem nav-interview-domain nav-domain-3">
+        <a class="navlabel" href="{{ '/inclusion-support.html' | relative_url }}"><span>Inclusion &amp; SEN/AEN</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Inclusion and SEN/AEN questions">▾</button>
+        <div class="dropmenu"></div>
       </div>
-
-
-      <div class="navitem nav-classes">
-        <a class="navlabel" href="{{ '/teaching/class-profiles.html' | relative_url }}"><span>Classes</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Classes menu">▾</button>
+      <div class="navitem nav-interview-domain nav-domain-4">
+        <a class="navlabel" href="{{ '/differentiation-accessibility.html' | relative_url }}"><span>Differentiation</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Differentiation questions">▾</button>
+        <div class="dropmenu"></div>
+      </div>
+      <div class="navitem nav-interview-domain nav-domain-5">
+        <a class="navlabel" href="{{ '/assessment-curriculum.html' | relative_url }}"><span>Assessment &amp; Feedback</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Assessment and Feedback questions">▾</button>
+        <div class="dropmenu"></div>
+      </div>
+      <div class="navitem nav-interview-domain nav-domain-6">
+        <a class="navlabel" href="{{ '/planning-curriculum.html' | relative_url }}"><span>Planning &amp; Curriculum</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Planning and Curriculum questions">▾</button>
+        <div class="dropmenu"></div>
+      </div>
+      <div class="navitem nav-interview-domain nav-domain-7">
+        <a class="navlabel" href="{{ '/collaboration-leadership.html' | relative_url }}"><span>Relationships &amp; Collaboration</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Relationships and Collaboration questions">▾</button>
+        <div class="dropmenu"></div>
+      </div>
+      <div class="navitem nav-interview-domain nav-domain-8">
+        <a class="navlabel" href="{{ '/ethos-professionalism.html' | relative_url }}"><span>Professionalism &amp; Ethos</span></a>
+        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Professionalism and Ethos questions">▾</button>
+        <div class="dropmenu"></div>
+      </div>
+      <div class="navitem nav-misc nav-right">
+        <button class="navlabel" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Miscellaneous menu"><span>Miscellaneous</span></button>
         <div class="dropmenu">
-          <a data-menu-page href="{{ '/teaching/class-profiles/first-year-mixed.html' | relative_url }}">Maths — First Year Mixed</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/second-year-ordinary.html' | relative_url }}">Maths — Second Year Ordinary</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/second-year-higher.html' | relative_url }}">Maths — Second Year Higher</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/third-year-ordinary.html' | relative_url }}">Maths — Third Year Ordinary</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/third-year-higher.html' | relative_url }}">Maths — Third Year Higher</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/ty-mixed.html' | relative_url }}">Maths — TY Mixed Ability</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/fifth-year-maths.html' | relative_url }}">Maths — Fifth Year</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/sixth-year-maths.html' | relative_url }}">Maths — Sixth Year</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/fifth-year-lca.html' | relative_url }}">LCA Maths — Fifth Year</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/sixth-year-lca.html' | relative_url }}">LCA Maths — Sixth Year</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/first-year-support.html' | relative_url }}">Learning Support — First Year</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/second-year-support.html' | relative_url }}">Learning Support — Second Year</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/third-year-support.html' | relative_url }}">Learning Support — Third Year</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/ty-support.html' | relative_url }}">Learning Support — TY</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/fifth-year-support.html' | relative_url }}">Learning Support — Fifth Year</a>
-          <a data-menu-page href="{{ '/teaching/class-profiles/sixth-year-support.html' | relative_url }}">Learning Support — Sixth Year</a>
+          <a href="{{ '/subjects.html' | relative_url }}">Subjects</a>
+          <a href="{{ '/resources.html' | relative_url }}">Resources</a>
+          <a href="{{ '/content/profiles.html' | relative_url }}">Profiles</a>
+          <a href="{{ '/teaching/class-profiles.html' | relative_url }}">Class Profiles</a>
+          <a href="{{ '/planning/schemes-of-work.html' | relative_url }}">Plans</a>
         </div>
       </div>
-
-
-      <div class="navitem nav-plans">
-        <a class="navlabel" href="{{ '/planning/schemes-of-work.html' | relative_url }}"><span>Plans</span></a>
-        <button class="navtoggle" type="button" data-nav-toggle aria-expanded="false" aria-label="Open Plans menu">▾</button>
-        <div class="dropmenu">
-          <a data-menu-page href="{{ '/planning/schemes-of-work.html' | relative_url }}">Plans — overview</a>
-          <a data-menu-page href="{{ '/specification/jc-mathematics.html' | relative_url }}">Junior Cycle Mathematics Specification</a>
-          <a data-menu-page href="{{ '/planning/schemes/first-year-maths.html' | relative_url }}">First Year Mathematics</a>
-          <a data-menu-page href="{{ '/planning/schemes/second-year-maths.html' | relative_url }}">Second Year Mathematics — OL / HL</a>
-          <a data-menu-page href="{{ '/planning/schemes/third-year-maths.html' | relative_url }}">Third Year Mathematics — OL / HL</a>
-          <a data-menu-page href="{{ '/planning/schemes/transition-year-maths.html' | relative_url }}">Transition Year Mathematics</a>
-          <a data-menu-page href="{{ '/planning/schemes/leaving-cert-ordinary.html' | relative_url }}">Leaving Certificate Mathematics — Ordinary</a>
-          <a data-menu-page href="{{ '/planning/schemes/leaving-cert-higher.html' | relative_url }}">Leaving Certificate Mathematics — Higher</a>
-        </div>
-      </div>
-
     </nav>
   </header>
 
