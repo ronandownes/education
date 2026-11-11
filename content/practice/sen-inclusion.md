@@ -14,9 +14,69 @@ eyebrow: UNDERSTAND • SUPPORT • REVIEW   Start Structure release
 |  |  |  |
 
 
-I approach this through **Understand, Support and Review**. I start with the **learner, not the label**, and identify the barrier and the intended learning. I then match the intervention to the barrier — for example, **visual supports, tactile or concrete materials, clearer chunking, additional processing time, or a calm and predictable classroom environment**. I keep the intended learning and level of challenge in view, and review whether the support is improving access, participation and ultimately independence.
+**My interventions are needs-led rather than diagnosis-led.** I approach this through **Understand, Support and Review**. I start with the **learner, not the label**, and identify the barrier and the intended learning. I then match the intervention to the barrier — for example, **visual supports, tactile or concrete materials, clearer chunking, additional processing time, or a calm and predictable classroom environment**. I keep the intended learning and level of challenge in view, and review whether the support is improving access, participation and ultimately independence.
 
 
+
+## Autism support | How do you support autistic students with different needs?
+
+**My interventions are needs-led rather than diagnosis-led.** I do not assume that every autistic student needs the same provision. I begin with the learner's strengths, interests and perspective; their Student Support File and agreed supports; observations of what helps and what creates barriers; and consultation with the student, the SEN/AEN team and parents or guardians where appropriate. I maintain high expectations and review the effect of any intervention.
+
+### Three questions: Regulation · Accessibility · Challenge
+
+| Regulation | Accessibility | Challenge |
+| --- | --- | --- |
+| **Can the student engage safely and comfortably?** | **Can the student access, participate in and demonstrate the learning?** | **Is the learning appropriately demanding?** |
+| Consider anxiety, sensory load, transitions, overload and agreed regulation supports. | Consider communication, task initiation, executive functioning, clear instructions, representation and response options. | Match mathematical demand to the student's knowledge and potential: reasoning, connections, generalisation and proof. |
+
+**Ask all three questions for each learner.** They are three *independent dimensions*, not three categories of autistic students. A highly achieving student may still have substantial sensory, communication or regulation needs. A student experiencing distress may be capable of sophisticated mathematical thinking when barriers are removed. Being quiet or compliant does not necessarily mean a student is coping.
+
+### Match the intervention to the barrier
+
+| Barrier I identify | Possible responsive action in my Mathematics classroom |
+| --- | --- |
+| **Emotional regulation** — anxiety, frustration, overload, shutdown or meltdown | Recognise early signs, stay calm, reduce demands and language during distress, offer the *agreed* break or regulation strategy, follow the student's support plan and school safety procedures, and re-engage when ready. |
+| **Sensory differences** — noise, light, movement, proximity | Reduce avoidable sensory and visual clutter, review seating and activity demands, and use agreed sensory adjustments. |
+| **Transitions and uncertainty** | Use a predictable lesson sequence, make changes explicit, give advance notice where possible and explain what happens next. |
+| **Communication differences** — literal interpretation or lengthy instructions | Use concise, direct language; support it with mathematical notation, visuals and worked examples; allow processing time; check understanding discreetly. |
+| **Executive-function barriers** — starting, sequencing, organising or changing tasks | Make the first step visible, chunk the problem, use a checklist or prompt, check in discreetly and gradually fade support when appropriate. |
+| **Social interaction and group work** | Structure roles and collaboration; establish respectful classroom norms; offer an appropriate way to contribute without unnecessary public pressure. |
+| **High mathematical attainment** | Give depth rather than repetitive extra work: justification, pattern-finding, generalisation, connections, unfamiliar problems and proof. Continue other supports if needed. |
+
+### Two contrasting presentations — and why they can overlap
+
+**Significant regulation needs.** I aim to make learning safe, predictable and accessible. I identify possible triggers with the learner and SEN team; establish routines; minimise avoidable sensory demands; and use calm, agreed strategies. During distress I prioritise safety and co-regulation over repeated public instructions or confrontation. I return to learning sensitively afterwards.
+
+**High attainment or high mathematical potential.** I don't equate autism with low academic expectations. I use appropriately demanding tasks that develop reasoning and conceptual depth, while recognising that the same student may need support with organisation, transitions, communication or regulation.
+
+**Mathematics example:** After securely expanding binomials, rather than assigning more routine exercises, I could ask a student to derive and explain
+
+\[
+(x+a)(x+b)=x^2+(a+b)x+ab
+\]
+
+and to investigate how the middle coefficient changes when \(a\) and \(b\) are positive, negative or equal. **Extend through complexity and insight, not merely quantity.**
+
+### Spoken interview answer
+
+I would start by saying that **my interventions are needs-led rather than diagnosis-led**. Autism is a spectrum, and I don't assume that two autistic students will experience the same barriers. I would learn about the student's individual strengths and needs through the Student Support File, student voice, classroom observation and collaboration with the SEN team.
+
+I organise my response around three questions: **Regulation, Accessibility and Challenge**. Can the student engage comfortably? Can they access the task and show their learning? And is the work sufficiently challenging? If regulation is difficult, I focus on predictability, sensory considerations and agreed calming strategies. If communication or executive functioning creates a barrier, I use clear instructions, visual supports, structured tasks, processing time and discreet check-ins.
+
+Some autistic students are exceptionally able in Mathematics. I would extend them through deeper problems, mathematical reasoning and proof, while remembering that high attainment does not cancel other support needs. I review whether my approach improves engagement, learning, wellbeing and independence. **I aim to remove barriers, not lower expectations.**
+
+### Quick recall
+
+| Identify | Respond | Evaluate |
+| --- | --- | --- |
+| **Individual strengths and barriers** | **Regulation · Accessibility · Challenge** | **Engagement · Learning · Independence** |
+| Student voice, Student Support File, observation, SEN-team input | Agreed supports, accessible teaching, appropriate mathematical depth | Check impact and adjust; don't assume a diagnosis predicts need |
+
+**One-line retrieval:** *Needs-led, not diagnosis-led. Regulation, Accessibility, Challenge. Remove barriers without lowering expectations.*
+
+**Professional reference:** [Department of Education — Autism Good Practice Guidance for Schools](https://www.gov.ie/en/department-of-education/publications/autism-good-practice-guidance-for-schools-supporting-children-and-young-people/). Use the guidance alongside the individual learner's agreed support plan and the school's procedures.
+
+---
 
 ## STAR AEN — Scaffold to independence
 
