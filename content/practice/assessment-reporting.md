@@ -22,6 +22,8 @@ My own Mathematics apps and GeoGebra activities can offer immediate feedback, an
 
 I set **homework with optional, graduated scaffolding**. Students choose how much support they use: they can work through questions independently and check only their final answers, or reveal a fully worked, step-by-step solution when they need it. This promotes **student agency, self-assessment and metacognition**. I still check their later explanations or unaided work to distinguish genuine understanding from following a model.
 
+By examining students’ **intermediate steps**, I can pinpoint where their reasoning breaks down, give **specific, actionable feedback**, adjust my explanations or scaffolding and **reassess** whether their understanding has improved.
+
 I use what I learn to **adjust the next teaching step**: revisit a prerequisite, change the representation, scaffold practice or extend challenge. Then I **check again** to see whether understanding has improved.
 
 &nbsp;
