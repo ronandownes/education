@@ -170,10 +170,34 @@
     </article>
   </main>
   <div id="floating-page-tools" aria-label="Page tools">
+    <button id="floating-page-tools-toggle" type="button" aria-expanded="false" aria-label="Show page tools" title="Show page tools">Tools</button>
     <a id="floating-page-cms" href="https://github.dev/ronandownes/education/blob/main/{{ page.path }}" target="_blank" rel="noopener" title="Open in VS Code for the web">Code</a>
     <a id="floating-page-github" href="https://github.com/ronandownes/education/edit/main/{{ page.path }}" target="_blank" rel="noopener">GitHub</a>
     <button id="floating-page-print" type="button" onclick="window.print()">Print</button>
   </div>
+  <script>
+    (() => {
+      const panel = document.getElementById('floating-page-tools');
+      const toggle = document.getElementById('floating-page-tools-toggle');
+      if (!panel || !toggle) return;
+      const setExpanded = expanded => {
+        panel.classList.toggle('is-expanded', expanded);
+        toggle.setAttribute('aria-expanded', String(expanded));
+        toggle.setAttribute('aria-label', expanded ? 'Hide page tools' : 'Show page tools');
+        toggle.title = expanded ? 'Hide page tools' : 'Show page tools';
+      };
+      toggle.addEventListener('click', () => setExpanded(!panel.classList.contains('is-expanded')));
+      document.addEventListener('pointerdown', event => {
+        if (!panel.contains(event.target)) setExpanded(false);
+      });
+      document.addEventListener('keydown', event => {
+        if (event.key === 'Escape' && panel.classList.contains('is-expanded')) {
+          setExpanded(false);
+          toggle.focus();
+        }
+      });
+    })();
+  </script>
   <script src="{{ '/assets/navigation.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
   <script src="{{ '/assets/cm-audio.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
   <script>
