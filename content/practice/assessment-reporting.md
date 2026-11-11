@@ -7,6 +7,29 @@ eyebrow: CHECK • INTERPRET • RESPOND
 
 
 
+## Interview rehearsal | How do you use assessment to support learning?
+
+**Spoken answer — from today's rehearsal**
+
+I continually assess learning through **observation, questioning and quick checks**. I observe students working independently and together, listen to them explaining their mathematical thinking to me and to one another, and use short quizzes and tests as further evidence. I look at the patterns in their answers and working, identify misconceptions and use that information to **adjust my teaching in the moment** and plan the next step. Where appropriate, I use assessment records in the school's secure system to monitor progress over time.
+
+**One-sentence answer to practise aloud:** I use ongoing **Assessment for Learning** — **observation, questioning and quick checks**, including quizzes — to adjust teaching in the moment.
+
+| Observe | Question | Check | Respond |
+| --- | --- | --- | --- |
+| **Students' work** | **Their mathematical thinking** | **Short quizzes and tests** | **Adjust teaching** |
+| Independent and paired tasks | Explanations to teacher and peers | Look for patterns and misconceptions | Re-teach, scaffold or extend; check again |
+
+**Three-word retrieval:** **Observation · Questioning · Quick checks.**
+
+**Repeat aloud three times:** “I use observation, questioning and quick checks to adjust teaching in the moment.”
+
+**Distinguish the terms:** *Assessment for Learning* uses evidence to adapt teaching and learning. *Assessment of Learning* summarises attainment, typically through tests. *Assessment as Learning* particularly involves students monitoring and reflecting on their own learning. A quiz or test is not automatically “assessment as learning” merely because its score is recorded in a secure system.
+
+**Interview follow-up:** *What do you actually do with the evidence?* — I identify a misconception or gap, change the explanation, representation, pace, support or challenge, and check again whether the student understands.
+
+---
+
 ## General approach | How do you assess student learning in Mathematics?
 
 | Gather evidence | Look beyond computation | Respond |
