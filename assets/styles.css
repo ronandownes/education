@@ -386,3 +386,32 @@ body:has(#sl-bank) .doc-paper{box-shadow:none!important}
 .nav-misc>.navlabel{font-family:inherit}
 .nav-misc>.dropmenu{width:220px}
 @media(max-width:1400px){.nav-interview-domain,.nav-misc{--nav-w:auto}.nav-misc>.dropmenu{width:100%}}
+
+
+/* Keep page tools available without covering reading and practice content. */
+#floating-page-tools{
+  right:8px;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-end;
+  gap:8px;
+}
+#floating-page-tools:not(.is-expanded) > :not(#floating-page-tools-toggle){
+  display:none!important;
+}
+#floating-page-tools-toggle{
+  order:1000;
+  width:54px;
+  min-height:42px;
+  padding:8px 9px;
+  border-radius:9px 0 0 9px!important;
+  font-size:13px!important;
+  background:#fff!important;
+}
+#floating-page-tools.is-expanded{right:16px}
+#floating-page-tools.is-expanded #floating-page-tools-toggle{border-radius:9px!important}
+@media(max-width:760px){
+  #floating-page-tools{top:auto;right:6px;bottom:12px;transform:none}
+  #floating-page-tools.is-expanded{right:12px}
+}
+@media print{#floating-page-tools{display:none!important}}
