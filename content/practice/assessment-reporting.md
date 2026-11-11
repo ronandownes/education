@@ -20,6 +20,8 @@ I treat **mathematical vocabulary and mathematical processes as learning outcome
 
 My own Mathematics apps and GeoGebra activities can offer immediate feedback, and I am developing ways to collect individual question-level evidence. With school approval and appropriate data protection, I could examine attainment alongside indicators such as CAT4 profiles to investigate unexpected gaps—not to prescribe a learning style or treat CAT4 as a fixed prediction.
 
+I set **homework with optional, graduated scaffolding**. Students choose how much support they use: they can work through questions independently and check only their final answers, or reveal a fully worked, step-by-step solution when they need it. This promotes **student agency, self-assessment and metacognition**. I still check their later explanations or unaided work to distinguish genuine understanding from following a model.
+
 I use what I learn to **adjust the next teaching step**: revisit a prerequisite, change the representation, scaffold practice or extend challenge. Then I **check again** to see whether understanding has improved.
 
 &nbsp;
