@@ -7,16 +7,22 @@ eyebrow: CHECK • INTERPRET • RESPOND
 
 
 
-## General approach | How do you assess learning in your classroom?
+## General approach | How do you assess student learning in Mathematics?
 
-| Check | Interpret | Respond |
-| ---------------- | ----------------- | ------------ |
-| **Questioning** | **Understanding** | **Move on** |
-| **Student work** | **Misconception** | **Re-teach** |
+| Gather evidence | Look beyond computation | Respond |
+| --- | --- | --- |
+| **Questions, worked steps, exit tickets** | **Reasoning and misconceptions** | **Re-teach or extend** |
+| **Student explanations and digital tasks** | **Receptive and productive vocabulary** | **Feedback, revisit, check again** |
 
-I approach this through **Check, Interpret and Respond**. I use assessment to **make learning visible and decide what happens next**. I check learning through questioning, observation, student work and short assessments; interpret the evidence for understanding, misconceptions and progress; then respond by moving on, re-teaching, adapting support or increasing challenge.
+I assess mathematical learning continuously rather than relying only on topic tests. I check prior knowledge and observe both independent and collaborative work, but I also gather **individual evidence** through mini-whiteboards, hinge questions, brief quizzes, exit tickets and students' written working. I want to know *why* an answer is correct or incorrect, not simply whether the calculation is right.
 
+I treat **mathematical vocabulary and mathematical processes as learning outcomes**. For receptive vocabulary I check whether a student understands words and instructions in the problem; for productive vocabulary I invite the student to explain in everyday language before using increasingly precise mathematical terminology. I also assess how students interpret, represent, reason, select methods and justify conclusions. Computation is essential, but it is only one part of Mathematics, particularly when examination questions require interpretation and problem-solving.
 
+My own Mathematics apps and GeoGebra activities can offer immediate feedback, and I am developing ways to collect individual question-level evidence. With school approval and appropriate data protection, I could examine attainment alongside indicators such as CAT4 profiles to investigate unexpected gaps—not to prescribe a learning style or treat CAT4 as a fixed prediction.
+
+I use what I learn to **adjust the next teaching step**: revisit a prerequisite, change the representation, scaffold practice or extend challenge. Then I **check again** to see whether understanding has improved.
+
+&nbsp;
 
 ## STAR AFR — Formative assessment changed the lesson
 
