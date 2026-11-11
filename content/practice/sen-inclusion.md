@@ -4,6 +4,26 @@ permalink: /sen-inclusion.html
 title: SEN / AEN & Inclusion
 eyebrow: UNDERSTAND • SUPPORT • REVIEW   Start Structure release
 ---
+## Interview rehearsal | Tell us about a time you supported a student with attention and task-completion barriers.
+
+**Core principle: Focus on needs, not labels.** A diagnosis can be relevant context, but the intervention should respond to the learner's observed barriers. Keep the student anonymous in interview examples and on this site.
+
+**Spoken STAR/R answer (refine to match your evidence):** In a mainstream Mathematics class I taught a student whose principal difficulty was sustaining attention, getting started and completing work. I noticed a pattern of behaviour notes and declining attainment, and considered the information available to me, including the student's identified needs. **My task was to reduce the barriers to attention and task completion without lowering the mathematical expectations.** I seated the student towards the front, near an aisle, so I could give frequent, discreet check-ins. I used brief verbal and non-verbal prompts, including a quiet signal at the start of a task. I made the learning intentions and success criteria clear, presented accessible worked examples, chunked tasks into manageable steps and used a carefully chosen, cooperative learning partner. **The change I observed was that the student stayed on task longer and completed classwork more often.** My reflection is that consistent, unobtrusive support and good Mathematics teaching can improve participation while protecting the student's dignity and independence.
+
+| Situation | Task | Action | Result | Reflection |
+| --- | --- | --- | --- | --- |
+| Attention, task initiation and completion were barriers | **Reduce barriers; maintain expectations** | **Discreet seating and check-ins; non-verbal prompts; clear intentions and criteria; chunked tasks; supportive partner** | **Longer on task; more regular classwork completion** | **Needs-led support, discreetly delivered; review and gradually reduce prompts** |
+
+**Action rehearsal — repeat three times:** “I clarified learning intentions and success criteria. I chunked tasks. I used a carefully chosen partner.”
+
+**Result rehearsal — repeat three times:** “He stayed on task longer and completed classwork more often.”
+
+**Retrieval cue:** **Needs, not labels → seating → discreet prompts → clear learning → chunking → partner → on-task completion.**
+
+**Evidence check before interview:** Be ready to describe how you knew the student's engagement and completion improved. Distinguish your own observations from formal attendance, attainment or behaviour records, and do not overstate causation.
+
+---
+
 ## General approach | What is your general approach to AEN and inclusion?
 
 
